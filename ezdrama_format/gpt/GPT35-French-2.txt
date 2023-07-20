@@ -1,0 +1,234 @@
+
+##ACTE I
+
+(Une salle richement décorée dans un château. Il y a une petite table au centre avec des verres de vin et des fruits disposés dessus. Au fond de la scène, une porte grande et majestueuse.)
+
+(Les PIERREVAL, un couple de la haute société, est assis près de la table. MONSIEUR PIERREVAL, un homme d'âge moyen, est élégamment vêtu, tandis que MADAME PIERREVAL est une femme gracieuse aux manières raffinées.)
+
+@MADAME PIERREVAL:
+Cher ami, pourquoi êtes-vous aussi soucieux en ce moment ? Vous devriez vous réjouir de ce magnifique banquet que nous offrons à nos invités.
+
+@MONSIEUR PIERREVAL:
+Ma chère amie, je suis préoccupé par cette affaire commerciale. Les temps sont difficiles, et nous risquons de perdre tout ce que nous avons construit.
+(Il se lève de sa chaise et marche nerveusement de long en large.)
+
+@MADAME PIERREVAL:
+Mon cher, vous vous en faites trop. Faites confiance à notre perspicacité et à votre savoir-faire en affaires. Vous avez toujours su trouver des solutions même dans les moments les plus éprouvants.
+
+@MONSIEUR PIERREVAL:
+(Il s'assoit à nouveau et prend une gorgée de vin.)
+Vous avez raison, ma chère. Mais j'ai entendu dire qu'un certain vicomte, LE VICOMTE DE VALMONT, est arrivé en ville et intrigue parmi les cercles sociaux. On dit qu'il est virtuose dans les affaires et je crains que notre position ne soit menacée.
+
+@MADAME PIERREVAL:
+(Un peu surprise)
+Oh, LE VICOMTE DE VALMONT ? Oui, j'ai entendu parler de lui. Apparemment, il est un homme d'une grande intelligence et d'une grande ambition. Mais cela ne signifie pas nécessairement que notre position soit immédiatement compromise.
+
+@MONSIEUR PIERREVAL:
+(Marchant une fois de plus, anxieux)
+Ah, ma chère, vous ne comprenez pas. L'arrivée d'un homme aussi influent pourrait changer le cours des choses. Je crains que nos rivaux ne voient cette opportunité pour nous affaiblir davantage.
+
+@MADAME PIERREVAL:
+(Venant se tenir près de MONSIEUR PIERREVAL)
+Mon cher, vous êtes le capitaine de notre navire, et je suis pleinement dévouée à votre cause. Nous devons rester inébranlables et prêts à défendre nos intérêts.
+
+(Soudain, une escorte de serviteurs entre par la porte de derrière, annonçant avec enthousiasme.)
+
+@PREMIER SERVITEUR:
+(Enthousiaste)
+Monsieur et Madame, les invités commencent à arriver ! La soirée promet d'être mémorable !
+
+@MONSIEUR PIERREVAL:
+(Se remettant de sa préoccupation)
+Bien,
+##ACTE II
+
+(Une grande salle de bal richement décorée. Des invités vêtus de tenues somptueuses dansent gracieusement au son d'une musique entraînante.)
+
+(ENTRE LADY EUGÉNIE, une jeune femme noble et attirante, accompagnée de son frère LE COMTE D'ARTAGNAN, un homme séduisant et charismatique.)
+
+@LADY EUGÉNIE:
+(Fascinée par l'ambiance)
+Oh, quelle soirée somptueuse, mon cher frère ! Je n'aurais jamais imaginé assister à un bal aussi grandiose. Les PIERREVAL savent vraiment comment recevoir.
+
+@LE COMTE D'ARTAGNAN:
+(Regardant autour de lui)
+C'est vrai, ma chère Eugénie. Ces PIERREVAL ont vraiment le sens du raffinement et de l'élégance. Regardez comme tout ici respire la grandeur et l'opulence.
+
+(LE VICOMTE DE VALMONT, un homme séduisant et mystérieux, apparait dans la salle. Son charisme naturel attire l'attention de tous.)
+
+@LE VICOMTE DE VALMONT:
+(Se dirigeant vers LADY EUGÉNIE et LE COMTE D'ARTAGNAN)
+Lady Eugénie, Comte d'Artagnan, quel plaisir de vous voir ici ce soir. Votre présence illumine cet endroit déjà magnifique.
+
+@LADY EUGÉNIE:
+(Timide)
+Vicomte de Valmont, nous sommes enchantés d'être ici. Votre réputation n'est pas surfaite, vos talents d'orateur et votre présence charismatique attirent les foules.
+
+@LE COMTE D'ARTAGNAN:
+(Jovial)
+En effet, cher Vicomte, on dit que vous êtes un expert dans les affaires commerciales. Je suis curieux de savoir comment vous avez conquis un tel prestigieux statut.
+
+@LE VICOMTE DE VALMONT:
+(Avec un sourire énigmatique)
+Mon cher Comte, les affaires sont un jeu subtil. Il faut savoir jouer ses cartes avec précision et intelligence. Mais cela nécessite également une bonne dose de chance.
+
+(Un SERVITEUR s'approche discrètement de LE VICOMTE DE VALMONT et lui murmure quelque chose à l'oreille.)
+
+@LE VICOMTE DE VALMONT:
+(Léger froncement de sourcils)
+Merci pour cette information. Veuillez transmettre mes salutations à votre maître.
+
+(LADY EUGÉNIE et LE COMTE D'ARTAGNAN, intrigué, observent la scène.)
+
+@LADY EUGÉNIE:
+(Murmurant)
+Que se passe-t-il donc, cher frère ? Il semble que quelque chose trouble LE VICOMTE DE VALMONT.
+
+@LE COMTE D'ARTAGNAN:
+(Baissant la voix)
+Je ne sais pas, chère Eugénie, mais le mystère qui entoure cet homme ne cesse de grandir. J'espère que cela ne portera pas préjud
+##ACTE III
+
+(Une study richement décorée dans le château des PIERREVAL. Des livres anciens sont disposés sur les étagères et une grande table est au centre de la pièce, avec des documents éparpillés.)
+
+(ENTRE MONSIEUR PIERREVAL, nerveux et préoccupé. Soudain, LE VICOMTE DE VALMONT entre d'un air confiant.)
+
+@MONSIEUR PIERREVAL:
+(Se levant de sa chaise)
+Vicomte de Valmont, que faites-vous ici ? Je pensais que vous étiez en affaires en dehors de la ville.
+
+@LE VICOMTE DE VALMONT:
+(Avec un sourire satisfait)
+Cher Monsieur Pierreval, les affaires sont une chose capricieuse. Il est parfois nécessaire de se rendre où le vent souffle et les opportunités s'ouvrent.
+
+@MONSIEUR PIERREVAL:
+(D'une voix tendue)
+Je suis conscient de votre talent dans les affaires, mais vous devez comprendre que cela ne nous laisse guère de place pour prospérer. Notre entreprise est en difficulté et nous risquons de perdre tout ce que nous avons travaillé si dur pour obtenir.
+
+@LE VICOMTE DE VALMONT:
+(Jetant un regard narquois)
+Oh, Monsieur Pierreval, vous êtes certainement un homme compétent. Mais la compétence seule ne suffit pas toujours. Il faut également saisir les occasions qui se présentent.
+
+@MONSIEUR PIERREVAL:
+(De plus en plus tendu)
+De quelles occasions parlez-vous ? Nous n'avons rien à vous offrir, Vicomte de Valmont. Toutes nos ressources sont épuisées. Nous sommes désespérés.
+
+@LE VICOMTE DE VALMONT:
+(S'approchant de MONSIEUR PIERREVAL)
+Cher Monsieur, je suis ici pour vous offrir une solution à votre problème. J'ai récemment entendu parler d'une opportunité qui pourrait sauver votre entreprise. Mais elle n'est pas sans risques.
+
+(LE VICOMTE DE VALMONT sort un document de sa poche et le pose sur la table.)
+
+@MONSIEUR PIERREVAL:
+(Regardant le document avec suspicion)
+Qu'est-ce donc ? Une proposition ? Vous devez comprendre que nous ne pouvons pas nous permettre de prendre des risques inconsidérés.
+
+@LE VICOMTE DE VALMONT:
+(Avec un sourire machiavélique)
+Monsieur Pierreval, les grands succès ne sont jamais atteints sans la volonté de prendre des risques. Ce que je vous propose pourrait changer l'avenir de votre entreprise. Il suffit de signer ce contrat, et tout ira pour le mieux.
+
+@MONSIEUR PIERREVAL:
+(Pris entre l'espoir et la méfiance)
+Je ne sais pas, Vicomte de Valmont. Tout cela me semble trop beau pour être vrai. Comment puis-je savoir si je peux vous faire confiance ?
+
+@LE VICOMTE DE VALMONT:
+(Riant légèrement)
+Mon cher, le risque fait partie intégrante des affaires. Mais
+##ACTE IV
+
+(Une salle de réception magnifiquement décorée avec des chandeliers et des guirlandes. Les invités se mêlent et discutent animés. La musique retentit doucement à l'arrière-plan.)
+
+(MONSIEUR PIERREVAL et MADAME PIERREVAL, vêtus de leurs plus beaux costumes, se tiennent au centre de la salle, saluant gracieusement les invités.)
+
+@MADAME PIERREVAL:
+(Qui se penche vers MONSIEUR PIERREVAL)
+Mon cher, la soirée est un succès ! Vous avez pris toute la responsabilité de cette entreprise et cela se reflète dans cette réception somptueuse.
+
+@MONSIEUR PIERREVAL:
+(Souriant fièrement)
+Merci, ma chère. Cela n'a pas été facile, mais le sacrifice en valait la peine. Regardez comme tout le monde est heureux et enchanté. Notre réputation est restaurée et notre entreprise se redresse enfin.
+
+(Soudain, LE COMTE D'ARTAGNAN s'approche d'eux, l'air préoccupé.)
+
+@LE COMTE D'ARTAGNAN:
+(Murmurant)
+Monsieur et Madame Pierreval, vous devez savoir que LE VICOMTE DE VALMONT n'est pas l'homme qu'il prétend être.
+
+@MONSIEUR PIERREVAL:
+(Inquiet)
+Que voulez-vous dire, Comte d'Artagnan ? De quoi parlez-vous ?
+
+@LE COMTE D'ARTAGNAN:
+(Il regarde autour de lui pour s'assurer qu'ils ne sont pas entendus)
+Le vicomte a manipulé les cartes en sa faveur. Les contrats qu'il vous a fait signer étaient conçus pour enrichir encore plus sa propre entreprise. Votre confiance a été utilisée contre vous.
+
+(MONSIEUR et MADAME PIERREVAL, sous le choc, se regardent mutuellement.)
+
+@MADAME PIERREVAL:
+(Voix tremblante)
+Mais comment avons-nous pu être si aveugles ? Comment avons-nous pu nous laisser manipuler de la sorte ?
+
+@LE COMTE D'ARTAGNAN:
+(S'excusant)
+Je suis navré de vous l'apprendre de cette manière, Monsieur et Madame Pierreval. Mais il est essentiel que vous sachiez la vérité afin de vous défendre.
+
+(LE VICOMTE DE VALMONT, confiant, s'approche des PIERREVAL, ignorant la conversation précédente.)
+
+@LE VICOMTE DE VALMONT:
+(Souriant)
+Ah, Monsieur et Madame Pierreval, je vois que vous appréciez votre succès ce soir. Je suis vraiment ravi pour vous.
+
+@MONSIEUR PIERREVAL:
+(Les mots s'échappent difficilement de sa bouche)
+Vicomte de Valmont, comment pouvez-vous être si cruel ? Nous vous avons fait confiance, nous vous avons ouvert nos portes. Comment avez-vous pu nous trahir de la sorte ?
+
+@LE VICOMTE DE VALMONT:
+(Ricanant)
+Mon cher Monsieur Pierreval, la loyauté
+##ACTE V
+
+(Une salle sobrement meublée dans le château des PIERREVAL, peu de temps après les événements précédents. MONSIEUR PIERREVAL, MADAME PIERREVAL et LE COMTE D'ARTAGNAN sont présents.)
+
+@MONSIEUR PIERREVAL:
+(Visiblement abattu)
+Comment ai-je pu être si naïf, si aveugle ? J'ai mis notre entreprise, notre réputation en péril par ma crédulité.
+
+@MADAME PIERREVAL:
+(Ne pouvant retenir ses larmes)
+Mon amour, nous pensions tous que le vicomte était un homme honorable. Il est difficile de juger les intentions véritables des autres.
+
+@LE COMTE D'ARTAGNAN:
+(Posant une main sur l'épaule de MONSIEUR PIERREVAL)
+Ne vous en voulez pas, cher Ami. Le vicomte était un expert de la tromperie, il a su jouer de ses charmes et de sa réputation pour manipuler ceux qui lui faisaient confiance.
+
+@MONSIEUR PIERREVAL:
+(Morne)
+Pourtant, nous ne pouvons pas rester les bras croisés et laisser ce traitre impuni. Il doit répondre de ses actes.
+
+@LE COMTE D'ARTAGNAN:
+(Déterminé)
+Vous avez raison, Monsieur Pierreval. Nous devons nous battre pour rétablir notre réputation et récupérer ce qui nous a été volé.
+
+(ENTRE LADY EUGÉNIE, déterminée et en colère)
+
+@LADY EUGÉNIE:
+(Venant se joindre à la discussion)
+Père, Mère, Comte d'Artagnan, j'ai appris ce qui est arrivé. Je suis aussi affectée par la tromperie du vicomte. Il a joué avec mes sentiments et m'a promis des choses qu'il ne pouvait pas tenir.
+
+@MADAME PIERREVAL:
+(Étreignant sa fille)
+Ma chère Eugénie, ma pauvre enfant, nous partageons tous votre douleur. Mais sachez que nous ferons tout ce qui est en notre pouvoir pour réparer les torts qui nous ont été infligés.
+
+(Les PIERREVAL et LE COMTE D'ARTAGNAN se serrent les coudes dans un geste de solidarité.)
+
+@MONSIEUR PIERREVAL:
+(Relevant la tête avec détermination)
+Nous ne pouvons pas laisser cette injustice impunie. Nous devons rechercher des alliés, rassembler les preuves nécessaires pour dévoiler la véritable nature du vicomte.
+
+@LE COMTE D'ARTAGNAN:
+(Approuvant)
+Oui, nous devons unir nos forces et trouver des alliés de confiance. Ensemble, nous pourrons faire éclater la vérité et rétablir notre honneur.
+
+@LADY EUGÉNIE:
+(Déterminée)
+Je suis prête à vous aider de toutes les manières possibles, Père, Mère, Comte d'Artagnan

@@ -1,0 +1,234 @@
+(Im Wohnzimmer des Hauses. Es ist ein dunkler, düsterer Raum mit schweren, antiken Möbeln. Eine einzige Kerze brennt auf einem Tisch. Es ist Nacht.)
+
+@                DER HAUSHERR
+    (in einem strengen Ton)
+@    KARL, wo bist du? Lass mich nicht warten!
+
+@                KARL
+    (mit einem zögerlichen Ton)
+    Verzeih mir, Vater. Ich bin hier.
+
+@                DER HAUSHERR
+    (missmutig)
+    Komm näher, mein Sohn. Schau mich an!
+
+(KARL tritt zögerlich ein und steht vor seinem Vater.)
+
+@                KARL
+    (ängstlich)
+    Vater, ich bin hier wie du wolltest. Was möchtest du von mir?
+
+@                DER HAUSHERR
+    (ernst)
+    Siehst du das Zimmer um dich herum, Karl? Es spiegelt das Dunkle in mir wider. Das Dunkle, das mir jede Nacht den Schlaf raubt.
+
+@                KARL
+    (verwirrt)
+    Was meinst du, Vater? Was hast du getan?
+
+@                DER HAUSHERR
+    (verbittert)
+    Ich habe viele Fehler gemacht, Karl. Aber der schlimmste von allen war meine Sucht nach Macht und Reichtum. Ich trug das Gewand des Erfolgs, doch meine Seele verdarb dabei in Finsternis.
+
+@                KARL
+    (ängstlich)
+    Vater, was kannst du tun, um dich zu ändern? Wie kann ich dir helfen?
+
+@                DER HAUSHERR
+    (blickt in die Ferne)
+    In meinem Einsamkeit wird mir immer klarer, wie wenig diese Güter wirklich bedeuten, Karl. Ein wahres Glück lässt sich nicht in Reichtum finden. Es muss in meinen letzten Tagen eine echte Erleuchtung geben.
+
+@                KARL
+    (violett vor Grübelei)
+    Vater, ich verstehe. Eine Erleuchtung. Eine Offenbarung, mit der du das Dunkle in dir vertreiben kannst.
+
+@                DER HAUSHERR
+    (langsam nickend)
+    Ja, genau das ist es, Karl. Ich möchte, dass du das fehlende Licht für mich findest. Reise in die Ferne oder in den Spiegel meiner eigenen Vergangenheit, aber finde die Quelle des Lichts, die meine Seele reinigt. Bitte, bringe mir die Gewissheit, dass ich Frieden in meinem Herzen finden kann.
+
+@                KARL
+    (entschlossen)
+    Ich werde mein Bestes tun, Vater. Ich werde die Welt durchqueren, um dieses Licht zu finden und es zu dir zurückzubringen.
+
+@                DER HAUSHERR
+    (beruhigend)
+    Ich habe Vertrauen in dich, Karl. Meine Zeit hier auf Erden ist begrenzt, also beeile dich. Mach dich auf die Reise, finde, was auch immer es sein mag, und kehre zu mir zurück.
+
+(KARL verneigt sich vor seinem Vater und verlässt das Zimmer.)
+
+@                DER HAUSHERR
+    (sich leise(
+##Akt II: Eine einsame Waldlichtung im Morgengrauen. Der Nebel liegt schwer auf dem Boden. KARL, der Reisende, ist erschöpft und findet endlich einen schmalen Pfad. Er folgt ihm und stolpert über eine kleine Hütte, die halb verfallen ist.)
+
+@                     KARL
+    (keuchend)
+    Endlich! Ein Ort der Ruhe. Ich muss ausruhen und neue Kraft schöpfen.
+
+(KARL klopft an die Tür der Hütte, aber niemand antwortet. Er öffnet die Tür vorsichtig und betritt den Raum.)
+
+@                     KARL
+    (frustriert)
+    Verlassen und verlassen. Ich werde hier trotzdem eine Weile bleiben. Es ist besser, als draußen der Kälte ausgesetzt zu sein.
+
+(KARL setzt sich auf einen heruntergekommenen Stuhl im Inneren der Hütte. Er schließt die Augen und beginnt zu meditieren.)
+
+(SPIEGEL tritt in den Raum ein. Ein mysteriöser Mann mit verschleierter Miene, der einen düsteren Umhang trägt.)
+
+@                     SPIEGEL
+    (mit einer eindringlichen Stimme)
+    Wer ruft mich in meiner Heimstatt?
+
+(KARL öffnet die Augen und starrt SPIEGEL verstört an.)
+
+@                     KARL
+    (verwirrt)
+    Wer... Wer bist du?
+
+@                     SPIEGEL
+    (geheimnisvoll)
+    Ich bin SPIEGEL, ein Hüter der Wahrheit und der Dunkelheit zugleich. Was suchst du hier, Reisender?
+
+@                     KARL
+    (unsicher)
+    Ich suche nach einem Licht, das meine Seele reinigt, um es meinem Vater zu bringen. Er leidet unter seinen begangenen Sünden.
+
+@                     SPIEGEL
+    (mit einem kühlen Lächeln)
+    Das ist eine noble Absicht. Aber das Licht, das du suchst, ist nicht so einfach zu finden. Es liegt nicht im Ruhm oder im Wohlstand, sondern in der inneren Wahrhaftigkeit und der Bereitschaft, sich seinen eigenen Dämonen zu stellen.
+
+(KARL lauscht aufmerksam den Worten von SPIEGEL.)
+
+@                     SPIEGEL
+    (langsam)
+    Um das Licht zu finden, muss man eine Reise durch die Vergangenheit unternehmen, die dunklen Ecken der eigenen Gedanken erkunden und Frieden mit der eigenen Vergangenheit schließen. Aber sei gewarnt, dies ist keine leichte Aufgabe und es gibt keinen Garant für Erfolg.
+
+(KARL atmet tief durch.)
+
+@                     KARL
+    (entschlossen)
+    Ich nehme diese Herausforderung an. Ich werde meine Suche fortsetzen und das Licht finden, das meinem Vater Erlösung bringt.
+
+(SPIEGEL verschwindet so mysteriös, wie er erschienen ist. KARL steht auf und verlässt die Hütte.)
+
+(Auf der Waldlichtung beginnt die Sonne langsam aufzugehen, und der Nebel l(
+##Akt III: Ein prächtiger Raum in einem Anwesen. Es herrscht eine feierliche Atmosphäre. DER HAUSHERR steht nervös in der Mitte des Raumes, während KARL in Begleitung einer geheimnisvollen Figur, DER WEISE, eintritt.)
+
+@                     DER HAUSHERR
+    (erleichtert)
+    Endlich bist du zurück, mein Sohn! Was hast du gefunden? Kannst du mir das Licht bringen?
+
+@                     KARL
+    (bestimmt)
+    Vater, ich habe die Reise angetreten, um das Licht zu finden, das deine Seele reinigen soll. Unterwegs traf ich auf DER WEISE, den Hüter des Wissens und der Erleuchtung.
+
+(DER HAUSHERR blickt neugierig auf DER WEISE.)
+
+@                     DER HAUSHERR
+    (mit ehrfürchtiger Stimme)
+@    DER WEISE? Und welchen Rat hat er für uns?
+
+@                     DER WEISE
+    (mit leiser Stimme)
+    Mein Rat an dich, Hausherr, ist einfach, aber von großer Bedeutung. Das Licht, nachdem du strebst, liegt nicht in den Händen anderer. Es kann nur von innen kommen, wenn du bereit bist, dich selbst zu betrachten und Vergebung zu erflehen.
+
+(DER HAUSHERR senkt den Blick und faltet die Hände.)
+
+@                     DER HAUSHERR
+    (leise)
+    Ja, ich erkenne nun meine Fehler und Sünden. Ich habe mich geblendet von äußerem Reichtum und Macht. Ich habe die wahren Werte übersehen.
+
+(KARL tritt zu seinem Vater und legt eine Hand auf dessen Schulter.)
+
+@                     KARL
+    (sanft)
+    Vater, es ist nie zu spät, umzukehren und nach innen zu schauen. Wenn du dich selbst vergibst und ein besseres Leben anstrebst, wirst du das Licht der Erkenntnis finden.
+
+(DER HAUSHERR senkt den Kopf und beginnt zu weinen. KARL und DER WEISE stehen ihm ruhig bei.)
+
+@                     DER WEISE
+    (mitfühlend)
+    Erlaube dir, zu weinen, Hausherr. Weine all den Schmerz heraus, den du in all den Jahren aufgestaut hast. Es ist ein erster Schritt in Richtung Heilung und Erlösung.
+
+(Der Raum erfüllt sich mit emotionaler Intensität, während DER HAUSHERR seine Tränen unkontrolliert vergießt.)
+
+(Als DER HAUSHERR sich langsam beruhigt, blickt er voller Demut zu KARL und DER WEISE auf.)
+
+@                     DER HAUSHERR
+    (dankbar)
+    Mein Sohn, DER WEISE. Ihr habt mir das kostbarste Gut gegeben - die Möglichkeit, mein Herz zu reinigen und mir selbst zu vergeben. Ich danke euch von ganzem Herzen.
+
+(DER WEISE nickt dem HAUSHERRN zu und verlässt den Raum stolz und schweigsam.)
+
+(DER HAUSHERR umarm(
+##Akt IV: Im Innenhof des Hauses. Es herrscht eine fröhliche Atmosphäre. DER HAUSHERR und KARL stehen in der Mitte des Innenhofs, während BEDCHEN, DER JUNGE DIENER, eintritt.)
+
+@                     DER HAUSHERR
+    (strahlend)
+    Mein Herz ist nun erleichtert, mein Sohn. Ich habe Frieden gefunden und die Dunkelheit vertrieben.
+
+@                     KARL
+    (glücklich)
+    Vater, dein Wandel hat unser ganzes Haus erhellt. Wir können nun gemeinsam ein neues Kapitel beginnen, geprägt von Liebe und Vergebung.
+
+@                     BEDCHEN
+    (verwirrt)
+    Guten Tag, Herr. Warum herrscht solch freudige Stimmung?
+
+@                     DER HAUSHERR
+    (freudig)
+    Bedchen, mein treuer Diener, es ist an der Zeit, alte Wunden zu heilen. Mein Sohn hat eine Erleuchtung erfahren und mir den Weg gezeigt, wie ich mein eigenes Licht finden kann.
+
+@                     BEDCHEN
+    (erfreut)
+    Das ist wunderbar, Herr! Ich freue mich, dass Sie endlich Frieden gefunden haben.
+
+(ALLE begeben sich auf den Weg durch den Innenhof. Menschen aus der Umgebung kommen hinzu, um die Freude des Hausherrn an diesem besonderen Tag zu teilen.)
+
+@                     DER HAUSHERR
+    (ermutigend)
+    Lasst uns gemeinsam feiern! Feiern wir die Reinigung des Herzens und die Möglichkeit, sich zu ändern. Möge dieses Haus wieder zu einem Ort der Liebe und der Gemeinschaft werden.
+
+(Die Menge jubelt und klatscht. ALLE beginnen zu tanzen und zu singen.)
+
+(Das Licht der Sonne durchströmt den Innenhof, während das Lachen und die Freude den Raum erfüllen.)
+
+@                ENDE(
+##Akt V: Der Garten des Hauses. Ein idyllischer Ort mit üppiger Natur und blühenden Blumen. KARL und DER HAUSHERR sitzen auf einer Bank, während VÖGEL in der Ferne zwitschern.)
+
+@                     DER HAUSHERR
+    (nachdenklich)
+    Mein lieber Sohn, wie kann ich dir je genug danken für das Licht, das du in mein Leben gebracht hast?
+
+@                     KARL
+    (bescheiden)
+    Vater, es war deine Bereitschaft zur Veränderung, die den Unterschied gemacht hat. Du hast dein Herz geöffnet und das Licht selbst gefunden.
+
+@                     DER HAUSHERR
+    (seufzt)
+    Es war eine lange Reise, mein Sohn. Aber das Wichtigste ist, dass ich meinen Frieden gefunden habe und mein Leben neu gestalten kann.
+
+@                     KARL
+    (sanft)
+    Das freut mich zu hören, Vater. Und weißt du, was das Schönste ist? Nicht nur du hast Veränderung erfahren, sondern auch ich. Ich bin als dein Sohn gewachsen und habe gelernt, wie wichtig Liebe und Vergebung sind.
+
+(DER HAUSHERR legt eine Hand auf die des KARL.)
+
+@                     DER HAUSHERR
+    (dankbar)
+    Du hast die Bürde der Vergangenheit aufgenommen und mir geholfen, sie zu tragen. Ich bin stolz auf dich, mein Sohn.
+
+(Ein Moment der Stille entsteht, als sich die Vögel weiterhin lieblich im Hintergrund unterhalten.)
+
+@                     KARL
+    (leise)
+    Vater, ich habe eine Bitte an dich. Lass uns gemeinsam, als Familie, nach vorne schauen und das Licht der Liebe in unsere Herzen lassen. Lasst uns die Vergangenheit hinter uns lassen und ein neues Kapitel beginnen.
+
+@                     DER HAUSHERR
+    (bewegt)
+    Ja, mein Sohn. Du hast so recht. Lasst uns gemeinsam das Licht in unserem Haus erstrahlen lassen, allen zeigen, dass wir ein Ort der Vergebung und des Miteinanders sind.
+
+(Obskur beginnt ein wunderschönes Orchester im Hintergrund zu spielen. DER HAUSHERR und KARL stehen von der Bank auf und umarmen sich.)
+
+(Die Szene wird von der Freude des Moments erfüllt, während sich die Vorhänge langsam schließen.)
+
+@                ENDE

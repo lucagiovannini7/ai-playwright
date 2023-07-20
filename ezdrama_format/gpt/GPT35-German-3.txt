@@ -1,0 +1,247 @@
+
+##Akt Eins
+
+(Salon in einem heruntergekommenen Herrenhaus. Links befindet sich eine antike Vitrine mit Schmuckstücken; rechts steht ein alter Sekretär. Im Hintergrund ein großes Fenster, durch das der Mond scheint und den Raum schwach erleuchtet. Links und rechts vom Fenster hängen schwere Samtvorhänge. In der Mitte des Raumes steht ein alter Tisch mit vier Stühlen. In der rechten Ecke des Raumes befindet sich ein Kamin, in dem ein Feuer brennt.)
+
+@BEATRIX (eine junge Frau, gekleidet in einem eleganten Kleid. Sie steht vor dem Sekretär und liest ein Brief.) 
+(Seufzt) Johann, oh Johann! Warum bist Du so fern! Deine Briefe sind der einzige Trost in meinem einsamen Leben.
+
+@DIETER (ein älterer Diener, gekleidet in einen schwarzen Anzug, tritt ein. Sein Gesicht zeigt Spuren der Sorge.)
+(Mit besorgtem Ton) Frau Beatrix, der Sturm draußen wird immer heftiger. Es wäre besser, wenn wir uns bald zur Ruhe legen.
+\
+@BEATRIX 
+(Nachdenklich) Ja, Dieter, Du hast recht. Der Sturm spiegelt jedoch nur den Kummer in meinem Herzen wider. Johann ist seit Wochen nicht zurückgekehrt und die Sorge um ihn lässt mich keine Ruhe finden.
+
+@ELISABETH (Beatrix' Schwägerin, eine elegante und mysteriöse Frau. Sie betritt den Raum und bleibt vor der Vitrine stehen.)
+(Bewundernd) Diese Schmuckstücke sind von unschätzbarem Wert. Oh, wie ich mir wünschte, ich könnte sie mein Eigen nennen. So viel Reichtum, der nur hinter Glas verborgen ist.
+
+@DIETER
+(Versucht zu unterbrechen)
+Frau Elisabeth...
+
+@ELISABETH 
+(Ignoriert Dieter und geht durch den Raum, während sie in den Schmuckstücken schwelgt)
+Wäre doch nicht das Schicksal so hart, und uns wäre das Glück hold...
+
+(Die Tür wird mit Schwung geöffnet. HERR KARL tritt ein, ein wohlhabender aber mysteriöser Herr, gekleidet in einem teuren Anzug. Er betrachtet den Raum neugierig.)
+
+@HERR KARL 
+(Überrascht) Entschuldigen Sie meine plötzliche Ankunft, doch der Sturm zwang mich, Unterschlupf zu suchen. Aber was für ein prachtvoller Raum!
+
+@BEATRIX 
+(Freundlich) Willkommen, Herr Karl. Wie konnten wir Ihnen behilflich sein?
+
+@HERR KARL
+(Dankbar) Ein warmes Feuer und ein wenig Gesellschaft wären eine angenehme Ablenkung in dieser finsteren Nacht.
+
+@ELISABETH 
+(Bissig) Wie bequem für Sie, Herr Karl, dass Sie ausgerechnet hier Schutz gefunden haben. Als ob Sie es gezielt geplant hätten.
+
+@HERR KARL 
+(Etwas verwirrt
+##Akt Zwei
+
+(Der Salon ist in Halbdunkel gehüllt. Die Vorhänge sind zugezogen und nur das schwache Licht des Mondes erhellt den Raum. BEATRIX steht vor dem Fenster und starrt hinaus. DIETER steht am Kamin und fügt Holzscheite hinzu, um das Feuer anzufachen.)
+
+@BEATRIX
+(Seufzt tief) Johann, warum hast du dich von mir entfernt? Die Tage sind so lang ohne dich und die Nächte noch einsamer.
+(Hält einen Ring in ihrer Hand, den sie betrachtet)
+Dieser Ring, den du mir gegeben hast, trägt den Zauber unserer Liebe. Doch wie lange kann ich darauf warten, dass du zurückkehrst?
+
+@DIETER
+(Sanft) Gnädige Frau, es tut mir leid, dass ich Ihnen keine guten Nachrichten übermitteln kann. Seit Johann fort ist, gibt es keine Spur von ihm. Aber halten Sie tapfer durch, vielleicht wird das Schicksal bald eine Wende nehmen.
+
+@BEATRIX
+(Hält den Ring fest)
+Ja, Dieter, ich werde hoffen und warten. Meine Liebe zu Johann wird mich über Wasser halten, egal wie stürmisch die See wird.
+
+(Die Tür öffnet sich und ELISABETH betritt den Raum. Ihr Gesicht ist blass und ihr Blick ist ungewöhnlich ernst.)
+
+@ELISABETH
+(Wispert) Beatrix, ich habe etwas entdeckt, das unser Schicksal von Grund auf erschüttern könnte.
+
+@BEATRIX
+(Erschrocken) Was meinst du, Elisabeth? Was hast du gefunden?
+
+@ELISABETH
+(Vorsichtig)
+Karl... Herr Karl... er ist nicht der, der er vorgibt zu sein. Ich habe einen merkwürdigen Brief gefunden, den er geschrieben hat. Er plant, uns zu betrügen und alle unsere Schätze an sich zu reißen.
+
+@BEATRIX
+(Voller Sorge)
+Elisabeth, das ist unglaublich! Gibt es einen Beweis für deine Behauptungen?
+
+@ELISABETH
+(Nickend)
+Ja, ich habe den Brief hier. Seine Worte sind eindeutig. Wir müssen uns gegen ihn wehren, sonst werden wir alles verlieren.
+
+(Kurzes Schweigen)
+
+@BEATRIX
+(Entschlossen)
+Wir werden ihn stellen. Karl darf nicht gewinnen. Die Wahrheit muss ans Licht kommen.
+
+(Die Tür öffnet sich wieder und HERR KARL betritt den Raum, scheinbar ahnungslos von den aufgewühlten Gemütern. Sein Blick wirkt diabolisch.)
+
+@HERR KARL
+(Mit einem falschen Lächeln)
+Guten Abend, meine Damen. Ich hoffe, ich bin nicht unpassend. Der Sturm draußen tobt weiter.
+
+@BEATRIX
+(Mit starker Stimme)
+Herr Karl, wir sind uns bewusst, wer Sie wirklich sind und was Sie vorhaben. Ihre falsche Maske ist gefallen.
+
+@HERR KARL
+(Versucht, die Situation zu leugnen)
+Ich weiß nicht, wovon Sie sprechen, meine Dame. Ich bin kein Mann
+##Akt Drei
+
+(Der Salon ist erleuchtet, aber eine angespannte Atmosphäre liegt in der Luft. BEATRIX, ELISABETH und HERR KARL stehen sich gegenüber.)
+
+@BEATRIX
+(Mit Entschlossenheit)
+Herr Karl, Ihre Intrigen und Lügen werden hier nicht geduldet. Wir haben den Brief gelesen, der Ihre wahren Absichten offenbart.
+
+@ELISABETH
+(Verächtlich)
+Sie haben gedacht, dass wir hilflos sind, dass wir Ihnen Ihre Machenschaften nicht entgegenstellen können. Aber wir sind bereit, für unser Recht zu kämpfen.
+
+@HERR KARL
+(Verärgert)
+Es war ein Fehler, dass der Brief in Ihre Hände gelangt ist. Doch glaubt nicht, dass ich meine Pläne wegen dieser lächerlichen Frauen ohne Weiteres aufgeben werde.
+
+@BEATRIX
+(Wirft den Ring auf den Boden)
+Ihre Gier wird Ihnen keinen Erfolg bringen, Herr Karl. Die Kraft der Liebe und der Wahrheit wird uns beschützen.
+
+@ELISABETH
+(Zieht einen Revolver hervor)
+Und wenn es sein muss, werden wir auch diese Waffe einsetzen, um uns gegen Ihre Machtansprüche zu wehren.
+
+@HERR KARL
+(Erschrocken)
+Nehmen Sie Vernunft an, meine Damen. Es muss nicht zu Gewalt kommen. Lassen Sie uns eine Einigung finden.
+
+@BEATRIX
+(LLAUT)
+Eine Einigung mit einem Täuscher wie Ihnen? Niemals! Wir sind bereit, diese Hütte, diesen Schmuck, unser Leben zu verteidigen.
+
+@ELISABETH
+(Bestimmt)
+Wir werden nicht zulassen, dass unsere Familienwerte von einem Betrüger wie Ihnen zerstört werden.
+
+@HERR KARL
+(Voller Zorn)
+Ihr werdet es bereuen, euch gegen mich zu stellen. Ich werde euch alles nehmen!
+
+(Es kommt zu einem erbitterten Kampf zwischen BEATRIX, ELISABETH und HERR KARL. Nach einem hektischen Gewühl gelingt es BEATRIX und ELISABETH schließlich, HERRN KARL zu überwältigen und zu Boden zu zwingen. HERR KARL liegt am Boden, leer und geschlagen.)
+
+@BEATRIX
+(Außer Atem)
+Es ist vorbei, Herr Karl. Ihre Bosheit hat nicht gesiegt.
+
+@ELISABETH
+(Schimpfend)
+Sie sollten sich schämen, sich als ein wahrer Gentleman auszugeben, während Sie all dies geplant haben.
+
+@HERR KARL
+(Mit gebrochener Stimme)
+Ihr habt gewonnen. Nehmt, was euch zusteht. Aber bedenkt, dass der Ruhm und Reichtum vergänglich sind.
+
+(Die beiden Frauen schauen sich an, während sie langsam den Raum verlassen. HERR KARL bleibt allein zurück, besieg von seinem eigenen Betrug.)
+##Akt Vier
+
+(Der Salon ist erfüllt von Stille. BEATRIX und ELISABETH sitzen auf den Stühlen und sind in Gedanken versunken. In der Mitte des Raumes steht der Kamin, in dem das Feuer leise knistert. DIETER tritt ein, elegant gekleidet.)
+
+@DIETER
+(Aufgeregt)
+Gnädige Damen, es ist ein Wunder geschehen! Johann ist zurückgekehrt! Er steht draußen und wartet darauf, Ihnen seine Wahrhaftigkeit zu beweisen.
+
+(BEATRIX und ELISABETH blicken überrascht auf und eilen zum Fenster. Draußen steht JOHANN, ein junger Mann mit müdem aber liebevollem Blick. BEATRIX und JOHANN umarmen sich innig.)
+
+@BEATRIX
+(Mit Tränen in den Augen)
+Johann, du bist endlich zurück! Ich habe dich so schmerzlich vermisst.
+
+@JOHANN
+(Emotional)
+Beatrix, meine Liebe, ich bin gekommen, um dich zu retten. Ich hatte Schwierigkeiten, aber sie haben mich nicht besiegt.
+
+@ELISABETH
+(Berührt)
+Johann, du bist das Licht in dieser dunklen Zeit. Es ist gut, dich in unserem Leben zurückzuhaben.
+
+@DIETER
+(Aufgeregt)
+Aber was ist mit Herrn Karl? Was ist aus ihm geworden?
+
+@BEATRIX
+(Mit einem Hauch von Stolz)
+Herr Karl ist besiegt. Seine bösen Absichten waren machtlos gegen unsere Stärke und Zusammenhalt.
+
+@JOHANN
+(Entschlossen)
+Wir werden unseren Besitz und unseren Namen gegen jegliche Bedrohung verteidigen. Lasst uns gemeinsam den Schmutz dieser Intrigen hinter uns lassen und auf eine glücklichere Zukunft blicken.
+
+(Die Gruppe umarmt sich, während das Feuer im Kamin hell aufleuchtet. Langsam erhellt sich der Raum und der Klang von ferner Musik erfüllt die Luft.)
+
+@ENDE
+
+(Hinweis: Diese abschließende Szene symbolisiert den Sieg der Liebe und der Hingabe über die Intrigen und das Böse. Der Salon erstrahlt in neuem Glanz und die Charaktere sind bereit, gemeinsam eine bessere Zukunft anzustreben.)
+##Akt Fünf
+
+(Ein idyllischer Garten, der von blühenden Blumen umgeben ist. In der Mitte des Gartens steht ein mit einer Tischdecke bedeckter Tisch, auf dem Kuchen und Tee bereitstehen. BEATRIX, JOHANN und ELISABETH sitzen gemeinsam an dem Tisch und genießen die Annehmlichkeiten.)
+
+@ELISABETH
+(Lächelnd)
+Wie herrlich ist es doch, endlich wieder Frieden und Glück zu spüren. Diese Schönheit des Gartens erinnert uns daran, dass das Leben trotz aller Schwierigkeiten ihre wundervollen Seiten hat.
+
+@BEATRIX
+(Nachdenklich)
+Ja, Elisabeth, ich habe gelernt, dass während der Sturm im Inneren tobt, draußen die Welt und die Natur ihre Magie entfalten.
+
+@JOHANN
+(Zustimmend)
+Es ist in der Tat eine wundervolle Erkenntnis. Das Licht der Liebe und des Mutes kann selbst die dunkelsten Stunden erhellen.
+
+(DIETER betritt den Garten und schließt sich der Gruppe an.)
+
+@DIETER
+(Voller Freude)
+Gnädige Herrschaften, ich freue mich, Sie so fröhlich und voller Leben zu sehen. Es ist, als ob der trübe Schatten der Vergangenheit endlich verschwunden ist.
+
+@BEATRIX
+(Dankbar)
+Dieter, du warst für uns wie ein Leuchtturm in den stürmischen Zeiten. Deine Treue und Fürsorge haben uns immer wieder neuen Mut gegeben.
+
+@ELISABETH
+(Lächelnd)
+Ja, Dieter, du bist wie ein Teil unserer Familie geworden. Deine Unterstützung hat uns gestärkt und vertrauensvoll nach vorne blicken lassen.
+
+@DIETER
+(Rührt an sein Herz)
+Es war meine Ehre und größte Freude, Ihnen dienen zu dürfen. Sie sind wie die Familienmitglieder, die das Schicksal mir versagt hat.
+
+@JOHANN
+(Ernst)
+Dieter, du bist uns eine Stütze geworden und wir sind dir dankbar für deine Hingabe. Zusammen haben wir es geschafft, das Böse zu besiegen und die Liebe zu bewahren.
+
+(Eine Pause der Stille und der Dankbarkeit entsteht, während sie weiter gemeinsam den Tee und den Kuchen genießen.)
+
+@BEATRIX
+(Inbrünstig)
+Lasst uns diese kostbaren Momente in vollen Zügen genießen. Das Leben ist ein wertvolles Geschenk und wir wollen es mit all seiner Schönheit umarmen.
+
+@ELISABETH
+(Stimmt zu)
+Ja! Unsere Verbundenheit wird uns immer wieder Halt geben, egal welche Herausforderungen uns erwarten mögen.
+
+@JOHANN
+(Abschließend)
+Gemeinsam werden wir die Leidenschaft für das Leben entfachen und die Magie der Liebe in die Welt hinaustragen.
+
+(Die Gruppe erhebt ihre Teetassen in einem gemeinsamen Toast und das goldene Sonnenlicht taucht den Garten in warmes Licht.)
+
+@ENDE
+
+(H

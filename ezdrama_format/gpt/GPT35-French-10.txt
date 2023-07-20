@@ -1,0 +1,296 @@
+
+##ACTE I
+    
+(Salle richement décorée. À droite, un salon raffiné avec des meubles élégants. À gauche, une porte donnant sur une chambre à coucher somptueuse. Au centre, une table dressée avec un dîner abondant. Les convives sont assis autour de la table en train de converser avec animation.)
+
+@LE MARQUIS
+(Versant du vin dans le verre de LA COMTESSE)
+Ma chère Comtesse, voici un vin exquis que j'ai spécialement sélectionné pour votre palais délicat.
+
+@LA COMTESSE
+(Échantillonnant le vin)
+Marquis, vous connaissez si bien mes goûts. Votre raffinement est inégalable.
+
+@LE DUC
+(S'adressant à LA COMTESSE)
+Madame, votre beauté illumine cette soirée. Vous êtes la plus gracieuse des dames.
+
+@LA COMTESSE
+(Rougissant)
+Duc, vos compliments sont galants. Cependant, ce n'est pas à moi que revient la lumière, mais bien à votre présence distinguée.
+
+(Le bruit d'un cheval effrayé se fait entendre à l'extérieur, suivi d'un fracas.)
+
+@LE MARQUIS
+(Se levant rapidement)
+Que se passe-t-il ? Allons voir !
+
+(LE MARQUIS, LE DUC et LA COMTESSE se dirigent vers la porte donnant sur l'extérieur. Pendant ce temps, LA MARQUISE reste seule dans le salon.)
+
+@LA MARQUISE
+(Monologuant)
+Enfin seule... quel monde frivole ce soir. Tous ces jeux sociaux m'étouffent. Mon cœur aspire à autre chose, à plus de passion, de vérité. Quand les obligations mondaines deviennent une corde autour du cou de l'amour, que puis-je faire pour sauver mon cher attachement ?
+
+(LE VICOMTE entre discrètement dans le salon.)
+
+@LE VICOMTE
+(Murmurant à LA MARQUISE)
+Marquise, il faut que je vous parle. C'est urgent.
+
+@LA MARQUISE
+(Surprise)
+Vicomte ! Que faites-vous ici ? Vous êtes censé être du côté des messieurs !
+
+@LE VICOMTE
+(Regardant autour de lui)
+Nous devons parler en secret. C'est une question de vie ou de mort.
+
+@LA MARQUISE
+(Prenant une voix étouffée)
+Très bien, Vicomte. Suivez-moi.
+
+(LA MARQUISE et LE VICOMTE sortent rapidement par la porte de chambre. Pendant ce temps, LE MARQUIS, LE DUC et LA COMTESSE reviennent précipitamment.)
+
+@LE MARQUIS
+(Confus)
+Où est notre chère Marquise ?
+
+@LA COMTESSE
+(Paniquée)
+Oui, que lui est-il arrivé ? Le Vicomte l'a-t-il vue ?
+
+@LE DUC
+(Perplexe)
+Il semblerait que la Marquise se soit évaporée. Mais pourquoi ?
+
+(Les convives se lancent des regards inquiets, la tension monte dans
+##ACTE II
+    
+(Salle sombre avec des rideaux lourds et des meubles couverts de draps. À gauche, une porte donnant sur la chambre à coucher. À droite, un grand miroir encadré d'argent.)
+    
+@LE MARQUIS 
+(Marchant de long en large)
+Où est-elle passée ? Cette Marquise est un mystère vivant. J'ai cherché partout, mais je ne l'ai pas trouvée.
+
+@LE DUC 
+(Abattu)
+Il faut la retrouver à tout prix, Marquis. Sa disparition suscite maintes interrogations.
+
+@LA COMTESSE 
+(Les larmes aux yeux)
+Elle était ma plus chère amie, j'espère qu'elle n'a pas rencontré de malheur.
+
+(LE VICOMTE entre précipitamment dans la salle, essoufflé.)
+
+@LE VICOMTE 
+(Mettant son chapeau à la main)
+Marquis, Ducsse, Comtesse ! J'ai des nouvelles !
+
+@LE MARQUIS 
+(Vivement)
+Enfin, Vicomte, où la Marquise se trouve-t-elle ?
+
+@LE VICOMTE 
+(Reprenant son souffle)
+J'ai retrouvé sa trace dans un hôtel miteux, cachée sous un nom emprunté.
+
+@LE DUC 
+(Surpris)
+Un hôtel miteux ? Mais pourquoi donc ?
+
+@LE VICOMTE 
+(Avec gravité)
+Elle est tombée sous l'emprise de son ancien amant, un séducteur rusé qui l'a envoûtée. Je crains que ce ne soit bien pire qu'une simple affaire de cœur.
+
+@LA COMTESSE 
+(Inquiète)
+Mais que devons-nous faire, Vicomte ? Nous ne pouvons pas la laisser dans cette situation.
+
+@LE VICOMTE 
+(Résolu)
+Marquis, Ducsse, Comtesse, je propose que nous la sauvions. Nous devons la ramener ici et veiller sur elle.
+
+(Le quatuor se concerte en chuchotant, puis acquiesce d'un signe de tête.)
+
+@LE MARQUIS 
+(Déterminé)
+Très bien, Vicomte. Faites les préparatifs nécessaires. Nous nous rendrons à cet hôtel et nous ramènerons la Marquise ici, en sécurité.
+
+(Tous sortent de la salle à contrecœur, sauf LA MARQUISE, qui entre furtivement.)
+
+@LA MARQUISE 
+(Soulagée)
+Enfin libre ! Ils ne doivent pas me trouver ici. Je dois disparaître et échapper à leur consentement aveugle. La rue est ma seule issue.
+
+(LA MARQUISE sort rapidement par la porte de chambre, tandis que la scène se plonge dans l'obscurité.)
+##ACTE III
+
+(Une ruelle sombre et déserte. Au fond, une porte dérobée d'un modeste logement. LA MARQUISE entre en titubant, épuisée et en pleurs.)
+
+@LA MARQUISE
+(S'effondrant contre le mur)
+Comment en suis-je arrivée là ? Mon destin prend un chemin si tortueux...
+
+(LA MARQUISE tente de reprendre son souffle, puis regarde autour d'elle avec appréhension.)
+
+@LA COMPAGNE
+(Apparaissant de l'ombre)
+Madame, êtes-vous perdue dans cette nuit sinistre ?
+
+@LA MARQUISE
+(Surfant sur les vagues de la confiance)
+Oui, madame, je me suis perdue en chemin. J'ai besoin de trouver mon chemin à travers ce labyrinthe d'obscurité.
+
+@LA COMPAGNE
+(Doux sourire)
+Je peux vous aider. Suivez-moi.
+
+(LA MARQUISE se lève et suit LA COMPAGNE, qui l'entraîne vers la porte dérobée.)
+
+(Les projecteurs s'éteignent pour un court instant pour symboliser le déplacement. La scène reprend dans une petite pièce modeste mais chaleureuse.)
+
+(LA MARQUISE est assise sur un modeste lit, épuisée, tandis que LA COMPAGNE prépare une tasse de thé.)
+
+@LA COMPAGNE
+(Offrant la tasse de thé)
+Buvez ceci, Madame. Cela vous fera du bien, je vous le promets.
+
+(LA MARQUISE prend timidement la tasse de thé et en boit une gorgée.)
+
+@LA MARQUISE
+(Essayant de calmer sa respiration)
+Merci, madame, de votre aimable hospitalité. Je suis désolée d'avoir ainsi interrompu votre tranquillité.
+
+@LA COMPAGNE
+(Souriant)
+Ne vous en faites pas pour cela, Madame. Parfois, le destin nous pousse sur des chemins inattendus. Vous êtes la bienvenue ici.
+
+(LA PORTIÈRE entre soudainement dans la salle, l'air affolée.)
+
+@LA PORTIÈRE
+(Voix tremblante)
+Madame, il y a une foule furieuse dans la rue. Ils cherchent une femme, prétendant qu'elle s'est enfuie de la haute société.
+
+@LA COMPAGNE
+(Regardant LA MARQUISE avec compassion)
+Madame, ils doivent parler de vous.
+
+(LA MARQUISE se lève brusquement, en proie à la panique.)
+
+@LA MARQUISE
+(Il regardant LA COMPAGNE avec gratitude)
+Je ne peux pas rester ici plus longtemps. Ils sont peut-être en train de se précipiter vers cette porte en ce moment même.
+
+@LA COMPAGNE
+(Doucement)
+Madame, si vous devez partir, laissez-moi vous donner quelque chose qui vous protégera en chemin.
+
+(LA COMPAGNE remet à LA MARQUISE une écharpe délicate.)
+
+@LA COMPAGNE
+(Consternée)
+Mettez cela autour de votre cou. Il symbolise notre amitié,
+##ACTE IV
+
+(Un jardin luxuriant avec des fleurs en plein épanouissement. Un banc se trouve au centre du décor. La MARQUISE y est assise, songeuse.)
+
+@LA MARQUISE
+(Monologuant)
+Qu'ai-je fait ? Ai-je fui la société pour me retrouver seule, en proie à mes propres tourments ? Le poids du passé appesantit mon cœur, mais la liberté qui me guide est incommensurable.
+
+(LE MARQUIS entre sur scène, le visage empli d'angoisse. Il s'approche de LA MARQUISE, qui se lève en le voyant.)
+
+@LE MARQUE
+(Crispé)
+Enfin, je vous ai retrouvée ! J'ai cherché partout, désespérément, pour vous ramener.
+
+@LA MARQUISE
+(Reculant)
+Marquis, je ne peux plus retourner dans cet enfer doré dont je viens de m'échapper. Mon cœur ne peut plus supporter cette fausseté.
+
+@LE MARQUIS
+(Désespéré)
+Mais ma chère Marquise, le monde sans vous est sombre et vide. Notre amour, notre union, c'était tout pour moi.
+
+@LA MARQUISE
+(Touchée)
+Je suis désolée, Marquis, mais mon cœur a trouvé de nouvelles passions, de nouveaux chemins qui me mèneront vers une joie plus sincère.
+
+(LE VICOMTE apparaît au loin, observant la scène avec tristesse.)
+
+@LE VICOMTE
+(A lui-même)
+Le destin les a séparés. L'amour ne peut être enfermé dans les conventions, il doit être librement vécu.
+
+(LA MARQUISE fait un dernier adieu de la main, puis s'éloigne de la scène. LE VICOMTE s'approche du MARQUIS.)
+
+@LE VICOMTE
+(Voix douce)
+Marquis, soyez fort. Les chemins du cœur sont souvent tortueux. Vous devez lâcher prise et laisser l'amour suivre son propre cours.
+
+(LE MARQUIS baisse la tête, secoué par la tristesse et la résignation.)
+
+@FIN
+##ACTE V
+
+(Salle somptueusement décorée avec des lustres en cristal. Au fond, une grande porte d'entrée. Des domestiques s'affairent pour préparer une réception.)
+    
+@LE MARQUIS 
+(Se tenant près de la porte d'entrée, anxieux)
+Elle ne devrait plus tarder. La Comtesse m'a assuré qu'elle viendrait.
+
+(LA COMTESSE entre dans la salle, vêtue d'une robe élégante.)
+
+@LA COMTESSE
+(S'approchant du MARQUIS)
+Marquis, elle a fondamentalement changé depuis son départ. Vous devez lui montrer de la patience et de la compréhension.
+
+@LE MARQUIS
+(Acquiesçant)
+Je ferai de mon mieux. Mais l'attente me rend nerveux. J'ai tant de choses à lui dire.
+
+(Les invités commencent à arriver, remplissant la salle de l'agitation de leur présence.)
+
+(LE VICOMTE s'approche du MARQUIS, l'air pensif.)
+
+@LE VICOMTE
+(Murmurant)
+Marquis, il y a quelque chose que je dois vous dire.
+
+@LE MARQUIS
+(Surpris)
+Qu'est-ce qui vous tracasse, Vicomte ?
+
+@LE VICOMTE
+(Regardant autour de lui pour s'assurer une certaine discrétion)
+Je viens de l'apprendre... La Marquise a trouvé un nouvel amour.
+
+@LE MARQUIS
+(Effondré)
+Comment est-ce possible ? Nous nous sommes séparés il y a à peine quelques semaines.
+
+@LE VICOMTE
+(Calme)
+Les chemins de l'amour sont souvent imprévisibles, Marquis. Elle mérite d'être heureuse, même si cela signifie qu'elle trouve le bonheur loin de nous.
+
+(LA MARQUISE entre dans la salle, vêtue d'une robe somptueuse. Son regard croise celui du MARQUIS. Un silence chargé d'émotion s'installe tandis que tous les regards se tournent vers elle.)
+
+@LA MARQUISE 
+(S'avançant lentement, avec grâce)
+Mes chers amis, je suis honorée de me retrouver ici parmi vous. Je voudrais présenter à tous l'homme qui a su ranimer mon cœur et me montrer la véritable passion.
+
+(ELLE s'approche du MARQUIS et se tient à ses côtés.)
+
+@LA MARQUISE
+(Prenant la main du MARQUIS)
+Marquis, je vous présente mon nouvel amour, un homme qui m'a su comprendre et m'accepter telle que je suis.
+
+(Le MARQUIS est pris de court, mais se reprend rapidement. Avec un sourire, il s'incline devant le nouvel amant de LA MARQUISE.)
+
+@LE MARQUIS
+(Comprenant)
+Je vous souhaite à tous les deux tout le bonheur du monde. Que votre amour soit éternel.
+
+(La salle est remplie de murmures et de chuchotements.)
+
+@FIN

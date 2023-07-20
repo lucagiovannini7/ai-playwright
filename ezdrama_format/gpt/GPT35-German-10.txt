@@ -1,0 +1,230 @@
+
+##AKT EINS
+
+(Spielt in einem Wohnzimmer im 19. Jahrhundert. Das Zimmer ist reich mit schweren Möbeln und Gemälden ausgestattet. Vom Fenster aus wird ein sanfter Sonnenuntergang sichtbar. Eine Tür führt zum Flur, eine andere Tür zum Garten. Der alte KUENSTLER sitzt am Tisch und mal Frauenbilder. Die junge SCHNEIDERIN, elegant gekleidet, sitzt auf einem Stuhl und näht.)
+
+@KUENSTLER (schaut nachdenklich auf sein Gemälde):
+Die Schönheit der Frauen… Ein Mysterium, das nie seinen Glanz verliert.
+
+@SCHNEIDERIN (innehaltend, sieht den Kuenstler an):
+Meister, Sie schaffen wahre Wunderwerke mit Ihren Pinseln.
+
+@KUENSTLER (lächelt und steht auf):
+Danke, meine Liebe. Doch nichts kann das Strahlen Ihrer Augen übertreffen.
+
+(Tür zum Garten öffnet sich leise, der stolze SCHLOSSER betritt den Raum. Er trägt einen ledernen Schurz und Werkzeuge.)
+
+@SCHLOSSER (betont):
+Erlaubt mir, euren Anblick zu stören, Künstler! Doch der Schloss in der Nachbarschaft bedarf schneller Reparaturen.
+
+@KUENSTLER (nickt):
+Selbstverständlich, mein Freund. Eure Präsenz bereichert immer diese Räume.
+
+(SCHLOSSER nickt zufrieden und verlässt den Raum durch die Tür zum Flur. Es klopft an der Tür, und der botanisch interessierte KAPITAEN tritt ein. Er trägt einen wuchtigen Lederkoffer und hat Blumen und Pflanzen in den Armen.)
+
+@KAPITAEN (erfreut):
+Meine Ehren, liebe Freunde! Einige kostbare Exemplare für Ihr botanisches Wunderland. 
+
+@KUENSTLER (dankbar):
+Kapitän, Sie handeln zu gut mit der Natur. Sie haben unseren Dank.
+
+(SCHLOSSER betritt wieder den Raum, gefolgt von der strengen HAUSWIRTIN. Sie hat einen kessen Blick und ein Buch in der Hand.)
+
+@SCHLOSSER (augenrollend):
+Meine Freunde, die Frau Doktor ist wieder unterwegs, mitten im Sandgewirr der Gelehrsamkeit.
+
+@HAUSWIRTIN (bestimmt):
+Angemessen, Schlosser. Bildung ist der Schlüssel zur Erleuchtung der Menschheit.
+
+@KAPITAEN (zwinkernd):
+Dann würde ich mittels Ihrer Erleuchtung gerne neue Pflanzenarten entdecken.
+
+@SCHNEIDERIN (lacht leise):
+Ihr müsst sie jedoch zuerst in der großen Bibliothek finden, Kapitän!
+
+(SHNEIDERIN und die anderen lachen. Ein englischer Lord, LINGHAM, tritt ein, gekleidet in vornehme Gewänder.)
+
+@LINGHAM (elegant):
+Entschuldigen Sie die Verspätung, werte Gesellschaft. Die Verlock
+##AKT ZWEI
+
+(Spielt in einem prunkvollen Ballsaal. Im Hintergrund befindet sich ein großes Wandgemälde. Auf der Bühne sind Kronleuchter, langsam ausgestrahltes Licht und elegante Damen und Herren zu sehen, die miteinander tanzen. Im Vordergrund stehen ein ORCHESTER, das stimmungsvolle Musik spielt, und der KUENSTLER, der am Rand des Saals steht.)
+
+@KUENSTLER (schaut auf das Wandgemälde):
+Die Schönheit, die hier in jeder Ecke ausstrahlt, ist atemberaubend. Eine Schöpfung von außergewöhnlicher Pracht.
+
+(Ein begeisterter APOTHEKER tritt schwungvoll in den Saal ein, gefolgt von einer zurückhaltenden GRÄFIN.)
+
+@APOTHEKER (überschwänglich):
+Ah, die Nacht des Tanzes! Ein wahrer Rausch der Sinne! Mein Herz hüpft vor Freude!
+
+@KUENSTLER (lächelt):
+Apotheker, Sie sehen aus wie der König moderner Euphorie.
+
+@APOTHEKER (stolz):
+Nun, mein lieber Freund, ich bereite Glück in kleinen Fläschchen zu.
+
+(Die Haushälterin der Vorstellung, große und strenge ZAUBERIN, betritt den Raum und ruft alle aufmerksam.)
+
+@ZAUBERIN (mit theatralischer Stimme):
+Sehr geehrte Gäste, das Fest ist gekommen! Lasst uns den Abend in eine Symphonie der Leidenschaft verwandeln!
+
+(Das Orchester verstärkt die Musik und die Gäste beginnen leidenschaftlich zu tanzen. SCHLOSSER und KAPITAEN wippen leise im Takt, während die Schneiderin, die Gräfin und die Hauswirtin voller Energie mittanzen.)
+
+(Schattenhafte Gestalten, die MASKENBALLS-TÄNZER, füllen den Saal.)
+
+@KUENSTLER (verzaubert):
+Oh, die Geheimnisse des Maskenballs. Befreien wir doch gemeinsam unsere Sehnsüchte.
+
+(KUENSTLER greift nach einer Maske und setzt sie auf. Die SCHNEIDERIN kommt mit einer träumerischen MASKE neben ihm.)
+
+@SCHNEIDERIN (flüsternd):
+Lassen Sie uns unserer Fantasie freien Lauf lassen, Meister.
+
+(Die SCHNEIDERIN nimmt die Hand des KUENSTLERS und sie tanzen miteinander, hingebungsvoll und leidenschaftlich. Die Gäste um sie herum verbinden sich und lassen sich von der Musik mitreißen.)
+
+(Das Tanzende wird intensiver und wilder. Das Orchester spielt einen dramatischen Höhepunkt.)
+
+@LINGHAM (laut):
+Herr Künstler, Ihre Schöpfung lässt uns in Ekstase schwelgen!
+
+@APOTHEKER (jubelnd):
+Magie! Wir alle suchen nach Befreiung!
+
+@HAUSWIRTIN (lächel
+##AKT DREI
+
+(Spielt in einem stillen, abgedunkelten Zimmer. Auf einem Tisch liegen Bücher und ein Kerzenlicht flackert. Der KUENSTLER sitzt alleine am Tisch und schreibt Briefe.)
+
+@KUENSTLER (schreibt eifrig):
+Liebe SCHNEIDERIN, wenn ich allein bin, höre ich noch immer den Klang unserer Schritte auf dem Ball. Kann es sein, dass unsere Seelen sich gefunden haben? Meine Gedanken sind bei dir und sehnen sich nach deinem Lächeln.
+
+(Die SCHNEIDERIN betritt das Zimmer. Sie sieht erschöpft aus und hält einen Brief in der Hand.)
+
+@SCHNEIDERIN (mit Tränen in den Augen):
+Meister, ich habe Ihren Brief erhalten. Meine Seele sehnt sich auch nach Ihnen, doch die Realität hält mich gefangen.
+
+@KUENSTLER (betroffen):
+Was bedrückt dein Herz, meine Liebe?
+
+@SCHNEIDERIN (schüchtern):
+Ich bin bereits versprochen, Meister, einem der hier bei uns ist. Ich stecke in einem Netz aus Konventionen und Zwängen.
+
+@KUENSTLER (mit leiser Traurigkeit):
+Male ich also nur fantastische Illusionen?
+
+@SCHNEIDERIN (eindringlich):
+Unsere Gefühle sind wahr, Meister, doch die Realität lässt keinen Raum für sie.
+
+(Der SCHLOSSER betritt das Zimmer mit wilden Haaren und einem verletzten Ausdruck.)
+
+@SCHLOSSER (energisch):
+Künstler, ich muss mit dir reden. Unser Freund, der KAPITAEN, ist in große Gefahr geraten.
+
+@KUENSTLER (besorgt):
+Was ist passiert?
+
+@SCHLOSSER (atmet tief durch):
+Er wurde beschuldigt, eine gefährliche Verschwörung zu planen. Es heißt, er sei ein Verräter.
+
+@KUENSTLER (empört):
+Das kann nicht wahr sein! Der KAPITAEN ist ein treuer und ehrlicher Mann.
+
+(Der KAPITAEN tritt schwer atmend in das Zimmer. Er ist von den Strapazen der Verfolgung gezeichnet.)
+
+@KAPITAEN (verzweifelt):
+Meine Freunde, ich bin unschuldig, doch die Anschuldigungen sind erdrückend. Mein Leben ist bedroht.
+
+@SCHLOSSER (entschlossen):
+Wir werden für dich kämpfen, Kapitän. Die Wahrheit wird ans Licht kommen.
+
+(Die HAUSWIRTIN stürmt in das Zimmer, aufgeregt.)
+
+@HAUSWIRTIN (erregt):
+Ihr müsst hören! Der KAPITAEN steht kurz vor seiner Ablehnung. Wir müssen handeln!
+
+(Der KUENSTLER, die SCHNEIDERIN, der SCHLOSSER und der KAPITAEN setzen sich zusammen. Sie planen einen riskanten Akt, um die Unschuld des KAPITAEN zu beweisen und seine Verfolger zu entlarven.)
+
+(Hinter ihnen tauchen schattenhafte Figuren auf - die
+##AKT VIER
+
+(Spielt in einem Gerichtssaal. Ein großer Richtertisch steht erhöht, umgeben von Büchern und Dokumenten. Die Gäste sind in gedämpftes Licht getaucht. DER RICHTER, streng blickend, und DER KUENSTLER als BEISITZER UND VERTEIDIGER sitzen am Tisch. Das Publikum, bestehend aus SCHNEIDERIN, SCHLOSSER, HAUSWIRTIN und APOTHEKER, beobachtet die Szene gespannt.)
+
+@RICHTER (streng):
+Kapitän, Sie wurden beschuldigt, einen Verrat gegen den Staat geplant zu haben. Sind Sie unschuldig?
+
+@KAPITAEN (fest):
+Hochwürdigster Richter, ich schwöre bei meinem Leben: Ich habe niemals gegen meinen Eid oder mein Vaterland gehandelt.
+
+(Der RICHTER vermittelt dem KAPITÄN Zweifel, während der KÜNSTLER spannungsvoll beobachtet.)
+
+@RICHTER (misstrauisch):
+Die Beweise scheinen gegen Sie zu sprechen, Kapitän. Wir müssen die Wahrheit herausfinden.
+
+(KAPITÄN wirft einen entschlossenen Blick zum KÜNSTLER, während DER APOTHEKER mitgespannt zuschaut.)
+
+@KAPITAEN (lehnt sich vor):
+Herr Richter, ich habe Zeugen, die meine Unschuld belegen können. Wenn Sie es zulassen, werde ich ihre Aussagen präsentieren.
+
+@RICHTER (zögernd):
+Seien Sie es, aber bedenken Sie, dass die Wahrheit allein zählt.
+
+(Der KÜNSTLER erhebt sich und bereitet sich darauf vor, die Zeugen herauszurufen.)
+
+@KUENSTLER (mit Nachdruck):
+Meine Herren und Damen, ich bitte Sie alle, die Wahrheit zu erkennen. Ich rufe diejenigen auf, die Zeugnis für die Unschuld des Kapitäns ablegen können: SCHNEIDERIN, SCHLOSSER, HAUSWIRTIN!
+
+(Die Angerufenen erheben sich feierlich und treten vor den Richtertisch.)
+
+@SCHNEIDERIN (bestimmt):
+Hochwürdiger Richter, ich war Zeugin des ständigen Engagements des Kapitäns für die Sicherheit und Ehre unseres Landes.
+
+@SCHLOSSER (energisch):
+Ich habe den Kapitän stets als treuen Freund und Kameraden erlebt, der seine Pflicht immer mit unerschütterlichem Eifer erfüllt hat.
+
+@HAUSWIRTIN (selbstbewusst):
+Der Kapitän ist vollkommen unschuldig. Ich konnte seine Hingabe an das Gute und die gerechte Sache bezeugen.
+
+(Der KAPITÄN lächelt dankbar und der RICHTER überdenkt seine Entscheidung.)
+
+@RICHTER (ergriffen):
+Diese Zeugenaussagen haben mich tief berührt. Es ist nun klar, dass der Kapitän
+##AKT FÜNF
+
+(Spielt in einem idyllischen Park. Blumen blühen in voller Pracht und Vögel zwitschern fröhlich. Der KUENSTLER steht zwischen der SCHNEIDERIN und dem KAPITAEN. Sie sind glücklich vereint.)
+
+@KUENSTLER (strahlend):
+Endlich haben wir die Wahrheit siegen lassen. Die Unschuld des Kapitäns ist bewiesen und unsere Liebe hat triumphiert.
+
+@SCHNEIDERIN (erfüllt):
+Es ist ein göttlicher Moment, der das Dunkel durchbricht und einem neuen Kapitel der Hoffnung Platz macht.
+
+@KAPITAEN (dankbar):
+Ich bin dem Künstler, den Zeugen und euch allen zu ewigem Dank verpflichtet. Ihr wart meine Rettung und ein Zeichen wahrer Freundschaft.
+
+(Alle umarmen sich innig, während DER APOTHEKER und DIE HAUSWIRTIN lächelnd zuschauen. DER SCHLOSSER kommt euphorisch gelaufen.)
+
+@SCHLOSSER (atemlos):
+Gute Neuigkeiten! Der Kapitän wird in seine Position reinstiert und sein Ruf vollständig wiederhergestellt.
+
+@APOTHEKER (glücklich):
+Ein Sieg der Gerechtigkeit und der Wahrheit über die Intrigen und Lügen. Unser gemeinsames Bemühen hat Früchte getragen.
+
+(DIE HAUSWIRTIN nimmt DIE HAND des APOTHEKERS, während DER KUENSTLER in einer Ecke des Parks ein Gemälde aufstellt.)
+
+@KUENSTLER (mit Emotion):
+Dieses Gemälde soll ein Symbol unserer Verbundenheit sein, ein Zeugnis unserer liebevollen Erinnerungen an diese Zeit der Prüfung und des Triumphs.
+
+(Das Gemälde zeigt die SCHNEIDERIN, den KAPITÄN, den KÜNSTLER und ihre Freunde in einer innigen Umarmung.)
+
+(Die SCHNEIDERIN, der KAPITÄN und ihre Freunde betrachten das Gemälde mit Freude.)
+
+@SCHNEIDERIN (sanft):
+Dieses Bild wird uns immer daran erinnern, dass wahre Freundschaft und Liebe jedes Hindernis überwinden können.
+
+@KAPITAEN (mit Hingabe):
+Ja, und möge unser gemeinsamer Pfad immer von Mut, Treue und der Schönheit des gemeinsamen Lebens erleuchtet sein.
+
+(Sie verlassen den Park und gehen Hand in Hand, vorwärts auf eine Zukunft des Glücks und der Erfüllung zugehend. Eine Harmonie umgibt sie, und die Sonne geht in einem warmen Leuchten unter.)
+
+@ENDE.
