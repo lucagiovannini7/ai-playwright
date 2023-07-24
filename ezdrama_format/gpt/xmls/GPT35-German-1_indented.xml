@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt></titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="volk">
+            <persName>VOLK</persName>
+          </person>
+          <person xml:id="hartmann">
+            <persName>HARTMANN</persName>
+          </person>
+          <person xml:id="august">
+            <persName>AUGUST</persName>
+          </person>
+          <person xml:id="menge">
+            <persName>MENGE</persName>
+          </person>
+          <person xml:id="mann">
+            <persName>MANN</persName>
+          </person>
+          <person xml:id="dienerin">
+            <persName>DIENERIN</persName>
+          </person>
+          <person xml:id="rosenberg">
+            <persName>ROSENBERG</persName>
+          </person>
+          <person xml:id="endezweiter akt">
+            <persName>ENDEZweiter Akt</persName>
+          </person>
+          <person xml:id="soldat">
+            <persName>SOLDAT</persName>
+          </person>
+          <person xml:id="amalie">
+            <persName>AMALIE</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-07-24">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>Erster Akt <stage>(Zimmer in einem herrschaftlichen Haus. Die Wände sind mit schweren Vorhängen, Gemälden und antiken Möbelstücken geschmückt. Ein Kamin, der mit einem wärmenden Feuer brennt, steht im Mittelpunkt des Raumes. Auf einem Tisch in der Mitte des Zimmers stehen fein gearbeitete Porzellantassen. Über allem liegt ein Hauch von Eleganz und Altertum.)</stage>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <stage>(eine junge, schöne Frau in gehobener Kleidung betritt den Raum, sie wirkt besorgt und unruhig. Sie geht zum Fenster und sieht hinaus)</stage>
+        <p><stage>(leise zu sich selbst)</stage> Was sind das für dunkle Wolken am Horizont? Warum lastet ein so schweres Gewicht auf meiner Brust?    <stage>(Sie entfernt sich vom Fenster und geht zu einem Tisch, auf dem ein Brief liegt. Sie nimmt den Brief auf und liest ihn sorgfältig.)</stage></p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(flüsternd)</stage> Mein geliebter AUGUST hat geschrieben. Lieber GOTT, bitte lass seine Worte unsere Glückseligkeit nicht zerstören.    <stage>(AMALIE lässt den Brief fallen und sinkt auf einen Stuhl. Ihr Blick ist besorgt und voller Tränen.)</stage></p>
+      </sp>
+      <stage>(Herr AUGUST, ein angesehener Mann mittleren Alters mit elegantem Anzug, betritt das Zimmer.)</stage>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(sanft)</stage> AMALIE, meine Liebe, was beschäftigt dich derart? Dein besorgter Blick schmerzt mein Herz.</p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(mit bebender Stimme)</stage> AUGUST, ich habe deinen Brief gelesen. Warum schreibst du solche Dinge? Warum so kryptisch? Was meinst du damit, dass es Änderungen geben wird?</p>
+      </sp>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(sitzt neben AMALIE und nimmt ihre Hand)</stage> Meine geliebte AMALIE, die Welt verändert sich ständig. Wir können dem Wechsel nicht entrinnen. Ich fühle, dass große Umbrüche bevorstehen, und ich möchte, dass wir vorbereitet sind.</p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(ängstlich)</stage> Aber welche Umbrüche? AUGUST, sprich mit mir, teile deine Ängste und Sorgen. Lass uns gemeinsam durch diese Zeiten gehen.</p>
+      </sp>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(blickt AMALIE tief in die Augen)</stage> Du bist meine Stütze, meine Verbündete. Doch es sind Entscheidungen von politischer Tragweite, die ich treffen muss. Ohne dein Verständnis wird unser Weg steinig werden.</p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(schluchzend)</stage> AUGUST, ich bin bereit, dich zu unterstützen, egal was geschieht. Wir sind eine Einheit, ein Team.    <stage>(Der Raum verdunkelt sich langsam und die Szene endet mit AMALIE und AUGUST, die sich in einer liebevollen Umarmung halten.)</stage></p>
+      </sp>
+      <stage>(Abgewechselt mit intensiven Blicken zwischen AMALIE und AUGUST, spricht sanfte Musik im Hintergrund.)</stage>
+      <sp who="#endezweiter akt">
+        <speaker>ENDEZweiter Akt</speaker>
+        <p></p>
+      </sp>
+      <stage>(Ein herrschaftlicher Salon, eingerichtet mit prächtigen Möbeln, edlen Teppichen und einem großen Kronleuchter in der Mitte des Raumes. Die festlichen Vorhänge sind geöffnet, und ein Tisch ist mit kleinen Köstlichkeiten und Wein gedeckt. AMALIE und AUGUST sitzen am Tisch und unterhalten sich lebhaft.)</stage>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(lächelt)</stage> Meine liebe AMALIE, in deiner Gegenwart vergesse ich alle Sorgen der Welt. Du bist mein Ruhepol und meine größte Stärke.</p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(strahlt)</stage> AUGUST, deine liebevollen Worte erfüllen mich mit Freude und Wärme. Unser gemeinsamer Mut wird uns durch jeden Sturm tragen, der auf uns zukommt.    <stage>(Ein Klopfen an der Tür unterbricht ihre Unterhaltung. Eine DIENERIN tritt ein.)</stage></p>
+      </sp>
+      <sp who="#dienerin">
+        <speaker>DIENERIN</speaker>
+        <p><stage>(verbeugt sich)</stage> Verzeiht die Störung, Eure Exzellenzen. Es sind wichtige Gäste eingetroffen, die Euch sprechen möchten.</p>
+      </sp>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(erhebt sich und richtet seine Kleidung)</stage> Zeige sie herein, wir werden uns umgehend ihrer Anliegen annehmen.</p>
+      </sp>
+      <stage>(Die DIENERIN verneigt sich erneut und verlässt den Raum. Kurz darauf treten GRAF VON HARTMANN und GRAFIN VON ROSENBERG ein, beide in feiner Abendgarderobe.</stage>
+      <sp who="#hartmann">
+        <speaker>HARTMANN</speaker>
+        <p><stage>(verbeugt sich vor AMALIE und AUGUST)</stage> Meine verehrten Freunde, wie geht es Euch? Wir haben diesmal kein gewöhnliches Anliegen, sondern eine Bitte von großer Bedeutung.</p>
+      </sp>
+      <sp who="#rosenberg">
+        <speaker>ROSENBERG</speaker>
+        <p><stage>(zustimmend)</stage> Ja, AUGUST, AMALIE, wir stehen an einem Scheideweg, der das Schicksal unseres Landes beeinflussen kann. Wir benötigen Eure Unterstützung und</p>
+      </sp>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(unterbricht energisch)</stage> Mein lieber HARTMANN, meine teure ROSENBERG, ich höre Euch aufmerksam zu. Doch lasst mich zuvor AMALIE um ihre Meinung bitten.</p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(mit Entschlossenheit)</stage> AUGUST, ich stehe an deiner Seite, egal vor welchen Herausforderungen wir stehen. Ich werde dich immer unterstützen und gemeinsam mit dir die beste Entscheidung treffen.</p>
+      </sp>
+      <stage>(AUGUST und AMALIE schauen sich tief in die Augen.)</stage>
+      <sp who="#hartmann">
+        <speaker>HARTMANN</speaker>
+        <p><stage>(ernst)</stage> Wir stehen vor einer Revolution, einer Zeit des Umbruchs. Der Druck des Volkes wächst, und wir müssen handeln. AUGUST, wir bitten dich, gemeinsam mit uns zu kämpfen, um Gerechtigkeit und Freiheit für unser Volk zu erringen.</p>
+      </sp>
+      <sp who="#rosenberg">
+        <speaker>ROSENBERG</speaker>
+        <p><stage>(eindringlich)</stage> Wir brauchen deine Stimme, AUGUST. Dein Einfluss und deine Redekunst können die Wogen glätten und zur Einheit führenDritter Akt</p>
+      </sp>
+      <stage>(Ein städtischer Marktplatz, geschmückt mit Fahnen und bunten Ständen. Die Menge ist in Unruhe und diskutiert lebhaft. Im Zentrum steht eine Rednertribüne, umgeben von erhöhten Sitzen. Menschenmengen versammeln sich um die Bühne, während aus der Ferne Truppen marschieren.)</stage>
+      <stage>(AUGUST, AMALIE, HARTMANN und ROSENBERG treten auf den Marktplatz. Sie sind von der Menge umgeben.)</stage>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(zu AUGUST)</stage> Die Stadt vibriert vor Aufregung und Spannung. Wie wird sich die Situation entwickeln?</p>
+      </sp>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(mit Entschlossenheit)</stage> Wir werden das Beste tun, um für Frieden und Einheit zu kämpfen. Dies ist der Moment, in dem unsere Worte zählen werden.</p>
+      </sp>
+      <stage>(HARTMANN klettert auf die Rednertribüne und beginnt zu sprechen.)</stage>
+      <sp who="#hartmann">
+        <speaker>HARTMANN</speaker>
+        <p><stage>(mit lauter Stimme)</stage> Meine Mitbürgerinnen und Mitbürger, höret meine Worte. Es ist an der Zeit, dass wir uns erheben und für unsere Rechte kämpfen.</p>
+      </sp>
+      <stage>(Applaus und zustimmendes Gemurmel aus der Menge.)</stage>
+      <sp who="#rosenberg">
+        <speaker>ROSENBERG</speaker>
+        <p><stage>(tritt neben HARTMANN und hält eine emotionale Rede)</stage> Lasst uns zusammenstehen, vereinte Brüder und Schwestern! Gemeinsam können wir den Wandel verwirklichen.</p>
+      </sp>
+      <sp who="#menge">
+        <speaker>MENGE</speaker>
+        <p><stage>(rufen)</stage> Freiheit! Gerechtigkeit!</p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(zu AUGUST)</stage> Sie hören uns, AUGUST. Diese Menschen wollen eine Veränderung. Lass unsere Stimmen zu ihnen sprechen.</p>
+      </sp>
+      <stage>(AUGUST tritt furchtlos auf die Rednertribüne und beginnt mit Nachdruck zu sprechen.)</stage>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(mit starker Stimme)</stage> Meine lieben Mitbürgerinnen und Mitbürger, in unseren Händen liegt die Macht, unsere Zukunft zu gestalten. Lassen Sie uns die Brücken der Verständigung bauen, uns über die Unterschiede hinwegsetzen und gemeinsam für ein besseres Morgen kämpfen.    <stage>(AMALIE, HARTMANN und ROSENBERG strahlen vor Stolz.)</stage>
+          <stage>(Plötzlich bricht ein Tumult aus. Truppen nähern sich dem Platz und zücken Schwerter.)</stage></p>
+      </sp>
+      <stage>(Applaus wird immer lauter, Jubel aus der Menge.)</stage>
+      <sp who="#soldat">
+        <speaker>SOLDAT</speaker>
+        <p><stage>(mit lauter Stimme)</stage> Das Versammlungsverbot ist hiermit erklärt! Jede weitere Ausübung des freien Wortes wird bestraft werden.</p>
+      </sp>
+      <sp who="#mann">
+        <speaker>MANN</speaker>
+        <p><stage>(mutig)</stage> Wir werden uns nicht einschüchtern lassen! Unsere Stimmen werden niemals verstummen.    (AMALIE, AUGUST, HARTMANN und ROSENBERG halten sich gegenseitig fest. Ein Gefühl der Verzweiflung liegt in der LuftVierter Akt</p>
+      </sp>
+      <stage>(MENSCHEN rufen laut, TRUPPEN drängen die Menge zurück.)</stage>
+      <stage>(Die Innenräume eines dunklen Gefängnisses. Die Wände sind kalt und feucht. AUGUST sitzt alleine in einer Ecke. Sein Gesicht ist von Trübsal gezeichnet.)</stage>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(murmelt vor sich hin)</stage> Wie konnte es so weit kommen? Der Mut der Menschen durchbricht die Mauern der Unterdrückung, nur um sie wieder auf mich fallen zu lassen.    <stage>(AMALIE betritt den Raum. Ihre Kleidung ist zerknittert, ihr Haar unordentlich. Sie rennt zu AUGUST.)</stage></p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(schluchzend)</stage> AUGUST! Endlich habe ich dich gefunden. Sie haben dich eingesperrt, aber sie können nicht unsere Liebe einsperren.</p>
+      </sp>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(blickt traurig auf)</stage> Meine geliebte AMALIE, ich kann nicht fassen, dass unsere Entschlossenheit der Strafe nachgibt. Wir wurden zu Stimmen der Veränderung, und nun sitze ich hier, eingekerkert wie ein Verbrecher.</p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(fasst seine Hände)</stage> Du bist kein Verbrecher, AUGUST. Du bist ein Visionär, der für die Rechte der Menschen kämpft. Unsere Träume mögen in den Schatten gerückt sein, aber mit Liebe und Entschlossenheit können wir sie wieder erstrahlen lassen.WÄRTER    <stage>(streng)</stage> Keine Zuneigung hier erlaubt! Ich werde jeden Versuch der Hervorbringung von Emotionen unterbinden. AUGUST, du hattest Glück, die Unterstützung dieser Dame zu haben. Aber denk daran, im Gefängnis herrscht keine Gerechtigkeit.</p>
+      </sp>
+      <stage>(Ein WÄRTER tritt auf und sieht die beiden an.)</stage>
+      <stage>(Er verlässt den Raum.)</stage>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(verzweifelt)</stage> Wie lange wird dieses dunkle Kapitel unserer Geschichte andauern, AMALIE? Wie viele Opfer müssen noch fallen, bevor die Freiheit ihren Weg zurückfindet?</p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(bestimmt)</stage> Die Härten des Lebens mögen uns geprüft haben, AUGUST, aber wir dürfen den Glauben nicht verlieren. Es mag Schmerz und Verlust geben, aber wir werden standhaft bleiben und die Flamme der Hoffnung am Brennen halten.    <stage>(Plötzlich hören sie Stimmen im Hintergrund. Es ist die gedämpfte Stimme des VOLKES, das ihre Unterstützung ausdrückt.)</stage></p>
+      </sp>
+      <stage>(AMALIE küsst AUGUST auf die Stirn.)</stage>
+      <sp who="#volk">
+        <speaker>VOLK</speaker>
+        <p><stage>(rufend)</stage> Lasst den Gerechten frei! AUGUST ist der Stimme des Volkes!    <stage>(Die Rufe werden lauter und lauter.)</stage></p>
+      </sp>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(lächelt schwach)</stage> Mein Herz erwärmt sich an diesen Klängen. Es ist tröstlich zu wissen, dass ich nicht vergessen bin.</p>
+      </sp>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(mit Entschlossenheit)</stage> Wir werden nicht aufgeben, AUGUST. Wir werden durch diese dunkle Nacht schreiten und das LichtFünfter Akt</p>
+      </sp>
+      <stage>(Der Marktplatz ist erneut gefüllt mit Menschenmengen. Fahnen wehen im Wind und Musik erklingt im Hintergrund. AUGUST, AMALIE, HARTMANN und ROSENBERG stehen nun auf der Rednertribüne, deren Erscheinung ein Symbol der Hoffnung ist.)</stage>
+      <sp who="#august">
+        <speaker>AUGUST</speaker>
+        <p><stage>(mit leidenschaftlicher Stimme)</stage> Meine lieben Mitbürgerinnen und Mitbürger, ich stehe heute vor euch als ein Mann, der vom Kerker der Unterdrückung befreit wurde. Doch ich bin nicht allein. Ich stehe hier mit meiner wunderbaren Frau AMALIE, meinem treuen Freund HARTMANN und der tapferen ROSENBERG!</p>
+      </sp>
+      <stage>(Die Menschen jubeln lautstark.)</stage>
+      <sp who="#amalie">
+        <speaker>AMALIE</speaker>
+        <p><stage>(blickt stolz auf AUGUST)</stage> AUGUST, es ist ein Moment der Prüfung und des Triumphes. Die Stimmen des VOLKES haben sich vereint, die Mauern der Unterdrückung niederzureißen.</p>
+      </sp>
+      <sp who="#hartmann">
+        <speaker>HARTMANN</speaker>
+        <p><stage>(erhebt seine Stimme)</stage> Die Revolution möge nicht nur ein </p>
+      </sp>
+      <div type="scene">
+        <head>Akt der Rebellion gegen das Alte sein, sondern auch ein Weg, um das Fundament einer freieren und gerechteren Gesellschaft zu legen.</head>
+        <sp who="#rosenberg">
+          <speaker>ROSENBERG</speaker>
+          <p><stage>(ergänzt)</stage> Jedes Individuum hat das Recht auf seine Stimme, seine Meinung und seine Träume. Lasst uns diese Rechte verteidigen und für eine Welt kämpfen, in der Freiheit und Mitmenschlichkeit regieren.</p>
+        </sp>
+        <stage>(Menschen schwenken Fähnchen, halten Plakate hoch und rufen begeistert)</stage>
+        <sp who="#volk">
+          <speaker>VOLK</speaker>
+          <p><stage>(chorsingend)</stage> Freiheit für AUGUST! Freiheit für unser Volk!</p>
+        </sp>
+        <stage>(Die Menge bewegt sich langsam auf die Rednertribüne zu, AUGUST, AMALIE, HARTMANN und ROSENBERG werden von der Jubelmenge ergriffen.)</stage>
+        <sp who="#august">
+          <speaker>AUGUST</speaker>
+          <p><stage>(zu AMALIE)</stage> Mein Herz ist erfüllt von Dankbarkeit und Demut. Wir haben uns einer Bewegung angeschlossen, die größer ist als wir selbst. Möge unsere Vision von Gerechtigkeit und Frieden Wurzeln in den Herzen der Menschen schlagen.</p>
+        </sp>
+        <stage>(HARTMANN und ROSENBERG nehmen AUGUST bei den Schultern und halten fest zusammen.)</stage>
+        <sp who="#hartmann">
+          <speaker>HARTMANN</speaker>
+          <p><stage>(mit Entschlossenheit)</stage> Wir marschieren Seite an Seite, unsere Stimmen vereint, um die Welt zu prägen, die wir uns erträumen. Die Zeiten mögen stürmisch sein, aber lasst uns unseren Glauben an die menschliche Natur nie verlieren.</p>
+        </sp>
+        <sp who="#rosenberg">
+          <speaker>ROSENBERG</speaker>
+          <p><stage>(erhebt seine Faust)</stage> Der Kampf mag lang und schwierig sein, aber wir werden niemals aufgeben. Unsere Stimmen mögen gedämpft gewesen sein, aber sie werden nicht mehr verstummen</p>
+        </sp>
+        <stage>(Die Menge umarmt sich und reckt die Fäuste in die Luft. Das Lied der Revolution erklingt.)</stage>
+        <sp>
+          <speaker>ENDE</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

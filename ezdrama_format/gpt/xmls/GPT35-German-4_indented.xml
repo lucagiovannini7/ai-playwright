@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt></titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="prinz ferdinand von hohenstein">
+            <persName>PRINZ FERDINAND von Hohenstein</persName>
+          </person>
+          <person xml:id="edward">
+            <persName>EDWARD</persName>
+          </person>
+          <person xml:id="prinz ferdinand steht in der mitte des raumes und begrüßt die gäste. louisa steht an seiner seite und strahlt vor glück. die atmosphäre istvorhang geht auf">
+            <persName>PRINZ FERDINAND steht in der Mitte des Raumes und begrüßt die Gäste. LOUISA steht an seiner Seite und strahlt vor Glück. Die Atmosphäre istVORHANG GEHT AUF</persName>
+          </person>
+          <person xml:id="louisa">
+            <persName>LOUISA</persName>
+          </person>
+          <person xml:id="sophie">
+            <persName>SOPHIE</persName>
+          </person>
+          <person xml:id="richard">
+            <persName>RICHARD</persName>
+          </person>
+          <person xml:id="burkhard">
+            <persName>BURKHARD</persName>
+          </person>
+          <person xml:id="vorhang fälltvorhang geht auf">
+            <persName>VORHANG FÄLLTVORHANG GEHT AUF</persName>
+          </person>
+          <person xml:id="prinz ferdinand">
+            <persName>PRINZ FERDINAND</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-07-24">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>VORHANG GEHT AUF <stage>(Szene 1: Ein eleganter Salon in einem herrschaftlichen Haus. Die Wände sind mit edlen Gemälden geschmückt. Auf der rechten Seite steht ein edler Flügel, auf der linken Seite ein mit prunkvollem Porzellan verzierter Kamin. Ein großer Kristallkronleuchter hängt von der Decke und wirft funkelndes Licht auf die Szenerie.)</stage>
+      <sp who="#prinz ferdinand von hohenstein">
+        <speaker>PRINZ FERDINAND von Hohenstein</speaker>
+        <p>Heute Abend empfange ich die Eliten der Stadt in meinem Hause. Ein Dankeschön für ihre Unterstützung in meiner politischen Kampagne. </p>
+      </sp>
+      <stage>(in elegantem Anzug, Anfang 30)</stage>
+      <stage>(EDWARD, der Diener des Prinzen, tritt ein)</stage>
+      <sp who="#edward">
+        <speaker>EDWARD</speaker>
+        <p>Eure Hoheit, die ersten Gäste treffen bereits ein. Wie möchtet Ihr den Abend beginnen?</p>
+      </sp>
+      <stage>(respektvoll)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Bevor wir die Gäste begrüßen, möchte ich erst einen Moment der Ruhe, Edward.</p>
+      </sp>
+      <stage>(sinnend)</stage>
+      <stage>(EDWARD nickt und geht ab. PRINZ FERDINAND tritt ans Fenster und betrachtet nachdenklich die vorbeiziehende Kutsche.)</stage>
+      <stage>(Szene 2: Im Garten vor dem Salon. LOUISA, eine attraktive junge Dame, nähert sich dem Haus. Sie ist in traumhafter Robe gekleidet und trägt einen reich geschmückten Fächer.)</stage>
+      <sp who="#louisa">
+        <speaker>LOUISA</speaker>
+        <p>Heute Abend wird mein Schicksal besiegelt. Prinz Ferdinand wird mein Ehemann werden und ich werde Königin sein. Ist es nicht wundervoll?</p>
+      </sp>
+      <stage>(schwebend)</stage>
+      <stage>(Prinz FERDINAND tritt aus dem Haus und bemerkt LOUISA.)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Bezaubernde Louisa, wie wundervoll, Euch hier zu sehen. Ihr seid die Königin meines Herzens.</p>
+      </sp>
+      <stage>(fasziniert)</stage>
+      <stage>(Louisa senkt den Fächer und strahlt.)</stage>
+      <sp who="#louisa">
+        <speaker>LOUISA</speaker>
+        <p>Prinz Ferdinand, ich bin überwältigt von Euren Worten. Seid versichert, dass ich ebenso empfinde.</p>
+      </sp>
+      <stage>(lächelnd)</stage>
+      <stage>(PRINZ FERDINAND nimmt LOUISAS Hand und küsst sie galant.)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Lasst uns diesen Abend gemeinsam genießen, mein Liebling. Möge er der Beginn einer glücklichen Zukunft sein.</p>
+      </sp>
+      <stage>(entzückt)</stage>
+      <stage>(Szene 3: Im Salon. Musik erklingt im Hintergrund. Die Gäste trudeln ein; darunter RICHARD, ein politischer Verbündeter des Prinzen, SOPHIE, eine betörende junge Dame aus gutem Haus, und BURKHARD, ein mysteriöser Fremder mit einem geheimnisvollen Lächeln.)</stage>
+      <sp who="#prinz ferdinand steht in der mitte des raumes und begrüßt die gäste. louisa steht an seiner seite und strahlt vor glück. die atmosphäre istvorhang geht auf">
+        <speaker>PRINZ FERDINAND steht in der Mitte des Raumes und begrüßt die Gäste. LOUISA steht an seiner Seite und strahlt vor Glück. Die Atmosphäre istVORHANG GEHT AUF</speaker>
+        <p></p>
+      </sp>
+      <stage>(Szene 1: Der elegante Salon, das Fest ist auf dem Höhepunkt. Die Gäste tanzen zu einer lebhaften Walzermelodie. PRINZ FERDINAND und LOUISA stehen in der Mitte des Raumes und beobachten das Geschehen.)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Der Abend ist ein voller Erfolg, meine Liebe. Die Gäste sind begeistert und wir ernten viel Lob.</p>
+      </sp>
+      <stage>(strahlend)</stage>
+      <sp who="#louisa">
+        <speaker>LOUISA</speaker>
+        <p>Es ist ein unvergesslicher Abend, Prinz Ferdinand. Ich danke Euch von ganzem Herzen für Eure Gastfreundschaft.</p>
+      </sp>
+      <stage>(gerührt)</stage>
+      <stage>(PRINZ FERDINAND neigt galant den Kopf und führt LOUISA zu einem kleinen Tisch.)</stage>
+      <stage>(Szene 2: An einem Seitenflügel des Salons. RICHARD tritt hervor und wird von SOPHIE begleitet.)</stage>
+      <sp who="#richard">
+        <speaker>RICHARD</speaker>
+        <p>Sophie, es ist von großer Bedeutung, dass wir dieses Bündnis zwischen Prinz Ferdinand und Louisa vorantreiben. Es geht um die Zukunft unseres Landes.</p>
+      </sp>
+      <stage>(vertraulich)</stage>
+      <sp who="#sophie">
+        <speaker>SOPHIE</speaker>
+        <p>Ja, Richard, ich verstehe. Wir müssen unsere Unterstützung gewährleisten und die richtigen Weichen stellen.</p>
+      </sp>
+      <stage>(zustimmend)</stage>
+      <stage>(Nickende Gäste passieren, PRINZ FERDINAND und LOUISA sind im Hintergrund zu sehen.)</stage>
+      <sp who="#richard">
+        <speaker>RICHARD</speaker>
+        <p>Doch ich habe Zweifel an Burkhard, dem Fremden. Sein Auftreten ist eigenartig und er scheint tiefe Geheimnisse zu hüten. Ich werde seine Absichten genauer prüfen.</p>
+      </sp>
+      <stage>(nachdenklich)</stage>
+      <sp who="#sophie">
+        <speaker>SOPHIE</speaker>
+        <p>Richard, seid vorsichtig! Es ist gefährlich, sich mit jemandem Unbekannten einzulassen.</p>
+      </sp>
+      <stage>(besorgt)</stage>
+      <stage>(RICHARD nimmt SOPHIES Hand.)</stage>
+      <sp who="#richard">
+        <speaker>RICHARD</speaker>
+        <p>Vertraut mir, meine Liebe, ich werde die Wahrheit herausfinden. Es steht zu viel auf dem Spiel.</p>
+      </sp>
+      <stage>(entschlossen)</stage>
+      <stage>(Die Musik wird lauter, die Gäste tanzen und lachen im Hintergrund.)</stage>
+      <stage>(Szene 3: Der Garten, vor dem Salon. BURKHARD tritt hervor und beobachtet das Festgeschehen.)</stage>
+      <sp who="#burkhard">
+        <speaker>BURKHARD</speaker>
+        <p>Das Spiel beginnt sich zu entfalten. Die Fäden weben sich immer enger zusammen. Prinz Ferdinand und Louisa ahnen nicht, welch grausame Schicksalsschläge auf sie zukommen.</p>
+      </sp>
+      <stage>(lächelnd)</stage>
+      <stage>(Ein leises Lachen entweicht ihm. Er verschwindet in der Dunkelheit.)</stage>
+      <stage>(Die Musik verstummt allmählich.)</stage>
+      <stage>(Szene 4: Der Salon. Die Gäste versammeln sich vor dem großen Fenster.)</stage>
+      <sp who="#louisa">
+        <speaker>LOUISA</speaker>
+        <p>Prinz Ferdinand, schaut nur! Der Himmel färbt sich rot. Es ist ein Zeichen des Unglücks.</p>
+      </sp>
+      <stage>(überrascht)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Das ist seltsam, Louisa. Was magVORHANG GEHT AUF</p>
+      </sp>
+      <stage>(besorgt)</stage>
+      <stage>(Szene 1: Ein düsteres Studierzimmer in einem alten Schloss. BURKHARD steht allein in der Mitte des Raumes, umgeben von Büchern und mysteriösen Gegenständen.)</stage>
+      <sp who="#burkhard">
+        <speaker>BURKHARD</speaker>
+        <p>Endlich ist der Moment gekommen. Die Prophezeiung wird sich erfüllen und ich werde die Macht erlangen, nach der ich so lange gestrebt habe.</p>
+      </sp>
+      <stage>(verzückt)</stage>
+      <stage>(Er murmelt unverständliche Worte und beginnt, Zeichen auf den Boden zu zeichnen.)</stage>
+      <stage>(Szene 2: Der Salon im Schloss. PRINZ FERDINAND, LOUISA, SOPHIE und RICHARD sitzen an einem großen Tisch.)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Es ist seltsam. Seit dem Fest ist eine düstere Stimmung über das Land gekommen. Ein Unglück scheint bevorzustehen.</p>
+      </sp>
+      <stage>(beunruhigt)</stage>
+      <sp who="#sophie">
+        <speaker>SOPHIE</speaker>
+        <p>Ich habe von Burkhard gehört, dass er finstere Pläne schmiedet. Wir müssen ihn aufhalten, bevor es zu spät ist.</p>
+      </sp>
+      <stage>(nervös)</stage>
+      <sp who="#louisa">
+        <speaker>LOUISA</speaker>
+        <p>Aber wie, meine Lieben? Wir wissen so wenig über ihn und seine Absichten.</p>
+      </sp>
+      <stage>(aufgeregt)</stage>
+      <sp who="#richard">
+        <speaker>RICHARD</speaker>
+        <p>Wir müssen ihn konfrontieren, die Wahrheit ans Licht bringen. Das Schicksal unseres Landes hängt davon ab.</p>
+      </sp>
+      <stage>(entschlossen)</stage>
+      <stage>(Szene 3: Das düstere Studierzimmer. PRINZ FERDINAND, LOUISA, SOPHIE und RICHARD betreten vorsichtig den Raum.)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Burkhard, wir wissen um deine Pläne. Du wirst dich uns stellen müssen!</p>
+      </sp>
+      <stage>(herausfordernd)</stage>
+      <stage>(BURKHARD dreht sich langsam um, ein finsteres Lächeln auf dem Gesicht.)</stage>
+      <sp who="#burkhard">
+        <speaker>BURKHARD</speaker>
+        <p>Ihr seid zu spät, Prinz Ferdinand. Mein Werk ist vollendet.</p>
+      </sp>
+      <stage>(spöttisch)</stage>
+      <stage>(Eine dunkle Energie erfüllt den Raum, gefolgt von einem lauten Knall.)</stage>
+      <stage>(Szene 4: Der Salon im Schloss. Ein Fluch hat den Raum erfasst. Die Wände sind mit Efeu bedeckt, ein fahles Licht scheint durch die Fenster. Die Gäste liegen regungslos am Boden.)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Louisa! Richard! Sophie!</p>
+      </sp>
+      <stage>(ängstlich)</stage>
+      <stage>(LOUISA, RICHARD und SOPHIE bewegen sich langsam und verwirrt.)</stage>
+      <sp who="#sophie">
+        <speaker>SOPHIE</speaker>
+        <p>Was ist geschehen? Wo sind wir?</p>
+      </sp>
+      <stage>(benommen)</stage>
+      <sp who="#louisa">
+        <speaker>LOUISA</speaker>
+        <p>Wir sind in einer anderen Dimension gefangen.</p>
+      </sp>
+      <stage>(panisch)</stage>
+      <sp who="#richard">
+        <speaker>RICHARD</speaker>
+        <p>Wir müssen Burkhard finden und den Fluch brechen, bevor es zu spät ist. </p>
+      </sp>
+      <stage>(kämpferisch)</stage>
+      <stage>(Die vier Charaktere verlassen den Salon, entschlossen, Burkhard zu konfrontieren.)</stage>
+      <sp who="#vorhang fälltvorhang geht auf">
+        <speaker>VORHANG FÄLLTVORHANG GEHT AUF</speaker>
+        <p></p>
+      </sp>
+      <stage>(Szene 1: Ein düsterer Wald. PRINZ FERDINAND, LOUISA, SOPHIE und RICHARD rennen atemlos durch das Unterholz.)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Haltet euch fest, meine Lieben! Wenn wir Burkhard nicht aufhalten, wird dieser Fluch für immer über uns und das Land herrschen.</p>
+      </sp>
+      <stage>(erschöpft)</stage>
+      <sp who="#sophie">
+        <speaker>SOPHIE</speaker>
+        <p>Wir dürfen nicht aufgeben! Für das Wohl unseres Volkes müssen wir Burkhard finden und den Bann durchbrechen.</p>
+      </sp>
+      <stage>(voller Entschlossenheit)</stage>
+      <stage>(Sie setzen ihren Weg energisch fort und gelangen schließlich an eine mysteriöse Höhle.)</stage>
+      <stage>(Szene 2: In der Höhle. PRINZ FERDINAND, LOUISA, SOPHIE und RICHARD betreten vorsichtig den düsteren Raum.)</stage>
+      <sp who="#louisa">
+        <speaker>LOUISA</speaker>
+        <p>Burkhard, wir wissen, dass du hier bist! Zeige dich!</p>
+      </sp>
+      <stage>(mit zitternder Stimme)</stage>
+      <stage>(Burkhard taucht langsam aus dem Schatten auf.)</stage>
+      <sp who="#burkhard">
+        <speaker>BURKHARD</speaker>
+        <p>Ihr habt mich gefunden. Aber ihr könnt mich nicht aufhalten. Der Fluch ist unauslöschlich!</p>
+      </sp>
+      <stage>(grinsend)</stage>
+      <sp who="#richard">
+        <speaker>RICHARD</speaker>
+        <p>Wir werden dich stoppen, Burkhard. Kein Fluch ist stärker als die Macht der Liebe und des Zusammenhalts.</p>
+      </sp>
+      <stage>(mutig)</stage>
+      <stage>(Szene 3: Ein gewaltiges Duell zwischen PRINZ FERDINAND und BURKHARD entfaltet sich. Kämpfe, wirbelnde Energien und dramatische Bewegungen. LOUISA, SOPHIE und RICHARD stehen gespannt am Rand.)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Du magst Macht besitzen, Burkhard, aber meine Liebe zu Louisa ist stärker als jedes dunkle Verlangen.</p>
+      </sp>
+      <stage>(stark)</stage>
+      <stage>(BURKHARD strauchelt, aber gibt nicht auf.)</stage>
+      <sp who="#burkhard">
+        <speaker>BURKHARD</speaker>
+        <p>Es ist nutzlos! Der Fluch wird euch nicht entkommen!</p>
+      </sp>
+      <stage>(verzweifelt)</stage>
+      <stage>(Theaterdonner und plötzliche Stille.)</stage>
+      <stage>(Szene 4: Der Höhlenboden beginnt zu beben, helle Lichter umgeben die Charaktere. Der Fluch scheint gebrochen zu sein.)</stage>
+      <sp who="#louisa">
+        <speaker>LOUISA</speaker>
+        <p>Was... was ist geschehen?</p>
+      </sp>
+      <stage>(fassungslos)</stage>
+      <stage>(Alle blicken überrascht auf BURKHARD. Sein Gesicht wechselt von finster zu mild und reumütig.)</stage>
+      <sp who="#burkhard">
+        <speaker>BURKHARD</speaker>
+        <p>Ihr habt das Böse besiegt. Ich habe mich von Rachegedanken leiten lassen und meine Taten haben Schrecken über das Land gebracht. Verzeiht mir.</p>
+      </sp>
+      <stage>(demütig)</stage>
+      <stage>(SOPHIE tritt nach vorne und reicht ihm die Hand.)</stage>
+      <sp who="#sophie">
+        <speaker>SOPHIE</speaker>
+        <p>Burkhard, wenn du wahrhaftig bereust, sind wir bereit, dir zu vergeben. Lasst uns gemeinsam versuchen, das Land zu heilen.</p>
+      </sp>
+      <stage>(friedvoll)</stage>
+      <stage>(Alle Charaktere reichen Burkhard die Hand.)</stage>
+      <stage>(Szene 5: ZurVORHANG GEHT AUF</stage>
+      <stage>(Szene 1: Ein prächtiger Festsaal im Palast. Die Wände sind mit kostbaren Wandteppichen geschmückt, ein großer Kronleuchter erhellt den Raum. Eine festliche Stimmung herrscht.)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Heute feiern wir das Ende unseres Leids und das Neue, das vor uns liegt. Lasst uns den Frieden und die Freude dieser Nacht genießen.</p>
+      </sp>
+      <stage>(erfreut)</stage>
+      <stage>(Die Gäste versammeln sich, tanzen und lachen, während Musik erklingt.)</stage>
+      <stage>(Szene 2: In der Mitte des Saals. LOUISA und PRINZ FERDINAND stehen eng umschlungen und strahlen vor Glück.)</stage>
+      <sp who="#louisa">
+        <speaker>LOUISA</speaker>
+        <p>Prinz Ferdinand, ich bin überwältigt von Dankbarkeit und Glück. Gemeinsam haben wir die dunklen Schatten besiegt und unsere Liebe gestärkt.</p>
+      </sp>
+      <stage>(emotional)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Louisa, du bist meine Königin, meine wahre Liebe. Lasst uns diese Nacht dazu nutzen, den Beginn einer strahlenden Zukunft zu feiern.</p>
+      </sp>
+      <stage>(zärtlich)</stage>
+      <stage>(Szene 3: An einem kleinen Tisch am Rand des Saals. RICHARD und SOPHIE sitzen beisammen und unterhalten sich.)</stage>
+      <sp who="#sophie">
+        <speaker>SOPHIE</speaker>
+        <p>Richard, wer hätte gedacht, dass unsere Verbundenheit in dieser schwierigen Zeit zu einer wahren Freundschaft herangewachsen ist?</p>
+      </sp>
+      <stage>(nachdenklich)</stage>
+      <sp who="#richard">
+        <speaker>RICHARD</speaker>
+        <p>Ja, Sophie, die Herausforderungen haben uns zusammengeschweißt und uns gezeigt, dass unsere Stärke im Zusammenhalt liegt.</p>
+      </sp>
+      <stage>(herzlich)</stage>
+      <stage>(Szene 4: An einem anderen Tisch. BURKHARD sitzt allein und beobachtet das Festgeschehen.)</stage>
+      <sp who="#burkhard">
+        <speaker>BURKHARD</speaker>
+        <p>Die Nacht des Neubeginns ist angebrochen, und ich stehe hier als Zeuge meiner eigenen Wandlung. Meine vergangenen Fehler mögen dunkel sein, aber ich werde für immer daran arbeiten, sie wiedergutzumachen.</p>
+      </sp>
+      <stage>(nachdenklich)</stage>
+      <stage>(Ein dahinschwebender Tanz tritt auf die Bühne und betört die Gäste.)</stage>
+      <stage>(Szene 5: Der Tanz erreicht seinen Höhepunkt. Die charakteristische Melodie erklingt und alle Gäste werden vom Zauber des Moments erfasst.)</stage>
+      <stage>(Die Bühne erstrahlt in einem magischen Licht und die Charaktere verschmelzen in einem ausdrucksstarken Ensemble.)</stage>
+      <stage>(PAUSE)</stage>
+      <stage>(Szene 6: Ein weiterer Tag im Schloss. Der Palastgarten ist idyllisch und von Blumen übersät. PRINZ FERDINAND und LOUISA schlendern hand in Hand.)</stage>
+      <sp who="#louisa">
+        <speaker>LOUISA</speaker>
+        <p>Prinz Ferdinand, unser Leben ist erfüllt von Glück und Harmonie. Nie hätte ich mir eine wundervollere Zukunft erträumen können.</p>
+      </sp>
+      <stage>(strahlend)</stage>
+      <sp who="#prinz ferdinand">
+        <speaker>PRINZ FERDINAND</speaker>
+        <p>Louisa, du bist alles, was mein Herz begehrt. J</p>
+      </sp>
+      <stage>(glücklich)</stage>
+    </body>
+  </text>
+</TEI>

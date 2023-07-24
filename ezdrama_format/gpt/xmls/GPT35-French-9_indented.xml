@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt></titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="serviteur">
+            <persName>SERVITEUR:</persName>
+          </person>
+          <person xml:id="vicomtesse: ma chère comtesse, votre solitude est trop apparente. ces murailles muettes doivent être remplies de rires et de gaieté">
+            <persName>VICOMTESSE: Ma chère Comtesse, votre solitude est trop apparente. Ces murailles muettes doivent être remplies de rires et de gaieté</persName>
+          </person>
+          <person xml:id="vicomte">
+            <persName>VICOMTE:</persName>
+          </person>
+          <person xml:id="vicomte: chère comtesse, que le ciel vous préserve! vous transpirez le désespoir, mais la lueur de votre beauté est toujours perceptible">
+            <persName>VICOMTE: Chère Comtesse, que le ciel vous préserve! Vous transpirez le désespoir, mais la lueur de votre beauté est toujours perceptible</persName>
+          </person>
+          <person xml:id="dramaturge">
+            <persName>DRAMATURGE:</persName>
+          </person>
+          <person xml:id="diplomate">
+            <persName>DIPLomate:</persName>
+          </person>
+          <person xml:id="la comtesse">
+            <persName>LA COMTESSE:</persName>
+          </person>
+          <person xml:id="commissaire de police">
+            <persName>COMMISSAIRE DE POLICE:</persName>
+          </person>
+          <person xml:id="comtesse">
+            <persName>COMTESSE:</persName>
+          </person>
+          <person xml:id="comte">
+            <persName>COMTE:</persName>
+          </person>
+          <person xml:id="vicomtesse: chère comtesse, vous êtes un modèle d'élégance et de résilience. je suis enchantée de voir votre bonheur retrouvé">
+            <persName>VICOMTESSE: Chère Comtesse, vous êtes un modèle d'élégance et de résilience. Je suis enchantée de voir votre bonheur retrouvé</persName>
+          </person>
+          <person xml:id="serviteur: madame, vos invités sont arrivés">
+            <persName>SERVITEUR: Madame, vos invités sont arrivés!</persName>
+          </person>
+          <person xml:id="dramaturge: comtesse">
+            <persName>DRAMATURGE: Comtesse!</persName>
+          </person>
+          <person xml:id="tous">
+            <persName>TOUS:</persName>
+          </person>
+          <person xml:id="dramaturge: ma chère comtesse, mes mots trouveront notre voie dans l'abysse des ténèbres. accordez-moi votre confiance, et je vous promets de peindre une image de lumière pour vous">
+            <persName>DRAMATURGE: Ma chère Comtesse, mes mots trouveront notre voie dans l'abysse des ténèbres. Accordez-moi votre confiance, et je vous promets de peindre une image de lumière pour vous</persName>
+          </person>
+          <person xml:id="la comtesse: pourquoi m'illusionner avec des futilités? mon propre désespoir me consume">
+            <persName>LA COMTESSE: Pourquoi m'illusionner avec des futilités? Mon propre désespoir me consume</persName>
+          </person>
+          <person xml:id="vicomtesse">
+            <persName>VICOMTESSE:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-07-24">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>
+      <div type="scene">
+        <head>ACTE I</head>
+        <stage>(Une chambre sombre d'une maison noble dans la campagne française. Le mobilier est ancien et recouvert de poussière, indiquant qu'il n'a pas été utilisé depuis longtemps. La scène est éclairée par la lueur faible de bougies presque consumées. LA COMTESSE se tient debout près de la fenêtre, observant l'extérieur avec tristesse. Un SERVITEUR entre précipitamment.)</stage>
+        <sp who="#serviteur: madame, vos invités sont arrivés">
+          <speaker>SERVITEUR: Madame, vos invités sont arrivés!</speaker>
+          <p></p>
+        </sp>
+        <sp who="#la comtesse">
+          <speaker>LA COMTESSE:</speaker>
+          <stage>(détachée)</stage>
+          <p></p>
+        </sp>
+        <stage>(Le SERVITEUR sort rapidement. LA COMTESSE s'approche d'un miroir de pied près de la porte et arrange ses cheveux et sa robe. Elle pince ses joues pour donner un peu de couleur à son visage. Lorsqu'elle est satisfaite de son apparence, elle sort de la pièce en traînant les pieds.)</stage>
+        <stage>(Le salon de la maison noble est richement décoré avec des tapisseries et des meubles en velours. Les INVITÉS sont situés au milieu de la pièce, conversant calmement. LA COMTESSE entre lentement.)</stage>
+        <sp who="#la comtesse">
+          <speaker>LA COMTESSE:</speaker>
+          <stage>(avec tristesse)</stage>
+          <p></p>
+        </sp>
+        <stage>(DRAMATURGE entre, un homme de lettres portant des manuscrits et une plume derrière l'oreille.)</stage>
+        <sp who="#dramaturge: comtesse">
+          <speaker>DRAMATURGE: Comtesse!</speaker>
+          <stage>(en s'inclinant)</stage>
+          <p></p>
+        </sp>
+        <sp who="#la comtesse">
+          <speaker>LA COMTESSE:</speaker>
+          <stage>(faiblement)</stage>
+          <p></p>
+        </sp>
+        <sp who="#dramaturge: ma chère comtesse, mes mots trouveront notre voie dans l'abysse des ténèbres. accordez-moi votre confiance, et je vous promets de peindre une image de lumière pour vous">
+          <speaker>DRAMATURGE: Ma chère Comtesse, mes mots trouveront notre voie dans l'abysse des ténèbres. Accordez-moi votre confiance, et je vous promets de peindre une image de lumière pour vous.</speaker>
+          <p></p>
+        </sp>
+        <stage>(Entre le VICOMTE, un homme jeune et élégant qui sautille avec nonchalance. Il baise la main de LA COMTESSE.)</stage>
+        <sp who="#vicomte: chère comtesse, que le ciel vous préserve! vous transpirez le désespoir, mais la lueur de votre beauté est toujours perceptible">
+          <speaker>VICOMTE: Chère Comtesse, que le ciel vous préserve! Vous transpirez le désespoir, mais la lueur de votre beauté est toujours perceptible.</speaker>
+          <p></p>
+        </sp>
+        <stage>(Entre la VICOMTESSE, une femme éblouissante portant une riche robe de soirée. Elle s'approche de LA COMTESSE.)</stage>
+        <sp who="#vicomtesse: ma chère comtesse, votre solitude est trop apparente. ces murailles muettes doivent être remplies de rires et de gaieté">
+          <speaker>VICOMTESSE: Ma chère Comtesse, votre solitude est trop apparente. Ces murailles muettes doivent être remplies de rires et de gaieté.</speaker>
+          <p></p>
+        </sp>
+        <sp who="#la comtesse: pourquoi m'illusionner avec des futilités? mon propre désespoir me consume">
+          <speaker>LA COMTESSE: Pourquoi m'illusionner avec des futilités? Mon propre désespoir me consume.</speaker>
+          <p></p>
+        </sp>
+        <sp who="#vicomte">
+          <speaker>VICOMTE:</speaker>
+          <stage>(dramatique)</stage>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ACTE II</head>
+        <stage>(Une autre partie de la maison noble, le cabinet du DIPLomate. La pièce est décorée avec des cartes du monde et des livres anciens. Le DIPLomate est assis à son bureau, lisant une correspondance. La COMTESSE entre rapidement.)</stage>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(angoissée)</stage>
+          <p></p>
+        </sp>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(se levant et s'inclinant)</stage>
+          <p></p>
+        </sp>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(hésitante)</stage>
+          <p></p>
+        </sp>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(préoccupé)</stage>
+          <p></p>
+        </sp>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(pleurant)</stage>
+          <p></p>
+        </sp>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(déterminé)</stage>
+          <p></p>
+        </sp>
+        <stage>(COMTESSE essuie ses larmes et exprime sa gratitude.)</stage>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(reconnaissante)</stage>
+          <p></p>
+        </sp>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(solennellement)</stage>
+          <p></p>
+        </sp>
+        <stage>(Les deux sortent du cabinet en direction de la salle de réception. La salle de réception est animée avec des personnes en costume de soirée, des musiciens jouant de la musique douce. LA COMTESSE rejoint les INVITÉS. La VICOMTESSE et le VICOMTE sont engagés dans une conversation animée.)</stage>
+        <sp who="#vicomte">
+          <speaker>VICOMTE:</speaker>
+          <stage>(à la VICOMTESSE)</stage>
+          <p></p>
+        </sp>
+        <sp who="#vicomtesse">
+          <speaker>VICOMTESSE:</speaker>
+          <stage>(avec mépris)</stage>
+          <p></p>
+        </sp>
+        <stage>(VICOMTE regarde fixement vers LA COMTESSE, pleine de tristesse mais digne.)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE III</head>
+        <stage>(Un jardin fleuri à l'arrière de la maison noble. Le soleil brille et les oiseaux gazouillent joyeusement. LA COMTESSE se promène seule dans le jardin, perdue dans ses pensées. Le SERVITEUR entre en hâte.)</stage>
+        <sp who="#serviteur">
+          <speaker>SERVITEUR:</speaker>
+          <stage>(essoufflé)</stage>
+          <p></p>
+        </sp>
+        <stage>(COMTESSE prend la lettre précipitamment et lit avec anxiété.)</stage>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(choquée)</stage>
+          <p></p>
+        </sp>
+        <stage>(Le DIPLomate entre à ce moment et voit la COMTESSE en détresse.)</stage>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(inquiet)</stage>
+          <p></p>
+        </sp>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(la voix tremblante)</stage>
+          <p></p>
+        </sp>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(consterné)</stage>
+          <p></p>
+        </sp>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(fermement)</stage>
+          <p></p>
+        </sp>
+        <stage>(La COMTESSE est submergée par des émotions contradictoires de trahison et de chagrin.)</stage>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(pleurant)</stage>
+          <p></p>
+        </sp>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(la prenant dans ses bras)</stage>
+          <p></p>
+        </sp>
+        <stage>(La COMTESSE se calme lentement et pose doucement sa tête sur l'épaule du DIPLomate.)</stage>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(d'une voix faible)</stage>
+          <p></p>
+        </sp>
+        <stage>(Le VICOMTE entre, les observant de loin.)</stage>
+        <sp who="#vicomte">
+          <speaker>VICOMTE:</speaker>
+          <stage>(à lui-même)</stage>
+          <p></p>
+        </sp>
+        <stage>(Le VICOMTE quitte la scène discrètement. La COMTESSE et le DIPLomate se séparent lentement, puis se tiennent la main, déterminés.)</stage>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(résolue)</stage>
+          <p></p>
+        </sp>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(avec détermination)</stage>
+          <p></p>
+        </sp>
+        <stage>(Ils se tiennent la main, se soutenant mutuellement, et quittent le jardin avec fermeté.)</stage>
+        <stage>(Fin de l'Act</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE IV</head>
+        <stage>(Un salon élégamment décoré dans la maison noble. Un comité de justiciers et de policiers est réuni autour d'une table, comprenant le DIPLomate et le COMMISSAIRE DE POLICE. LA COMTESSE est assise à côté du DIPLomate, anxieuse.)</stage>
+        <sp who="#commissaire de police">
+          <speaker>COMMISSAIRE DE POLICE:</speaker>
+          <stage>(solennel)</stage>
+          <p></p>
+        </sp>
+        <stage>(La COMTESSE serre les poings, tentant de se contrôler.)</stage>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(regardant la COMTESSE avec sympathie)</stage>
+          <p></p>
+        </sp>
+        <sp who="#commissaire de police">
+          <speaker>COMMISSAIRE DE POLICE:</speaker>
+          <stage>(continuant)</stage>
+          <p></p>
+        </sp>
+        <stage>(Un moment de silence.)</stage>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(la voix brisée)</stage>
+          <p></p>
+        </sp>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(prenant la main de la COMTESSE)</stage>
+          <p></p>
+        </sp>
+        <stage>(DRAMATURGE entre dans la pièce, tenant plusieurs manuscrits.)</stage>
+        <sp who="#dramaturge">
+          <speaker>DRAMATURGE:</speaker>
+          <stage>(avec excitation)</stage>
+          <p></p>
+        </sp>
+        <stage>(LA COMTESSE, touchée par cette marque d'admiration, hoche la tête.)</stage>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(faiblement)</stage>
+          <p></p>
+        </sp>
+        <stage>(Soudain, un bruit à l'extérieur attire l'attention de tous. Le SERVITEUR entre précipitamment.)</stage>
+        <sp who="#serviteur">
+          <speaker>SERVITEUR:</speaker>
+          <stage>(essouflé)</stage>
+          <p></p>
+        </sp>
+        <sp who="#tous">
+          <speaker>TOUS:</speaker>
+          <stage>(attentifs)</stage>
+          <p></p>
+        </sp>
+        <sp who="#serviteur">
+          <speaker>SERVITEUR:</speaker>
+          <stage>(reprenant son souffle)</stage>
+          <p></p>
+        </sp>
+        <stage>(COMMISSAIRE DE POLICE et DIPLomate s'échangent un regard rassuré.)</stage>
+        <sp who="#commissaire de police">
+          <speaker>COMMISSAIRE DE POLICE:</speaker>
+          <stage>(soulagé)</stage>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ACTE V</head>
+        <stage>(Un salon luxueux dans la maison noble. Les INVITÉS sont réunis pour une réception. LA COMTESSE apparaît radieuse, vêtue d'une magnifique robe de soirée.)</stage>
+        <sp who="#vicomte">
+          <speaker>VICOMTE:</speaker>
+          <stage>(se dirigeant vers LA COMTESSE)</stage>
+          <p></p>
+        </sp>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(avec gratitude)</stage>
+          <p></p>
+        </sp>
+        <stage>(VICOMTESSE entre avec grâce.)</stage>
+        <sp who="#vicomtesse: chère comtesse, vous êtes un modèle d'élégance et de résilience. je suis enchantée de voir votre bonheur retrouvé">
+          <speaker>VICOMTESSE: Chère Comtesse, vous êtes un modèle d'élégance et de résilience. Je suis enchantée de voir votre bonheur retrouvé.</speaker>
+          <p></p>
+        </sp>
+        <stage>(Le VICOMTE et la VICOMTESSE échangent un regard chargé de mystère.)</stage>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(perplexe)</stage>
+          <p></p>
+        </sp>
+        <sp who="#vicomte">
+          <speaker>VICOMTE:</speaker>
+          <stage>(avec franchise)</stage>
+          <p></p>
+        </sp>
+        <stage>(VICOMTE tend la main à LA COMTESSE, qui l'accepte avec appréhension.)</stage>
+        <sp who="#diplomate">
+          <speaker>DIPLomate:</speaker>
+          <stage>(intervenant)</stage>
+          <p></p>
+        </sp>
+        <sp who="#vicomte">
+          <speaker>VICOMTE:</speaker>
+          <stage>(défensif)</stage>
+          <p></p>
+        </sp>
+        <sp who="#la comtesse">
+          <speaker>LA COMTESSE:</speaker>
+          <stage>(hésitante)</stage>
+          <p></p>
+        </sp>
+        <stage>(Musique de valse commence à jouer et les INVITÉS commencent à danser.)</stage>
+        <stage>(LA COMTESSE regarde les couples virevolter sur la piste de danse, perdue dans ses pensées.)</stage>
+        <sp who="#comtesse">
+          <speaker>COMTESSE:</speaker>
+          <stage>(en aparté)</stage>
+          <p></p>
+        </sp>
+        <stage>(DRAMATURGE entre, observant LA COMTESSE de loin.)</stage>
+        <sp who="#dramaturge">
+          <speaker>DRAMATURGE:</speaker>
+          <stage>(observe, puis se parle à lui-même)</stage>
+          <p></p>
+        </sp>
+        <stage>(Le DRAMATURGE sort discrètement.)</stage>
+        <stage>(LA COMTESSE se retire du salon pour trouver un moment de tranquillité dans le jardin. Elle se promène seule dans le jardin, perdue dans ses réflexions.)</stage>
+        <sp who="#comte">
+          <speaker>COMTE:</speaker>
+          <stage>(entrant rapidement, surprise)</stage>
+          <p></p>
+        </sp>
+        <stage>(LA COMTESSE tourne la tête, reconnaissant le son de la voi-comte ! Oh, comme je suis é</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt></titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="kuenstler">
+            <persName>KUENSTLER:</persName>
+          </person>
+          <person xml:id="hauswirtin (lächel">
+            <persName>HAUSWIRTIN (lächel</persName>
+          </person>
+          <person xml:id="richter">
+            <persName>RICHTER:</persName>
+          </person>
+          <person xml:id="lingham">
+            <persName>LINGHAM:</persName>
+          </person>
+          <person xml:id="hauswirtin">
+            <persName>HAUSWIRTIN:</persName>
+          </person>
+          <person xml:id="schlosser">
+            <persName>SCHLOSSER:</persName>
+          </person>
+          <person xml:id="apotheker">
+            <persName>APOTHEKER:</persName>
+          </person>
+          <person xml:id="zauberin">
+            <persName>ZAUBERIN:</persName>
+          </person>
+          <person xml:id="schneiderin">
+            <persName>SCHNEIDERIN:</persName>
+          </person>
+          <person xml:id="kapitaen">
+            <persName>KAPITAEN:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-07-24">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>
+      <div type="scene">
+        <head>AKT EINS</head>
+        <stage>(Spielt in einem Wohnzimmer im 19. Jahrhundert. Das Zimmer ist reich mit schweren Möbeln und Gemälden ausgestattet. Vom Fenster aus wird ein sanfter Sonnenuntergang sichtbar. Eine Tür führt zum Flur, eine andere Tür zum Garten. Der alte KUENSTLER sitzt am Tisch und mal Frauenbilder. Die junge SCHNEIDERIN, elegant gekleidet, sitzt auf einem Stuhl und näht.)</stage>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(schaut nachdenklich auf sein Gemälde)</stage>
+          <p>Die Schönheit der Frauen… Ein Mysterium, das nie seinen Glanz verliert.</p>
+        </sp>
+        <sp who="#schneiderin">
+          <speaker>SCHNEIDERIN:</speaker>
+          <stage>(innehaltend, sieht den Kuenstler an)</stage>
+          <p>Meister, Sie schaffen wahre Wunderwerke mit Ihren Pinseln.</p>
+        </sp>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(lächelt und steht auf)</stage>
+          <p>Danke, meine Liebe. Doch nichts kann das Strahlen Ihrer Augen übertreffen.</p>
+        </sp>
+        <stage>(Tür zum Garten öffnet sich leise, der stolze SCHLOSSER betritt den Raum. Er trägt einen ledernen Schurz und Werkzeuge.)</stage>
+        <sp who="#schlosser">
+          <speaker>SCHLOSSER:</speaker>
+          <stage>(betont)</stage>
+          <p>Erlaubt mir, euren Anblick zu stören, Künstler! Doch der Schloss in der Nachbarschaft bedarf schneller Reparaturen.</p>
+        </sp>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(nickt)</stage>
+          <p>Selbstverständlich, mein Freund. Eure Präsenz bereichert immer diese Räume.</p>
+        </sp>
+        <stage>(SCHLOSSER nickt zufrieden und verlässt den Raum durch die Tür zum Flur. Es klopft an der Tür, und der botanisch interessierte KAPITAEN tritt ein. Er trägt einen wuchtigen Lederkoffer und hat Blumen und Pflanzen in den Armen.)</stage>
+        <sp who="#kapitaen">
+          <speaker>KAPITAEN:</speaker>
+          <stage>(erfreut)</stage>
+          <p>Meine Ehren, liebe Freunde! Einige kostbare Exemplare für Ihr botanisches Wunderland. </p>
+        </sp>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(dankbar)</stage>
+          <p>Kapitän, Sie handeln zu gut mit der Natur. Sie haben unseren Dank.</p>
+        </sp>
+        <stage>(SCHLOSSER betritt wieder den Raum, gefolgt von der strengen HAUSWIRTIN. Sie hat einen kessen Blick und ein Buch in der Hand.)</stage>
+        <sp who="#schlosser">
+          <speaker>SCHLOSSER:</speaker>
+          <stage>(augenrollend)</stage>
+          <p>Meine Freunde, die Frau Doktor ist wieder unterwegs, mitten im Sandgewirr der Gelehrsamkeit.</p>
+        </sp>
+        <sp who="#hauswirtin">
+          <speaker>HAUSWIRTIN:</speaker>
+          <stage>(bestimmt)</stage>
+          <p>Angemessen, Schlosser. Bildung ist der Schlüssel zur Erleuchtung der Menschheit.</p>
+        </sp>
+        <sp who="#kapitaen">
+          <speaker>KAPITAEN:</speaker>
+          <stage>(zwinkernd)</stage>
+          <p>Dann würde ich mittels Ihrer Erleuchtung gerne neue Pflanzenarten entdecken.</p>
+        </sp>
+        <sp who="#schneiderin">
+          <speaker>SCHNEIDERIN:</speaker>
+          <stage>(lacht leise)</stage>
+          <p>Ihr müsst sie jedoch zuerst in der großen Bibliothek finden, Kapitän!</p>
+        </sp>
+        <stage>(SHNEIDERIN und die anderen lachen. Ein englischer Lord, LINGHAM, tritt ein, gekleidet in vornehme Gewänder.)</stage>
+        <sp who="#lingham">
+          <speaker>LINGHAM:</speaker>
+          <stage>(elegant)</stage>
+          <p>Entschuldigen Sie die Verspätung, werte Gesellschaft. Die Verlock</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>AKT ZWEI</head>
+        <stage>(Spielt in einem prunkvollen Ballsaal. Im Hintergrund befindet sich ein großes Wandgemälde. Auf der Bühne sind Kronleuchter, langsam ausgestrahltes Licht und elegante Damen und Herren zu sehen, die miteinander tanzen. Im Vordergrund stehen ein ORCHESTER, das stimmungsvolle Musik spielt, und der KUENSTLER, der am Rand des Saals steht.)</stage>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(schaut auf das Wandgemälde)</stage>
+          <p>Die Schönheit, die hier in jeder Ecke ausstrahlt, ist atemberaubend. Eine Schöpfung von außergewöhnlicher Pracht.</p>
+        </sp>
+        <stage>(Ein begeisterter APOTHEKER tritt schwungvoll in den Saal ein, gefolgt von einer zurückhaltenden GRÄFIN.)</stage>
+        <sp who="#apotheker">
+          <speaker>APOTHEKER:</speaker>
+          <stage>(überschwänglich)</stage>
+          <p>Ah, die Nacht des Tanzes! Ein wahrer Rausch der Sinne! Mein Herz hüpft vor Freude!</p>
+        </sp>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(lächelt)</stage>
+          <p>Apotheker, Sie sehen aus wie der König moderner Euphorie.</p>
+        </sp>
+        <sp who="#apotheker">
+          <speaker>APOTHEKER:</speaker>
+          <stage>(stolz)</stage>
+          <p>Nun, mein lieber Freund, ich bereite Glück in kleinen Fläschchen zu.</p>
+        </sp>
+        <stage>(Die Haushälterin der Vorstellung, große und strenge ZAUBERIN, betritt den Raum und ruft alle aufmerksam.)</stage>
+        <sp who="#zauberin">
+          <speaker>ZAUBERIN:</speaker>
+          <stage>(mit theatralischer Stimme)</stage>
+          <p>Sehr geehrte Gäste, das Fest ist gekommen! Lasst uns den Abend in eine Symphonie der Leidenschaft verwandeln!</p>
+        </sp>
+        <stage>(Das Orchester verstärkt die Musik und die Gäste beginnen leidenschaftlich zu tanzen. SCHLOSSER und KAPITAEN wippen leise im Takt, während die Schneiderin, die Gräfin und die Hauswirtin voller Energie mittanzen.)</stage>
+        <stage>(Schattenhafte Gestalten, die MASKENBALLS-TÄNZER, füllen den Saal.)</stage>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(verzaubert)</stage>
+          <p>Oh, die Geheimnisse des Maskenballs. Befreien wir doch gemeinsam unsere Sehnsüchte.</p>
+        </sp>
+        <stage>(KUENSTLER greift nach einer Maske und setzt sie auf. Die SCHNEIDERIN kommt mit einer träumerischen MASKE neben ihm.)</stage>
+        <sp who="#schneiderin">
+          <speaker>SCHNEIDERIN:</speaker>
+          <stage>(flüsternd)</stage>
+          <p>Lassen Sie uns unserer Fantasie freien Lauf lassen, Meister.</p>
+        </sp>
+        <stage>(Die SCHNEIDERIN nimmt die Hand des KUENSTLERS und sie tanzen miteinander, hingebungsvoll und leidenschaftlich. Die Gäste um sie herum verbinden sich und lassen sich von der Musik mitreißen.)</stage>
+        <stage>(Das Tanzende wird intensiver und wilder. Das Orchester spielt einen dramatischen Höhepunkt.)</stage>
+        <sp who="#lingham">
+          <speaker>LINGHAM:</speaker>
+          <stage>(laut)</stage>
+          <p>Herr Künstler, Ihre Schöpfung lässt uns in Ekstase schwelgen!</p>
+        </sp>
+        <sp who="#apotheker">
+          <speaker>APOTHEKER:</speaker>
+          <stage>(jubelnd)</stage>
+          <p>Magie! Wir alle suchen nach Befreiung!</p>
+        </sp>
+        <sp who="#hauswirtin (lächel">
+          <speaker>HAUSWIRTIN (lächel</speaker>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>AKT DREI</head>
+        <stage>(Spielt in einem stillen, abgedunkelten Zimmer. Auf einem Tisch liegen Bücher und ein Kerzenlicht flackert. Der KUENSTLER sitzt alleine am Tisch und schreibt Briefe.)</stage>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(schreibt eifrig)</stage>
+          <p>Liebe SCHNEIDERIN, wenn ich allein bin, höre ich noch immer den Klang unserer Schritte auf dem Ball. Kann es sein, dass unsere Seelen sich gefunden haben? Meine Gedanken sind bei dir und sehnen sich nach deinem Lächeln.</p>
+        </sp>
+        <stage>(Die SCHNEIDERIN betritt das Zimmer. Sie sieht erschöpft aus und hält einen Brief in der Hand.)</stage>
+        <sp who="#schneiderin">
+          <speaker>SCHNEIDERIN:</speaker>
+          <stage>(mit Tränen in den Augen)</stage>
+          <p>Meister, ich habe Ihren Brief erhalten. Meine Seele sehnt sich auch nach Ihnen, doch die Realität hält mich gefangen.</p>
+        </sp>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(betroffen)</stage>
+          <p>Was bedrückt dein Herz, meine Liebe?</p>
+        </sp>
+        <sp who="#schneiderin">
+          <speaker>SCHNEIDERIN:</speaker>
+          <stage>(schüchtern)</stage>
+          <p>Ich bin bereits versprochen, Meister, einem der hier bei uns ist. Ich stecke in einem Netz aus Konventionen und Zwängen.</p>
+        </sp>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(mit leiser Traurigkeit)</stage>
+          <p>Male ich also nur fantastische Illusionen?</p>
+        </sp>
+        <sp who="#schneiderin">
+          <speaker>SCHNEIDERIN:</speaker>
+          <stage>(eindringlich)</stage>
+          <p>Unsere Gefühle sind wahr, Meister, doch die Realität lässt keinen Raum für sie.</p>
+        </sp>
+        <stage>(Der SCHLOSSER betritt das Zimmer mit wilden Haaren und einem verletzten Ausdruck.)</stage>
+        <sp who="#schlosser">
+          <speaker>SCHLOSSER:</speaker>
+          <stage>(energisch)</stage>
+          <p>Künstler, ich muss mit dir reden. Unser Freund, der KAPITAEN, ist in große Gefahr geraten.</p>
+        </sp>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(besorgt)</stage>
+          <p>Was ist passiert?</p>
+        </sp>
+        <sp who="#schlosser">
+          <speaker>SCHLOSSER:</speaker>
+          <stage>(atmet tief durch)</stage>
+          <p>Er wurde beschuldigt, eine gefährliche Verschwörung zu planen. Es heißt, er sei ein Verräter.</p>
+        </sp>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(empört)</stage>
+          <p>Das kann nicht wahr sein! Der KAPITAEN ist ein treuer und ehrlicher Mann.</p>
+        </sp>
+        <stage>(Der KAPITAEN tritt schwer atmend in das Zimmer. Er ist von den Strapazen der Verfolgung gezeichnet.)</stage>
+        <sp who="#kapitaen">
+          <speaker>KAPITAEN:</speaker>
+          <stage>(verzweifelt)</stage>
+          <p>Meine Freunde, ich bin unschuldig, doch die Anschuldigungen sind erdrückend. Mein Leben ist bedroht.</p>
+        </sp>
+        <sp who="#schlosser">
+          <speaker>SCHLOSSER:</speaker>
+          <stage>(entschlossen)</stage>
+          <p>Wir werden für dich kämpfen, Kapitän. Die Wahrheit wird ans Licht kommen.</p>
+        </sp>
+        <stage>(Die HAUSWIRTIN stürmt in das Zimmer, aufgeregt.)</stage>
+        <sp who="#hauswirtin">
+          <speaker>HAUSWIRTIN:</speaker>
+          <stage>(erregt)</stage>
+          <p>Ihr müsst hören! Der KAPITAEN steht kurz vor seiner Ablehnung. Wir müssen handeln!</p>
+        </sp>
+        <stage>(Der KUENSTLER, die SCHNEIDERIN, der SCHLOSSER und der KAPITAEN setzen sich zusammen. Sie planen einen riskanten Akt, um die Unschuld des KAPITAEN zu beweisen und seine Verfolger zu entlarven.)</stage>
+        <stage>(Hinter ihnen tauchen schattenhafte Figuren auf - die</stage>
+      </div>
+      <div type="scene">
+        <head>AKT VIER</head>
+        <stage>(Spielt in einem Gerichtssaal. Ein großer Richtertisch steht erhöht, umgeben von Büchern und Dokumenten. Die Gäste sind in gedämpftes Licht getaucht. DER RICHTER, streng blickend, und DER KUENSTLER als BEISITZER UND VERTEIDIGER sitzen am Tisch. Das Publikum, bestehend aus SCHNEIDERIN, SCHLOSSER, HAUSWIRTIN und APOTHEKER, beobachtet die Szene gespannt.)</stage>
+        <sp who="#richter">
+          <speaker>RICHTER:</speaker>
+          <stage>(streng)</stage>
+          <p>Kapitän, Sie wurden beschuldigt, einen Verrat gegen den Staat geplant zu haben. Sind Sie unschuldig?</p>
+        </sp>
+        <sp who="#kapitaen">
+          <speaker>KAPITAEN:</speaker>
+          <stage>(fest)</stage>
+          <p>Hochwürdigster Richter, ich schwöre bei meinem Leben: Ich habe niemals gegen meinen Eid oder mein Vaterland gehandelt.</p>
+        </sp>
+        <stage>(Der RICHTER vermittelt dem KAPITÄN Zweifel, während der KÜNSTLER spannungsvoll beobachtet.)</stage>
+        <sp who="#richter">
+          <speaker>RICHTER:</speaker>
+          <stage>(misstrauisch)</stage>
+          <p>Die Beweise scheinen gegen Sie zu sprechen, Kapitän. Wir müssen die Wahrheit herausfinden.</p>
+        </sp>
+        <stage>(KAPITÄN wirft einen entschlossenen Blick zum KÜNSTLER, während DER APOTHEKER mitgespannt zuschaut.)</stage>
+        <sp who="#kapitaen">
+          <speaker>KAPITAEN:</speaker>
+          <stage>(lehnt sich vor)</stage>
+          <p>Herr Richter, ich habe Zeugen, die meine Unschuld belegen können. Wenn Sie es zulassen, werde ich ihre Aussagen präsentieren.</p>
+        </sp>
+        <sp who="#richter">
+          <speaker>RICHTER:</speaker>
+          <stage>(zögernd)</stage>
+          <p>Seien Sie es, aber bedenken Sie, dass die Wahrheit allein zählt.</p>
+        </sp>
+        <stage>(Der KÜNSTLER erhebt sich und bereitet sich darauf vor, die Zeugen herauszurufen.)</stage>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(mit Nachdruck)</stage>
+          <p>Meine Herren und Damen, ich bitte Sie alle, die Wahrheit zu erkennen. Ich rufe diejenigen auf, die Zeugnis für die Unschuld des Kapitäns ablegen können: SCHNEIDERIN, SCHLOSSER, HAUSWIRTIN!</p>
+        </sp>
+        <stage>(Die Angerufenen erheben sich feierlich und treten vor den Richtertisch.)</stage>
+        <sp who="#schneiderin">
+          <speaker>SCHNEIDERIN:</speaker>
+          <stage>(bestimmt)</stage>
+          <p>Hochwürdiger Richter, ich war Zeugin des ständigen Engagements des Kapitäns für die Sicherheit und Ehre unseres Landes.</p>
+        </sp>
+        <sp who="#schlosser">
+          <speaker>SCHLOSSER:</speaker>
+          <stage>(energisch)</stage>
+          <p>Ich habe den Kapitän stets als treuen Freund und Kameraden erlebt, der seine Pflicht immer mit unerschütterlichem Eifer erfüllt hat.</p>
+        </sp>
+        <sp who="#hauswirtin">
+          <speaker>HAUSWIRTIN:</speaker>
+          <stage>(selbstbewusst)</stage>
+          <p>Der Kapitän ist vollkommen unschuldig. Ich konnte seine Hingabe an das Gute und die gerechte Sache bezeugen.</p>
+        </sp>
+        <stage>(Der KAPITÄN lächelt dankbar und der RICHTER überdenkt seine Entscheidung.)</stage>
+        <sp who="#richter">
+          <speaker>RICHTER:</speaker>
+          <stage>(ergriffen)</stage>
+          <p>Diese Zeugenaussagen haben mich tief berührt. Es ist nun klar, dass der Kapitän</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>AKT FÜNF</head>
+        <stage>(Spielt in einem idyllischen Park. Blumen blühen in voller Pracht und Vögel zwitschern fröhlich. Der KUENSTLER steht zwischen der SCHNEIDERIN und dem KAPITAEN. Sie sind glücklich vereint.)</stage>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(strahlend)</stage>
+          <p>Endlich haben wir die Wahrheit siegen lassen. Die Unschuld des Kapitäns ist bewiesen und unsere Liebe hat triumphiert.</p>
+        </sp>
+        <sp who="#schneiderin">
+          <speaker>SCHNEIDERIN:</speaker>
+          <stage>(erfüllt)</stage>
+          <p>Es ist ein göttlicher Moment, der das Dunkel durchbricht und einem neuen Kapitel der Hoffnung Platz macht.</p>
+        </sp>
+        <sp who="#kapitaen">
+          <speaker>KAPITAEN:</speaker>
+          <stage>(dankbar)</stage>
+          <p>Ich bin dem Künstler, den Zeugen und euch allen zu ewigem Dank verpflichtet. Ihr wart meine Rettung und ein Zeichen wahrer Freundschaft.</p>
+        </sp>
+        <stage>(Alle umarmen sich innig, während DER APOTHEKER und DIE HAUSWIRTIN lächelnd zuschauen. DER SCHLOSSER kommt euphorisch gelaufen.)</stage>
+        <sp who="#schlosser">
+          <speaker>SCHLOSSER:</speaker>
+          <stage>(atemlos)</stage>
+          <p>Gute Neuigkeiten! Der Kapitän wird in seine Position reinstiert und sein Ruf vollständig wiederhergestellt.</p>
+        </sp>
+        <sp who="#apotheker">
+          <speaker>APOTHEKER:</speaker>
+          <stage>(glücklich)</stage>
+          <p>Ein Sieg der Gerechtigkeit und der Wahrheit über die Intrigen und Lügen. Unser gemeinsames Bemühen hat Früchte getragen.</p>
+        </sp>
+        <stage>(DIE HAUSWIRTIN nimmt DIE HAND des APOTHEKERS, während DER KUENSTLER in einer Ecke des Parks ein Gemälde aufstellt.)</stage>
+        <sp who="#kuenstler">
+          <speaker>KUENSTLER:</speaker>
+          <stage>(mit Emotion)</stage>
+          <p>Dieses Gemälde soll ein Symbol unserer Verbundenheit sein, ein Zeugnis unserer liebevollen Erinnerungen an diese Zeit der Prüfung und des Triumphs.</p>
+        </sp>
+        <stage>(Das Gemälde zeigt die SCHNEIDERIN, den KAPITÄN, den KÜNSTLER und ihre Freunde in einer innigen Umarmung.)</stage>
+        <stage>(Die SCHNEIDERIN, der KAPITÄN und ihre Freunde betrachten das Gemälde mit Freude.)</stage>
+        <sp who="#schneiderin">
+          <speaker>SCHNEIDERIN:</speaker>
+          <stage>(sanft)</stage>
+          <p>Dieses Bild wird uns immer daran erinnern, dass wahre Freundschaft und Liebe jedes Hindernis überwinden können.</p>
+        </sp>
+        <sp who="#kapitaen">
+          <speaker>KAPITAEN:</speaker>
+          <stage>(mit Hingabe)</stage>
+          <p>Ja, und möge unser gemeinsamer Pfad immer von Mut, Treue und der Schönheit des gemeinsamen Lebens erleuchtet sein.</p>
+        </sp>
+        <stage>(Sie verlassen den Park und gehen Hand in Hand, vorwärts auf eine Zukunft des Glücks und der Erfüllung zugehend. Eine Harmonie umgibt sie, und die Sonne geht in einem warmen Leuchten unter.)</stage>
+        <sp>
+          <speaker>ENDE.</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

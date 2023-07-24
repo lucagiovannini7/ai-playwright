@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt></titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="nikolaj:">
+            <persName>НИКОЛАЙ:</persName>
+          </person>
+          <person xml:id="nikol">
+            <persName>НИКОЛ</persName>
+          </person>
+          <person xml:id="svetochi_2:">
+            <persName>СВЕТОЧИ 2:</persName>
+          </person>
+          <person xml:id="starik:">
+            <persName>СТАРИК:</persName>
+          </person>
+          <person xml:id="mihail:">
+            <persName>МИХАИЛ:</persName>
+          </person>
+          <person xml:id="svetochi_1:">
+            <persName>СВЕТОЧИ 1:</persName>
+          </person>
+          <person xml:id="starik:_ja_prostoj_starik,_ljubitel_prirody_i_nabljudatel_chelovecheskoj_dushi._menja_zovut_mihail">
+            <persName>СТАРИК: Я простой старик, любитель природы и наблюдатель человеческой души. Меня зовут МИХАИЛ</persName>
+          </person>
+          <person xml:id="anna:_dorogoj_nikolaj,_ty_ne_spal_ves_etot_den_i_vsju_noch._ja_vizhu,_chto_tvoja_dusha_v_borbe_s_samoj_soboj">
+            <persName>АННА: Дорогой Николай, ты не спал весь этот день и всю ночь. Я вижу, что твоя душа в борьбе с самой собой</persName>
+          </person>
+          <person xml:id="anna:_dorogoj,_chto_ty_delaesh?_stoit_li_grustit_nad_nesbytochnymi_mechtami_i_kapitulirovat_pered_bezyshodnostju?">
+            <persName>АННА: Дорогой, что ты делаешь? Стоит ли грустить над несбыточными мечтами и капитулировать перед безысходностью?</persName>
+          </person>
+          <person xml:id="doktor:">
+            <persName>ДОКТОР:</persName>
+          </person>
+          <person xml:id="anna:">
+            <persName>АННА:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-07-24">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>
+      <div type="scene">
+        <head>Акт 1</head>
+        <stage>(НИКОЛАЙ, средних лет, лежит на диване в четре утра. Он одет в чёрный костюм, его лицо выражает глубокую печаль и усталость.)</stage>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(в слабом голосе)</stage>
+          <p></p>
+        </sp>
+        <stage>(Входит АННА, юная, красивая женщина, но с мрачным выражением на лице.)</stage>
+        <sp who="#anna:_dorogoj_nikolaj,_ty_ne_spal_ves_etot_den_i_vsju_noch._ja_vizhu,_chto_tvoja_dusha_v_borbe_s_samoj_soboj">
+          <speaker>АННА: Дорогой Николай, ты не спал весь этот день и всю ночь. Я вижу, что твоя душа в борьбе с самой собой.</speaker>
+          <p></p>
+        </sp>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(с опустившимся взглядом)</stage>
+          <p></p>
+        </sp>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(выражение обиды)</stage>
+          <p></p>
+        </sp>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(с горечью)</stage>
+          <p></p>
+        </sp>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(с нежностью)</stage>
+          <p></p>
+        </sp>
+        <sp who="#nikol">
+          <speaker>НИКОЛ</speaker>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Акт 2</head>
+        <stage>(Сцена представляет собой обширную библиотеку, наполненную книгами и полотнами. На столе, окруженном книгами, сидит НИКОЛАЙ).</stage>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(читает стихи шекспировского пьеса)</stage>
+          <p>"Чтоб переструнной дар священный          Натянуть не мог преемник мой,            Бессмертьем моей Гоминида –         Натял на грудь и умер с тобою".</p>
+        </sp>
+        <stage>(Входит АННА)</stage>
+        <sp who="#anna:_dorogoj,_chto_ty_delaesh?_stoit_li_grustit_nad_nesbytochnymi_mechtami_i_kapitulirovat_pered_bezyshodnostju?">
+          <speaker>АННА: Дорогой, что ты делаешь? Стоит ли грустить над несбыточными мечтами и капитулировать перед безысходностью?</speaker>
+          <p></p>
+        </sp>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(в озадачении)</stage>
+          <p></p>
+        </sp>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(с силой)</stage>
+          <p></p>
+        </sp>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(возбужденно)</stage>
+          <p></p>
+        </sp>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(с уверенностью)</stage>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Акт 3</head>
+        <stage>(Сцена - просторный сад с высокими деревьями, цветущими цветами. АННА стоит посреди сцены, под утренним солнцем.)</stage>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(с благоговением)</stage>
+          <p></p>
+        </sp>
+        <stage>(Входит НИКОЛАЙ, одетый в мрачный фрак, с нотной папкой в руках)</stage>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(вздыхает)</stage>
+          <p></p>
+        </sp>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(эмоционально)</stage>
+          <p></p>
+        </sp>
+        <stage>(Звучит аплодисменты и громкий шум светочей, которые выходят на сцену)</stage>
+        <sp who="#svetochi_1:">
+          <speaker>СВЕТОЧИ 1:</speaker>
+          <stage>(энтузиазм)</stage>
+          <p></p>
+        </sp>
+        <sp who="#svetochi_2:">
+          <speaker>СВЕТОЧИ 2:</speaker>
+          <stage>(возбуждение)</stage>
+          <p></p>
+        </sp>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(с благодарностью)</stage>
+          <p></p>
+        </sp>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(с счастливой улыбкой)</stage>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Акт 4</head>
+        <stage>(Сцена - опустевшая комната с книгами и клавишными инструментами. На переднем плане стоит НИКОЛАЙ, грузно дыша, с покосившимся взглядом).</stage>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(полушепотом)</stage>
+          <p></p>
+        </sp>
+        <stage>(Входит АННА, с взглядом опасения)</stage>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(вздыхает)</stage>
+          <p></p>
+        </sp>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(в отчаянии)</stage>
+          <p></p>
+        </sp>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(сострадательно)</stage>
+          <p></p>
+        </sp>
+        <stage>(Входит ДОКТОР, старец с белой бородой и серьезным выражением лица)</stage>
+        <sp who="#doktor:">
+          <speaker>ДОКТОР:</speaker>
+          <stage>(задумчиво)</stage>
+          <p></p>
+        </sp>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(с надеждой)</stage>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Акт 5</head>
+        <stage>(Сцена - уединенная дача на берегу реки. Возле дерева сидит АННА, заглядывая в дали. Звучат пение птиц и шум реки.)</stage>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(смиренно)</stage>
+          <p></p>
+        </sp>
+        <stage>(Вдруг входит НИКОЛАЙ, смятый и измученный)</stage>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(опустив голову)</stage>
+          <p></p>
+        </sp>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(нежно)</stage>
+          <p></p>
+        </sp>
+        <stage>(Входит СТАРИК)</stage>
+        <sp who="#starik:">
+          <speaker>СТАРИК:</speaker>
+          <stage>(с умиротворением)</stage>
+          <p></p>
+        </sp>
+        <sp who="#nikolaj:">
+          <speaker>НИКОЛАЙ:</speaker>
+          <stage>(возбужденно)</stage>
+          <p></p>
+        </sp>
+        <sp who="#starik:_ja_prostoj_starik,_ljubitel_prirody_i_nabljudatel_chelovecheskoj_dushi._menja_zovut_mihail">
+          <speaker>СТАРИК: Я простой старик, любитель природы и наблюдатель человеческой души. Меня зовут МИХАИЛ.</speaker>
+          <p></p>
+        </sp>
+        <sp who="#anna:">
+          <speaker>АННА:</speaker>
+          <stage>(вслух)</stage>
+          <p></p>
+        </sp>
+        <sp who="#mihail:">
+          <speaker>МИХАИЛ:</speaker>
+          <stage>(улыбается)</stage>
+          <p></p>
+        </sp>
+        <sp>
+          <speaker>НИКО</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,414 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt></titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="le marque">
+            <persName>LE MARQUE</persName>
+          </person>
+          <person xml:id="la marquise">
+            <persName>LA MARQUISE</persName>
+          </person>
+          <person xml:id="le duc">
+            <persName>LE DUC</persName>
+          </person>
+          <person xml:id="la compagne">
+            <persName>LA COMPAGNE</persName>
+          </person>
+          <person xml:id="fin">
+            <persName>FIN</persName>
+          </person>
+          <person xml:id="la comtesse">
+            <persName>LA COMTESSE</persName>
+          </person>
+          <person xml:id="le vicomte">
+            <persName>LE VICOMTE</persName>
+          </person>
+          <person xml:id="la portière">
+            <persName>LA PORTIÈRE</persName>
+          </person>
+          <person xml:id="le marquis">
+            <persName>LE MARQUIS</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-07-24">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>
+      <div type="scene">
+        <head>ACTE I</head>
+        <stage>(Salle richement décorée. À droite, un salon raffiné avec des meubles élégants. À gauche, une porte donnant sur une chambre à coucher somptueuse. Au centre, une table dressée avec un dîner abondant. Les convives sont assis autour de la table en train de converser avec animation.)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Ma chère Comtesse, voici un vin exquis que j'ai spécialement sélectionné pour votre palais délicat.</p>
+        </sp>
+        <stage>(Versant du vin dans le verre de LA COMTESSE)</stage>
+        <sp who="#la comtesse">
+          <speaker>LA COMTESSE</speaker>
+          <p>Marquis, vous connaissez si bien mes goûts. Votre raffinement est inégalable.</p>
+        </sp>
+        <stage>(Échantillonnant le vin)</stage>
+        <sp who="#le duc">
+          <speaker>LE DUC</speaker>
+          <p>Madame, votre beauté illumine cette soirée. Vous êtes la plus gracieuse des dames.</p>
+        </sp>
+        <stage>(S'adressant à LA COMTESSE)</stage>
+        <sp who="#la comtesse">
+          <speaker>LA COMTESSE</speaker>
+          <p>Duc, vos compliments sont galants. Cependant, ce n'est pas à moi que revient la lumière, mais bien à votre présence distinguée.</p>
+        </sp>
+        <stage>(Rougissant)</stage>
+        <stage>(Le bruit d'un cheval effrayé se fait entendre à l'extérieur, suivi d'un fracas.)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Que se passe-t-il ? Allons voir !</p>
+        </sp>
+        <stage>(Se levant rapidement)</stage>
+        <stage>(LE MARQUIS, LE DUC et LA COMTESSE se dirigent vers la porte donnant sur l'extérieur. Pendant ce temps, LA MARQUISE reste seule dans le salon.)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Enfin seule... quel monde frivole ce soir. Tous ces jeux sociaux m'étouffent. Mon cœur aspire à autre chose, à plus de passion, de vérité. Quand les obligations mondaines deviennent une corde autour du cou de l'amour, que puis-je faire pour sauver mon cher attachement ?</p>
+        </sp>
+        <stage>(Monologuant)</stage>
+        <stage>(LE VICOMTE entre discrètement dans le salon.)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>Marquise, il faut que je vous parle. C'est urgent.</p>
+        </sp>
+        <stage>(Murmurant à LA MARQUISE)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Vicomte ! Que faites-vous ici ? Vous êtes censé être du côté des messieurs !</p>
+        </sp>
+        <stage>(Surprise)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>Nous devons parler en secret. C'est une question de vie ou de mort.</p>
+        </sp>
+        <stage>(Regardant autour de lui)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Très bien, Vicomte. Suivez-moi.</p>
+        </sp>
+        <stage>(Prenant une voix étouffée)</stage>
+        <stage>(LA MARQUISE et LE VICOMTE sortent rapidement par la porte de chambre. Pendant ce temps, LE MARQUIS, LE DUC et LA COMTESSE reviennent précipitamment.)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Où est notre chère Marquise ?</p>
+        </sp>
+        <stage>(Confus)</stage>
+        <sp who="#la comtesse">
+          <speaker>LA COMTESSE</speaker>
+          <p>Oui, que lui est-il arrivé ? Le Vicomte l'a-t-il vue ?</p>
+        </sp>
+        <stage>(Paniquée)</stage>
+        <sp who="#le duc">
+          <speaker>LE DUC</speaker>
+          <p>Il semblerait que la Marquise se soit évaporée. Mais pourquoi ?</p>
+        </sp>
+        <stage>(Perplexe)</stage>
+        <stage>(Les convives se lancent des regards inquiets, la tension monte dans</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE II</head>
+        <stage>(Salle sombre avec des rideaux lourds et des meubles couverts de draps. À gauche, une porte donnant sur la chambre à coucher. À droite, un grand miroir encadré d'argent.)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Où est-elle passée ? Cette Marquise est un mystère vivant. J'ai cherché partout, mais je ne l'ai pas trouvée.</p>
+        </sp>
+        <stage>(Marchant de long en large)</stage>
+        <sp who="#le duc">
+          <speaker>LE DUC</speaker>
+          <p>Il faut la retrouver à tout prix, Marquis. Sa disparition suscite maintes interrogations.</p>
+        </sp>
+        <stage>(Abattu)</stage>
+        <sp who="#la comtesse">
+          <speaker>LA COMTESSE</speaker>
+          <p>Elle était ma plus chère amie, j'espère qu'elle n'a pas rencontré de malheur.</p>
+        </sp>
+        <stage>(Les larmes aux yeux)</stage>
+        <stage>(LE VICOMTE entre précipitamment dans la salle, essoufflé.)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>Marquis, Ducsse, Comtesse ! J'ai des nouvelles !</p>
+        </sp>
+        <stage>(Mettant son chapeau à la main)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Enfin, Vicomte, où la Marquise se trouve-t-elle ?</p>
+        </sp>
+        <stage>(Vivement)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>J'ai retrouvé sa trace dans un hôtel miteux, cachée sous un nom emprunté.</p>
+        </sp>
+        <stage>(Reprenant son souffle)</stage>
+        <sp who="#le duc">
+          <speaker>LE DUC</speaker>
+          <p>Un hôtel miteux ? Mais pourquoi donc ?</p>
+        </sp>
+        <stage>(Surpris)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>Elle est tombée sous l'emprise de son ancien amant, un séducteur rusé qui l'a envoûtée. Je crains que ce ne soit bien pire qu'une simple affaire de cœur.</p>
+        </sp>
+        <stage>(Avec gravité)</stage>
+        <sp who="#la comtesse">
+          <speaker>LA COMTESSE</speaker>
+          <p>Mais que devons-nous faire, Vicomte ? Nous ne pouvons pas la laisser dans cette situation.</p>
+        </sp>
+        <stage>(Inquiète)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>Marquis, Ducsse, Comtesse, je propose que nous la sauvions. Nous devons la ramener ici et veiller sur elle.</p>
+        </sp>
+        <stage>(Résolu)</stage>
+        <stage>(Le quatuor se concerte en chuchotant, puis acquiesce d'un signe de tête.)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Très bien, Vicomte. Faites les préparatifs nécessaires. Nous nous rendrons à cet hôtel et nous ramènerons la Marquise ici, en sécurité.</p>
+        </sp>
+        <stage>(Déterminé)</stage>
+        <stage>(Tous sortent de la salle à contrecœur, sauf LA MARQUISE, qui entre furtivement.)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Enfin libre ! Ils ne doivent pas me trouver ici. Je dois disparaître et échapper à leur consentement aveugle. La rue est ma seule issue.</p>
+        </sp>
+        <stage>(Soulagée)</stage>
+        <stage>(LA MARQUISE sort rapidement par la porte de chambre, tandis que la scène se plonge dans l'obscurité.)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE III</head>
+        <stage>(Une ruelle sombre et déserte. Au fond, une porte dérobée d'un modeste logement. LA MARQUISE entre en titubant, épuisée et en pleurs.)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Comment en suis-je arrivée là ? Mon destin prend un chemin si tortueux...</p>
+        </sp>
+        <stage>(S'effondrant contre le mur)</stage>
+        <stage>(LA MARQUISE tente de reprendre son souffle, puis regarde autour d'elle avec appréhension.)</stage>
+        <sp who="#la compagne">
+          <speaker>LA COMPAGNE</speaker>
+          <p>Madame, êtes-vous perdue dans cette nuit sinistre ?</p>
+        </sp>
+        <stage>(Apparaissant de l'ombre)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Oui, madame, je me suis perdue en chemin. J'ai besoin de trouver mon chemin à travers ce labyrinthe d'obscurité.</p>
+        </sp>
+        <stage>(Surfant sur les vagues de la confiance)</stage>
+        <sp who="#la compagne">
+          <speaker>LA COMPAGNE</speaker>
+          <p>Je peux vous aider. Suivez-moi.</p>
+        </sp>
+        <stage>(Doux sourire)</stage>
+        <stage>(LA MARQUISE se lève et suit LA COMPAGNE, qui l'entraîne vers la porte dérobée.)</stage>
+        <stage>(Les projecteurs s'éteignent pour un court instant pour symboliser le déplacement. La scène reprend dans une petite pièce modeste mais chaleureuse.)</stage>
+        <stage>(LA MARQUISE est assise sur un modeste lit, épuisée, tandis que LA COMPAGNE prépare une tasse de thé.)</stage>
+        <sp who="#la compagne">
+          <speaker>LA COMPAGNE</speaker>
+          <p>Buvez ceci, Madame. Cela vous fera du bien, je vous le promets.</p>
+        </sp>
+        <stage>(Offrant la tasse de thé)</stage>
+        <stage>(LA MARQUISE prend timidement la tasse de thé et en boit une gorgée.)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Merci, madame, de votre aimable hospitalité. Je suis désolée d'avoir ainsi interrompu votre tranquillité.</p>
+        </sp>
+        <stage>(Essayant de calmer sa respiration)</stage>
+        <sp who="#la compagne">
+          <speaker>LA COMPAGNE</speaker>
+          <p>Ne vous en faites pas pour cela, Madame. Parfois, le destin nous pousse sur des chemins inattendus. Vous êtes la bienvenue ici.</p>
+        </sp>
+        <stage>(Souriant)</stage>
+        <stage>(LA PORTIÈRE entre soudainement dans la salle, l'air affolée.)</stage>
+        <sp who="#la portière">
+          <speaker>LA PORTIÈRE</speaker>
+          <p>Madame, il y a une foule furieuse dans la rue. Ils cherchent une femme, prétendant qu'elle s'est enfuie de la haute société.</p>
+        </sp>
+        <stage>(Voix tremblante)</stage>
+        <sp who="#la compagne">
+          <speaker>LA COMPAGNE</speaker>
+          <p>Madame, ils doivent parler de vous.</p>
+        </sp>
+        <stage>(Regardant LA MARQUISE avec compassion)</stage>
+        <stage>(LA MARQUISE se lève brusquement, en proie à la panique.)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Je ne peux pas rester ici plus longtemps. Ils sont peut-être en train de se précipiter vers cette porte en ce moment même.</p>
+        </sp>
+        <stage>(Il regardant LA COMPAGNE avec gratitude)</stage>
+        <sp who="#la compagne">
+          <speaker>LA COMPAGNE</speaker>
+          <p>Madame, si vous devez partir, laissez-moi vous donner quelque chose qui vous protégera en chemin.</p>
+        </sp>
+        <stage>(Doucement)</stage>
+        <stage>(LA COMPAGNE remet à LA MARQUISE une écharpe délicate.)</stage>
+        <sp who="#la compagne">
+          <speaker>LA COMPAGNE</speaker>
+          <p>Mettez cela autour de votre cou. Il symbolise notre amitié,</p>
+        </sp>
+        <stage>(Consternée)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE IV</head>
+        <stage>(Un jardin luxuriant avec des fleurs en plein épanouissement. Un banc se trouve au centre du décor. La MARQUISE y est assise, songeuse.)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Qu'ai-je fait ? Ai-je fui la société pour me retrouver seule, en proie à mes propres tourments ? Le poids du passé appesantit mon cœur, mais la liberté qui me guide est incommensurable.</p>
+        </sp>
+        <stage>(Monologuant)</stage>
+        <stage>(LE MARQUIS entre sur scène, le visage empli d'angoisse. Il s'approche de LA MARQUISE, qui se lève en le voyant.)</stage>
+        <sp who="#le marque">
+          <speaker>LE MARQUE</speaker>
+          <p>Enfin, je vous ai retrouvée ! J'ai cherché partout, désespérément, pour vous ramener.</p>
+        </sp>
+        <stage>(Crispé)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Marquis, je ne peux plus retourner dans cet enfer doré dont je viens de m'échapper. Mon cœur ne peut plus supporter cette fausseté.</p>
+        </sp>
+        <stage>(Reculant)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Mais ma chère Marquise, le monde sans vous est sombre et vide. Notre amour, notre union, c'était tout pour moi.</p>
+        </sp>
+        <stage>(Désespéré)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Je suis désolée, Marquis, mais mon cœur a trouvé de nouvelles passions, de nouveaux chemins qui me mèneront vers une joie plus sincère.</p>
+        </sp>
+        <stage>(Touchée)</stage>
+        <stage>(LE VICOMTE apparaît au loin, observant la scène avec tristesse.)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>Le destin les a séparés. L'amour ne peut être enfermé dans les conventions, il doit être librement vécu.</p>
+        </sp>
+        <stage>(A lui-même)</stage>
+        <stage>(LA MARQUISE fait un dernier adieu de la main, puis s'éloigne de la scène. LE VICOMTE s'approche du MARQUIS.)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>Marquis, soyez fort. Les chemins du cœur sont souvent tortueux. Vous devez lâcher prise et laisser l'amour suivre son propre cours.</p>
+        </sp>
+        <stage>(Voix douce)</stage>
+        <stage>(LE MARQUIS baisse la tête, secoué par la tristesse et la résignation.)</stage>
+        <sp who="#fin">
+          <speaker>FIN</speaker>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ACTE V</head>
+        <stage>(Salle somptueusement décorée avec des lustres en cristal. Au fond, une grande porte d'entrée. Des domestiques s'affairent pour préparer une réception.)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Elle ne devrait plus tarder. La Comtesse m'a assuré qu'elle viendrait.</p>
+        </sp>
+        <stage>(Se tenant près de la porte d'entrée, anxieux)</stage>
+        <stage>(LA COMTESSE entre dans la salle, vêtue d'une robe élégante.)</stage>
+        <sp who="#la comtesse">
+          <speaker>LA COMTESSE</speaker>
+          <p>Marquis, elle a fondamentalement changé depuis son départ. Vous devez lui montrer de la patience et de la compréhension.</p>
+        </sp>
+        <stage>(S'approchant du MARQUIS)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Je ferai de mon mieux. Mais l'attente me rend nerveux. J'ai tant de choses à lui dire.</p>
+        </sp>
+        <stage>(Acquiesçant)</stage>
+        <stage>(Les invités commencent à arriver, remplissant la salle de l'agitation de leur présence.)</stage>
+        <stage>(LE VICOMTE s'approche du MARQUIS, l'air pensif.)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>Marquis, il y a quelque chose que je dois vous dire.</p>
+        </sp>
+        <stage>(Murmurant)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Qu'est-ce qui vous tracasse, Vicomte ?</p>
+        </sp>
+        <stage>(Surpris)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>Je viens de l'apprendre... La Marquise a trouvé un nouvel amour.</p>
+        </sp>
+        <stage>(Regardant autour de lui pour s'assurer une certaine discrétion)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Comment est-ce possible ? Nous nous sommes séparés il y a à peine quelques semaines.</p>
+        </sp>
+        <stage>(Effondré)</stage>
+        <sp who="#le vicomte">
+          <speaker>LE VICOMTE</speaker>
+          <p>Les chemins de l'amour sont souvent imprévisibles, Marquis. Elle mérite d'être heureuse, même si cela signifie qu'elle trouve le bonheur loin de nous.</p>
+        </sp>
+        <stage>(Calme)</stage>
+        <stage>(LA MARQUISE entre dans la salle, vêtue d'une robe somptueuse. Son regard croise celui du MARQUIS. Un silence chargé d'émotion s'installe tandis que tous les regards se tournent vers elle.)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Mes chers amis, je suis honorée de me retrouver ici parmi vous. Je voudrais présenter à tous l'homme qui a su ranimer mon cœur et me montrer la véritable passion.</p>
+        </sp>
+        <stage>(S'avançant lentement, avec grâce)</stage>
+        <stage>(ELLE s'approche du MARQUIS et se tient à ses côtés.)</stage>
+        <sp who="#la marquise">
+          <speaker>LA MARQUISE</speaker>
+          <p>Marquis, je vous présente mon nouvel amour, un homme qui m'a su comprendre et m'accepter telle que je suis.</p>
+        </sp>
+        <stage>(Prenant la main du MARQUIS)</stage>
+        <stage>(Le MARQUIS est pris de court, mais se reprend rapidement. Avec un sourire, il s'incline devant le nouvel amant de LA MARQUISE.)</stage>
+        <sp who="#le marquis">
+          <speaker>LE MARQUIS</speaker>
+          <p>Je vous souhaite à tous les deux tout le bonheur du monde. Que votre amour soit éternel.</p>
+        </sp>
+        <stage>(Comprenant)</stage>
+        <stage>(La salle est remplie de murmures et de chuchotements.)</stage>
+        <sp>
+          <speaker>FIN</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

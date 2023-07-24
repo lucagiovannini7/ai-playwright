@@ -1,0 +1,400 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt></titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="fin de l'">
+            <persName>FIN DE L'</persName>
+          </person>
+          <person xml:id="canari">
+            <persName>CANARI</persName>
+          </person>
+          <person xml:id="laurent">
+            <persName>LAURENT</persName>
+          </person>
+          <person xml:id="le garçon de l'auberge">
+            <persName>LE GARÇON DE L'AUBERGE</persName>
+          </person>
+          <person xml:id="rose">
+            <persName>ROSE</persName>
+          </person>
+          <person xml:id="le père de madeleine">
+            <persName>LE PÈRE DE MADELEINE</persName>
+          </person>
+          <person xml:id="madeleine">
+            <persName>MADELEINE</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-07-24">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>
+      <div type="scene">
+        <head>ACTE I</head>
+        <stage>(La scène se passe dans un salon luxueux d'une maison bourgeoise parisienne au 19e siècle. La pièce est décorée avec des meubles somptueux, des tableaux accrochés aux murs et des tapisseries ornant les fenêtres.)</stage>
+      </div>
+      <div type="scene">
+        <head>SCÈNE I</head>
+        <stage>(La scène s'ouvre sur MADELEINE, une belle et élégante jeune femme, assise sur une chaise, brodant attentivement un mouchoir en dentelle.)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Oh, quelle journée enchanteresse ! Les rayons du soleil dansent avec grâce à travers ces rideaux brodés d'or. Mais mon cœur, lui, est troublé par un amour naissant...</p>
+        </sp>
+        <stage>(Murmurant)</stage>
+        <stage>(LAURENT, un jeune homme charmant et intriguant, entre discrètement dans la pièce.)</stage>
+        <sp who="#laurent">
+          <speaker>LAURENT</speaker>
+          <p>Madeleine...</p>
+        </sp>
+        <stage>(Avec douceur)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Laurent ! Quelle surprise de te voir ici !</p>
+        </sp>
+        <stage>(Surprise)</stage>
+        <sp who="#laurent">
+          <speaker>LAURENT</speaker>
+          <p>Je ne pouvais pas m'empêcher de te rendre visite, ma chère Madeleine. Depuis que nos regards se sont croisés lors du bal de l'Opéra, mon esprit est habité par ton image.</p>
+        </sp>
+        <stage>(Se rapprochant d'elle)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Tes paroles sont flatteuses, mais imprudentes, Laurent. Nous vivons dans un monde où les conventions sociales font obstacle à notre amour interdit.</p>
+        </sp>
+        <stage>(Touchée)</stage>
+        <sp who="#laurent">
+          <speaker>LAURENT</speaker>
+          <p>Les conventions sociales ne doivent pas empêcher deux âmes ardentes de s'étreindre. Je suis prêt à défier tout ce qui se dresse entre nous, Madeleine.</p>
+        </sp>
+        <stage>(La fixant intensément)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Je sens la passion qui brûle en toi, Laurent, et mon cœur s'enflamme de la même intensité. Mais nous devons être prudents. Nous risquons de compromettre à la fois notre famille et notre réputation.</p>
+        </sp>
+        <stage>(Baissant les yeux, les joues enflammées)</stage>
+        <sp who="#laurent">
+          <speaker>LAURENT</speaker>
+          <p>Ce que je ressens dépasse toutes ces considérations futiles. Je suis prêt à me battre pour toi, Madeleine, contre vents et marées.</p>
+        </sp>
+        <stage>(Les yeux pleins de détermination)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Oh, Laurent, tu me fais entrevoir un amour insoupçonné. Mais réfléchissons aux conséquences avant de nous perdre dans cette étreinte dangereuse.</p>
+        </sp>
+        <stage>(Resserrant sa prise sur le mouchoir)</stage>
+        <stage>(LAURENT s'approche encore plus près de MADELEINE et prend délicatement sa main.)</stage>
+        <sp who="#laurent">
+          <speaker>LAURENT</speaker>
+          <p>Les mots ne sauraient exprimer l'intensité de mes sentiments. Mais laisse-moi te dire une chose : je suis prêt à tout pour t'appartenir, ma tendre Madeleine.</p>
+        </sp>
+        <stage>(Soupirant)</stage>
+        <stage>(MADELEINE regarde LAURENT, partagée entre son désir et les risques encourus pour cet amour.)</stage>
+        <sp who="#fin de l'">
+          <speaker>FIN DE L'</speaker>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ACTE I</head>
+      </div>
+      <div type="scene">
+        <head>ACTE II</head>
+        <stage>(La scène se déroule dans le jardin d'une demeure aristocratique, le soir. Un banc en pierre est situé au centre du décor, entouré de fleurs parfumées et d'arbustes taillés avec soin.)</stage>
+      </div>
+      <div type="scene">
+        <head>SCÈNE I</head>
+        <stage>(ROSE, une femme sage et dévouée, entre sur scène.)</stage>
+        <stage>(Elle porte une panière de fleurs fraîchement cueillies et s'approche du banc pour les disposer avec grâce.)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>L'air embaumé des fleurs chatouille mes sens. Je veux que ce jardin respire la beauté de cet amour naissant entre Madeleine et Laurent. Mais comment parlerais-je à Madeleine de ce rendez-vous secret que Laurent lui a proposé ? Mon cœur est rempli d'inquiétude.</p>
+        </sp>
+        <stage>(Voilant vers le public)</stage>
+        <stage>(MADELEINE entre, le visage illuminé par une lueur d'excitation.)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Rose, tu es ici. Viens, asseyons-nous un moment sur ce banc. J'ai tant de choses à te confier.</p>
+        </sp>
+        <stage>(Regardant autour d'elle)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Madeleine, ma chère, il est de mon devoir de t'ouvrir les yeux face à cette passion interdite. Penses-tu que ton père, un homme sévère et respecté, acceptera cette relation imprudente avec Laurent ?</p>
+        </sp>
+        <stage>(Tristement)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Chère Rose, j'ai réfléchi à tout cela, mais l'amour que je ressens pour Laurent est si intense. Je ne peux le renier.</p>
+        </sp>
+        <stage>(Touchant sa joue)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Mais pense à ta famille, Madeleine. Pense à toi-même. Les dangers de cet amour sont multiples et le monde est impitoyable.</p>
+        </sp>
+        <stage>(La voix chargée d'émotion)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Rose, mon cœur est rempli de désir, je ne peux envisager une vie sans Laurent. Je suis prête à traverser tous les orages et à braver toutes les tempêtes pour être avec lui.</p>
+        </sp>
+        <stage>(Les larmes aux yeux)</stage>
+        <stage>(LE CANARI, un adorable oiseau chanteur, s'envole soudain d'un arbre voisin et se pose sur le rebord d'une fontaine à proximité.)</stage>
+        <sp who="#canari">
+          <speaker>CANARI</speaker>
+          <p>Chère Madeleine, écoute la voix du destin. L'amour véritable brave les obstacles et triomphe toujours. Suis ton cœur et sois fidèle à cette passion qui embrase ton être.</p>
+        </sp>
+        <stage>(Chirpant doucement)</stage>
+        <stage>(MADELEINE et ROSE se regardent, leurs visages exprimant un mélange de peur et de résolution.)</stage>
+        <sp who="#fin de l'">
+          <speaker>FIN DE L'</speaker>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ACTE II</head>
+      </div>
+      <div type="scene">
+        <head>ACTE III</head>
+        <stage>(La scène se situe dans une chambre somptueuse de la maison bourgeoise, richement décorée avec des tentures et des meubles de style.)</stage>
+      </div>
+      <div type="scene">
+        <head>SCÈNE I</head>
+        <stage>(MADELEINE est assise à sa coiffeuse, se regardant tristement dans le miroir. ROSE entre vivement dans la pièce, portant une lettre à la main.)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Madeleine, ma chère, j'ai une lettre pour toi.</p>
+        </sp>
+        <stage>(Entrant précipitamment)</stage>
+        <stage>(MADELEINE se lève brusquement et attrape la lettre avec anxiété.)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>"Mon amour, je ne peux plus vivre sans toi. Viens avec moi cette nuit, sous le ciel étoilé, et ensemble nous fuirons vers un avenir meilleur. Notre amour triomphera de tous les obstacles. – Laurent"</p>
+        </sp>
+        <stage>(Lisant la lettre à voix basse)</stage>
+        <stage>(MADELEINE serre la lettre contre sa poitrine, partagée entre l'excitation et l'inquiétude.)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Madeleine, je t'en supplie, réfléchis bien avant de prendre une telle décision. Les conséquences de cet acte seront incalculables.</p>
+        </sp>
+        <stage>(Inquiète)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Rose, la flamme de mon amour brûle trop intensément pour être étouffée par la peur. Je vais fuir avec Laurent cette nuit, coûte que coûte. Je ne peux plus vivre dans un monde où notre amour est condamné.</p>
+        </sp>
+        <stage>(Déterminée)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Madeleine, mon cœur se brise face à ton entêtement. Mais je ne peux te retenir si tu as déjà fait ton choix.</p>
+        </sp>
+        <stage>(Les larmes aux yeux)</stage>
+        <stage>(MADELEINE se prépare rapidement, enfilant une cape pour se dissimuler. Elle fixe ROSE du regard, pleine d'émotion.)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Rose, jamais je n'oublierai ta présence bienveillante et tes sages conseils. J'espère qu'un jour, tu pourras pardonner ma décision.</p>
+        </sp>
+        <stage>(Touchant doucement le bras de ROSE)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Que Dieu te protège, Madeleine. Que ton chemin soit éclairé de lumière et de bonheur, où qu'il te mène.</p>
+        </sp>
+        <stage>(Les yeux embués de larmes)</stage>
+        <stage>(MADELEINE quitte la chambre, laissant ROSE seule dans sa tristesse. Le rideau tombe lentement sur cette scène chargée d'émotion.)</stage>
+        <sp who="#fin de l'">
+          <speaker>FIN DE L'</speaker>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ACTE III</head>
+      </div>
+      <div type="scene">
+        <head>ACTE IV</head>
+        <stage>(La scène se déroule dans une petite auberge en bordure d'une forêt. Il fait nuit et l'endroit est éclairé faiblement par des chandelles flamboyantes. Un LE GARÇON DE L'AUBERGE s'active à distribuer des clés aux différents clients.)</stage>
+      </div>
+      <div type="scene">
+        <head>SCÈNE I</head>
+        <stage>(ROSE entre précipitamment dans l'auberge, la respiration agitée. Elle cherche MADELEINE avec inquiétude.)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Pardonnez-moi, avez-vous vu une jeune femme, vêtue d'une cape, entrer ici ? Elle répond au nom de Madeleine.</p>
+        </sp>
+        <stage>(Au GARÇON DE L'AUBERGE)</stage>
+        <sp who="#le garçon de l'auberge">
+          <speaker>LE GARÇON DE L'AUBERGE</speaker>
+          <p>Ah oui, en effet, une jeune femme correspondant à cette description est arrivée il y a quelques instants. Elle est accompagnée d'un homme et tous deux se sont dirigés vers la chambre numéro 7.</p>
+        </sp>
+        <stage>(Après un moment de réflexion)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Chambre numéro 7 ? Dites-moi, s'il vous plaît, où se trouve cette chambre ?</p>
+        </sp>
+        <stage>(Paniquée)</stage>
+        <stage>(LE GARÇON DE L'AUBERGE pointe du doigt en direction d'un couloir sombre.)</stage>
+        <sp who="#le garçon de l'auberge">
+          <speaker>LE GARÇON DE L'AUBERGE</speaker>
+          <p>Prenez ce couloir, puis tournez à droite et vous la trouverez à l'extrémité.</p>
+        </sp>
+        <stage>(Préoccupé)</stage>
+        <stage>(ROSE, saisie par l'angoisse, s'élance à la recherche de MADELEINE.)</stage>
+      </div>
+      <div type="scene">
+        <head>SCÈNE II</head>
+        <stage>(Dans la chambre numéro 7, une lumière tamisée baigne la pièce. MADELEINE et LAURENT se tiennent face à face, leurs regards emplis d'amour.)</stage>
+        <sp who="#laurent">
+          <speaker>LAURENT</speaker>
+          <p>Enfin, nous sommes réunis, mon amour. Plus rien ne pourra nous séparer.</p>
+        </sp>
+        <stage>(Tendre)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Oh Laurent, chaque seconde loin de toi était une torture. Nos destins sont enfin unis.</p>
+        </sp>
+        <stage>(Eprit d'amour)</stage>
+        <stage>(Au même moment, ROSE fait irruption dans la chambre, les yeux emplis de colère et d'inquiétude.)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Madeleine ! Comment as-tu pu franchir cette barrière sacrée ? Ton père est à ta recherche !</p>
+        </sp>
+        <stage>(Éperdue)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Mon père ?!</p>
+        </sp>
+        <stage>(Choquée)</stage>
+        <sp who="#laurent">
+          <speaker>LAURENT</speaker>
+          <p>Madeleine, qu'avons-nous fait ? Nous n'avions pas prévu cette interdiction paternelle...</p>
+        </sp>
+        <stage>(Inquiet)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Il est encore temps, Madeleine. Il est encore temps de retourner à la maison, d'oublier cet amour dangereux et de reconstruire ta vie.</p>
+        </sp>
+        <stage>(Résolue)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Non, Rose. Je ne peux plus reculer maintenant. L'amour que nous partageons est trop fort pour être abandonné.</p>
+        </sp>
+        <stage>(Luttant contre ses larmes)</stage>
+        <stage>(ROSE regarde MADELEINE avec tristesse, la réalité de son choix insupportable.)</stage>
+        <sp who="#fin de l'">
+          <speaker>FIN DE L'</speaker>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>ACTE IV</head>
+      </div>
+      <div type="scene">
+        <head>ACTE V</head>
+        <stage>(La scène se déroule dans le salon de la maison de Madeleine. Les murs sont ornés de tableaux anciens et d'étoffes luxueuses, créant une atmosphère élégante et sombre.)</stage>
+      </div>
+      <div type="scene">
+        <head>SCÈNE I</head>
+        <stage>(MADELEINE est assise seule dans le salon, les yeux fixés sur l'horloge qui tic-taque implacablement. ROSE entre soudainement, le visage empreint d'une grande tristesse.)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Rose, qu'y a-t-il ? Tu as l'air bouleversée.</p>
+        </sp>
+        <stage>(Inquiète)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Madeleine, ton père est arrivé. Il est là, dans la pièce voisine. Les conséquences de nos actes sont imminentes.</p>
+        </sp>
+        <stage>(La voix tremblante)</stage>
+        <stage>(MADELEINE se lève brusquement, les mains tremblantes.)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Mon père... Comment vais-je lui faire face ? Comment lui expliquer ce choix que j'ai fait ?</p>
+        </sp>
+        <stage>(Murmurant)</stage>
+        <sp who="#rose">
+          <speaker>ROSE</speaker>
+          <p>Madeleine, il est temps de faire face à la vérité. Assumons nos responsabilités et affrontons les conséquences de nos actions.</p>
+        </sp>
+        <stage>(Avec tendresse)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SCÈNE II)</head>
+        <stage>(LE PÈRE DE MADELEINE entre solennellement dans le salon. Il est un homme d'âge mûr, l'expression sévère.)</stage>
+        <sp who="#le père de madeleine">
+          <speaker>LE PÈRE DE MADELEINE</speaker>
+          <p>Madeleine, que signifie cette lettre que j'ai reçue ? Est-il vrai que tu as fui avec cet homme, contre ma volonté ?</p>
+        </sp>
+        <stage>(D'une voix autoritaire)</stage>
+        <stage>(MADELEINE fixe son père avec détermination, une lueur de défiance mêlée de tristesse dans le regard.)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Père, je vous demande de comprendre. L'amour que je porte à Laurent est sincère et profond. Nous nous sommes unis dans cet amour et je ne peux plus vivre sans lui.</p>
+        </sp>
+        <stage>(D'un ton ferme)</stage>
+        <sp who="#le père de madeleine">
+          <speaker>LE PÈRE DE MADELEINE</speaker>
+          <p>Comment as-tu pu trahir notre nom, notre famille ? Je ne peux accepter cet homme, Madeleine. Tu dois prendre conscience des conséquences de tes actes.</p>
+        </sp>
+        <stage>(La voix vibrante de colère)</stage>
+        <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
+          <p>Père, je sais que vous ne pouvez accepter notre union, mais je suis prête à tout pour cet amour. Je suis prête à me défaire de tout, à tout abandonner, pour être avec lui.</p>
+        </sp>
+        <stage>(Les larmes aux yeux)</stage>
+        <sp who="#le père de madeleine">
+          <speaker>LE PÈRE DE MADELEINE</speaker>
+          <p>Madeleine, je crains que tu ne réalises pas la gravité de tes choix. Mais je suis ton père, et même si je désapprouve cette union, je veux ton bonheur. </p>
+        </sp>
+        <stage>(Dans un mélange de tristesse et de sévérité)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SCÈNE III)</head>
+        <stage>(LE PÈRE DE MADELEINE, le visage marqué par la peine, tend les bras vers MADELEINE, qui s'y précipite pour être consolée.)</stage>
+        <sp>
+          <speaker>FIN DE L</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>
