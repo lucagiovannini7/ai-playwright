@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ai000001" xml:lang="fre">
   <teiHeader>
     <fileDesc>
-      <titleStmt></titleStmt>
+      <titleStmt>French 1</titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
