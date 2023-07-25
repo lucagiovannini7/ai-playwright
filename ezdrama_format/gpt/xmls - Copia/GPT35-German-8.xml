@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt></titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="marthe			- ein dienstmädchen">
+            <persName>MARTHE			- Ein Dienstmädchen</persName>
+          </person>
+          <person xml:id="von meyenburg">
+            <persName>VON MEYENBURG:</persName>
+          </person>
+          <person xml:id="hermine von meyenburg	- seine tochter">
+            <persName>HERMINE VON MEYENBURG	- Seine Tochter</persName>
+          </person>
+          <person xml:id="amalie			- eine gouvernante">
+            <persName>AMALIE			- Eine Gouvernante</persName>
+          </person>
+          <person xml:id="hermine von meyenburg">
+            <persName>HERMINE VON MEYENBURG:</persName>
+          </person>
+          <person xml:id="wolfgang von hartenstein">
+            <persName>WOLFGANG VON HARTENSTEIN:</persName>
+          </person>
+          <person xml:id="personen">
+            <persName>PERSONEN:</persName>
+          </person>
+          <person xml:id="leffebre">
+            <persName>LEFFEBRE:</persName>
+          </person>
+          <person xml:id="von meyenburg		- ein wohlhabender gutsherr">
+            <persName>VON MEYENBURG		- Ein wohlhabender Gutsherr</persName>
+          </person>
+          <person xml:id="hermine von meyenenscheidung des schicksals">
+            <persName>HERMINE VON MEYENENSCHEIDUNG DES SCHICKSALS</persName>
+          </person>
+          <person xml:id="wolfgang von hartenstein	- ein edelmütiger freund der familie">
+            <persName>WOLFGANG VON HARTENSTEIN	- Ein edelmütiger Freund der Familie</persName>
+          </person>
+          <person xml:id="walpurga			- ein dorfbewohner">
+            <persName>WALPURGA			- Ein Dorfbewohner</persName>
+          </person>
+          <person xml:id="ende des stückesenscheidung des schicksals">
+            <persName>ENDE DES STÜCKESENSCHEIDUNG DES SCHICKSALS</persName>
+          </person>
+          <person xml:id="leffebre			- verwalter des gutsherren">
+            <persName>LEFFEBRE			- Verwalter des Gutsherren</persName>
+          </person>
+          <person xml:id="walpurga">
+            <persName>WALPURGA:</persName>
+          </person>
+          <person xml:id="laurier			- ein schlossermeister">
+            <persName>LAURIER			- Ein Schlossermeister</persName>
+          </person>
+          <person xml:id="title:enscheidung des schicksals">
+            <persName>Title:ENSCHEIDUNG DES SCHICKSALS</persName>
+          </person>
+          <person xml:id="fräulein schmidt		- eine zofe">
+            <persName>FRÄULEIN SCHMIDT		- Eine Zofe</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-07-24">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>
+      <sp who="#title:enscheidung des schicksals">
+        <speaker>Title:ENSCHEIDUNG DES SCHICKSALS</speaker>
+        <p>---------------</p>
+      </sp>
+      <sp who="#personen">
+        <speaker>PERSONEN:</speaker>
+        <p></p>
+      </sp>
+      <sp who="#von meyenburg		- ein wohlhabender gutsherr">
+        <speaker>VON MEYENBURG		- Ein wohlhabender Gutsherr</speaker>
+        <p></p>
+      </sp>
+      <sp who="#hermine von meyenburg	- seine tochter">
+        <speaker>HERMINE VON MEYENBURG	- Seine Tochter</speaker>
+        <p></p>
+      </sp>
+      <sp who="#wolfgang von hartenstein	- ein edelmütiger freund der familie">
+        <speaker>WOLFGANG VON HARTENSTEIN	- Ein edelmütiger Freund der Familie</speaker>
+        <p></p>
+      </sp>
+      <sp who="#amalie			- eine gouvernante">
+        <speaker>AMALIE			- Eine Gouvernante</speaker>
+        <p></p>
+      </sp>
+      <sp who="#leffebre			- verwalter des gutsherren">
+        <speaker>LEFFEBRE			- Verwalter des Gutsherren</speaker>
+        <p></p>
+      </sp>
+      <sp who="#laurier			- ein schlossermeister">
+        <speaker>LAURIER			- Ein Schlossermeister</speaker>
+        <p></p>
+      </sp>
+      <sp who="#fräulein schmidt		- eine zofe">
+        <speaker>FRÄULEIN SCHMIDT		- Eine Zofe</speaker>
+        <p></p>
+      </sp>
+      <sp who="#walpurga			- ein dorfbewohner">
+        <speaker>WALPURGA			- Ein Dorfbewohner</speaker>
+        <p></p>
+      </sp>
+      <sp who="#marthe			- ein dienstmädchen">
+        <speaker>MARTHE			- Ein Dienstmädchen</speaker>
+        <p>Schauplatz: Hamburg und das Gutshaus von Meyenburg</p>
+      </sp>
+      <div type="scene">
+        <head>SZENE 1: Ein luxuriöses Wohnzimmer im Gutshaus des von Meyenburger Herrn. Der Wände schmücken teure Gemälde, ein massiver Kamin befindet sich auf einer Seite des Raumes.</head>
+        <stage>(Von Meyenburg sitzt in seinem Sessel am Kamin. Hermine betritt elegant gekleidet den Raum, gefolgt von Wolfgang)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Vater, ich fürchte, die brennende Leidenschaft zwischen mir und Wolfgang kann nicht länger unterdrückt werden.</p>
+        </sp>
+        <stage>(gedämpft)</stage>
+        <sp who="#von meyenburg">
+          <speaker>VON MEYENBURG:</speaker>
+          <p>Was wagt ihr beiden, euch in meinem Haus zu treffen und über derartige Angelegenheiten zu sprechen? Du, mein Freund, bist wie ein Sohn für mich, aber solche Gedanken über meine Tochter sind unerhört!</p>
+        </sp>
+        <stage>(empört)</stage>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Mein Herr, Ihre Tochter ist die Verkörperung alles Wundervollen. Ich kann meine Gefühle nicht mehr verbergen und bitte Sie um Ihre Zustimmung, um Hermines Hand anzuhalten.</p>
+        </sp>
+        <stage>(aufrecht)</stage>
+        <sp who="#von meyenburg">
+          <speaker>VON MEYENBURG:</speaker>
+          <p>Diese Offenbarung trifft mich wie ein Blitz. Wolfgang, ich weiß um deine ehrenhaften Absichten, aber du verstehst nicht, welches Schicksal diese Verbindung mit sich bringt.</p>
+        </sp>
+        <stage>(bestürzt)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Vater, ich flehe dich an, unser Glück nicht zu zerstören! Wolfgang und ich sind uns unserer Liebe sicher und sind bereit, alles zu tun, um ein Leben voller Hingabe zu führen.</p>
+        </sp>
+        <stage>(stürmisch)</stage>
+        <sp who="#von meyenburg">
+          <speaker>VON MEYENBURG:</speaker>
+          <p>Seht, die Vorsehung hat euch gehört. Wohl, ein schwerer Konflikt verzehrt mein Inneres, aber wenn ihr beiden, die ihr den Mut habt, für eure Liebe einzustehen, mein Segen sucht, so kündige ich hiermit meine Zustimmung zur Verbindung einer Jungfrau von Meyenburg und einem wahren Edelmann aus dem Hause von Hartenstein an.</p>
+        </sp>
+        <stage>(tief)</stage>
+        <stage>(Ein Klopfsignal an der Tür)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Wer wagt es jetzt einzutreten?Leffebre tritt ein.</p>
+        </sp>
+        <stage>(verblüfft)</stage>
+        <sp who="#leffebre">
+          <speaker>LEFFEBRE:</speaker>
+          <p>BadenENSCHEIDUNG DES SCHICKSALS---------------</p>
+        </sp>
+        <stage>(aufgeregt)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 2: Ein eleganter Raum in einem vornehmen Hotel in Hamburg. Hermine sitzt, in einer Robe gehüllt, an einem Tisch. Hermine ist tief in Gedanken versunken, als Wolfgang eilig den Raum betritt.)</head>
+        <stage>(Hermine sieht auf und ihre Augen füllen sich mit Glück)</stage>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Meine geliebte Hermine, endlich finde ich dich!</p>
+        </sp>
+        <stage>(aufgeregt)</stage>
+        <stage>(Hermine steht auf und umarmt Wolfgang)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Wolfgang, wie habe ich diese Augenblicke unserer Trennung vermisst! Hast du die Entscheidung meines Vaters verkündet?</p>
+        </sp>
+        <stage>(gerührt)</stage>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Ja, meine Liebe, Vater hat großzügig zugestimmt, aber er hat mir gleichzeitig eine schwerwiegende Aufgabe auferlegt. Mein Vorfahr, der berühmte Folmar von Hartenstein, hat eine verschwundene Schatzkarte hinterlassen, die das Schicksal unserer beiden Familien verbindet. Ich muss diese Karte finden, um unsere Zukunft zu gewährleisten.</p>
+        </sp>
+        <stage>(versonnen)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Mein tapferer Wolfgang, dieses Rätsel klingt gefährlich. Wie sollst du nur diese Karte finden?</p>
+        </sp>
+        <stage>(besorgt)</stage>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Ich habe bereits Spuren verfolgt und Informationen gesammelt. Der Weg führt uns in die düsteren Tiefen des Harzgebirges, wo Gerüchte besagen, dass der Schatz versteckt ist. Ich bitte dich, mein Herz, begleite mich auf dieser Reise. Zusammen können wir allen Gefahren trotzen.</p>
+        </sp>
+        <stage>(estkuckt)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Wolfgang, ich kann mir nichts Schöneres vorstellen, als an deiner Seite zu sein. Ich werde alles tun, um dich zu unterstützen.</p>
+        </sp>
+        <stage>(den Tränen nahe)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 3: Ein heruntergekommenes Gasthaus in einem Dorf am Fuße des Harzgebirges. Wolfgang und Hermine sitzen an einem Tisch, während eine Gruppe von Dorfbewohnern, angeführt von Walpurga, eintreten.)</head>
+        <sp who="#walpurga">
+          <speaker>WALPURGA:</speaker>
+          <p>Was treibt ihr landfremden Städter hier in unserem Dorf?</p>
+        </sp>
+        <stage>(zornig)</stage>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Meine Dame, erlauben Sie mir, mich vorzustellen. Ich bin Wolfgang von Hartenstein und das ist meine Geliebte, Hermine von Meyenburg. Wir sind auf der Suche nach einer verlorenen Schatzkarte, die hier im Harz verborgen ist.</p>
+        </sp>
+        <stage>(respektvoll)</stage>
+        <sp who="#walpurga">
+          <speaker>WALPURGA:</speaker>
+          <p>Eine Schatzkarte? Ihr wollt uns zum Narren halten. Hier im Harz gibt es keine Schätze. Diese Berge verschlingen Abenteurer wie euch.</p>
+        </sp>
+        <stage>(verdächtig)</stage>
+        <sp who="#hermine von meyenenscheidung des schicksals">
+          <speaker>HERMINE VON MEYENENSCHEIDUNG DES SCHICKSALS</speaker>
+          <p>---------------</p>
+        </sp>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 4: Ein geheimnisvoller Wald im Harzgebirge. Wolfgang und Hermine stehen vor einem alten Baumstamm, der als Markierung dient. Sie sind erschöpft und sehen sich ratlos um.)</head>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Wolfgang, wir sind so nah dran! Die Karte zeigt diesen Baumstamm als den Ort, an dem der Schatz versteckt sein soll.</p>
+        </sp>
+        <stage>(aufgeregt)</stage>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Aber wo ist die Öffnung? Wo finden wir den Eingang zu dieser Höhle? Die Zeit wird knapp, Hermine. Wir müssen eine Lösung finden.</p>
+        </sp>
+        <stage>(entmutigt)</stage>
+        <stage>(Eine geheimnisvolle Figur, LEFFEBRE, tritt aus dem Schatten)</stage>
+        <sp who="#leffebre">
+          <speaker>LEFFEBRE:</speaker>
+          <p>Wolfgang von Hartenstein! Hermine von Meyenburg! Ich wusste, dass ihr diesen Ort erreichen würdet.</p>
+        </sp>
+        <stage>(eindringlich)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Leffebre? Was machst du hier? Ich dachte, du seist zurück auf dem Gutshaus.</p>
+        </sp>
+        <stage>(überrascht)</stage>
+        <sp who="#leffebre">
+          <speaker>LEFFEBRE:</speaker>
+          <p>Es gibt so vieles, das ihr nicht wisst, liebe Hermine. Ich bin hier, um das Geheimnis zu lüften, das unsere Schicksale untrennbar miteinander verbindet.</p>
+        </sp>
+        <stage>(mystisch)</stage>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Was meinst du, Leffebre? Sprich!</p>
+        </sp>
+        <stage>(neugierig)</stage>
+        <sp who="#leffebre">
+          <speaker>LEFFEBRE:</speaker>
+          <p>Die Wahrheit ist, dass ich nicht nur der Verwalter von Meyenburger bin. Ich bin auch ein Nachfahre von Folmar von Hartenstein. Die Schatzjagd, die ihr seid, ist ein Teil des Fluchs, der über unsere beiden Familien liegt.</p>
+        </sp>
+        <stage>(langsam)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Ein Fluch? Was meinst du?</p>
+        </sp>
+        <stage>(fassungslos)</stage>
+        <sp who="#leffebre">
+          <speaker>LEFFEBRE:</speaker>
+          <p>Es gab eine Zeit, in der die Familien von Meyenburger und von Hartenstein eng verbunden waren. Aber ein Verrat hat das Band zerrissen. Die Schatzkarte ist der Schlüssel zur Versöhnung, zur Aufhebung des Fluchs.</p>
+        </sp>
+        <stage>(ernst)</stage>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Leffebre, wenn das wahr ist, dann müssen wir den Schatz finden, um unsere Liebe zu retten und unseren Familien Frieden zu bringen.</p>
+        </sp>
+        <stage>(bestürzt)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Wir werden diese Probe bestehen, Wolfgang. Gemeinsam werden wir den Fluch brechen und eine glückliche Zukunft haben.</p>
+        </sp>
+        <stage>(entschlossen)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 5: Die Höhle, in der sich der Schatz angeblich befindet. Wolfgang und Hermine stehen atemlos vor einer funkelnden Truhe, die von goldenen Armreifen und Juwelen gefüllt ist.)</head>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Das ist es, der Schatz! Hermine, wir habenENSCHEIDUNG DES SCHICKSALS---------------</p>
+        </sp>
+        <stage>(aufgeregt)</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 6: Das Gutshaus von Meyenburg. Der Festsaal ist prächtig geschmückt. Die Dorfbewohner sind versammelt, um die Rückkehr von Hermine und Wolfgang zu feiern.</head>
+        <stage>(VON MEYENBURG steht auf einer erhöhten Plattform, neben ihm HERMINE VON MEYENBURG und WOLFGANG VON HARTENSTEIN)</stage>
+        <sp who="#von meyenburg">
+          <speaker>VON MEYENBURG:</speaker>
+          <p>Liebe Dorfbewohner! Ich rufe euch auf, diesem feierlichen Anlass beizuwohnen. Lasst uns gemeinsam die Rückkehr von Hermine und Wolfgang mit Freude und Begeisterung begrüßen.</p>
+        </sp>
+        <stage>(stolz)</stage>
+        <stage>(Die Dorfbewohner jubeln und klatschen)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Mein Vater, meine lieben Dorfbewohner, wir haben den Schatz des Fluches gefunden. Aber noch wichtiger ist, dass wir das Band der Versöhnung zwischen den Familien von Meyenburg und von Hartenstein wiederhergestellt haben.</p>
+        </sp>
+        <stage>(bewegt)</stage>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Mit diesem Schatz haben wir nicht nur Reichtümer gewonnen, sondern auch die wertvollste Belohnung: die Liebe und das Vertrauen zwischen unseren Familien.</p>
+        </sp>
+        <stage>(überzeugt)</stage>
+        <sp who="#leffebre">
+          <speaker>LEFFEBRE:</speaker>
+          <p>Erlaubt mir, als verlorener Sohn beider Familien zu sprechen. Dieser Schatz ist nicht nur ein Vermögen, sondern auch ein Zeichen der Einigung und des Friedens. Lasst uns diesen Augenblick der Erneuerung feiern und eine Zukunft ohne Zwietracht aufbauen.</p>
+        </sp>
+        <stage>(tritt vor)</stage>
+        <stage>(Die Dorfbewohner applaudieren und heben ihre Gläser)</stage>
+        <sp who="#von meyenburg">
+          <speaker>VON MEYENBURG:</speaker>
+          <p>Ich danke euch allen für eure Unterstützung und euer Vertrauen. Lasst uns diese Feier nutzen, um unsere gemeinsame Zukunft zu besiegeln und eine neue Ära des Wohlstands und der Harmonie einzuläuten.</p>
+        </sp>
+        <stage>(gerührt)</stage>
+        <stage>(Die Dorfbewohner heben ihre Gläser und stoßen an)</stage>
+        <stage>(Die Vorhänge fallen langsam)</stage>
+        <sp who="#ende des stückesenscheidung des schicksals">
+          <speaker>ENDE DES STÜCKESENSCHEIDUNG DES SCHICKSALS</speaker>
+          <p>---------------</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SZENE 7: Der Garten des Gutshauses von Meyenburg. Ein zauberhaftes Ambiente mit Blumenbeeten und einem Springbrunnen in der Mitte.</head>
+        <stage>(VON MEYENBURG spaziert im Garten, als HERMINE VON MEYENBURG am Arm von WOLFGANG VON HARTENSTEIN hereinkommt)</stage>
+        <sp who="#hermine von meyenburg">
+          <speaker>HERMINE VON MEYENBURG:</speaker>
+          <p>Mein lieber Vater, Wolfgang und ich haben eine wichtige Entscheidung getroffen. Wir möchten gerne heiraten und unser Glück weiterhin miteinander teilen. Bitte segne unsere Vereinigung.</p>
+        </sp>
+        <stage>(fröhlich)</stage>
+        <sp who="#von meyenburg">
+          <speaker>VON MEYENBURG:</speaker>
+          <p>Meine liebe Hermine, ich könnte nicht glücklicher sein, dass du deinen Weg gefunden hast. Wolfgang, ich übergebe dir die wichtigste Aufgabe, sie zu beschützen und zu lieben, wie ich es immer getan habe. Möge diese Heirat Segen und Harmonie in unsere Familie bringen.</p>
+        </sp>
+        <stage>(gerührt)</stage>
+        <sp who="#wolfgang von hartenstein">
+          <speaker>WOLFGANG VON HARTENSTEIN:</speaker>
+          <p>Herr von Meyenburg, ich verspreche Ihnen feierlich, Hermine mein ganzes Leben lang zu schätzen und zu lieben. Ich danke Ihnen für Ihr Vertrauen und Ihre Unterstützung.</p>
+        </sp>
+        <stage>(voller Liebe)</stage>
+        <stage>(VON MEYENBURG segnet das Paar. Sie umarmen sich und der Vorhang fällt langsam)</stage>
+        <sp>
+          <speaker>ENDE DES STÜCKES</speaker>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

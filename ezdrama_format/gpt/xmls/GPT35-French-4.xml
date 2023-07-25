@@ -1,400 +1,401 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt></titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
-          <name>ENTER SOURCE NAME HERE</name>
-          <idno type="URL">ENTER SOURCE URL HERE</idno>
-          <availability status="free">
-            <p>In the public domain.</p>
-          </availability>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person xml:id="marthe">
-            <persName>MARTHE:</persName>
-          </person>
-          <person xml:id="eugenie de valmont: bien, marthe. veuillez les accueillir et leur dire que je vais les rejoindre très bientôt">
-            <persName>EUGENIE DE VALMONT: Bien, Marthe. Veuillez les accueillir et leur dire que je vais les rejoindre très bientôt</persName>
-          </person>
-          <person xml:id="eugenie de valmont: mes chers amis, cette victoire n'aurait pas été possible sans votre soutien indéfectible et votre confiance en moi. ensemble, nous avons triomphé des mensonges et de la trahison">
-            <persName>EUGENIE DE VALMONT: Mes chers amis, cette victoire n'aurait pas été possible sans votre soutien indéfectible et votre confiance en moi. Ensemble, nous avons triomphé des mensonges et de la trahison</persName>
-          </person>
-          <person xml:id="tous les partisans">
-            <persName>TOUS LES PARTISANS:</persName>
-          </person>
-          <person xml:id="renaud: eugénie, vous êtes une femme exceptionnelle, pleine de grâce et d'intelligence. vous avez fait preuve d'un courage immense pour affronter les démons de votre passé et protéger notre nation">
-            <persName>RENAUD: Eugénie, vous êtes une femme exceptionnelle, pleine de grâce et d'intelligence. Vous avez fait preuve d'un courage immense pour affronter les démons de votre passé et protéger notre nation</persName>
-          </person>
-          <person xml:id="eugenie de valmont: mesdames et messieurs, je suis honorée de vous avoir tous réunis ici ce soir pour célébrer la victoire de la vérité et de la justice. notre nation s'est relevée grâce à notre unité et notre détermination">
-            <persName>EUGENIE DE VALMONT: Mesdames et Messieurs, je suis honorée de vous avoir tous réunis ici ce soir pour célébrer la victoire de la vérité et de la justice. Notre nation s'est relevée grâce à notre unité et notre détermination</persName>
-          </person>
-          <person xml:id="un partisan">
-            <persName>UN PARTISAN:</persName>
-          </person>
-          <person xml:id="robert">
-            <persName>ROBERT:</persName>
-          </person>
-          <person xml:id="invité 1">
-            <persName>INVITÉ 1:</persName>
-          </person>
-          <person xml:id="le juge">
-            <persName>LE JUGE:</persName>
-          </person>
-          <person xml:id="eugenie de valmont: renaud, grâce à notre amitié, à notre solidarité, nous sommes parvenus à construire un avenir meilleur pour notre pays, un avenir où la vérité prévaut toujours">
-            <persName>EUGENIE DE VALMONT: Renaud, grâce à notre amitié, à notre solidarité, nous sommes parvenus à construire un avenir meilleur pour notre pays, un avenir où la vérité prévaut toujours</persName>
-          </person>
-          <person xml:id="renaud">
-            <persName>RENAUD:</persName>
-          </person>
-          <person xml:id="eugenie de valmont">
-            <persName>EUGENIE DE VALMONT:</persName>
-          </person>
-          <person xml:id="comte felix de valmont">
-            <persName>COMTE FELIX DE VALMONT:</persName>
-          </person>
-          <person xml:id="une invitée">
-            <persName>UNE INVITÉE:</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-    <revisionDesc>
-      <listChange>
-        <change when="2023-07-24">DESCRIBE CHANGE</change>
-      </listChange>
-    </revisionDesc>
-  </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="2023">
-        <desc/>
-      </event>
-      <event type="premiere" when="2023">
-        <desc/>
-      </event>
-      <event type="written" when="2023">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation active="INSERT" name="wikidata" passive="INSERT"/>
-    </listRelation>
-  </standOff>
-  <text>
-    <body>
-      <div type="scene">
-        <head>ACTE I</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Un salon somptueusement aménagé dans la demeure de la comtesse EUGENIE DE VALMONT. Des meubles exquis, des tableaux de maîtres, et une ambiance de luxe se dégagent de l'environnement.)</stage>
-        <stage>(EUGENIE DE VALMONT, une comtesse d'âge mûr et d'une grande beauté, apparaît, vêtue d'une robe élégante. Elle est en train de lire une lettre et semble préoccupée.)</stage>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(pensive)</stage>
-          <p></p>
-        </sp>
-        <stage>(Une femme de chambre, MARTHE, rentre discrètement dans la pièce.)</stage>
-        <sp who="#marthe">
-          <speaker>MARTHE:</speaker>
-          <stage>(timidement)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont: bien, marthe. veuillez les accueillir et leur dire que je vais les rejoindre très bientôt">
-          <speaker>EUGENIE DE VALMONT: Bien, Marthe. Veuillez les accueillir et leur dire que je vais les rejoindre très bientôt.</speaker>
-          <p></p>
-        </sp>
-        <stage>(MARTHE s'incline légèrement et sort de la pièce.)</stage>
-        <stage>(EUGENIE DE VALMONT se promène nerveusement dans la pièce, réfléchissant à la présence imminente du COMTE FELIX DE VALMONT.)</stage>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(à elle-même)</stage>
-          <p></p>
-        </sp>
-        <stage>(La porte s'ouvre lentement, RENAUD, un ami confident de la comtesse, fait son entrée dans la pièce.)</stage>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(chaleureusement)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(sourit en le voyant)</stage>
-          <p></p>
-        </sp>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(curieux)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(intriguée)</stage>
-          <p></p>
-        </sp>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(solennellement)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(s'approche de Renaud)</stage>
-          <p></p>
-        </sp>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(baisse la voix)</stage>
-          <p></p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>ACTE II</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Un jardin luxuriant, orné de fleurs colorées, situé à l'arrière de la demeure de la comtesse EUGENIE DE VALMONT. Au centre se trouve un banc de pierre, et des chaises sont disposées autour pour les convives.)</stage>
-        <stage>(EUGENIE DE VALMONT et RENAUD se retrouvent assis sur le banc, plongés dans une conversation animée.)</stage>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(dramatique)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(les yeux remplis de détermination)</stage>
-          <p></p>
-        </sp>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(l'encourageant)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(se lève avec assurance)</stage>
-          <p></p>
-        </sp>
-        <stage>(Les INVITÉS, curieux et surpris, se rassemblent autour d'EUGENIE DE VALMONT.)</stage>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(d'une voix forte)</stage>
-          <p></p>
-        </sp>
-        <stage>(Des murmures d'étonnement parcours les INVITÉS)</stage>
-        <sp who="#invité 1">
-          <speaker>INVITÉ 1:</speaker>
-          <stage>(choqué)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(les larmes aux yeux)</stage>
-          <p></p>
-        </sp>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(confiant)</stage>
-          <p></p>
-        </sp>
-        <stage>(COMTE FELIX DE VALMONT apparaît à l'arrière de la scène, l'air surpris et embarrassé.)</stage>
-        <sp who="#comte felix de valmont">
-          <speaker>COMTE FELIX DE VALMONT:</speaker>
-          <stage>(dissimulant son étonnement)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(en colère)</stage>
-          <p></p>
-        </sp>
-        <stage>(COMTE FELIX DE VALMONT, affaibli, essaye de justifier sa position, mais en vain. L'atmosphère est tendue.)</stage>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(fierement)</stage>
-          <p></p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>ACTE III</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Un grand hall dans la demeure de la COMTESSE EUGENIE DE VALMONT. Des camélias rouges sont dispersés sur une table et des bougies illuminent la scène.)</stage>
-        <stage>(EUGENIE DE VALMONT se tient debout, vêtue d'une élégante robe noire, entourée de ses partisans fidèles, dont RENAUD.)</stage>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(d'un ton ferme)</stage>
-          <p></p>
-        </sp>
-        <stage>(RENAUD s'avance, portant une lettre à la main.)</stage>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(solennellement)</stage>
-          <p></p>
-        </sp>
-        <stage>(Les partisans d'EUGENIE DE VALMONT applaudissent vivement.)</stage>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(émue)</stage>
-          <p></p>
-        </sp>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(cautionnant)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(résolue)</stage>
-          <p></p>
-        </sp>
-        <sp who="#un partisan">
-          <speaker>UN PARTISAN:</speaker>
-          <stage>(s'approchant d'EUGENIE DE VALMONT)</stage>
-          <p></p>
-        </sp>
-        <stage>(EUGENIE DE VALMONT réfléchit un instant, puis prend la parole d'un ton décidé.)</stage>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(avec détermination)</stage>
-          <p></p>
-        </sp>
-        <sp who="#tous les partisans">
-          <speaker>TOUS LES PARTISANS:</speaker>
-          <stage>(unis)</stage>
-          <p></p>
-        </sp>
-        <stage>(Les partisans se mettent à entonner l'hymne national français, alors que la scène se termine sur un tableau de fierté et de renaissance.)</stage>
-      </div>
-      <div type="scene">
-        <head>ACTE IV</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Une salle de tribunal spacieuse et imposante. Des bancs sont disposés pour le public et une estrade se trouve devant, où siègent les JUGES. Tout est prêt pour le procès du COMTE FELIX DE VALMONT.)</stage>
-        <stage>(EUGENIE DE VALMONT est là, vêtue de noir avec une expression sérieuse et déterminée sur le visage. RENAUD est à ses côtés en tant que soutien.)</stage>
-        <stage>(Robert, l'AVOCAT de la comtesse, se lève et s'adresse à la cour.)</stage>
-        <sp who="#robert">
-          <speaker>ROBERT:</speaker>
-          <stage>(solennellement)</stage>
-          <p></p>
-        </sp>
-        <sp who="#le juge">
-          <speaker>LE JUGE:</speaker>
-          <stage>(d'un ton grave)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(droite et ferme)</stage>
-          <p></p>
-        </sp>
-        <sp who="#robert">
-          <speaker>ROBERT:</speaker>
-          <stage>(approche d'EUGENIE DE VALMONT et lui tend les documents)</stage>
-          <p></p>
-        </sp>
-        <stage>(EUGENIE DE VALMONT remets les documents au juge.)</stage>
-        <sp who="#le juge">
-          <speaker>LE JUGE:</speaker>
-          <stage>(examinant les papiers)</stage>
-          <p></p>
-        </sp>
-        <stage>(EUGENIE DE VALMONT monte à la barre des témoins.)</stage>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(d'une voix claire et digne)</stage>
-          <p></p>
-        </sp>
-        <stage>(PRISE DE VUE DU COMTE FELIX DE VALMONT, visiblement affecté et préoccupé.)</stage>
-        <sp who="#le juge">
-          <speaker>LE JUGE:</speaker>
-          <stage>(interrogeant)</stage>
-          <p></p>
-        </sp>
-        <sp who="#comte felix de valmont">
-          <speaker>COMTE FELIX DE VALMONT:</speaker>
-          <stage>(d'une voix tremblante)</stage>
-          <p></p>
-        </sp>
-        <stage>(LE JURY discute brièvement, l'air préoccupé.)</stage>
-        <sp who="#le juge">
-          <speaker>LE JUGE:</speaker>
-          <stage>(les regards échangés avec les membres du jury)</stage>
-          <p></p>
-        </sp>
-        <stage>(EUGENIE DE VALMONT baisse la tête, affichant un mélange de satisfaction et de peine.)</stage>
-        <sp who="#le juge">
-          <speaker>LE JUGE:</speaker>
-          <stage>(solennellement)</stage>
-          <p></p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>ACTE V</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Une salle de la demeure de la comtesse EUGENIE DE VALMONT, méticuleusement décorée. Des invités raffinés se promènent, bavardent et dégustent des mets succulents.)</stage>
-        <stage>(EUGENIE DE VALMONT, vêtue d'une brillante robe de bal, se tient au centre de la pièce, rayonnante et souriante.)</stage>
-        <sp who="#eugenie de valmont: mesdames et messieurs, je suis honorée de vous avoir tous réunis ici ce soir pour célébrer la victoire de la vérité et de la justice. notre nation s'est relevée grâce à notre unité et notre détermination">
-          <speaker>EUGENIE DE VALMONT: Mesdames et Messieurs, je suis honorée de vous avoir tous réunis ici ce soir pour célébrer la victoire de la vérité et de la justice. Notre nation s'est relevée grâce à notre unité et notre détermination.</speaker>
-          <p></p>
-        </sp>
-        <stage>(Les INVITÉS applaudissent, impressionnés.)</stage>
-        <sp who="#une invitée">
-          <speaker>UNE INVITÉE:</speaker>
-          <stage>(enthousiaste)</stage>
-          <p></p>
-        </sp>
-        <stage>(EUGENIE DE VALMONT s'incline humblement.)</stage>
-        <sp who="#eugenie de valmont: mes chers amis, cette victoire n'aurait pas été possible sans votre soutien indéfectible et votre confiance en moi. ensemble, nous avons triomphé des mensonges et de la trahison">
-          <speaker>EUGENIE DE VALMONT: Mes chers amis, cette victoire n'aurait pas été possible sans votre soutien indéfectible et votre confiance en moi. Ensemble, nous avons triomphé des mensonges et de la trahison.</speaker>
-          <p></p>
-        </sp>
-        <stage>(Apparaît RENAUD, habillé avec élégance.)</stage>
-        <sp who="#renaud">
-          <speaker>RENAUD:</speaker>
-          <stage>(s'avançant vers EUGENIE DE VALMONT)</stage>
-          <p></p>
-        </sp>
-        <sp who="#eugenie de valmont">
-          <speaker>EUGENIE DE VALMONT:</speaker>
-          <stage>(souriante)</stage>
-          <p></p>
-        </sp>
-        <stage>(RENAUD prend la main d'EUGENIE DE VALMONT avec douceur.)</stage>
-        <sp who="#renaud: eugénie, vous êtes une femme exceptionnelle, pleine de grâce et d'intelligence. vous avez fait preuve d'un courage immense pour affronter les démons de votre passé et protéger notre nation">
-          <speaker>RENAUD: Eugénie, vous êtes une femme exceptionnelle, pleine de grâce et d'intelligence. Vous avez fait preuve d'un courage immense pour affronter les démons de votre passé et protéger notre nation.</speaker>
-          <p></p>
-        </sp>
-        <stage>(EUGENIE DE VALMONT est touchée par les paroles de RENAUD.)</stage>
-        <sp who="#eugenie de valmont: renaud, grâce à notre amitié, à notre solidarité, nous sommes parvenus à construire un avenir meilleur pour notre pays, un avenir où la vérité prévaut toujours">
-          <speaker>EUGENIE DE VALMONT: Renaud, grâce à notre amitié, à notre solidarité, nous sommes parvenus à construire un avenir meilleur pour notre pays, un avenir où la vérité prévaut toujours.</speaker>
-          <p></p>
-        </sp>
-        <stage>(Le couple danse au milieu de la salle, tandis que les invités observent avec admiration.)</stage>
-        <stage>(FIN DE L'</stage>
-      </div>
-      <div type="scene">
-        <head>ACTE V)</head>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt><ns0:title>GPT35-French-4</ns0:title></ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl type="digitalSource">
+          <ns0:name>ENTER SOURCE NAME HERE</ns0:name>
+          <ns0:idno type="URL">ENTER SOURCE URL HERE</ns0:idno>
+          <ns0:availability status="free">
+            <ns0:p>In the public domain.</ns0:p>
+          </ns0:availability>
+        </ns0:bibl>
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person xml:id="marthe">
+            <ns0:persName>MARTHE:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="eugenie de valmont: bien, marthe. veuillez les accueillir et leur dire que je vais les rejoindre très bientôt">
+            <ns0:persName>EUGENIE DE VALMONT: Bien, Marthe. Veuillez les accueillir et leur dire que je vais les rejoindre très bientôt</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="eugenie de valmont: mes chers amis, cette victoire n'aurait pas été possible sans votre soutien indéfectible et votre confiance en moi. ensemble, nous avons triomphé des mensonges et de la trahison">
+            <ns0:persName>EUGENIE DE VALMONT: Mes chers amis, cette victoire n'aurait pas été possible sans votre soutien indéfectible et votre confiance en moi. Ensemble, nous avons triomphé des mensonges et de la trahison</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="tous les partisans">
+            <ns0:persName>TOUS LES PARTISANS:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="renaud: eugénie, vous êtes une femme exceptionnelle, pleine de grâce et d'intelligence. vous avez fait preuve d'un courage immense pour affronter les démons de votre passé et protéger notre nation">
+            <ns0:persName>RENAUD: Eugénie, vous êtes une femme exceptionnelle, pleine de grâce et d'intelligence. Vous avez fait preuve d'un courage immense pour affronter les démons de votre passé et protéger notre nation</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="eugenie de valmont: mesdames et messieurs, je suis honorée de vous avoir tous réunis ici ce soir pour célébrer la victoire de la vérité et de la justice. notre nation s'est relevée grâce à notre unité et notre détermination">
+            <ns0:persName>EUGENIE DE VALMONT: Mesdames et Messieurs, je suis honorée de vous avoir tous réunis ici ce soir pour célébrer la victoire de la vérité et de la justice. Notre nation s'est relevée grâce à notre unité et notre détermination</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="un partisan">
+            <ns0:persName>UN PARTISAN:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="robert">
+            <ns0:persName>ROBERT:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="invité 1">
+            <ns0:persName>INVITÉ 1:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="le juge">
+            <ns0:persName>LE JUGE:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="eugenie de valmont: renaud, grâce à notre amitié, à notre solidarité, nous sommes parvenus à construire un avenir meilleur pour notre pays, un avenir où la vérité prévaut toujours">
+            <ns0:persName>EUGENIE DE VALMONT: Renaud, grâce à notre amitié, à notre solidarité, nous sommes parvenus à construire un avenir meilleur pour notre pays, un avenir où la vérité prévaut toujours</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="renaud">
+            <ns0:persName>RENAUD:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="eugenie de valmont">
+            <ns0:persName>EUGENIE DE VALMONT:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="comte felix de valmont">
+            <ns0:persName>COMTE FELIX DE VALMONT:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="une invitée">
+            <ns0:persName>UNE INVITÉE:</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+    <ns0:revisionDesc>
+      <ns0:listChange>
+        <ns0:change when="2023-07-24">DESCRIBE CHANGE</ns0:change>
+      </ns0:listChange>
+    </ns0:revisionDesc>
+  </ns0:teiHeader>
+  <ns0:standOff>
+    <ns0:listEvent>
+      <ns0:event type="print" when="2023">
+        <ns0:desc />
+      </ns0:event>
+      <ns0:event type="premiere" when="2023">
+        <ns0:desc />
+      </ns0:event>
+      <ns0:event type="written" when="2023">
+        <ns0:desc />
+      </ns0:event>
+    </ns0:listEvent>
+    <ns0:listRelation>
+      <ns0:relation active="INSERT" name="wikidata" passive="INSERT" />
+    </ns0:listRelation>
+  </ns0:standOff>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>ACTE I</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Un salon somptueusement aménagé dans la demeure de la comtesse EUGENIE DE VALMONT. Des meubles exquis, des tableaux de maîtres, et une ambiance de luxe se dégagent de l'environnement.)</ns0:stage>
+        <ns0:stage>(EUGENIE DE VALMONT, une comtesse d'âge mûr et d'une grande beauté, apparaît, vêtue d'une robe élégante. Elle est en train de lire une lettre et semble préoccupée.)</ns0:stage>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(pensive)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Une femme de chambre, MARTHE, rentre discrètement dans la pièce.)</ns0:stage>
+        <ns0:sp who="#marthe">
+          <ns0:speaker>MARTHE:</ns0:speaker>
+          <ns0:stage>(timidement)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont: bien, marthe. veuillez les accueillir et leur dire que je vais les rejoindre très bientôt">
+          <ns0:speaker>EUGENIE DE VALMONT: Bien, Marthe. Veuillez les accueillir et leur dire que je vais les rejoindre très bientôt.</ns0:speaker>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(MARTHE s'incline légèrement et sort de la pièce.)</ns0:stage>
+        <ns0:stage>(EUGENIE DE VALMONT se promène nerveusement dans la pièce, réfléchissant à la présence imminente du COMTE FELIX DE VALMONT.)</ns0:stage>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(à elle-même)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(La porte s'ouvre lentement, RENAUD, un ami confident de la comtesse, fait son entrée dans la pièce.)</ns0:stage>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(chaleureusement)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(sourit en le voyant)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(curieux)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(intriguée)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(solennellement)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(s'approche de Renaud)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(baisse la voix)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ACTE II</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Un jardin luxuriant, orné de fleurs colorées, situé à l'arrière de la demeure de la comtesse EUGENIE DE VALMONT. Au centre se trouve un banc de pierre, et des chaises sont disposées autour pour les convives.)</ns0:stage>
+        <ns0:stage>(EUGENIE DE VALMONT et RENAUD se retrouvent assis sur le banc, plongés dans une conversation animée.)</ns0:stage>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(dramatique)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(les yeux remplis de détermination)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(l'encourageant)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(se lève avec assurance)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Les INVITÉS, curieux et surpris, se rassemblent autour d'EUGENIE DE VALMONT.)</ns0:stage>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(d'une voix forte)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Des murmures d'étonnement parcours les INVITÉS)</ns0:stage>
+        <ns0:sp who="#invité 1">
+          <ns0:speaker>INVITÉ 1:</ns0:speaker>
+          <ns0:stage>(choqué)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(les larmes aux yeux)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(confiant)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(COMTE FELIX DE VALMONT apparaît à l'arrière de la scène, l'air surpris et embarrassé.)</ns0:stage>
+        <ns0:sp who="#comte felix de valmont">
+          <ns0:speaker>COMTE FELIX DE VALMONT:</ns0:speaker>
+          <ns0:stage>(dissimulant son étonnement)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(en colère)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(COMTE FELIX DE VALMONT, affaibli, essaye de justifier sa position, mais en vain. L'atmosphère est tendue.)</ns0:stage>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(fierement)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ACTE III</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Un grand hall dans la demeure de la COMTESSE EUGENIE DE VALMONT. Des camélias rouges sont dispersés sur une table et des bougies illuminent la scène.)</ns0:stage>
+        <ns0:stage>(EUGENIE DE VALMONT se tient debout, vêtue d'une élégante robe noire, entourée de ses partisans fidèles, dont RENAUD.)</ns0:stage>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(d'un ton ferme)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(RENAUD s'avance, portant une lettre à la main.)</ns0:stage>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(solennellement)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Les partisans d'EUGENIE DE VALMONT applaudissent vivement.)</ns0:stage>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(émue)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(cautionnant)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(résolue)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#un partisan">
+          <ns0:speaker>UN PARTISAN:</ns0:speaker>
+          <ns0:stage>(s'approchant d'EUGENIE DE VALMONT)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(EUGENIE DE VALMONT réfléchit un instant, puis prend la parole d'un ton décidé.)</ns0:stage>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(avec détermination)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#tous les partisans">
+          <ns0:speaker>TOUS LES PARTISANS:</ns0:speaker>
+          <ns0:stage>(unis)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Les partisans se mettent à entonner l'hymne national français, alors que la scène se termine sur un tableau de fierté et de renaissance.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ACTE IV</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Une salle de tribunal spacieuse et imposante. Des bancs sont disposés pour le public et une estrade se trouve devant, où siègent les JUGES. Tout est prêt pour le procès du COMTE FELIX DE VALMONT.)</ns0:stage>
+        <ns0:stage>(EUGENIE DE VALMONT est là, vêtue de noir avec une expression sérieuse et déterminée sur le visage. RENAUD est à ses côtés en tant que soutien.)</ns0:stage>
+        <ns0:stage>(Robert, l'AVOCAT de la comtesse, se lève et s'adresse à la cour.)</ns0:stage>
+        <ns0:sp who="#robert">
+          <ns0:speaker>ROBERT:</ns0:speaker>
+          <ns0:stage>(solennellement)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#le juge">
+          <ns0:speaker>LE JUGE:</ns0:speaker>
+          <ns0:stage>(d'un ton grave)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(droite et ferme)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#robert">
+          <ns0:speaker>ROBERT:</ns0:speaker>
+          <ns0:stage>(approche d'EUGENIE DE VALMONT et lui tend les documents)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(EUGENIE DE VALMONT remets les documents au juge.)</ns0:stage>
+        <ns0:sp who="#le juge">
+          <ns0:speaker>LE JUGE:</ns0:speaker>
+          <ns0:stage>(examinant les papiers)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(EUGENIE DE VALMONT monte à la barre des témoins.)</ns0:stage>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(d'une voix claire et digne)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(PRISE DE VUE DU COMTE FELIX DE VALMONT, visiblement affecté et préoccupé.)</ns0:stage>
+        <ns0:sp who="#le juge">
+          <ns0:speaker>LE JUGE:</ns0:speaker>
+          <ns0:stage>(interrogeant)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#comte felix de valmont">
+          <ns0:speaker>COMTE FELIX DE VALMONT:</ns0:speaker>
+          <ns0:stage>(d'une voix tremblante)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(LE JURY discute brièvement, l'air préoccupé.)</ns0:stage>
+        <ns0:sp who="#le juge">
+          <ns0:speaker>LE JUGE:</ns0:speaker>
+          <ns0:stage>(les regards échangés avec les membres du jury)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(EUGENIE DE VALMONT baisse la tête, affichant un mélange de satisfaction et de peine.)</ns0:stage>
+        <ns0:sp who="#le juge">
+          <ns0:speaker>LE JUGE:</ns0:speaker>
+          <ns0:stage>(solennellement)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ACTE V</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Une salle de la demeure de la comtesse EUGENIE DE VALMONT, méticuleusement décorée. Des invités raffinés se promènent, bavardent et dégustent des mets succulents.)</ns0:stage>
+        <ns0:stage>(EUGENIE DE VALMONT, vêtue d'une brillante robe de bal, se tient au centre de la pièce, rayonnante et souriante.)</ns0:stage>
+        <ns0:sp who="#eugenie de valmont: mesdames et messieurs, je suis honorée de vous avoir tous réunis ici ce soir pour célébrer la victoire de la vérité et de la justice. notre nation s'est relevée grâce à notre unité et notre détermination">
+          <ns0:speaker>EUGENIE DE VALMONT: Mesdames et Messieurs, je suis honorée de vous avoir tous réunis ici ce soir pour célébrer la victoire de la vérité et de la justice. Notre nation s'est relevée grâce à notre unité et notre détermination.</ns0:speaker>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Les INVITÉS applaudissent, impressionnés.)</ns0:stage>
+        <ns0:sp who="#une invitée">
+          <ns0:speaker>UNE INVITÉE:</ns0:speaker>
+          <ns0:stage>(enthousiaste)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(EUGENIE DE VALMONT s'incline humblement.)</ns0:stage>
+        <ns0:sp who="#eugenie de valmont: mes chers amis, cette victoire n'aurait pas été possible sans votre soutien indéfectible et votre confiance en moi. ensemble, nous avons triomphé des mensonges et de la trahison">
+          <ns0:speaker>EUGENIE DE VALMONT: Mes chers amis, cette victoire n'aurait pas été possible sans votre soutien indéfectible et votre confiance en moi. Ensemble, nous avons triomphé des mensonges et de la trahison.</ns0:speaker>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Apparaît RENAUD, habillé avec élégance.)</ns0:stage>
+        <ns0:sp who="#renaud">
+          <ns0:speaker>RENAUD:</ns0:speaker>
+          <ns0:stage>(s'avançant vers EUGENIE DE VALMONT)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#eugenie de valmont">
+          <ns0:speaker>EUGENIE DE VALMONT:</ns0:speaker>
+          <ns0:stage>(souriante)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(RENAUD prend la main d'EUGENIE DE VALMONT avec douceur.)</ns0:stage>
+        <ns0:sp who="#renaud: eugénie, vous êtes une femme exceptionnelle, pleine de grâce et d'intelligence. vous avez fait preuve d'un courage immense pour affronter les démons de votre passé et protéger notre nation">
+          <ns0:speaker>RENAUD: Eugénie, vous êtes une femme exceptionnelle, pleine de grâce et d'intelligence. Vous avez fait preuve d'un courage immense pour affronter les démons de votre passé et protéger notre nation.</ns0:speaker>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(EUGENIE DE VALMONT est touchée par les paroles de RENAUD.)</ns0:stage>
+        <ns0:sp who="#eugenie de valmont: renaud, grâce à notre amitié, à notre solidarité, nous sommes parvenus à construire un avenir meilleur pour notre pays, un avenir où la vérité prévaut toujours">
+          <ns0:speaker>EUGENIE DE VALMONT: Renaud, grâce à notre amitié, à notre solidarité, nous sommes parvenus à construire un avenir meilleur pour notre pays, un avenir où la vérité prévaut toujours.</ns0:speaker>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Le couple danse au milieu de la salle, tandis que les invités observent avec admiration.)</ns0:stage>
+        <ns0:stage>(FIN DE L'</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ACTE V)</ns0:head>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+<fileDesc><titleStmt><title>GPT35-French-4</title></titleStmt></fileDesc></ns0:TEI>

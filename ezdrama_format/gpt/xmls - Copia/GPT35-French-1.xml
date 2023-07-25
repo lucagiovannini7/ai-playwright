@@ -1,0 +1,431 @@
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ai000001" xml:lang="fre">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>French 1</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="paul">
+            <persName>PAUL</persName>
+          </person>
+          <person xml:id="madame-legrand">
+            <persName>MADAME LEGRAND</persName>
+          </person>
+          <person xml:id="videolette">
+            <persName>VIDEOLETTE</persName>
+          </person>
+          <person xml:id="sonia">
+            <persName>SONIA</persName>
+          </person>
+          <person xml:id="leon">
+            <persName>LEON</persName>
+          </person>
+          <person xml:id="melanie">
+            <persName>MELANIE</persName>
+          </person>
+          <person xml:id="monsieur-legrand">
+            <persName>MONSIEUR LEGRAND</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-07-24">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>
+      <div type="scene">
+        <head>ACTE I</head>
+        <stage>(La scène se déroule dans un élégant salon dans la demeure de la famille LEGRAND à Paris. Une grande fenêtre donne sur un jardin bien entretenu. Les murs sont ornés de tableaux, et un piano à queue trône au centre de la pièce. Le mobilier est somptueux, avec des chaises rembourrées et des tapis luxueux.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1</head>
+        <stage>(MADAME LEGRAND est assise sur un fauteuil près de la fenêtre, parcourant un livre de poésie. MADAME LEGRAND est une femme d'âge moyen, habillée avec élégance. SONIA, une femme de chambre, entre discrètement.)</stage>
+        <sp who="#sonia">
+          <speaker>SONIA</speaker>
+          <p>Madame, Monsieur est rentré. Il souhaite vous parler sans délai.</p>
+        </sp>
+        <stage>(Murmurant)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Mon mari ? Quelle surprise ! Faites-le entrer immédiatement, Sonia.</p>
+        </sp>
+        <stage>(Surprise)</stage>
+        <stage>(SONIA sort précipitamment de la pièce.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>
+        <stage>(Monsieur LEGRAND entre précipitamment dans le salon. Monsieur LEGRAND est un homme distingué d'une cinquantaine d'années, portant un costume sobre mais élégant.)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Mon cher, quelle joie de vous voir. Que s'est-il passé pour que vous rentriez si tôt ?</p>
+        </sp>
+        <stage>(Merveillée)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Chère amie, j'ai reçu une lettre aujourd'hui qui a bouleversé ma vie. Une lettre du notaire m'annonçant une nouvelle à laquelle je ne m'attendais pas.</p>
+        </sp>
+        <stage>(Prenant une profonde inspiration)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Mais quelle est cette nouvelle, mon cher ? Vous me mettez dans une grande impatience.</p>
+        </sp>
+        <stage>(Intriguée)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Nous héritons, ma chère, d'une immense fortune. Un parent éloigné dont je n'avais jamais entendu parler a légué tout son patrimoine à notre famille. Nous voilà désormais l'une des familles les plus riches de Paris.</p>
+        </sp>
+        <stage>(Lentement)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Quelle nouvelle extraordinaire ! Avec cette fortune, nous pourrons donner une éducation raffinée à nos enfants et vivre selon notre statut social. Mais, cher ami, quelles sont les obligations attachées à cet héritage ?</p>
+        </sp>
+        <stage>(Se levant brusquement)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>La lettre stipule que nous devons déménager</p>
+        </sp>
+        <stage>(Réfléchissant)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE II</head>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1)</head>
+        <stage>(Le nouveau salon de la demeure de la famille LEGRAND à Paris. Des travailleurs s'affairent à décorer la pièce avec des meubles somptueux et des objets d'art luxueux.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>
+        <stage>(MADAME LEGRAND est assise sur un canapé, observant les travailleurs. MONSIEUR LEGRAND entre, vêtu d'un costume élégant.)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Mon cher, la pièce prend forme à merveille. Je suis émerveillée par tant de beauté. Notre nouvelle vie commence ici, dans cette demeure somptueuse.</p>
+        </sp>
+        <stage>(Vivement)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Oui, chère amie. Cette maison sera le symbole de notre réussite et de notre raffinement. Mais, malgré tout cela, je ressens une certaine inquiétude. Cette fortune soudaine, si incroyable, soulève en moi des questions.</p>
+        </sp>
+        <stage>(Affectueusement)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Quelles questions, mon cher ? Ne devrions-nous pas simplement savourer notre bonne fortune ?</p>
+        </sp>
+        <stage>(S'inquiétant)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>N'ai-je pas entendu des rumeurs selon lesquelles cet héritage serait lié à une histoire sombre ? Certains étalent que cette fortune est maudite et que de terribles conséquences en découleront.</p>
+        </sp>
+        <stage>(Dubitativement)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Mon amour, les rumeurs sont souvent infondées. Ne gaspillons pas notre bonheur en prêtant attention à de telles sornettes. Concentrons-nous sur notre bonheur et sur l'avenir de nos enfants.</p>
+        </sp>
+        <stage>(Doucement)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 3</head>
+        <stage>(LEON, un ami de longue date de MONSIEUR LEGRAND, entre dans la pièce.)</stage>
+        <sp who="#leon">
+          <speaker>LEON</speaker>
+          <p>Cher ami, je suis venu vous féliciter pour cette incroyable fortune qui vous est échue. Cela fait des années que je connais vos difficultés financières et je suis heureux de voir que vous vivez enfin une vie d'opulence.</p>
+        </sp>
+        <stage>(Amicalement)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Merci, Léon. C'est un véritable bouleversement dans nos vies, une chance inattendue.</p>
+        </sp>
+        <stage>(Affectueusement)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Nous nous devons de profiter de cette chance et de faire fructifier cette fortune. </p>
+        </sp>
+        <stage>(Fier)</stage>
+        <sp who="#leon">
+          <speaker>LEON</speaker>
+          <p>Permettez-moi de vous suggérer la prudence, cher ami. Une fortune soudaine peut parfois attiser les jalousies</p>
+        </sp>
+        <stage>(S'inclinant)</stage>
+        <stage>(On entend un bruit de verre qui se brise dans la pièce voisine.)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Qu'est-ce que c'était ?</p>
+        </sp>
+        <stage>(Sursautant)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Je vais voir ce qu'il se passe.</p>
+        </sp>
+        <stage>(S'inquiétant)</stage>
+        <stage>(MONSIEUR LEGRAND sort précipitamment de la pièce. MADAME LEGRAND et LEON échangent un regard</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE III</head>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1)</head>
+        <stage>(Un sombre corridor menant à une pièce mystérieuse dans la demeure de la famille LEGRAND. Des chuchotements se font entendre alors que MADAME LEGRAND s'approche de la porte.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>
+        <stage>(MADAME LEGRAND s'arrête devant la porte de la pièce et hésite un instant avant de l'ouvrir lentement. La pièce est plongée dans une semi-obscurité.)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Mon cher ? Êtes-vous ici ?</p>
+        </sp>
+        <stage>(Voix tremblante)</stage>
+        <stage>(VIDEOLETTE apparaît soudainement dans la pénombre, une vieille femme vêtue de guenilles et portant un air mystérieux.)</stage>
+        <sp who="#videolette">
+          <speaker>VIDEOLETTE</speaker>
+          <p>Madame Legrand, bienvenue dans cet endroit caché qui renferme les secrets de votre nouvelle fortune.</p>
+        </sp>
+        <stage>(D'un ton énigmatique)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Qui êtes-vous ? Que faites-vous ici ?</p>
+        </sp>
+        <stage>(Surprise)</stage>
+        <sp who="#videolette">
+          <speaker>VIDEOLETTE</speaker>
+          <p>Je suis Videolette. J'ai veillé sur cet endroit depuis des décennies, attendant le jour où la destinée des Legrand se manifesterait.</p>
+        </sp>
+        <stage>(Jetant un regard troublant)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Et que signifient ces curieuses déclarations ? Quel est le lien entre vous et notre nouvelle fortune ?</p>
+        </sp>
+        <stage>(Perplexe)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 3</head>
+        <stage>(Des coups de téléphone se font entendre au loin, apportant de l'agitation. MONSIEUR LEGRAND entre précipitamment.)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Chère amie, des invités importants arrivent à l'instant. Tout devrait être prêt, mais je crains que</p>
+        </sp>
+        <stage>(Haletant)</stage>
+        <stage>(LEON l'interrompt en entrant rapidement dans la pièce.)</stage>
+        <sp who="#leon">
+          <speaker>LEON</speaker>
+          <p>Monsieur Legrand, vous êtes l'envieux de tout Paris. Votre nom est sur toutes les lèvres. Votre fortune est devenue légende. Mais...</p>
+        </sp>
+        <stage>(Triomphant)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Mais, quoi donc, Léon ? Ne pouvez-vous voir que nous sommes occupés en ce moment ?</p>
+        </sp>
+        <stage>(Irrité)</stage>
+        <sp who="#leon">
+          <speaker>LEON</speaker>
+          <p>Il y a une rumeur qui circule, mon ami... Une rumeur selon laquelle notre fortune serait liée à d'anciens secrets, à des pactes obscurs...</p>
+        </sp>
+        <stage>(Inquiet)</stage>
+        <stage>(Des voix de convives heureux se font entendre au loin. La tension monte dans la pièce.)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Assez ! Assez de ces rumeurs et de ces spéculations ! Nous sommes les maîtres de notre destin et rien ne pourra entraver notre bonheur. Que les invités soient accueillis ! Nous allons leur montrer la grandeur de notre nouvelle vie.</p>
+        </sp>
+        <stage>(Sursautant)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Oui, ma chère, vous avez raison. Préparons-nous à accueillir nos invités avec noblesse et dignité. Que ces rumeurs ne viennent pas assombrir notre bonheur. Que la soir</p>
+        </sp>
+        <stage>(Ravi)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE IV</head>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1)</head>
+        <stage>(Le jardin de la demeure des LEGRAND, richement décoré pour une grande fête. Des invités circulent, parmi eux MÉLANIE et PAUL, amis intimes de la famille.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>
+        <stage>(MADAME LEGRAND et MONSIEUR LEGRAND se trouvent au centre de la scène, accueillant les invités avec grâce et élégance.)</stage> 
+        <sp who="melanie">
+          <speaker>MÉLANIE </speaker><stage>(S'approchant de MADAME LEGRAND)</stage> 
+          <p>Chère amie, quel splendide événement vous avez organisé ! Tout ici respire la réussite et le bonheur.</p>
+        </sp>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Merci, Mélanie. Nous sommes si heureux de partager notre nouvelle vie avec vous tous. C'est un honneur de vous avoir à nos côtés aujourd'hui.</p>
+        </sp>
+        <stage>(Avec un sourire chaleureux)</stage>
+        <sp who="#paul">
+          <speaker>PAUL</speaker>
+          <p>Dites-moi, cher monsieur, comment avez-vous réussi à faire jaillir cette fortune stupéfiante ? Il doit y avoir une histoire fascinante derrière tout cela.</p>
+        </sp>
+        <stage>(S'intéressant)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Eh bien, mon cher ami, tout a commencé par un héritage mystérieux. Mais notre succès est le fruit de notre ingéniosité et de notre travail acharné.</p>
+        </sp>
+        <stage>(Avec fierté)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 3</head>
+        <stage>(Alors que les invités se divertissent, LEON s'approche discrètement de MADAME LEGRAND.)</stage>
+        <sp who="#leon">
+          <speaker>LEON</speaker>
+          <p>Je dois vous avertir, chère madame, j'ai fait quelques recherches approfondies sur les origines de cette fortune. J'ai découvert que l'héritage provenait d'un homme associé à de sombres activités.</p>
+        </sp>
+        <stage>(Baissant la voix)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Vraiment ? Et qu'impliquent ces "sombres activités" ?</p>
+        </sp>
+        <stage>(S'inquiétant)</stage>
+        <sp who="#leon">
+          <speaker>LEON</speaker>
+          <p>Des rumeurs parlent de pactes avec des forces obscures, de pratiques ésotériques et de malédictions.</p>
+        </sp>
+        <stage>(Il hésite un instant)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Vous voulez me dire que notre fortune serait maudite ?</p>
+        </sp>
+        <stage>(La voix tremblante)</stage>
+        <sp who="#leon">
+          <speaker>LEON</speaker>
+          <p>Je crains que oui. Et je pense qu'il est temps d'arrêter cette fête et de découvrir la vérité.</p>
+        </sp>
+        <stage>(Jetant un regard inquiet autour d'eux)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 4</head>
+        <stage>(Le hall de la demeure. Les invités sont réunis autour de la famille LEGRAND.)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Mesdames et messieurs, je suis profondément reconnaissant de votre présence ce soir. Mais je crains que notre bonheur et notre sécurité soient menacés par d'étranges circonstances.</p>
+        </sp>
+        <stage>(Maintenant sérieux)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Nous avons appris que cette fortune provient de sources obscures, peut-être même maudites. Il est temps pour nous d'aborder cette question de front.</p>
+        </sp>
+        <stage>(Avec appréhension)</stage>
+        <stage>(Des murmures alarmés s'élèvent parmi les invités</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE V</head>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1)</head>
+        <stage>(Le salon des LEGRAND, plongé dans la pénombre. Des bougies vacillantes éclairent la pièce. Des livres anciens et des objets étranges sont disposés sur une table au centre de la scène.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>
+        <stage>(MADAME LEGRAND et MONSIEUR LEGRAND entrent, suivis de LEON et des invités curieux.)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Mon cher et moi avons décidé d'explorer la vérité sur notre fortune. Il est temps de lever le voile sur les mystères qui l'entourent.</p>
+        </sp>
+        <stage>(D'une voix résolue)</stage>
+        <sp who="#leon">
+          <speaker>LEON</speaker>
+          <p>Prenez garde, chers amis. Une telle aventure pourrait être dangereuse.</p>
+        </sp>
+        <stage>(Craignant)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Nous sommes prêts à affronter les conséquences de nos actes et à découvrir la véritable nature de notre fortune.</p>
+        </sp>
+        <stage>(Assuré)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 3</head>
+        <stage>(MADAME LEGRAND allume les bougies sur la table et ouvre l'un des vieux livres.)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>"Il était une fois un homme énigmatique, hanté par le pouvoir et la richesse. Pour atteindre ses aspirations, il fit un pacte avec les forces occultes. En échange de la fortune, il offrit son âme."</p>
+        </sp>
+        <stage>(Lisant à voix basse)</stage>
+        <sp who="#leon">
+          <speaker>LEON</speaker>
+          <p>Un pacte diabolique, comme je le craignais !</p>
+        </sp>
+        <stage>(Horrifié)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>"Mais les richesses obtenues dévorèrent sa raison et sa vie fut marquée par les tragédies. Sa fortune devint alors un fardeau maudit qui ruina tous ceux qui en héritèrent."</p>
+        </sp>
+        <stage>(Continuant la lecture)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Tout ceci est bien troublant. Mais nous avons l'occasion d'inverser cette malédiction, de mettre fin à cette succession de tragédies.</p>
+        </sp>
+        <stage>(Réfléchissant)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 4</head>
+        <stage>(VIDEOLETTE entre dans la pièce, avec son expression énigmatique.)</stage>
+        <sp who="#videolette">
+          <speaker>VIDEOLETTE</speaker>
+          <p>La vérité vous échappe, mais vous êtes prêts à faire face aux conséquences ? La route devant vous est semée d'embûches.</p>
+        </sp>
+        <stage>(Pleine de mystère)</stage>
+        <sp who="#madame-legrand">
+          <speaker>MADAME LEGRAND</speaker>
+          <p>Nous devons choisir notre propre destin. Nous briserons cette malédiction qui pèse sur nous.</p>
+        </sp>
+        <stage>(Déterminée)</stage>
+        <sp who="#monsieur-legrand">
+          <speaker>MONSIEUR LEGRAND</speaker>
+          <p>Chers amis, il est temps de prendre une décision importante. Souhaitez-vous nous soutenir dans cette quête de vérité, ou préférez-vous vous éloigner de notre destinée troublée ?</p>
+        </sp>
+        <stage>(Se tournant vers les invités)</stage>
+        <stage>(Pause dramatique. Certains invités hésitent, d'autres s'avancent pour montrer leur soutien.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 5</head>
+        <stage>(Les invités s'unissent autour des LEGRAND, prêts à affronter ce qui les attend. Les bougies tremblent, projetant des ombres inquiét</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

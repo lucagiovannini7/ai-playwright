@@ -1,247 +1,248 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt></titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource">
-          <name>ENTER SOURCE NAME HERE</name>
-          <idno type="URL">ENTER SOURCE URL HERE</idno>
-          <availability status="free">
-            <p>In the public domain.</p>
-          </availability>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person xml:id="knjaginja_vera:">
-            <persName>КНЯГИНЯ ВЕРА:</persName>
-          </person>
-          <person xml:id="knjaz_aleksandr:">
-            <persName>КНЯЗЬ АЛЕКСАНДР:</persName>
-          </person>
-          <person xml:id="vituha:">
-            <persName>ВИТУХА:</persName>
-          </person>
-          <person xml:id="margarita:">
-            <persName>МАРГАРИТА:</persName>
-          </person>
-          <person xml:id="zahar:">
-            <persName>ЗАХАР:</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-    <revisionDesc>
-      <listChange>
-        <change when="2023-07-24">DESCRIBE CHANGE</change>
-      </listChange>
-    </revisionDesc>
-  </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="2023">
-        <desc/>
-      </event>
-      <event type="premiere" when="2023">
-        <desc/>
-      </event>
-      <event type="written" when="2023">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation active="INSERT" name="wikidata" passive="INSERT"/>
-    </listRelation>
-  </standOff>
-  <text>
-    <body>
-      <div type="scene">
-        <head>Акт 1</head>
-        <stage>(Занавес открывается. Сцена олицетворяет мрачную московскую улицу в зарослях морозного зимнего дня. Снег покрывает землю, а вдалеке виден ПЕРВЫЙ ПРОПУСК, залитый лунным светом.)</stage>
-        <stage>(ЗАХАР, молодой искрометный КУПЕЦ, выходит на сцену, окутавшись в шубу и шапку. Он топает ногами, пытаясь согреться от холода.)</stage>
-        <sp who="#zahar:">
-          <speaker>ЗАХАР:</speaker>
-          <stage>(хрипло)</stage>
-          <p></p>
-        </sp>
-        <stage>(Входит МАРГАРИТА, молодая и изысканная ГОРОДСКАЯ КРЕСТЬЯНКА. Она носит пеструю юбку и платок на голове.)</stage>
-        <sp who="#margarita:">
-          <speaker>МАРГАРИТА:</speaker>
-          <stage>(улыбаясь)</stage>
-          <p></p>
-        </sp>
-        <sp who="#zahar:">
-          <speaker>ЗАХАР:</speaker>
-          <stage>(ведет МАРГАРИТУ к себе под покровом шубы)</stage>
-          <p></p>
-        </sp>
-        <sp who="#margarita:">
-          <speaker>МАРГАРИТА:</speaker>
-          <stage>(сочувственно)</stage>
-          <p></p>
-        </sp>
-        <stage>(Они останавливаются перед ВИТУХОЙ, беззаботным и легкомысленным МУЖЧИНОЙ.)</stage>
-        <sp who="#vituha:">
-          <speaker>ВИТУХА:</speaker>
-          <stage>(с ухмылкой)</stage>
-          <p></p>
-        </sp>
-        <sp who="#margarita:">
-          <speaker>МАРГАРИТА:</speaker>
-          <stage>(недоверчиво)</stage>
-          <p></p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Акт 2</head>
-        <stage>(Занавес открывается. Сцена представляет покои во дворце КНЯЗЯ АЛЕКСАНДРА, освещенные тусклым светом свечей. В глубине зала расположен простой ДЕРЕВЯННЫЙ СТОЛ, украшенный серебряным самоваром и фарфоровой посудой. Вокруг стола сидят КНЯЗЬ АЛЕКСАНДР и его ЖЕНА, КНЯГИНЯ ВЕРА, одетые в пышные роскошные одежды.)</stage>
-        <sp who="#knjaz_aleksandr:">
-          <speaker>КНЯЗЬ АЛЕКСАНДР:</speaker>
-          <stage>(серьезно)</stage>
-          <p></p>
-        </sp>
-        <sp who="#knjaginja_vera:">
-          <speaker>КНЯГИНЯ ВЕРА:</speaker>
-          <stage>(беспокойно)</stage>
-          <p></p>
-        </sp>
-        <sp who="#knjaz_aleksandr:">
-          <speaker>КНЯЗЬ АЛЕКСАНДР:</speaker>
-          <stage>(решительно)</stage>
-          <p></p>
-        </sp>
-        <stage>(Входит ЗАХАР одетый в красивый купеческий костюм. Он приносит поднос с горячим чаем.)</stage>
-        <sp who="#zahar:">
-          <speaker>ЗАХАР:</speaker>
-          <stage>(улыбаясь)</stage>
-          <p></p>
-        </sp>
-        <sp who="#knjaginja_vera:">
-          <speaker>КНЯГИНЯ ВЕРА:</speaker>
-          <stage>(осведомленно)</stage>
-          <p></p>
-        </sp>
-        <sp who="#knjaz_aleksandr:">
-          <speaker>КНЯЗЬ АЛЕКСАНДР:</speaker>
-          <stage>(проникновенно)</stage>
-          <p></p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Акт 3</head>
-        <stage>(Занавес поднимается. Сцена представляет просторный сельский особняк. В центре зала стоит роскошный деревянный СТОЛ, украшенный цветами и пышными угощениями. Вокруг стола собираются ГОСТИ - аристократы и высокопоставленные чиновники.)</stage>
-        <stage>(Входит ЗАКХАР и МАРГАРИТА одетые в шикарные наряды. Они взаимно улыбаются друг другу.)</stage>
-        <sp who="#margarita:">
-          <speaker>МАРГАРИТА:</speaker>
-          <stage>(благодарно)</stage>
-          <p></p>
-        </sp>
-        <sp who="#zahar:">
-          <speaker>ЗАХАР:</speaker>
-          <stage>(проникновенно)</stage>
-          <p></p>
-        </sp>
-        <stage>(Входит КНЯЗЬ АЛЕКСАНДР, уставший и истощенный.)</stage>
-        <sp who="#knjaz_aleksandr:">
-          <speaker>КНЯЗЬ АЛЕКСАНДР:</speaker>
-          <stage>(с глубоким вздохом)</stage>
-          <p></p>
-        </sp>
-        <stage>(ГОСТИ молча слушают КНЯЗЯ АЛЕКСАНДРА.)</stage>
-        <sp who="#knjaz_aleksandr:">
-          <speaker>КНЯЗЬ АЛЕКСАНДР:</speaker>
-          <stage>(вспоминает)</stage>
-          <p></p>
-        </sp>
-        <sp who="#zahar:">
-          <speaker>ЗАХАР:</speaker>
-          <stage>(скромно)</stage>
-          <p></p>
-        </sp>
-        <sp who="#knjaginja_vera:">
-          <speaker>КНЯГИНЯ ВЕРА:</speaker>
-          <stage>(испытывая умиление)</stage>
-          <p></p>
-        </sp>
-        <stage>(VOW</stage>
-      </div>
-      <div type="scene">
-        <head>Акт 4</head>
-        <stage>(Занавес поднимается. Сцена изображает скромную заснеженную деревню. Возле деревенского КОТТЕДЖА стоит скромная LE CHARLESTON С малым количеством кошельков и сумок.)</stage>
-        <stage>(Входит ВИТУХА в простом деревенском костюме с платком на шее.)</stage>
-        <sp who="#vituha:">
-          <speaker>ВИТУХА:</speaker>
-          <stage>(грустно)</stage>
-          <p></p>
-        </sp>
-        <stage>(Входит МАРГАРИТА, одетая в простое одеяние и несет корзину с овощами.)</stage>
-        <sp who="#margarita:">
-          <speaker>МАРГАРИТА:</speaker>
-          <stage>(улыбаясь)</stage>
-          <p></p>
-        </sp>
-        <sp who="#vituha:">
-          <speaker>ВИТУХА:</speaker>
-          <stage>(улыбается в ответ)</stage>
-          <p></p>
-        </sp>
-        <stage>(Входят ЗАХАР и КНЯГИНЯ ВЕРА, вместе с КНЯЗЕМ АЛЕКСАНДРОМ. Они одеты просто, но прилично.)</stage>
-        <sp who="#zahar:">
-          <speaker>ЗАХАР:</speaker>
-          <stage>(с радостью)</stage>
-          <p></p>
-        </sp>
-        <sp who="#knjaz_aleksandr:">
-          <speaker>КНЯЗЬ АЛЕКСАНДР:</speaker>
-          <stage>(благодарно)</stage>
-          <p></p>
-        </sp>
-        <sp who="#knjaginja_vera:">
-          <speaker>КНЯГИНЯ ВЕРА:</speaker>
-          <stage>(с сожалением)</stage>
-          <p></p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Акт 5</head>
-        <stage>(Занавес поднимается. Сцена представляет большой зал с высокими потолками и шикарными люстрами. В центре зала располагается большой СТОЛ, покрытый антикварной скатертью и украшенный цветами. Вокруг стола собраны ГОСТИ в роскошных нарядах.)</stage>
-        <stage>(Входят ЗАХАР и МАРГАРИТА, одетые в великолепные элегантные наряды, улыбающиеся друг другу.)</stage>
-        <sp who="#zahar:">
-          <speaker>ЗАХАР:</speaker>
-          <stage>(восхищенно)</stage>
-          <p></p>
-        </sp>
-        <sp who="#margarita:">
-          <speaker>МАРГАРИТА:</speaker>
-          <stage>(ласково)</stage>
-          <p></p>
-        </sp>
-        <stage>(Входят КНЯЗЬ АЛЕКСАНДР и КНЯГИНЯ ВЕРА, элегантно одетые, счастливые и светящиеся от внутренней радости.)</stage>
-        <sp who="#knjaz_aleksandr:">
-          <speaker>КНЯЗЬ АЛЕКСАНДР:</speaker>
-          <stage>(с благодарностью)</stage>
-          <p></p>
-        </sp>
-        <sp who="#knjaginja_vera:">
-          <speaker>КНЯГИНЯ ВЕРА:</speaker>
-          <stage>(восхищенно)</stage>
-          <p></p>
-        </sp>
-        <stage>(На СТОЛЕ появляются разнообразные угощения. ГОСТИ начинают радостно беседовать, смеяться и наслаждаться вечером.)</stage>
-        <stage>(ВЫПОЛНЕНИЕ ВЫСОКИХ КУЛИНАРНЫХ МУЗЫКАЛЬНЫХ ЗАМЕРОВ, которые заполняют зал радостными звуками.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt><ns0:title>GPT35-Russian-4</ns0:title></ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl type="digitalSource">
+          <ns0:name>ENTER SOURCE NAME HERE</ns0:name>
+          <ns0:idno type="URL">ENTER SOURCE URL HERE</ns0:idno>
+          <ns0:availability status="free">
+            <ns0:p>In the public domain.</ns0:p>
+          </ns0:availability>
+        </ns0:bibl>
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person xml:id="knjaginja_vera:">
+            <ns0:persName>КНЯГИНЯ ВЕРА:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="knjaz_aleksandr:">
+            <ns0:persName>КНЯЗЬ АЛЕКСАНДР:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="vituha:">
+            <ns0:persName>ВИТУХА:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="margarita:">
+            <ns0:persName>МАРГАРИТА:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="zahar:">
+            <ns0:persName>ЗАХАР:</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+    <ns0:revisionDesc>
+      <ns0:listChange>
+        <ns0:change when="2023-07-24">DESCRIBE CHANGE</ns0:change>
+      </ns0:listChange>
+    </ns0:revisionDesc>
+  </ns0:teiHeader>
+  <ns0:standOff>
+    <ns0:listEvent>
+      <ns0:event type="print" when="2023">
+        <ns0:desc />
+      </ns0:event>
+      <ns0:event type="premiere" when="2023">
+        <ns0:desc />
+      </ns0:event>
+      <ns0:event type="written" when="2023">
+        <ns0:desc />
+      </ns0:event>
+    </ns0:listEvent>
+    <ns0:listRelation>
+      <ns0:relation active="INSERT" name="wikidata" passive="INSERT" />
+    </ns0:listRelation>
+  </ns0:standOff>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>Акт 1</ns0:head>
+        <ns0:stage>(Занавес открывается. Сцена олицетворяет мрачную московскую улицу в зарослях морозного зимнего дня. Снег покрывает землю, а вдалеке виден ПЕРВЫЙ ПРОПУСК, залитый лунным светом.)</ns0:stage>
+        <ns0:stage>(ЗАХАР, молодой искрометный КУПЕЦ, выходит на сцену, окутавшись в шубу и шапку. Он топает ногами, пытаясь согреться от холода.)</ns0:stage>
+        <ns0:sp who="#zahar:">
+          <ns0:speaker>ЗАХАР:</ns0:speaker>
+          <ns0:stage>(хрипло)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Входит МАРГАРИТА, молодая и изысканная ГОРОДСКАЯ КРЕСТЬЯНКА. Она носит пеструю юбку и платок на голове.)</ns0:stage>
+        <ns0:sp who="#margarita:">
+          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
+          <ns0:stage>(улыбаясь)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#zahar:">
+          <ns0:speaker>ЗАХАР:</ns0:speaker>
+          <ns0:stage>(ведет МАРГАРИТУ к себе под покровом шубы)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#margarita:">
+          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
+          <ns0:stage>(сочувственно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Они останавливаются перед ВИТУХОЙ, беззаботным и легкомысленным МУЖЧИНОЙ.)</ns0:stage>
+        <ns0:sp who="#vituha:">
+          <ns0:speaker>ВИТУХА:</ns0:speaker>
+          <ns0:stage>(с ухмылкой)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#margarita:">
+          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
+          <ns0:stage>(недоверчиво)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Акт 2</ns0:head>
+        <ns0:stage>(Занавес открывается. Сцена представляет покои во дворце КНЯЗЯ АЛЕКСАНДРА, освещенные тусклым светом свечей. В глубине зала расположен простой ДЕРЕВЯННЫЙ СТОЛ, украшенный серебряным самоваром и фарфоровой посудой. Вокруг стола сидят КНЯЗЬ АЛЕКСАНДР и его ЖЕНА, КНЯГИНЯ ВЕРА, одетые в пышные роскошные одежды.)</ns0:stage>
+        <ns0:sp who="#knjaz_aleksandr:">
+          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
+          <ns0:stage>(серьезно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#knjaginja_vera:">
+          <ns0:speaker>КНЯГИНЯ ВЕРА:</ns0:speaker>
+          <ns0:stage>(беспокойно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#knjaz_aleksandr:">
+          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
+          <ns0:stage>(решительно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Входит ЗАХАР одетый в красивый купеческий костюм. Он приносит поднос с горячим чаем.)</ns0:stage>
+        <ns0:sp who="#zahar:">
+          <ns0:speaker>ЗАХАР:</ns0:speaker>
+          <ns0:stage>(улыбаясь)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#knjaginja_vera:">
+          <ns0:speaker>КНЯГИНЯ ВЕРА:</ns0:speaker>
+          <ns0:stage>(осведомленно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#knjaz_aleksandr:">
+          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
+          <ns0:stage>(проникновенно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Акт 3</ns0:head>
+        <ns0:stage>(Занавес поднимается. Сцена представляет просторный сельский особняк. В центре зала стоит роскошный деревянный СТОЛ, украшенный цветами и пышными угощениями. Вокруг стола собираются ГОСТИ - аристократы и высокопоставленные чиновники.)</ns0:stage>
+        <ns0:stage>(Входит ЗАКХАР и МАРГАРИТА одетые в шикарные наряды. Они взаимно улыбаются друг другу.)</ns0:stage>
+        <ns0:sp who="#margarita:">
+          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
+          <ns0:stage>(благодарно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#zahar:">
+          <ns0:speaker>ЗАХАР:</ns0:speaker>
+          <ns0:stage>(проникновенно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Входит КНЯЗЬ АЛЕКСАНДР, уставший и истощенный.)</ns0:stage>
+        <ns0:sp who="#knjaz_aleksandr:">
+          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
+          <ns0:stage>(с глубоким вздохом)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(ГОСТИ молча слушают КНЯЗЯ АЛЕКСАНДРА.)</ns0:stage>
+        <ns0:sp who="#knjaz_aleksandr:">
+          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
+          <ns0:stage>(вспоминает)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#zahar:">
+          <ns0:speaker>ЗАХАР:</ns0:speaker>
+          <ns0:stage>(скромно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#knjaginja_vera:">
+          <ns0:speaker>КНЯГИНЯ ВЕРА:</ns0:speaker>
+          <ns0:stage>(испытывая умиление)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(VOW</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Акт 4</ns0:head>
+        <ns0:stage>(Занавес поднимается. Сцена изображает скромную заснеженную деревню. Возле деревенского КОТТЕДЖА стоит скромная LE CHARLESTON С малым количеством кошельков и сумок.)</ns0:stage>
+        <ns0:stage>(Входит ВИТУХА в простом деревенском костюме с платком на шее.)</ns0:stage>
+        <ns0:sp who="#vituha:">
+          <ns0:speaker>ВИТУХА:</ns0:speaker>
+          <ns0:stage>(грустно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Входит МАРГАРИТА, одетая в простое одеяние и несет корзину с овощами.)</ns0:stage>
+        <ns0:sp who="#margarita:">
+          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
+          <ns0:stage>(улыбаясь)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#vituha:">
+          <ns0:speaker>ВИТУХА:</ns0:speaker>
+          <ns0:stage>(улыбается в ответ)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Входят ЗАХАР и КНЯГИНЯ ВЕРА, вместе с КНЯЗЕМ АЛЕКСАНДРОМ. Они одеты просто, но прилично.)</ns0:stage>
+        <ns0:sp who="#zahar:">
+          <ns0:speaker>ЗАХАР:</ns0:speaker>
+          <ns0:stage>(с радостью)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#knjaz_aleksandr:">
+          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
+          <ns0:stage>(благодарно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#knjaginja_vera:">
+          <ns0:speaker>КНЯГИНЯ ВЕРА:</ns0:speaker>
+          <ns0:stage>(с сожалением)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Акт 5</ns0:head>
+        <ns0:stage>(Занавес поднимается. Сцена представляет большой зал с высокими потолками и шикарными люстрами. В центре зала располагается большой СТОЛ, покрытый антикварной скатертью и украшенный цветами. Вокруг стола собраны ГОСТИ в роскошных нарядах.)</ns0:stage>
+        <ns0:stage>(Входят ЗАХАР и МАРГАРИТА, одетые в великолепные элегантные наряды, улыбающиеся друг другу.)</ns0:stage>
+        <ns0:sp who="#zahar:">
+          <ns0:speaker>ЗАХАР:</ns0:speaker>
+          <ns0:stage>(восхищенно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#margarita:">
+          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
+          <ns0:stage>(ласково)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Входят КНЯЗЬ АЛЕКСАНДР и КНЯГИНЯ ВЕРА, элегантно одетые, счастливые и светящиеся от внутренней радости.)</ns0:stage>
+        <ns0:sp who="#knjaz_aleksandr:">
+          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
+          <ns0:stage>(с благодарностью)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#knjaginja_vera:">
+          <ns0:speaker>КНЯГИНЯ ВЕРА:</ns0:speaker>
+          <ns0:stage>(восхищенно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(На СТОЛЕ появляются разнообразные угощения. ГОСТИ начинают радостно беседовать, смеяться и наслаждаться вечером.)</ns0:stage>
+        <ns0:stage>(ВЫПОЛНЕНИЕ ВЫСОКИХ КУЛИНАРНЫХ МУЗЫКАЛЬНЫХ ЗАМЕРОВ, которые заполняют зал радостными звуками.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+<fileDesc><titleStmt><title>GPT35-Russian-4</title></titleStmt></fileDesc></ns0:TEI>

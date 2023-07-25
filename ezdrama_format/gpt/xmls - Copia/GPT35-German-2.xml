@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt></titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="priester">
+            <persName>PRIESTER</persName>
+          </person>
+          <person xml:id="samuel">
+            <persName>SAMUEL</persName>
+          </person>
+          <person xml:id="artur">
+            <persName>ARTUR</persName>
+          </person>
+          <person xml:id="arthur">
+            <persName>ARTHUR</persName>
+          </person>
+          <person xml:id="maria">
+            <persName>MARIA</persName>
+          </person>
+          <person xml:id="endefünfter akt">
+            <persName>ENDEFünfter Akt</persName>
+          </person>
+          <person xml:id="martha">
+            <persName>MARTHA</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-07-24">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>Erster Akt <stage>(SCHWARZER VORHANG öffnet sich langsam. Ein stilvolles Wohnzimmer mit antiken Möbeln wird enthüllt. Ein KAMIN brennt schwach, während auf dem TISCH eine KARAFEE mit WEIN steht. Eine LAMPE am Boden erhellt den Raum.)</stage>
+      <sp who="#martha">
+        <speaker>MARTHA</speaker>
+        <stage>(Mitte 50, bürgerlich gekleidet, lesendes Buch in der Hand)</stage>
+        <p>"In finsterer Nacht schweift die einsame Seele durch das kalte Schloss... "</p>
+      </sp>
+      <stage>(liest leise vor sich hin)</stage>
+      <stage>(MARIA, Anfang 20, elegantes Kleid, tritt in das Wohnzimmer ein. Sie trägt einen BRIEF in der Hand.)</stage>
+      <sp who="#maria">
+        <speaker>MARIA</speaker>
+        <stage>(ängstlich)</stage>
+        <p>Martha, liebe Martha! Entschuldigt bitte, dass ich so plötzlich eintrete, aber ich habe Neuigkeiten, die Euer Herz zum Schmelzen bringen werden.</p>
+      </sp>
+      <sp who="#martha">
+        <speaker>MARTHA</speaker>
+        <stage>(legt das Buch beiseite und steht auf)</stage>
+        <p>Maria, mein Kind! Welche Neuigkeiten könnten das sein? Ihr seht so erregt aus.</p>
+      </sp>
+      <sp who="#maria">
+        <speaker>MARIA</speaker>
+        <stage>(reicht Martha den Brief)</stage>
+        <p>Dieser Brief kam gerade von meinem Geliebten, dem jungen ARTHUR.</p>
+      </sp>
+      <stage>(Martha öffnet den Brief und liest ihn aufmerksam.)</stage>
+      <sp who="#martha">
+        <speaker>MARTHA</speaker>
+        <stage>(emotional)</stage>
+        <p>Oh, meine liebe Maria, dieser Brief ist voller Schmerz und Leidenschaft! Arthur bittet um Deine Hand.</p>
+      </sp>
+      <sp who="#maria">
+        <speaker>MARIA</speaker>
+        <stage>(mit zitternder Stimme)</stage>
+        <p>Ja, Martha, unsern ungewöhnlichen Weg gemeinsam zu gehen, ist sein innigster Wunsch. Aber beichtet mir, was sagt mein Vater zu dieser Verbindung?</p>
+      </sp>
+      <stage>(SAMUEL, Ende 50, gehobene Kleidung, tritt ein.)</stage>
+      <sp who="#samuel">
+        <speaker>SAMUEL</speaker>
+        <stage>(resolut)</stage>
+        <p>Was ist das für ein Lärm, der durchs Haus hallt? Maria, was verschafft mir das Vergnügen deines Anblicks?</p>
+      </sp>
+      <sp who="#martha">
+        <speaker>MARTHA</speaker>
+        <stage>(enthusiastisch)</stage>
+        <p>Mein verehrter Herr Vater, Ihr werdet es nicht glauben! Arthur bittet um Maria Hand! In diesem Brief bittet er um Euren Segen für diese Verbindung.</p>
+      </sp>
+      <sp who="#samuel">
+        <speaker>SAMUEL</speaker>
+        <stage>(ärgerlich)</stage>
+        <p>Anmaßendes Getue! Die Hallen sollen nicht widerhallen von solch törichten Nachrichten. Maria, ich hoffe, dass Du diesen lächerlichen Vorschlag ablehnst.</p>
+      </sp>
+      <sp who="#maria">
+        <speaker>MARIA</speaker>
+        <stage>(tränenüberströmt)</stage>
+        <p>Oh, liebevoller Vater, bitte verwehrt mir nicht das Glück, das in greifbarer Nähe liegt. Arthur liebt mich so sehr, wie ich ihn liebe.</p>
+      </sp>
+      <sp who="#samuel">
+        <speaker>SAMUEL</speaker>
+        <stage>(verärgert)</stage>
+        <p>Ich habe es lange ertragen, deine Nähe zu Arthur. Aber eine Verbindung zwischen unseren Familien kann nicht geduldet werden.</p>
+      </sp>
+      <stage>(Plötzlich hört man ein KLOPFEN. Es ist ARTHUR, Anfang 20, schüchtern.)</stage>
+      <sp who="#arthur">
+        <speaker>ARTHUR</speaker>
+        <stage>(von außen)</stage>
+        <p>Maria, meine Liebe, hast Du meinen Brief schon erhalten und meinem Antrag zugestimmt?</p>
+      </sp>
+      <sp who="#maria">
+        <speaker>MARIA</speaker>
+        <stage>(voller Sehnsucht)</stage>
+        <p>Arthur! Wie sehr sehZweiter Akt</p>
+      </sp>
+      <stage>(</stage>
+      <div type="scene">
+        <head>SZENE 1: Ein prächtiger Ballsaal, mit opulent geschmückten Wänden. Ein GLITZERNDES KRONLEUCHTER hängt von der Decke. Es ist festlich beleuchtet und es erklingt Musik im Hintergrund.)</head>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(trägt ein elegantes Ballkleid, steht allein in der Mitte des Saals, tief in Gedanken)</stage>
+          <p></p>
+        </sp>
+        <stage>(MARTHA betritt den Saal, sie nähert sich Maria.)</stage>
+        <sp who="#martha">
+          <speaker>MARTHA</speaker>
+          <stage>(sanft)</stage>
+          <p>Maria, meine Liebe, warum stehst Du hier so alleine? Sehnst Du Dich nach Arthur?</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(seufzend)</stage>
+          <p>Ja, Martha. Mein Herz fühlt sich so schwer an. Ich hatte gehofft, dass mein Vater heute Abend zu Gnade finden würde, doch er scheint so unnachgiebig wie immer.</p>
+        </sp>
+        <stage>(MARIA blickt traurig auf.)</stage>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(tritt in den Saal, gekleidet im Anzug eines Edelmanns)</stage>
+          <p></p>
+        </sp>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(leise, zu sich selbst)</stage>
+          <p>Es ist meine Pflicht, um Maria zu kämpfen, nicht aufzugeben!</p>
+        </sp>
+        <stage>(MARIA bemerkt, dass ARTHUR im Saal ist und sieht ihn an.)</stage>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(mit einem leichten Lächeln)</stage>
+          <p>Arthur! Oh, wie schön, dich hier zu sehen. Aber ich fürchte, meine Träume von einer gemeinsamen Zukunft mögen verloren sein.</p>
+        </sp>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(entschlossen)</stage>
+          <p>Maria, meine Geliebte, lasst uns fliehen. Lasst uns diese unversöhnlichen Familien hinter uns lassen und unser eigenes Glück suchen. </p>
+        </sp>
+        <stage>(MARIA blickt sich besorgt um, während im Hintergrund der TANZ weitergeht.)</stage>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(zweifelnd)</stage>
+          <p>Aber wie sollen wir fliehen, Arthur? Unsere Familien sind mächtig und verbittert. Sie werden unser Glück niemals akzeptieren.</p>
+        </sp>
+        <stage>(A plötzliche STILLE lässt den Raum erbeben. ALLE drehen sich um.)</stage>
+        <sp who="#samuel">
+          <speaker>SAMUEL</speaker>
+          <stage>(in kräftigem Ton)</stage>
+          <p>Was ist das, was meine Ohren vernehmen? So reden meine Tochter und dieser Taugenichts von einem Arthur? Nicht in meinem Haus!</p>
+        </sp>
+        <stage>(Er geht wütend auf Arthur zu.)</stage>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(mutig)</stage>
+          <p>Herr von Weidenberg, hört mich an! Mein Herz brennt vor Liebe zu Ihrer Tochter. Ich werde mich um sie kümmern und sie so lieben, wie sie es verdient.</p>
+        </sp>
+        <stage>(SAMUEL ist verärgert und will wütend auf ARTHUR losgehen, als MARTHA dazwischen tritt.)</stage>
+        <sp who="#martha">
+          <speaker>MARTHA</speaker>
+          <stage>(energisch)</stage>
+          <p>Gebt den jungen Liebenden eine Chance, Samuel! Liebe sollte nicht durch soziale Hürden gebrochen werden. Lassen Sie sie ihr Glück finden.</p>
+        </sp>
+        <stage>(SAMUEL stutzt und schaut MARTHA an.)</stage>
+        <sp who="#samuel">
+          <speaker>SAMUEL</speaker>
+          <stage>(nachdenklich)</stage>
+          <p>Martha, du hast recht. Wenn die Liebe stark ist, sollten wir sie nicht aufhalten. Aber, Arthur, du musst beweisen, dass du unseren Segen verdienst.Dritter Akt</p>
+        </sp>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 1: Ein blühender Garten voller Rosen und blühender Bäume. Eine malerische Gartenbank steht in der Mitte des Gartens.)</head>
+        <stage>(MARIA und ARTHUR erscheinen im Garten, Hände haltend.)</stage>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(strahlend)</stage>
+          <p>Arthur, mein Geliebter, wir haben es geschafft. Die Hindernisse sind überwunden und unser Glück ist zum Greifen nah.</p>
+        </sp>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(überglücklich)</stage>
+          <p>Ja, Maria, unsere Liebe hat alle Widrigkeiten überstanden. Ich werde für immer an deiner Seite sein.</p>
+        </sp>
+        <stage>(Sie umarmen sich liebevoll.)</stage>
+        <stage>(Nach einer Weile betreten MARTHA und SAMUEL den Garten, ihre Gesichter voller Zuneigung.)</stage>
+        <sp who="#martha">
+          <speaker>MARTHA</speaker>
+          <stage>(zuversichtlich)</stage>
+          <p>Meine Lieben, ich habe mit eurem Vater gesprochen. Er hat sein Einverständnis gegeben und euch seinen Segen gegeben. Von nun an gehört die Zukunft euch.</p>
+        </sp>
+        <stage>(SAMUEL tritt näher.)</stage>
+        <sp who="#samuel">
+          <speaker>SAMUEL</speaker>
+          <stage>(nachdenklich)</stage>
+          <p>Ich sehe nun, dass eure Liebe wahrhaftig ist und dass die Herkunft oder der Stand eines Menschen keine Rolle spielen sollten. Ich bitte um Verzeihung, Arthur. Ich habe mich geirrt.</p>
+        </sp>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(respektvoll)</stage>
+          <p>Herr von Weidenberg, ich danke Ihnen für Ihre Einsicht und Vergebung. Ich liebe Ihre Tochter mehr als alles andere auf dieser Welt und werde sie mit größter Sorgfalt und Ehre lieben.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(dankbar)</stage>
+          <p>Vater, du weißt nicht, wie glücklich mich deine Worte machen. Ich liebe Arthur von ganzem Herzen und werde ihn bis ans Ende meiner Tage lieben.</p>
+        </sp>
+        <stage>(Sie umarmen sich und alle vier sitzen auf der Gartenbank.)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 2: Einige Zeit später. Eine festliche Hochzeitsszene im Garten mit Blumenranken, festlich gekleideten Gästen und einer Hochzeitszeremonie.)</head>
+        <stage>(PRIESTER, mittleres Alter, tritt auf.)</stage>
+        <sp who="#priester">
+          <speaker>PRIESTER</speaker>
+          <stage>(feierlich)</stage>
+          <p>Verehrte Anwesende, wir sind hier zusammengekommen, um diese beiden Seelen zu vereinen. Lasst uns die heilige Ehe dieser beiden Personen mit Gottes Segen einläuten.</p>
+        </sp>
+        <stage>(Die Zeremonie beginnt. ARTHUR und MARIA halten sich an den Händen.)</stage>
+        <sp who="#priester">
+          <speaker>PRIESTER</speaker>
+          <p>Arthur, nimmst du Maria hier gegenüber als deine rechtmäßige Ehefrau in guten und schlechten Tagen, in Gesundheit und Krankheit, bis der Tod euch scheidet?</p>
+        </sp>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(entschlossen)</stage>
+          <p>Ja, das tue ich. Von diesem Tage an werde ich sie beschützen, lieben und respektieren.</p>
+        </sp>
+        <sp who="#priester">
+          <speaker>PRIESTER</speaker>
+          <p>Maria, nimmst du Arthur hier gegenüber als deinen rechtmäßigen Ehemann in guten und schlechten Tagen, in Gesundheit und Krankheit, bis der Tod euch scheidet?</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(mit strahlenden Augen)</stage>
+          <p>Ja, das tue ich. Von diesem Tage an werde ich ihn lieben und unterstützen.</p>
+        </sp>
+        <stage>(Die Zeremonie wirdVierter Akt</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 1: Das Wohnzimmer von ARTHUR und MARIA, elegant eingerichtet mit Sesseln und einem Flügel.)</head>
+        <stage>(MARIA sitzt am Flügel und spielt eine sanfte Melodie, während ARTHUR daneben steht und lauscht.)</stage>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(mit zarter Stimme)</stage>
+          <p>Arthur, meine Liebe, unsere Ehe ist ein Segen. Jeder Tag mit dir erfüllt mein Herz mit Freude und Glück.</p>
+        </sp>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(sanft)</stage>
+          <p>Und jeder Tag mit dir, Maria, ist ein Geleit durch den Himmel. Meine Liebe zu dir wächst mit jedem Atemzug.</p>
+        </sp>
+        <stage>(Sie umarmen sich liebevoll.)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 2: Ein Jahr später. Der Garten des Hauses von ARTHUR und MARIA. Eine Wiege steht im Mittelpunkt.)</head>
+        <stage>(MARIA schaukelt sanft die Wiege, während ARTHUR von der Seite zusieht.)</stage>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(sanft)</stage>
+          <p>Unser Sohn, mein Liebster, erfüllt unser Leben mit so viel Freude und Glück. Ich kann mir kein größeres Glück vorstellen.</p>
+        </sp>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(stolz)</stage>
+          <p>Unsere Liebe hat Früchte getragen, Maria. Unsere Familie ist gesegnet. Ich danke Gott jeden Tag für dieses Geschenk.</p>
+        </sp>
+        <stage>(Die Szene wird von einem harmonischen Klang untermalt.)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 3: Ein Winterabend, das Wohnzimmer. Ein knisterndes Feuer im Kamin.)</head>
+        <stage>(Der Atem des Winters ist in der Luft, als ARTHUR und MARIA nebeneinander auf dem Sofa sitzen.)</stage>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(nachdenklich)</stage>
+          <p>Maria, meine Liebe, wir haben so viel gemeinsam durchlebt. Unsere Liebe hat uns durch alle Gezeiten getragen. Ich bin dankbar für jeden Moment mit dir.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(warm)</stage>
+          <p>Und ich, Arthur, bin dankbar für deine bedingungslose Liebe und Unterstützung. Die Jahre mögen vergehen, aber unsere Liebe wird bestehen bleiben.</p>
+        </sp>
+        <stage>(Sie halten sich die Hände und blicken zusammen in das flackernde Feuer.)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 4: Ein blühendes Grab auf dem Friedhof, mit einer Statue eines Engels.)</head>
+        <stage>(ARTHUR steht vor dem Grabstein. MARIA tritt neben ihn.)</stage>
+        <sp who="#arthur">
+          <speaker>ARTHUR</speaker>
+          <stage>(mit gebrochener Stimme)</stage>
+          <p>Maria, meine Liebe, es schmerzt mich tief, dich hier zu sehen. Wir hatten so viele Träume und Pläne, die wir gemeinsam verwirklichen wollten.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(mit stiller Trauer)</stage>
+          <p>Arthur, mein Lieber, du warst immer mein Fels, meine Stärke. Auch wenn du nun alleine bist, wird meine Liebe für immer bei dir sein.</p>
+        </sp>
+        <stage>(DER ENDE prellt von Männern die Tränen ab.)</stage>
+        <sp who="#endefünfter akt">
+          <speaker>ENDEFünfter Akt</speaker>
+          <p></p>
+        </sp>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 1: Das Wohnzimmer von MARTHA, einige Jahre später. MARTHA sitzt am Tisch, schreibt einen Brief.)</head>
+        <stage>(MARIA betritt das Zimmer, elegant gekleidet.)</stage>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(aufgeregt)</stage>
+          <p>Martha, meine liebe Schwester, ich habe beeindruckende Neuigkeiten! Mein Sohn, ARTUR, ist zu einem angesehenen jungen Mann herangewachsen und hat sein Studium mit Auszeichnung abgeschlossen.</p>
+        </sp>
+        <sp who="#martha">
+          <speaker>MARTHA</speaker>
+          <stage>(freudig)</stage>
+          <p>Oh, Maria! Das ist wahrlich großartig. Er hätte sicherlich seinen Vater stolz gemacht. Welchen Weg wird er nun einschlagen?</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(strahlend)</stage>
+          <p>Artur hat sich entschieden, in die Fußstapfen seines Vaters zu treten und Künstler zu werden. Er möchte die Welt mit seiner Musik bereichern.</p>
+        </sp>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 2: Ein eleganter Konzertsaal. Der VORHANG hebt sich langsam.)</head>
+        <stage>(Auf der BÜHNE steht ARTUR, gekleidet in einen edlen Anzug, bereit, das Klavier zu spielen.)</stage>
+        <stage>(Das PUBLIKUM ist erwartungsvoll und applaudierend.)</stage>
+        <sp who="#artur">
+          <speaker>ARTUR</speaker>
+          <stage>(konzentriert)</stage>
+          <p></p>
+        </sp>
+        <stage>(Nims Platz auf dem Klavierhocker ein und beginnt, eine wunderschöne Sonate zu spielen.)</stage>
+        <stage>(Das Publikum lauscht andächtig, gefangen von der Schönheit seiner Musik.)</stage>
+        <stage>(Die Sonate endet. Das Publikum bricht in stürmischen Applaus aus.)</stage>
+        <stage>(PUBLIKUM/Fans stehen auf und feiern ARTUR mit begeisterten Rufen.)</stage>
+        <stage>(MARIA und MARTHA, in der ersten Reihe sitzend, sind voller Stolz und Freude.)</stage>
+        <stage>(MARIA geht auf die BÜHNE und umarmt ARTUR.)</stage>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(mit Tränen der Freude in den Augen)</stage>
+          <p>Artur, mein lieber Sohn, du hast die Herzen der Menschen tief berührt. Dein Vater wäre so stolz auf dich gewesen.</p>
+        </sp>
+        <sp who="#artur">
+          <speaker>ARTUR</speaker>
+          <stage>(dankbar)</stage>
+          <p>Danke, Mutter. Es ist meiner Liebe zur Musik und der Unterstützung unserer Familie zu verdanken, dass ich heute hier stehe.</p>
+        </sp>
+        <stage>(Das Publikum setzt den Applaus fort und der VORHANG schließt sich langsam.)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 3: Das Wohnzimmer von MARTHA, einige Jahre später. Ein Foto von ARTHUR steht in einer VITRINE.)</head>
+        <stage>(MARIA sitzt in einem Sessel und blättert in einem Fotoalbum.)</stage>
+        <sp who="#maria">
+          <speaker>MARIA</speaker>
+          <stage>(seufzend)</stage>
+          <p>Artur hat erreicht, wovon sein Vater immer geträumt hat. Ich wünschte, Arthur könnte diesen Erfolg und diese Freude mit uns teilen.</p>
+        </sp>
+        <sp who="#martha">
+          <speaker>MARTHA</speaker>
+          <stage>(sanft)</stage>
+          <p>Maria, ich glaube fest daran, dass Arthur jeden Moment bei uns ist. Seine Liebe wird immer in unseren Herzen leben.</p>
+        </sp>
+        <stage>(Musik erklingt von draußen.)</stage>
+        <stage>(</stage>
+      </div>
+      <div type="scene">
+        <head>SZENE 4: Ein blühender Garten, mit einer Statuette von ARTHUR.)</head>
+        <stage>(Die Musik wird lauter, als ARTUR im Kon</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
