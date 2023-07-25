@@ -1,7 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ai000001" xml:lang="fre">
   <teiHeader>
     <fileDesc>
-      <titleStmt></titleStmt>
+      <titleStmt>French 1</titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
@@ -33,9 +34,6 @@
           </person>
           <person xml:id="videolette">
             <persName>VIDEOLETTE</persName>
-          </person>
-          <person xml:id="videlette">
-            <persName>VIDELETTE</persName>
           </person>
           <person xml:id="sonia">
             <persName>SONIA</persName>
@@ -396,9 +394,9 @@
       </div>
       <div type="scene">
         <head>Scène 4</head>
-        <stage>(VIDELETTE entre dans la pièce, avec son expression énigmatique.)</stage>
-        <sp who="#videlette">
-          <speaker>VIDELETTE</speaker>
+        <stage>(VIDEOLETTE entre dans la pièce, avec son expression énigmatique.)</stage>
+        <sp who="#videolette">
+          <speaker>VIDEOLETTE</speaker>
           <p>La vérité vous échappe, mais vous êtes prêts à faire face aux conséquences ? La route devant vous est semée d'embûches.</p>
         </sp>
         <stage>(Pleine de mystère)</stage>
