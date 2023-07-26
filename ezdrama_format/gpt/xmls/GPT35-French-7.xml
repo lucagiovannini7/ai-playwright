@@ -26,52 +26,22 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="fin de l'">
-            <ns0:persName>FIN DE L'</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="marie-antoinette est assise, les mains crispées, regardant par la fenêtre qui offre une vue sur la révolte qui gronde au-dehors. ferdinand est à ses côtés, essayant de la réconforter">
-            <ns0:persName>MARIE-ANTOINETTE est assise, les mains crispées, regardant par la fenêtre qui offre une vue sur la révolte qui gronde au-dehors. FERDINAND est à ses côtés, essayant de la réconforter</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="entre philippe">
-            <ns0:persName>ENTRE PHILIPPE</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="la marquise">
+          <ns0:person xml:id="la-marquise" sex="F">
             <ns0:persName>LA MARQUISE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="entre louis-philippe">
-            <ns0:persName>ENTRE LOUIS-PHILIPPE,</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="louis xvi">
+          <ns0:person xml:id="louis-xvi" sex="M">
             <ns0:persName>LOUIS XVI</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="entre la marquise, vêtue de noir et porteuse d'une lettre">
-            <ns0:persName>ENTRE LA MARQUISE, vêtue de noir et porteuse d'une lettre</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="louis-philippe">
+          <ns0:person xml:id="louis-philippe" sex="M">
             <ns0:persName>LOUIS-PHILIPPE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="entre jacques">
-            <ns0:persName>ENTRE JACQUES,</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="entre louis-philippe">
-            <ns0:persName>ENTRE LOUIS-PHILIPPE</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="entre ferdinand">
-            <ns0:persName>ENTRE FERDINAND</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="philippe">
-            <ns0:persName>PHILIPPE</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="marie-antoinette">
+          <ns0:person xml:id="marie-antoinette" sex="F">
             <ns0:persName>MARIE-ANTOINETTE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="le roi louis xvi">
-            <ns0:persName>LE ROI LOUIS XVI</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="jacques">
+          <ns0:person xml:id="jacques" sex="M">
             <ns0:persName>JACQUES</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="ferdinand">
+          <ns0:person xml:id="ferdinand" sex="M">
             <ns0:persName>FERDINAND</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
@@ -103,7 +73,8 @@
     <ns0:body>
       <ns0:div type="scene">
         <ns0:head>ACTE I</ns0:head>
-        <ns0:stage>(Une salle de bal au Palais de Versailles. Les invités glorieamment vêtus dansent et discutent. Les chandelles brûlent, éclairant la magnificence de l'endroit.)</ns0:stage> Les lumières tamisées et un doux fond musical apportent une atmosphère de fête. Les PERSONNAGES, vêtus de costumes élégants de l'époque, tournoient dans la danse avec grâce et raffinement.<ns0:sp who="#le roi louis xvi">
+        <ns0:stage>(Une salle de bal au Palais de Versailles. Les invités glorieamment vêtus dansent et discutent. Les chandelles brûlent, éclairant la magnificence de l'endroit.)</ns0:stage> Les lumières tamisées et un doux fond musical apportent une atmosphère de fête. Les PERSONNAGES, vêtus de costumes élégants de l'époque, tournoient dans la danse avec grâce et raffinement.
+        <ns0:sp who="#louis-xvi">
           <ns0:speaker>LE ROI LOUIS XVI</ns0:speaker>
           <ns0:stage>(d'une voix autoritaire)</ns0:stage>
           <ns0:p>Mes chers invités, mes sujets, vous êtes ici chez vous. Profitez de ce spectacle grandiose offert en votre honneur !</ns0:p>
@@ -114,7 +85,7 @@
           <ns0:stage>(à elle-même)</ns0:stage>
           <ns0:p>Quelle soirée éblouissante ! Cependant, mon cœur est rempli de mélancolie. La France lutte encore contre un fardeau insupportable.</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#entre ferdinand">
+        <ns0:sp who="#ferdinand">
           <ns0:speaker>ENTRE FERDINAND</ns0:speaker>
           <ns0:stage>(l'ami confident de Marie-Antoinette)</ns0:stage>
           <ns0:p>Marie, ma chère amie, pourquoi avez-vous cette expression triste sur votre visage radieux ?</ns0:p>
@@ -124,7 +95,7 @@
           <ns0:stage>(soupirant)</ns0:stage>
           <ns0:p>Ferdinand, la pauvreté règne dans les rues de Paris, tandis que la cour se perd dans une ivresse insouciante.</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#entre philippe">
+        <ns0:sp who="#louis-philippe">
           <ns0:speaker>ENTRE PHILIPPE</ns0:speaker>
           <ns0:stage>(le frère du Roi)</ns0:stage>
           <ns0:p>Marie, Ferdinand, une nouvelle terrible ! Le peuple se révolte, la Révolution gronde dans les rues.</ns0:p>
@@ -134,49 +105,40 @@
           <ns0:stage>(effrayée)</ns0:stage>
           <ns0:p>Mon Dieu ! Que devons-nous faire ?</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#le roi louis xvi">
+        <ns0:sp who="#louis-xvi">
           <ns0:speaker>LE ROI LOUIS XVI</ns0:speaker>
           <ns0:stage>(appelant du fond de la salle)</ns0:stage>
           <ns0:p>Que se passe-t-il ici, Marie ? Philippe, expliquez-vous !</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#philippe">
+        <ns0:sp who="#louis-philippe">
           <ns0:speaker>PHILIPPE</ns0:speaker>
           <ns0:stage>(d'une voix tremblante)</ns0:stage>
           <ns0:p>Mon frère, les ouvriers, les paysans, les sans-culottes... Tous se dressent contre le joug que nous représentons. La monarchie est menacée.</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#le roi louis xvi">
+        <ns0:sp who="#louis-xvi">
           <ns0:speaker>LE ROI LOUIS XVI</ns0:speaker>
           <ns0:stage>(le visage pâlissant)</ns0:stage>
           <ns0:p>Cette situation est bien plus sérieuse que je ne le pensais. Il nous faut prendre des mesures urgentes.</ns0:p>
         </ns0:sp>
         <ns0:stage>(La MARQUISE, une courtisane au tempérament froid et calculateur, s'approche des PERSONNAGES.)</ns0:stage>
-        <ns0:sp who="#la marquise">
+        <ns0:sp who="#la-marquise">
           <ns0:speaker>LA MARQUISE</ns0:speaker>
           <ns0:stage>(souriant perfidement)</ns0:stage>
           <ns0:p>Votre Majesté, vous êtes aux prises avec un dilemme délicat. Les têtes couronnées tremblent face à une vague de changement.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Marie-Antoinette et les autres PERSONNAGES se regardent, inquiets.)</ns0:stage>
-        <ns0:sp who="#fin de l'">
-          <ns0:speaker>FIN DE L'</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ACTE I</ns0:head>
+        <ns0:stage>FIN DE L'ACTE I</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>ACTE II</ns0:head>
         <ns0:stage>(Une pièce élégante dans le château de Versailles. Les meubles luxueux et les tapisseries exquises évoquent le faste du palais. La tension est palpable.)</ns0:stage>
-        <ns0:sp who="#marie-antoinette est assise, les mains crispées, regardant par la fenêtre qui offre une vue sur la révolte qui gronde au-dehors. ferdinand est à ses côtés, essayant de la réconforter">
-          <ns0:speaker>MARIE-ANTOINETTE est assise, les mains crispées, regardant par la fenêtre qui offre une vue sur la révolte qui gronde au-dehors. FERDINAND est à ses côtés, essayant de la réconforter.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
+        <ns0:stage>MARIE-ANTOINETTE est assise, les mains crispées, regardant par la fenêtre qui offre une vue sur la révolte qui gronde au-dehors. FERDINAND est à ses côtés, essayant de la réconforter.</ns0:stage>        
         <ns0:sp who="#marie-antoinette">
           <ns0:speaker>MARIE-ANTOINETTE</ns0:speaker>
           <ns0:stage>(d'un ton résigné)</ns0:stage>
           <ns0:p>Ferdinand, je crains que notre vie fastueuse ne touche à sa fin. Les horreurs de cette révolution qui gronde ne doivent pas nous épargner.</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#entre louis-philippe">
+        <ns0:sp who="#louis-philippe">
           <ns0:speaker>ENTRE LOUIS-PHILIPPE,</ns0:speaker>
           <ns0:stage>(le frère du roi)</ns0:stage>
           <ns0:p />
@@ -197,11 +159,8 @@
           <ns0:p>Nous devons agir, Marie. La France toute entière est plongée dans le chaos, et nous sommes menacés.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Ils entendent des bruits de pas dans le couloir. MARIE-ANTOINETTE se cache rapidement, FERDINAND sort de la pièce.)</ns0:stage>
-        <ns0:sp who="#entre la marquise, vêtue de noir et porteuse d'une lettre">
-          <ns0:speaker>ENTRE LA MARQUISE, vêtue de noir et porteuse d'une lettre.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#la marquise">
+        <ns0:stage>ENTRE LA MARQUISE, vêtue de noir et porteuse d'une lettre.</ns0:stage>     
+        <ns0:sp who="#la-marquise">
           <ns0:speaker>LA MARQUISE</ns0:speaker>
           <ns0:stage>(arrogante)</ns0:stage>
           <ns0:p>La couronne est tombée, la révolution est désormais maîtresse de Paris. Votre vie, chère Marie, est en péril.</ns0:p>
@@ -212,7 +171,7 @@
           <ns0:stage>(en colère)</ns0:stage>
           <ns0:p>Que voulez-vous, Marquise ? Vous présentez-vous en messagère de la Révolution ?</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#la marquise">
+        <ns0:sp who="#la-marquise">
           <ns0:speaker>LA MARQUISE</ns0:speaker>
           <ns0:stage>(riant sardoniquement)</ns0:stage>
           <ns0:p>Je ne suis que l'incarnation de l'Histoire, chère Marie. Et cette Histoire se tourne contre vous et votre vieux régime.</ns0:p>
@@ -223,18 +182,12 @@
           <ns0:p>Je suis Marie-Antoinette. Je suis la reine de France, et je protégerai la dignité de la monarchie jusqu'au bout.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Des bruits tumultueux se font entendre à l'extérieur.)</ns0:stage>
-        <ns0:sp who="#la marquise">
+        <ns0:sp who="#la-marquise">
           <ns0:speaker>LA MARQUISE</ns0:speaker>
           <ns0:stage>(d'une voix sinistre)</ns0:stage>
           <ns0:p>Le peuple est fou de rage. Cette révolution engloutira tout sur son passage. Même vous, chère Reine.</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#fin de l'">
-          <ns0:speaker>FIN DE L'</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ACTE II</ns0:head>
+        <ns0:stage>FIN DE L'ACTE II</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>ACTE III</ns0:head>
@@ -244,13 +197,13 @@
           <ns0:stage>(caressant tendrement le visage de Louis XVI)</ns0:stage>
           <ns0:p>Mon cher Louis, nous sommes tous deux captifs de cette tourmente révolutionnaire. Mais nous devons rester forts, quoiqu'il en coûte.</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#louis xvi">
+        <ns0:sp who="#louis-xvi">
           <ns0:speaker>LOUIS XVI</ns0:speaker>
           <ns0:stage>(d'une voix faible)</ns0:stage>
           <ns0:p>Ma chère Marie, nous avons échoué envers notre peuple, envers notre pays. La France crie pour la liberté, et nous sommes prisonniers de notre propre inaction.</ns0:p>
         </ns0:sp>
         <ns0:stage>(MARIE-ANTOINETTE entend des pas s'approchant de la porte. Elle s'éloigne rapidement de LOUIS XVI.)</ns0:stage>
-        <ns0:sp who="#entre jacques">
+        <ns0:sp who="#jacques">
           <ns0:speaker>ENTRE JACQUES,</ns0:speaker>
           <ns0:stage>(un révolutionnaire sévère et implacable)</ns0:stage>
           <ns0:p />
@@ -276,7 +229,7 @@
           <ns0:stage>(avec courage)</ns0:stage>
           <ns0:p>Si c'est le prix à payer pour les erreurs de notre règne, alors bien. Que notre peuple trouve la liberté qu'il réclame.</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#louis xvi">
+        <ns0:sp who="#louis-xvi">
           <ns0:speaker>LOUIS XVI</ns0:speaker>
           <ns0:stage>(résigné)</ns0:stage>
           <ns0:p>Marie, ma chère reine, je regrette de n'avoir pas su conduire notre nation sur le chemin de l'harmonie et de la prospérité. Que Mon Dieu pardonne mes péchés.</ns0:p>
@@ -288,13 +241,7 @@
           <ns0:p>La révolution a pris tout ce que nous avions, tout ce que nous étions. Que les souvenirs de notre royaume perdu reposeront à jamais dans l'Histoire.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Les portes de la cellule se referment, plongeant MARIE-ANTOINETTE dans le noir et le silence.)</ns0:stage>
-        <ns0:sp who="#fin de l'">
-          <ns0:speaker>FIN DE L'</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ACTE III</ns0:head>
+        <ns0:stage>FIN DE l'ACTE III</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>ACTE IV</ns0:head>
@@ -345,13 +292,7 @@
           <ns0:p>Citoyens, je vous en supplie, accordez-moi le droit d'un procès équitable. Ecoutez ma voix, écoutez mon histoire. Peut-être que nous trouverons une réconciliation dans la compréhension.</ns0:p>
         </ns0:sp>
         <ns0:stage>(La foule est partagée, laissant place à une discussion animée. La tension est palpable.)</ns0:stage>
-        <ns0:sp who="#fin de l'">
-          <ns0:speaker>FIN DE L'</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ACTE IV</ns0:head>
+        <ns0:stage>FIN DE L'ACTE IV</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>ACTE V</ns0:head>
@@ -374,7 +315,7 @@
           <ns0:p>Marie-Antoinette, vous êtes accusée de trahison envers le peuple, d'extravagance et de renversement de l'ordre établi. Qu'avez-vous à dire pour votre défense ?</ns0:p>
         </ns0:sp>
         <ns0:stage>(MARIE-ANTOINETTE se prépare à parler, mais LA MARQUISE, présente dans la salle, se lève et s'approche du tribunal.)</ns0:stage>
-        <ns0:sp who="#la marquise">
+        <ns0:sp who="#la-marquise">
           <ns0:speaker>LA MARQUISE</ns0:speaker>
           <ns0:stage>(d'un ton dédaigneux)</ns0:stage>
           <ns0:p>Citoyens, la grande Marie-Antoinette est responsable de tous les maux qui ont affligé notre nation. Elle a gaspillé notre richesse, insulté notre peuple. Elle doit payer.</ns0:p>
@@ -386,7 +327,7 @@
           <ns0:p>Peuple de France, écoutez-moi ! J'ai connu des erreurs, j'ai connu la vanité, mais je suis toujours une mère, une femme et une reine. Je vous supplie de me considérer avec justice.</ns0:p>
         </ns0:sp>
         <ns0:stage>(La salle de tribunal s'enflamme de débats et de bruits discordants. La tension monte.)</ns0:stage>
-        <ns0:sp who="#entre louis-philippe">
+        <ns0:sp who="#louis-philippe">
           <ns0:speaker>ENTRE LOUIS-PHILIPPE.</ns0:speaker>
           <ns0:stage>(le frère du roi, autrefois loyal envers la monarchie)</ns0:stage>
           <ns0:p />

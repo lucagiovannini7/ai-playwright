@@ -26,28 +26,19 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="der weise? und welchen rat hat er für uns?">
-            <ns0:persName>DER WEISE? Und welchen Rat hat er für uns?</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="ende(">
-            <ns0:persName>ENDE(</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="karl">
+          <ns0:person xml:id="karl" sex="M">
             <ns0:persName>KARL</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="karl, wo bist du? lass mich nicht warten">
-            <ns0:persName>KARL, wo bist du? Lass mich nicht warten!</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="der hausherr">
+          <ns0:person xml:id="der-hausherr" sex="M">
             <ns0:persName>DER HAUSHERR</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="bedchen">
+          <ns0:person xml:id="bedchen" sex="M">
             <ns0:persName>BEDCHEN</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="der weise">
+          <ns0:person xml:id="der-weise" sex="M">
             <ns0:persName>DER WEISE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="spiegel">
+          <ns0:person xml:id="spiegel" sex="M">
             <ns0:persName>SPIEGEL</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
@@ -77,20 +68,19 @@
   </ns0:standOff>
   <ns0:text>
     <ns0:body>
+      <ns0:div>
       <ns0:stage>(Im Wohnzimmer des Hauses. Es ist ein dunkler, düsterer Raum mit schweren, antiken Möbeln. Eine einzige Kerze brennt auf einem Tisch. Es ist Nacht.)</ns0:stage>
-      <ns0:sp who="#der hausherr">
+      <ns0:sp who="#der-hausherr">
         <ns0:speaker>DER HAUSHERR</ns0:speaker>
-        <ns0:p><ns0:stage>(in einem strengen Ton)</ns0:stage></ns0:p>
-      </ns0:sp>
-      <ns0:sp who="#karl, wo bist du? lass mich nicht warten">
-        <ns0:speaker>KARL, wo bist du? Lass mich nicht warten!</ns0:speaker>
+        <ns0:stage>(in einem strengen Ton)</ns0:stage>
+        <p>KARL, wo bist du? Lass mich nicht warten!</p>
         <ns0:p />
       </ns0:sp>
       <ns0:sp who="#karl">
         <ns0:speaker>KARL</ns0:speaker>
         <ns0:p><ns0:stage>(mit einem zögerlichen Ton)</ns0:stage>    Verzeih mir, Vater. Ich bin hier.</ns0:p>
       </ns0:sp>
-      <ns0:sp who="#der hausherr">
+      <ns0:sp who="#der-hausherr">
         <ns0:speaker>DER HAUSHERR</ns0:speaker>
         <ns0:p><ns0:stage>(missmutig)</ns0:stage>    Komm näher, mein Sohn. Schau mich an!</ns0:p>
       </ns0:sp>
@@ -99,7 +89,7 @@
         <ns0:speaker>KARL</ns0:speaker>
         <ns0:p><ns0:stage>(ängstlich)</ns0:stage>    Vater, ich bin hier wie du wolltest. Was möchtest du von mir?</ns0:p>
       </ns0:sp>
-      <ns0:sp who="#der hausherr">
+      <ns0:sp who="#der-hausherr">
         <ns0:speaker>DER HAUSHERR</ns0:speaker>
         <ns0:p><ns0:stage>(ernst)</ns0:stage>    Siehst du das Zimmer um dich herum, Karl? Es spiegelt das Dunkle in mir wider. Das Dunkle, das mir jede Nacht den Schlaf raubt.</ns0:p>
       </ns0:sp>
@@ -107,7 +97,7 @@
         <ns0:speaker>KARL</ns0:speaker>
         <ns0:p><ns0:stage>(verwirrt)</ns0:stage>    Was meinst du, Vater? Was hast du getan?</ns0:p>
       </ns0:sp>
-      <ns0:sp who="#der hausherr">
+      <ns0:sp who="#der-hausherr">
         <ns0:speaker>DER HAUSHERR</ns0:speaker>
         <ns0:p><ns0:stage>(verbittert)</ns0:stage>    Ich habe viele Fehler gemacht, Karl. Aber der schlimmste von allen war meine Sucht nach Macht und Reichtum. Ich trug das Gewand des Erfolgs, doch meine Seele verdarb dabei in Finsternis.</ns0:p>
       </ns0:sp>
@@ -115,7 +105,7 @@
         <ns0:speaker>KARL</ns0:speaker>
         <ns0:p><ns0:stage>(ängstlich)</ns0:stage>    Vater, was kannst du tun, um dich zu ändern? Wie kann ich dir helfen?</ns0:p>
       </ns0:sp>
-      <ns0:sp who="#der hausherr">
+      <ns0:sp who="#der-hausherr">
         <ns0:speaker>DER HAUSHERR</ns0:speaker>
         <ns0:p><ns0:stage>(blickt in die Ferne)</ns0:stage>    In meinem Einsamkeit wird mir immer klarer, wie wenig diese Güter wirklich bedeuten, Karl. Ein wahres Glück lässt sich nicht in Reichtum finden. Es muss in meinen letzten Tagen eine echte Erleuchtung geben.</ns0:p>
       </ns0:sp>
@@ -123,7 +113,7 @@
         <ns0:speaker>KARL</ns0:speaker>
         <ns0:p><ns0:stage>(violett vor Grübelei)</ns0:stage>    Vater, ich verstehe. Eine Erleuchtung. Eine Offenbarung, mit der du das Dunkle in dir vertreiben kannst.</ns0:p>
       </ns0:sp>
-      <ns0:sp who="#der hausherr">
+      <ns0:sp who="#der-hausherr">
         <ns0:speaker>DER HAUSHERR</ns0:speaker>
         <ns0:p><ns0:stage>(langsam nickend)</ns0:stage>    Ja, genau das ist es, Karl. Ich möchte, dass du das fehlende Licht für mich findest. Reise in die Ferne oder in den Spiegel meiner eigenen Vergangenheit, aber finde die Quelle des Lichts, die meine Seele reinigt. Bitte, bringe mir die Gewissheit, dass ich Frieden in meinem Herzen finden kann.</ns0:p>
       </ns0:sp>
@@ -131,15 +121,16 @@
         <ns0:speaker>KARL</ns0:speaker>
         <ns0:p><ns0:stage>(entschlossen)</ns0:stage>    Ich werde mein Bestes tun, Vater. Ich werde die Welt durchqueren, um dieses Licht zu finden und es zu dir zurückzubringen.</ns0:p>
       </ns0:sp>
-      <ns0:sp who="#der hausherr">
+      <ns0:sp who="#der-hausherr">
         <ns0:speaker>DER HAUSHERR</ns0:speaker>
         <ns0:p><ns0:stage>(beruhigend)</ns0:stage>    Ich habe Vertrauen in dich, Karl. Meine Zeit hier auf Erden ist begrenzt, also beeile dich. Mach dich auf die Reise, finde, was auch immer es sein mag, und kehre zu mir zurück.</ns0:p>
       </ns0:sp>
       <ns0:stage>(KARL verneigt sich vor seinem Vater und verlässt das Zimmer.)</ns0:stage>
-      <ns0:sp who="#der hausherr">
+      <ns0:sp who="#der-hausherr">
         <ns0:speaker>DER HAUSHERR</ns0:speaker>
         <ns0:p>    (sich leise(</ns0:p>
       </ns0:sp>
+      </ns0:div>
       <ns0:div type="scene">
         <ns0:head>Akt II: Eine einsame Waldlichtung im Morgengrauen. Der Nebel liegt schwer auf dem Boden. KARL, der Reisende, ist erschöpft und findet endlich einen schmalen Pfad. Er folgt ihm und stolpert über eine kleine Hütte, die halb verfallen ist.)</ns0:head>
         <ns0:sp who="#karl">
@@ -189,7 +180,7 @@
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>Akt III: Ein prächtiger Raum in einem Anwesen. Es herrscht eine feierliche Atmosphäre. DER HAUSHERR steht nervös in der Mitte des Raumes, während KARL in Begleitung einer geheimnisvollen Figur, DER WEISE, eintritt.)</ns0:head>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
           <ns0:p><ns0:stage>(erleichtert)</ns0:stage>    Endlich bist du zurück, mein Sohn! Was hast du gefunden? Kannst du mir das Licht bringen?</ns0:p>
         </ns0:sp>
@@ -198,20 +189,17 @@
           <ns0:p><ns0:stage>(bestimmt)</ns0:stage>    Vater, ich habe die Reise angetreten, um das Licht zu finden, das deine Seele reinigen soll. Unterwegs traf ich auf DER WEISE, den Hüter des Wissens und der Erleuchtung.</ns0:p>
         </ns0:sp>
         <ns0:stage>(DER HAUSHERR blickt neugierig auf DER WEISE.)</ns0:stage>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
-          <ns0:p><ns0:stage>(mit ehrfürchtiger Stimme)</ns0:stage></ns0:p>
+          <ns0:stage>(mit ehrfürchtiger Stimme)</ns0:stage>
+          <ns0:p>DER WEISE? Und welchen Rat hat er für uns?</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#der weise? und welchen rat hat er für uns?">
-          <ns0:speaker>DER WEISE? Und welchen Rat hat er für uns?</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#der weise">
+        <ns0:sp who="#der-weise">
           <ns0:speaker>DER WEISE</ns0:speaker>
           <ns0:p><ns0:stage>(mit leiser Stimme)</ns0:stage>    Mein Rat an dich, Hausherr, ist einfach, aber von großer Bedeutung. Das Licht, nachdem du strebst, liegt nicht in den Händen anderer. Es kann nur von innen kommen, wenn du bereit bist, dich selbst zu betrachten und Vergebung zu erflehen.</ns0:p>
         </ns0:sp>
         <ns0:stage>(DER HAUSHERR senkt den Blick und faltet die Hände.)</ns0:stage>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
           <ns0:p><ns0:stage>(leise)</ns0:stage>    Ja, ich erkenne nun meine Fehler und Sünden. Ich habe mich geblendet von äußerem Reichtum und Macht. Ich habe die wahren Werte übersehen.</ns0:p>
         </ns0:sp>
@@ -221,13 +209,13 @@
           <ns0:p><ns0:stage>(sanft)</ns0:stage>    Vater, es ist nie zu spät, umzukehren und nach innen zu schauen. Wenn du dich selbst vergibst und ein besseres Leben anstrebst, wirst du das Licht der Erkenntnis finden.</ns0:p>
         </ns0:sp>
         <ns0:stage>(DER HAUSHERR senkt den Kopf und beginnt zu weinen. KARL und DER WEISE stehen ihm ruhig bei.)</ns0:stage>
-        <ns0:sp who="#der weise">
+        <ns0:sp who="#der-weise">
           <ns0:speaker>DER WEISE</ns0:speaker>
           <ns0:p><ns0:stage>(mitfühlend)</ns0:stage>    Erlaube dir, zu weinen, Hausherr. Weine all den Schmerz heraus, den du in all den Jahren aufgestaut hast. Es ist ein erster Schritt in Richtung Heilung und Erlösung.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Der Raum erfüllt sich mit emotionaler Intensität, während DER HAUSHERR seine Tränen unkontrolliert vergießt.)</ns0:stage>
         <ns0:stage>(Als DER HAUSHERR sich langsam beruhigt, blickt er voller Demut zu KARL und DER WEISE auf.)</ns0:stage>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
           <ns0:p><ns0:stage>(dankbar)</ns0:stage>    Mein Sohn, DER WEISE. Ihr habt mir das kostbarste Gut gegeben - die Möglichkeit, mein Herz zu reinigen und mir selbst zu vergeben. Ich danke euch von ganzem Herzen.</ns0:p>
         </ns0:sp>
@@ -236,7 +224,7 @@
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>Akt IV: Im Innenhof des Hauses. Es herrscht eine fröhliche Atmosphäre. DER HAUSHERR und KARL stehen in der Mitte des Innenhofs, während BEDCHEN, DER JUNGE DIENER, eintritt.)</ns0:head>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
           <ns0:p><ns0:stage>(strahlend)</ns0:stage>    Mein Herz ist nun erleichtert, mein Sohn. Ich habe Frieden gefunden und die Dunkelheit vertrieben.</ns0:p>
         </ns0:sp>
@@ -248,7 +236,7 @@
           <ns0:speaker>BEDCHEN</ns0:speaker>
           <ns0:p><ns0:stage>(verwirrt)</ns0:stage>    Guten Tag, Herr. Warum herrscht solch freudige Stimmung?</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
           <ns0:p><ns0:stage>(freudig)</ns0:stage>    Bedchen, mein treuer Diener, es ist an der Zeit, alte Wunden zu heilen. Mein Sohn hat eine Erleuchtung erfahren und mir den Weg gezeigt, wie ich mein eigenes Licht finden kann.</ns0:p>
         </ns0:sp>
@@ -257,20 +245,17 @@
           <ns0:p><ns0:stage>(erfreut)</ns0:stage>    Das ist wunderbar, Herr! Ich freue mich, dass Sie endlich Frieden gefunden haben.</ns0:p>
         </ns0:sp>
         <ns0:stage>(ALLE begeben sich auf den Weg durch den Innenhof. Menschen aus der Umgebung kommen hinzu, um die Freude des Hausherrn an diesem besonderen Tag zu teilen.)</ns0:stage>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
           <ns0:p><ns0:stage>(ermutigend)</ns0:stage>    Lasst uns gemeinsam feiern! Feiern wir die Reinigung des Herzens und die Möglichkeit, sich zu ändern. Möge dieses Haus wieder zu einem Ort der Liebe und der Gemeinschaft werden.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Die Menge jubelt und klatscht. ALLE beginnen zu tanzen und zu singen.)</ns0:stage>
         <ns0:stage>(Das Licht der Sonne durchströmt den Innenhof, während das Lachen und die Freude den Raum erfüllen.)</ns0:stage>
-        <ns0:sp who="#ende(">
-          <ns0:speaker>ENDE(</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
+        <ns0:stage>ENDE</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>Akt V: Der Garten des Hauses. Ein idyllischer Ort mit üppiger Natur und blühenden Blumen. KARL und DER HAUSHERR sitzen auf einer Bank, während VÖGEL in der Ferne zwitschern.)</ns0:head>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
           <ns0:p><ns0:stage>(nachdenklich)</ns0:stage>    Mein lieber Sohn, wie kann ich dir je genug danken für das Licht, das du in mein Leben gebracht hast?</ns0:p>
         </ns0:sp>
@@ -278,7 +263,7 @@
           <ns0:speaker>KARL</ns0:speaker>
           <ns0:p><ns0:stage>(bescheiden)</ns0:stage>    Vater, es war deine Bereitschaft zur Veränderung, die den Unterschied gemacht hat. Du hast dein Herz geöffnet und das Licht selbst gefunden.</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
           <ns0:p><ns0:stage>(seufzt)</ns0:stage>    Es war eine lange Reise, mein Sohn. Aber das Wichtigste ist, dass ich meinen Frieden gefunden habe und mein Leben neu gestalten kann.</ns0:p>
         </ns0:sp>
@@ -287,7 +272,7 @@
           <ns0:p><ns0:stage>(sanft)</ns0:stage>    Das freut mich zu hören, Vater. Und weißt du, was das Schönste ist? Nicht nur du hast Veränderung erfahren, sondern auch ich. Ich bin als dein Sohn gewachsen und habe gelernt, wie wichtig Liebe und Vergebung sind.</ns0:p>
         </ns0:sp>
         <ns0:stage>(DER HAUSHERR legt eine Hand auf die des KARL.)</ns0:stage>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
           <ns0:p><ns0:stage>(dankbar)</ns0:stage>    Du hast die Bürde der Vergangenheit aufgenommen und mir geholfen, sie zu tragen. Ich bin stolz auf dich, mein Sohn.</ns0:p>
         </ns0:sp>
@@ -296,15 +281,13 @@
           <ns0:speaker>KARL</ns0:speaker>
           <ns0:p><ns0:stage>(leise)</ns0:stage>    Vater, ich habe eine Bitte an dich. Lass uns gemeinsam, als Familie, nach vorne schauen und das Licht der Liebe in unsere Herzen lassen. Lasst uns die Vergangenheit hinter uns lassen und ein neues Kapitel beginnen.</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#der hausherr">
+        <ns0:sp who="#der-hausherr">
           <ns0:speaker>DER HAUSHERR</ns0:speaker>
           <ns0:p><ns0:stage>(bewegt)</ns0:stage>    Ja, mein Sohn. Du hast so recht. Lasst uns gemeinsam das Licht in unserem Haus erstrahlen lassen, allen zeigen, dass wir ein Ort der Vergebung und des Miteinanders sind.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Obskur beginnt ein wunderschönes Orchester im Hintergrund zu spielen. DER HAUSHERR und KARL stehen von der Bank auf und umarmen sich.)</ns0:stage>
         <ns0:stage>(Die Szene wird von der Freude des Moments erfüllt, während sich die Vorhänge langsam schließen.)</ns0:stage>
-        <ns0:sp>
-          <ns0:speaker>ENDE</ns0:speaker>
-        </ns0:sp>
+        <ns0:stage>ENDE</ns0:stage>
       </ns0:div>
     </ns0:body>
   </ns0:text>

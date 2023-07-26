@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0" xml:id="ai000001" xml:lang="fre">
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0" xml:id="" xml:lang="">
   <ns0:teiHeader>
     <ns0:fileDesc>
       <ns0:titleStmt>
@@ -28,25 +28,25 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="paul">
+          <ns0:person xml:id="paul" sex="M">
             <ns0:persName>PAUL</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="madame-legrand">
+          <ns0:person xml:id="madame-legrand" sex="F">
             <ns0:persName>MADAME LEGRAND</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="videolette">
+          <ns0:person xml:id="videolette" sex="F">
             <ns0:persName>VIDEOLETTE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="sonia">
+          <ns0:person xml:id="sonia" sex="F">
             <ns0:persName>SONIA</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="leon">
+          <ns0:person xml:id="leon" sex="M">
             <ns0:persName>LEON</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="melanie">
+          <ns0:person xml:id="melanie" sex="F">
             <ns0:persName>MELANIE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="monsieur-legrand">
+          <ns0:person xml:id="monsieur-legrand" sex="M">
             <ns0:persName>MONSIEUR LEGRAND</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

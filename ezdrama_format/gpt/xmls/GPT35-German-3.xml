@@ -26,22 +26,19 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="herr karl">
+          <ns0:person xml:id="herr-karl" sex="M">
             <ns0:persName>HERR KARL</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="johann">
+          <ns0:person xml:id="johann" sex="M">
             <ns0:persName>JOHANN</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="ende">
-            <ns0:persName>ENDE</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="dieter">
+          <ns0:person xml:id="dieter" sex="M">
             <ns0:persName>DIETER</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="elisabeth">
+          <ns0:person xml:id="elisabeth" sex="F">
             <ns0:persName>ELISABETH</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="beatrix">
+          <ns0:person xml:id="beatrix" sex="F">
             <ns0:persName>BEATRIX</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
@@ -108,7 +105,7 @@
         </ns0:sp>
         <ns0:stage>(Ignoriert Dieter und geht durch den Raum, während sie in den Schmuckstücken schwelgt)</ns0:stage>
         <ns0:stage>(Die Tür wird mit Schwung geöffnet. HERR KARL tritt ein, ein wohlhabender aber mysteriöser Herr, gekleidet in einem teuren Anzug. Er betrachtet den Raum neugierig.)</ns0:stage>
-        <ns0:sp who="#herr karl">
+        <ns0:sp who="#herr-karl">
           <ns0:speaker>HERR KARL</ns0:speaker>
           <ns0:p />
         </ns0:sp>
@@ -118,7 +115,7 @@
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Freundlich) Willkommen, Herr Karl. Wie konnten wir Ihnen behilflich sein?</ns0:stage>
-        <ns0:sp who="#herr karl">
+        <ns0:sp who="#herr-karl">
           <ns0:speaker>HERR KARL</ns0:speaker>
           <ns0:p />
         </ns0:sp>
@@ -128,7 +125,7 @@
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Bissig) Wie bequem für Sie, Herr Karl, dass Sie ausgerechnet hier Schutz gefunden haben. Als ob Sie es gezielt geplant hätten.</ns0:stage>
-        <ns0:sp who="#herr karl">
+        <ns0:sp who="#herr-karl">
           <ns0:speaker>HERR KARL</ns0:speaker>
           <ns0:p />
         </ns0:sp>
@@ -186,7 +183,7 @@
         </ns0:sp>
         <ns0:stage>(Entschlossen)</ns0:stage>
         <ns0:stage>(Die Tür öffnet sich wieder und HERR KARL betritt den Raum, scheinbar ahnungslos von den aufgewühlten Gemütern. Sein Blick wirkt diabolisch.)</ns0:stage>
-        <ns0:sp who="#herr karl">
+        <ns0:sp who="#herr-karl">
           <ns0:speaker>HERR KARL</ns0:speaker>
           <ns0:p>Guten Abend, meine Damen. Ich hoffe, ich bin nicht unpassend. Der Sturm draußen tobt weiter.</ns0:p>
         </ns0:sp>
@@ -196,7 +193,7 @@
           <ns0:p>Herr Karl, wir sind uns bewusst, wer Sie wirklich sind und was Sie vorhaben. Ihre falsche Maske ist gefallen.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Mit starker Stimme)</ns0:stage>
-        <ns0:sp who="#herr karl">
+        <ns0:sp who="#herr-karl">
           <ns0:speaker>HERR KARL</ns0:speaker>
           <ns0:p>Ich weiß nicht, wovon Sie sprechen, meine Dame. Ich bin kein Mann</ns0:p>
         </ns0:sp>
@@ -215,7 +212,7 @@
           <ns0:p>Sie haben gedacht, dass wir hilflos sind, dass wir Ihnen Ihre Machenschaften nicht entgegenstellen können. Aber wir sind bereit, für unser Recht zu kämpfen.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Verächtlich)</ns0:stage>
-        <ns0:sp who="#herr karl">
+        <ns0:sp who="#herr-karl">
           <ns0:speaker>HERR KARL</ns0:speaker>
           <ns0:p>Es war ein Fehler, dass der Brief in Ihre Hände gelangt ist. Doch glaubt nicht, dass ich meine Pläne wegen dieser lächerlichen Frauen ohne Weiteres aufgeben werde.</ns0:p>
         </ns0:sp>
@@ -230,7 +227,7 @@
           <ns0:p>Und wenn es sein muss, werden wir auch diese Waffe einsetzen, um uns gegen Ihre Machtansprüche zu wehren.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Zieht einen Revolver hervor)</ns0:stage>
-        <ns0:sp who="#herr karl">
+        <ns0:sp who="#herr-karl">
           <ns0:speaker>HERR KARL</ns0:speaker>
           <ns0:p>Nehmen Sie Vernunft an, meine Damen. Es muss nicht zu Gewalt kommen. Lassen Sie uns eine Einigung finden.</ns0:p>
         </ns0:sp>
@@ -245,7 +242,7 @@
           <ns0:p>Wir werden nicht zulassen, dass unsere Familienwerte von einem Betrüger wie Ihnen zerstört werden.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Bestimmt)</ns0:stage>
-        <ns0:sp who="#herr karl">
+        <ns0:sp who="#herr-karl">
           <ns0:speaker>HERR KARL</ns0:speaker>
           <ns0:p>Ihr werdet es bereuen, euch gegen mich zu stellen. Ich werde euch alles nehmen!</ns0:p>
         </ns0:sp>
@@ -261,7 +258,7 @@
           <ns0:p>Sie sollten sich schämen, sich als ein wahrer Gentleman auszugeben, während Sie all dies geplant haben.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Schimpfend)</ns0:stage>
-        <ns0:sp who="#herr karl">
+        <ns0:sp who="#herr-karl">
           <ns0:speaker>HERR KARL</ns0:speaker>
           <ns0:p>Ihr habt gewonnen. Nehmt, was euch zusteht. Aber bedenkt, dass der Ruhm und Reichtum vergänglich sind.</ns0:p>
         </ns0:sp>
@@ -308,10 +305,7 @@
         </ns0:sp>
         <ns0:stage>(Entschlossen)</ns0:stage>
         <ns0:stage>(Die Gruppe umarmt sich, während das Feuer im Kamin hell aufleuchtet. Langsam erhellt sich der Raum und der Klang von ferner Musik erfüllt die Luft.)</ns0:stage>
-        <ns0:sp who="#ende">
-          <ns0:speaker>ENDE</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
+        <ns0:stage>ENDE</ns0:stage>
         <ns0:stage>(Hinweis: Diese abschließende Szene symbolisiert den Sieg der Liebe und der Hingabe über die Intrigen und das Böse. Der Salon erstrahlt in neuem Glanz und die Charaktere sind bereit, gemeinsam eine bessere Zukunft anzustreben.)</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
@@ -375,11 +369,7 @@
         </ns0:sp>
         <ns0:stage>(Abschließend)</ns0:stage>
         <ns0:stage>(Die Gruppe erhebt ihre Teetassen in einem gemeinsamen Toast und das goldene Sonnenlicht taucht den Garten in warmes Licht.)</ns0:stage>
-        <ns0:sp who="#ende">
-          <ns0:speaker>ENDE</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(H</ns0:stage>
+        <ns0:stage>ENDE</ns0:stage>
       </ns0:div>
     </ns0:body>
   </ns0:text>

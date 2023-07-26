@@ -26,25 +26,22 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="fin de l'">
-            <ns0:persName>FIN DE L'</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="canari">
+          <ns0:person xml:id="canari" sex="UNKNOWN">
             <ns0:persName>CANARI</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="laurent">
+          <ns0:person xml:id="laurent" sex="M">
             <ns0:persName>LAURENT</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="le garçon de l'auberge">
+          <ns0:person xml:id="le-garçon-de-l-auberge" sex="M">
             <ns0:persName>LE GARÇON DE L'AUBERGE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="rose">
+          <ns0:person xml:id="rose" sex="F">
             <ns0:persName>ROSE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="le père de madeleine">
+          <ns0:person xml:id="le-père-de-madeleine" sex="M">
             <ns0:persName>LE PÈRE DE MADELEINE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="madeleine">
+          <ns0:person xml:id="madeleine" sex="F">
             <ns0:persName>MADELEINE</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
@@ -134,13 +131,7 @@
         </ns0:sp>
         <ns0:stage>(Soupirant)</ns0:stage>
         <ns0:stage>(MADELEINE regarde LAURENT, partagée entre son désir et les risques encourus pour cet amour.)</ns0:stage>
-        <ns0:sp who="#fin de l'">
-          <ns0:speaker>FIN DE L'</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ACTE I</ns0:head>
+        <ns0:stage>FIN DE L'ACTE I</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>ACTE II</ns0:head>
@@ -188,13 +179,7 @@
         </ns0:sp>
         <ns0:stage>(Chirpant doucement)</ns0:stage>
         <ns0:stage>(MADELEINE et ROSE se regardent, leurs visages exprimant un mélange de peur et de résolution.)</ns0:stage>
-        <ns0:sp who="#fin de l'">
-          <ns0:speaker>FIN DE L'</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ACTE II</ns0:head>
+        <ns0:stage>fin de l'ACTE II</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>ACTE III</ns0:head>
@@ -242,13 +227,7 @@
         </ns0:sp>
         <ns0:stage>(Les yeux embués de larmes)</ns0:stage>
         <ns0:stage>(MADELEINE quitte la chambre, laissant ROSE seule dans sa tristesse. Le rideau tombe lentement sur cette scène chargée d'émotion.)</ns0:stage>
-        <ns0:sp who="#fin de l'">
-          <ns0:speaker>FIN DE L'</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ACTE III</ns0:head>
+        <ns0:stage>FIN DE L'ACTE III</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>ACTE IV</ns0:head>
@@ -262,7 +241,7 @@
           <ns0:p>Pardonnez-moi, avez-vous vu une jeune femme, vêtue d'une cape, entrer ici ? Elle répond au nom de Madeleine.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Au GARÇON DE L'AUBERGE)</ns0:stage>
-        <ns0:sp who="#le garçon de l'auberge">
+        <ns0:sp who="#le-garçon-de-l-auberge">
           <ns0:speaker>LE GARÇON DE L'AUBERGE</ns0:speaker>
           <ns0:p>Ah oui, en effet, une jeune femme correspondant à cette description est arrivée il y a quelques instants. Elle est accompagnée d'un homme et tous deux se sont dirigés vers la chambre numéro 7.</ns0:p>
         </ns0:sp>
@@ -273,7 +252,7 @@
         </ns0:sp>
         <ns0:stage>(Paniquée)</ns0:stage>
         <ns0:stage>(LE GARÇON DE L'AUBERGE pointe du doigt en direction d'un couloir sombre.)</ns0:stage>
-        <ns0:sp who="#le garçon de l'auberge">
+        <ns0:sp who="#le-garçon-de-l-auberge">
           <ns0:speaker>LE GARÇON DE L'AUBERGE</ns0:speaker>
           <ns0:p>Prenez ce couloir, puis tournez à droite et vous la trouverez à l'extrémité.</ns0:p>
         </ns0:sp>
@@ -320,13 +299,7 @@
         </ns0:sp>
         <ns0:stage>(Luttant contre ses larmes)</ns0:stage>
         <ns0:stage>(ROSE regarde MADELEINE avec tristesse, la réalité de son choix insupportable.)</ns0:stage>
-        <ns0:sp who="#fin de l'">
-          <ns0:speaker>FIN DE L'</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ACTE IV</ns0:head>
+        <ns0:stage>FIN DE L'ACTE IV</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>ACTE V</ns0:head>
@@ -361,7 +334,7 @@
       <ns0:div type="scene">
         <ns0:head>SCÈNE II)</ns0:head>
         <ns0:stage>(LE PÈRE DE MADELEINE entre solennellement dans le salon. Il est un homme d'âge mûr, l'expression sévère.)</ns0:stage>
-        <ns0:sp who="#le père de madeleine">
+        <ns0:sp who="#le-père-de-madeleine">
           <ns0:speaker>LE PÈRE DE MADELEINE</ns0:speaker>
           <ns0:p>Madeleine, que signifie cette lettre que j'ai reçue ? Est-il vrai que tu as fui avec cet homme, contre ma volonté ?</ns0:p>
         </ns0:sp>
@@ -372,7 +345,7 @@
           <ns0:p>Père, je vous demande de comprendre. L'amour que je porte à Laurent est sincère et profond. Nous nous sommes unis dans cet amour et je ne peux plus vivre sans lui.</ns0:p>
         </ns0:sp>
         <ns0:stage>(D'un ton ferme)</ns0:stage>
-        <ns0:sp who="#le père de madeleine">
+        <ns0:sp who="#le-père-de-madeleine">
           <ns0:speaker>LE PÈRE DE MADELEINE</ns0:speaker>
           <ns0:p>Comment as-tu pu trahir notre nom, notre famille ? Je ne peux accepter cet homme, Madeleine. Tu dois prendre conscience des conséquences de tes actes.</ns0:p>
         </ns0:sp>
@@ -382,7 +355,7 @@
           <ns0:p>Père, je sais que vous ne pouvez accepter notre union, mais je suis prête à tout pour cet amour. Je suis prête à me défaire de tout, à tout abandonner, pour être avec lui.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Les larmes aux yeux)</ns0:stage>
-        <ns0:sp who="#le père de madeleine">
+        <ns0:sp who="#le-père-de-madeleine">
           <ns0:speaker>LE PÈRE DE MADELEINE</ns0:speaker>
           <ns0:p>Madeleine, je crains que tu ne réalises pas la gravité de tes choix. Mais je suis ton père, et même si je désapprouve cette union, je veux ton bonheur. </ns0:p>
         </ns0:sp>
@@ -392,10 +365,8 @@
       <ns0:div type="scene">
         <ns0:head>SCÈNE III)</ns0:head>
         <ns0:stage>(LE PÈRE DE MADELEINE, le visage marqué par la peine, tend les bras vers MADELEINE, qui s'y précipite pour être consolée.)</ns0:stage>
-        <ns0:sp>
-          <ns0:speaker>FIN DE L</ns0:speaker>
-        </ns0:sp>
+        <ns0:stage>FIN DE L</ns0:stage>        
       </ns0:div>
     </ns0:body>
   </ns0:text>
-<fileDesc><titleStmt><title>GPT35-French-5</title></titleStmt></fileDesc></ns0:TEI>
+</ns0:TEI>

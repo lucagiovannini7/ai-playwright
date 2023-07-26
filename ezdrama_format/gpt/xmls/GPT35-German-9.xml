@@ -26,19 +26,19 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="die gestalt">
+          <ns0:person xml:id="die-gestalt" sex="UNKNOWN">
             <ns0:persName>DIE GESTALT</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="frau müller">
+          <ns0:person xml:id="frau-müller" sex="F">
             <ns0:persName>FRAU MÜLLER</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="der unbekannte">
+          <ns0:person xml:id="der-unbekannte" sex="UNKNOWN">
             <ns0:persName>DER UNBEKANNTE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="herr schmidt">
+          <ns0:person xml:id="herr-schmidt" sex="M">
             <ns0:persName>HERR SCHMIDT</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="hans">
+          <ns0:person xml:id="hans" sex="M">
             <ns0:persName>HANS</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
@@ -67,72 +67,73 @@
     </ns0:listRelation>
   </ns0:standOff>
   <ns0:text>
-    <ns0:body>[The stage is set with a cozy living room, adorned with plush furniture and dim lighting. A fireplace crackles softly in the background. A gust of wind can be heard outside, followed by a knock on the door. Enter HERR SCHMIDT, a middle-aged man dressed in formal attire, and FRAU MÜLLER, an elegant woman in her early forties. They exchange courteous smiles.]<ns0:sp who="#herr schmidt">
+    <ns0:body>[The stage is set with a cozy living room, adorned with plush furniture and dim lighting. A fireplace crackles softly in the background. A gust of wind can be heard outside, followed by a knock on the door. Enter HERR SCHMIDT, a middle-aged man dressed in formal attire, and FRAU MÜLLER, an elegant woman in her early forties. They exchange courteous smiles.]
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Willkommen, Frau Müller. Bitte treten Sie ein.</ns0:p>
       </ns0:sp>
       <ns0:stage>(Gently opening the door)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Danke, Herr Schmidt. Ihre Gastfreundschaft ist immer bemerkenswert.[They make their way to the comfortable seating area.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Dipping her head slightly)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Wie kann ich Ihnen behilflich sein, Frau Müller?</ns0:p>
       </ns0:sp>
       <ns0:stage>(Neutrally)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Herr Schmidt, mein Mann und ich sind tief besorgt. Unser Sohn, HANS, ist seit Tagen verschwunden. Wir verstehen nicht, was passiert ist.</ns0:p>
       </ns0:sp>
       <ns0:stage>(Anxiously)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Das ist sicherlich eine besorgniserregende Situation, Frau Müller. Wir werden unser Bestes tun, um den Fall zu klären. Erzählen Sie mir mehr über die Umstände.</ns0:p>
       </ns0:sp>
       <ns0:stage>(Empathetically)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Nun, Herr Schmidt, es begann vor einer Woche. Hans war ausgelassen wie immer, als er den Brief eines unbekannten Verwandten erhielt. Seitdem ist er verschwunden, ohne eine einzige Nachricht zu hinterlassen.</ns0:p>
       </ns0:sp>
       <ns0:stage>(Mit Traurigkeit in der Stimme)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Ein rätselhaftes Szenario, das ich zustimme. Haben Sie eine Ahnung, wer dieser unbekannte Verwandte sein könnte?</ns0:p>
       </ns0:sp>
       <ns0:stage>(Bekümmert)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Ich fürchte nicht. Mein Mann und ich durchsuchten alle möglichen Pflichten Stammbücher und stellten viele Fragen, aber die Antworten blieben verblasst.[Herr Schmidt rubs his chin in deep thought.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Mit Verwirrung)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Die Dunkelheit, in der wir uns befinden, macht es schwierig, ein klares Bild zu zeichnen. Aber ich werde mein Netzwerk nutzen, um Informationen zu Hans zu sammeln. Sie müssen geduldig sein, Frau Müller.</ns0:p>
       </ns0:sp>
       <ns0:stage>(Murmelnd)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Aber bitte, Herr Schmidt! Jede Minute, die vergeht, wächst unsere Sorge.</ns0:p>
       </ns0:sp>
       <ns0:stage>(Ängstlich)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Ich verstehe Ihre Besorgnis, Frau Müller. Ich werde umgehend handeln und an der Lösung des Rätsels arbeiten. Seien Sie versichert, dass wir alles in unserer Macht Stehende tun werden.</ns0:p>
       </ns0:sp>
       <ns0:stage>(Beruhigend)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Sie haben unser Vertrauen, Herr Schmidt. Wir hoffen auf eine positive Wendung, ohne Verluste.[They stand up, exchange a silent nod, and Frau Müller exits. Herr Schmidt remains onstage, deep in thought.][The stage is set to represent an eerie forest, with a thin layer of fog swirling around the trees. The sound of leaves rustling and a distant wolf howl fills the air. Enter HERR SCHMIDT, dressed in a long coat, holding a lantern. He cautiously scans the surroundings.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Dankend)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Hans! Hans! Wo bist du?[No response is heard. Herr Schmidt continues to search, his lantern casting eerie shadows.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Ruft mit gedämpfter Stimme)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Hans! Es wird dunkel, wir müssen zurückkehren.[Just as he's about to turn back, a figure emerges from the shadows. It is HANS, disheveled and exhausted.]</ns0:p>
       </ns0:sp>
@@ -142,7 +143,7 @@
         <ns0:p>Vater...[Herr Schmidt dashes towards Hans, embracing him tightly.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Keuchend und tonlos)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Mein Junge, endlich hast du den Weg nach Hause gefunden. Wie konntest du uns so besorgt lassen?[Hans looks at Herr Schmidt with hollow eyes.]</ns0:p>
       </ns0:sp>
@@ -152,32 +153,32 @@
         <ns0:p>Vater, ich bin in die Fänge eines gefährlichen Geheimnisses geraten. Ein mächtiger Unbekannter namens</ns0:p>
       </ns0:sp>
       <ns0:stage>(Schwach)</ns0:stage>
-      <ns0:sp who="#der unbekannte">
+      <ns0:sp who="#der-unbekannte">
         <ns0:speaker>DER UNBEKANNTE</ns0:speaker>
         <ns0:p>Hans... Hast du wirklich gedacht, dass du mir entkommen kannst?[Herr Schmidt's eyes widen in horror. The voice, menacing and full of hidden intentions, echoes through the forest.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Stimme aus dem Off)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Zeige dich! Welches Unheil hast du meinem Sohn zugemutet?[Herr Schmidt's fists clench, ready to defend his son.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Wütend)</ns0:stage>
-      <ns0:sp who="#der unbekannte">
+      <ns0:sp who="#der-unbekannte">
         <ns0:speaker>DER UNBEKANNTE</ns0:speaker>
         <ns0:p>Oh, Herr Schmidt. Wenn nur Ihr Sohn wüsste, welche schrecklichen Wahrheiten er ist Draußen in der Welt enthüllt hat. Aber keine Sorge, er wird bald alles verstehen.[Herr Schmidt takes a protective stance in front of Hans.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Lacht gehässig aus der Ferne)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Wer auch immer du sein magst, kämpfe nicht mit mir. Steh uns nicht im Weg!</ns0:p>
       </ns0:sp>
       <ns0:stage>(Dunkel)</ns0:stage>
-      <ns0:sp who="#der unbekannte">
+      <ns0:sp who="#der-unbekannte">
         <ns0:speaker>DER UNBEKANNTE</ns0:speaker>
         <ns0:p>Ah, Herr Schmidt, wann wirst du endlich verstehen, dass du nichts gegen mich ausrichten kannst? Dein Zeitalter geht zu Ende. Aber keine Sorge, ich bin nicht hier, um dich herauszufordern. Nein, ich bin hier, um dich vor eine Wahl zu stellen. Denk gut nach, Herr Schmidt, denn sie wird nicht nur dein eigenes Schicksal bestimmen.[Herr Schmidt's face contorts with confusion and anger.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Selbstbewusst)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Was willst du von mir?[Hans, weakened by his ordeal, clings to Herr Schmidt for support.]</ns0:p>
       </ns0:sp>
@@ -187,132 +188,132 @@
         <ns0:p>Vater... Ich... ich verzweifle...[Herr Schmidt, torn between his duty as a protector and the burden of the choice presented, struggles internally.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Erstickt)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Wer auch immer du bist, ich werde nicht weichen. Ich werde dahinter[The stage is set in the study of HERR SCHMIDT's house. Dimly lit, with a large bookshelf filled with dusty volumes. The sound of a grandfather clock ticking fills the air. HERR SCHMIDT sits at his desk, deeply engrossed in his thoughts. Enter FRAU MÜLLER, a concerned expression etched on her face.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Entschlossen)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Herr Schmidt, haben Sie etwas über unseren Sohn herausgefunden? Die Tage vergehen, und wir bleiben immer noch im Dunkeln.[Herr Schmidt looks up, his face reflecting exhaustion and frustration.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Besorgt)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Leider nicht, Frau Müller. Das Geheimnis, das Hans umgibt, wird immer dichter. Der Unbekannte scheint überall Schatten zu werfen.[Frau Müller lets out a sigh, torn between despair and hope.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Gespannt)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Ich verstehe nicht, warum jemand unserem Sohn solche Qualen zufügen würde. Was haben wir falsch gemacht?[Herr Schmidt rises from his desk and walks over to Frau Müller, taking her hands in his.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Leise)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Das ist nicht deine Schuld, mein Liebling. Der Unbekannte hat sein eigenes Netz aus Intrigen und Geheimnissen gewebt. Wir müssen stark bleiben und zusammen durch dieses Labyrinth aus Dunkelheit gehen.[Frau Müller nods, her eyes welling up with tears.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Zärtlich)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Aber wie, Herr Schmidt? Hans ist immer noch in Gefahr, und es fühlt sich an, als ob wir keine Möglichkeit haben, ihm zu helfen.[Herr Schmidt's face hardens with determination.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Schluchzend)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Wir können das Unbekannte nicht länger bekämpfen, indem wir im Dunkeln tappen. Wir müssen Licht in diese Dunkelheit bringen. Ich werde intensive Nachforschungen anstellen, um die Wahrheit freizulegen.[Frau Müller leans on Herr Schmidt for support, finding solace in his resolve.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Entschlossen)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Du bist immer unser Fels in stürmischer See, Herr Schmidt. Dein Mut und deine Entschlossenheit werden uns dabei helfen, Hans zu retten.[Herr Schmidt's determination shines through his tired eyes.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Sanft)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Niemals werde ich aufgeben, meine Liebe. Hans wird nicht in den Händen des Unbekannten bleiben. Wir werden ihn finden und die Wahrheit ans Licht bringen.[Frau Müller holds on tightly to Herr Schmidt's arm, finding strength in their unity.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Kraftvoll)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Gemeinsam werden wir diese Dunkelheit durchdringen und unseren Sohn zurückholen. Hans verdient es, dass wir für ihn kämpfen.[They share a determined look, ready to face the challenges ahead. The room falls into silence, with only the sound of the ticking clock echoing through the study.][The stage is set in a dark and foreboding room, adorned with mysterious artifacts and flickering candlelight. A sense of suspense lingers in the air. Enter HERR SCHMIDT and FRAU MÜLLER, cautiously stepping into the room with trepidation.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Fest entschlossen)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Hier drin scheint das Herz der Dunkelheit zu schlagen. Sei wachsam, Frau Müller. Es ist ein gefährlicher Ort, den wir betreten haben.[Frau Müller hält Herr Schmidt fest, ihre Angst und Entschlossenheit spiegeln sich in ihren Augen wider.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Kniff die Augen zusammen und erkundet den Raum)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Herr Schmidt, ich fürchte mich, aber ich bin bereit, bis zum Ende zu gehen, um unseren Sohn zu retten.[Herr Schmidt nickt und führt Frau Müller weiter durch den Raum. Plötzlich erscheint eine Gestalt aus den Schatten.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Wispert)</ns0:stage>
-      <ns0:sp who="#die gestalt">
+      <ns0:sp who="#die-gestalt">
         <ns0:speaker>DIE GESTALT</ns0:speaker>
         <ns0:p>Ah, Herr Schmidt und Frau Müller. Wie tapfer ihr seid. Ihr habt es gewagt, mein Versteck zu betreten.[Herr Schmidt und Frau Müller stellen sich schützend vor einander.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Bedrohlich)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Zeige dich, Unbekannter! Das Spiel ist vorbei! Wir werden deinem bösen Treiben ein Ende setzen.[DIE GESTALT tritt aus den Schatten. Es ist DER UNBEKANNTE, ein geheimnisvoller Mann von mittlerem Alter, der eine Aura der Gefahr um ihn herum trägt.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Mit Entschlossenheit)</ns0:stage>
-      <ns0:sp who="#der unbekannte">
+      <ns0:sp who="#der-unbekannte">
         <ns0:speaker>DER UNBEKANNTE</ns0:speaker>
         <ns0:p>Mein Mut, mein Spiel? Ihr beide habt die Regeln nie verstanden. Ich bin nicht der Feind hier, Herr Schmidt. Ich bin derjenige, der Licht bringt, um die Wahrheit zu enthüllen.[Herr Schmidt sieht skeptisch auf den UNBEKANNTEN und knirscht mit den Zähnen.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Grinsend)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Wahrheit? Würdest du dich einem Kind gegenüberstellen, um deine Wahrheit zu enthüllen? Du hast unseren Sohn in den Abgrund geführt![DER UNBEKANNTE lacht höhnisch und schüttelt den Kopf.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Wütend)</ns0:stage>
-      <ns0:sp who="#der unbekannte">
+      <ns0:sp who="#der-unbekannte">
         <ns0:speaker>DER UNBEKANNTE</ns0:speaker>
         <ns0:p>Wie naiv du doch bist, Herr Schmidt. Die Wahrheit wird oft durch Dunkelheit verschleiert. Nur wer den Mut hat, diese Dunkelheit zu durchbrechen, kann erfassen, was wirklich vor sich geht.[Frau Müller, ihren Zorn kaum in Schach haltend, hebt drohend den Finger.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Erhaben)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Durchbreche die Dunkelheit? Du machst es klingen, als ob alles gerechtfertigt ist. Du hast die Freiheit unseres Sohnes genommen, seine Unschuld gestohlen. Es gibt keine Rechtfertigung dafür![Der UNBEKANNTE zieht sein Kinn hoch und betrachtet die beiden mit kühler Gelassenheit[The stage is set in the UNBEKANNTE's hidden lair, a dimly lit room with mysterious artifacts scattered around. A single candle flickers on a table. Enter HERR SCHMIDT and FRAU MÜLLER, cautiously looking around.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Mit Gleichmut)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Endlich haben wir dich gefunden, UNBEKANNTER. Es ist an der Zeit, dass du für deine Taten zur Rechenschaft gezogen wirst.</ns0:p>
       </ns0:sp>
       <ns0:stage>(Mit fester Stimme)</ns0:stage>
-      <ns0:sp who="#der unbekannte">
+      <ns0:sp who="#der-unbekannte">
         <ns0:speaker>DER UNBEKANNTE</ns0:speaker>
         <ns0:p>Ihr habt es bis hierhin geschafft, aber ihr versteht immer noch nicht das Ausmaß meiner Absichten. Steht mir nicht weiterhin im Weg, es wird nur zu eurem Unglück führen.[FRAU MÜLLER stärkt ihre Haltung und richtet ihre Worte direkt an den UNBEKANNTEN.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Leise, aber bedrohlich)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Du magst glauben, dass deine Absichten gerechtfertigt sein mögen, aber nichts rechtfertigt das Leid, das du unserem Sohn zugefügt hast. Wir werden nicht zulassen, dass du weiter Unschuldige in deinen teuflischen Plan hineinziehst.[Herr Schmidt tritt vor, seine Stimme füllt den Raum.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Mit Entschlossenheit)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Erkläre dich, UNBEKANNTER! Welches dunkle Spiel spielst du hier? Welchen Preis mussten wir und unser Sohn dafür bezahlen?[Der UNBEKANNTE sieht auf Herr Schmidt herab, seine Augen funkeln vor Überlegenheit.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Dringend)</ns0:stage>
-      <ns0:sp who="#der unbekannte">
+      <ns0:sp who="#der-unbekannte">
         <ns0:speaker>DER UNBEKANNTE</ns0:speaker>
         <ns0:p>Das Leben ist ein ewiger Kampf, Herr Schmidt. Manchmal müssen Unschuldige geopfert werden, um diejenigen zu schützen, die in der Lage sind, mit den Konsequenzen umzugehen. Euer Sohn zeigte Potenzial, in meinem Plan weiterzukommen. Doch ihr wart zu blind, dies zu erkennen.[FRAU MÜLLER stürzt vor und packt den UNBEKANNTEN am Arm.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Kalt)</ns0:stage>
-      <ns0:sp who="#frau müller">
+      <ns0:sp who="#frau-müller">
         <ns0:speaker>FRAU MÜLLER</ns0:speaker>
         <ns0:p>Du sprichst von Potenzial und Opfern, als wären Menschen nur Schachfiguren in deinem Spiel. Unser Sohn ist ein Mensch mit eigenen Träumen und Hoffnungen. Was berechtigt dich, über das Leben und die Zukunft anderer zu entscheiden?[Herr Schmidt stärkt Frau Müller und beobachtet den UNBEKANNTEN scharf.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Empört)</ns0:stage>
-      <ns0:sp who="#herr schmidt">
+      <ns0:sp who="#herr-schmidt">
         <ns0:speaker>HERR SCHMIDT</ns0:speaker>
         <ns0:p>Genug der Rätsel und der Geheimnisse! Die Zeit der Konfrontation ist gekommen. Erkläre deine Absichten oder lass uns ihn gehen.[Der UNBEKANNTE lächelt, aber seine Augen verraten eine gewisse Unsicherheit.]</ns0:p>
       </ns0:sp>
       <ns0:stage>(Wütend)</ns0:stage>
-      <ns0:sp who="#der unbekannte">
+      <ns0:sp who="#der-unbekannte">
         <ns0:speaker>DER UNBEKANNTE</ns0:speaker>
         <ns0:p>Ihr ahnt nicht, was ihr verlangt. Die Wahrheit zu erfahren, wird euer Weltbild zerbrechen. Aber wenn</ns0:p>
       </ns0:sp>

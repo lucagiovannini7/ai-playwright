@@ -26,58 +26,22 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="fin de l'">
-            <ns0:persName>FIN DE L'</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="madame de sévigné est assise sur un fauteuil, un livre entre les mains. louis entre dans la pièce, l'air sombre et préoccupé">
-            <ns0:persName>MADAME DE SÉVIGNÉ est assise sur un fauteuil, un livre entre les mains. LOUIS entre dans la pièce, l'air sombre et préoccupé</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="le chevalier">
+          <ns0:person xml:id="le-chevalier" sex="M">
             <ns0:persName>LE CHEVALIER :</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="fin de l'act">
-            <ns0:persName>FIN DE L'ACT</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="louis">
+          <ns0:person xml:id="louis" sex="M">
             <ns0:persName>LOUIS :</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="madame de sévigné : ces bijoux sont des souvenirs de famille, présageant un avenir lumineux. peut-être inciteront-ils louis à reconsidérer sa périlleuse passion">
-            <ns0:persName>MADAME DE SÉVIGNÉ : Ces bijoux sont des souvenirs de famille, présageant un avenir lumineux. Peut-être inciteront-ils Louis à reconsidérer sa périlleuse passion</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="le chevalier : soyez forte, ma sœur. la nuit est encore jeune, il y a de l'espoir">
-            <ns0:persName>LE CHEVALIER : Soyez forte, ma sœur. La nuit est encore jeune, il y a de l'espoir</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="madame de sévigné et le chevalier sont assis autour de la table, attendant l'arrivée de louis. ils semblent inquiets mais résolus">
-            <ns0:persName>MADAME DE SÉVIGNÉ et LE CHEVALIER sont assis autour de la table, attendant l'arrivée de LOUIS. Ils semblent inquiets mais résolus</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="marie">
+          <ns0:person xml:id="marie" sex="F">
             <ns0:persName>MARIE :</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="domestique">
+          <ns0:person xml:id="domestique" sex="F">
             <ns0:persName>DOMESTIQUE :</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="madame de sévigné">
+          <ns0:person xml:id="madame-de-sévigné" sex="F">
             <ns0:persName>MADAME DE SÉVIGNÉ :</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="marie : votre fils, madame? j'espère que sa situation s'améliore">
-            <ns0:persName>MARIE : Votre fils, Madame? J'espère que sa situation s'améliore</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="lucie : (la voix remplie de tendresse">
-            <ns0:persName>LUCIE : (la voix remplie de tendresse</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="le chevalier est assis à la table, écrivant une lettre. madame de sévigné se promène nerveusement dans la pièce, s'arrêtant de temps en temps pour ajuster un objet">
-            <ns0:persName>LE CHEVALIER est assis à la table, écrivant une lettre. MADAME DE SÉVIGNÉ se promène nerveusement dans la pièce, s'arrêtant de temps en temps pour ajuster un objet</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="madame de sévigné, le chevalier et plusieurs invités se tiennent devant l'arche, attendant l'arrivée de lucie">
-            <ns0:persName>MADAME DE SÉVIGNÉ, LE CHEVALIER et plusieurs INVITÉS se tiennent devant l'arche, attendant l'arrivée de LUCIE</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="domestique : pardon, madame. j'ai apporté la boîte de bijoux que vous avez demandée">
-            <ns0:persName>DOMESTIQUE : Pardon, Madame. J'ai apporté la boîte de bijoux que vous avez demandée</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="louis : j'ai réfléchi longuement à ce que vous avez dit, mère. je réalise maintenant l'impact de mes actions sur notre famille et sur le cœur de lucie. je suis prêt à faire tout ce qui est en mon pouvoir pour réparer les torts que j'ai causés">
-            <ns0:persName>LOUIS : J'ai réfléchi longuement à ce que vous avez dit, Mère. Je réalise maintenant l'impact de mes actions sur notre famille et sur le cœur de Lucie. Je suis prêt à faire tout ce qui est en mon pouvoir pour réparer les torts que j'ai causés</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="lucie">
+          <ns0:person xml:id="lucie" sex="F">
             <ns0:persName>LUCIE :</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
@@ -109,16 +73,17 @@
     <ns0:body>
       <ns0:div type="scene">
         <ns0:head>ACTE I</ns0:head>Un salon élégant et richement meublé. Des bouquets de fleurs décorent la pièce. Des meubles rococo sont disposés de manière symétrique. Une table oval, dressée avec beaucoup de raffinement, est placée au centre de la scène. Les portraits des ancêtres de MADAME DE SÉVIGNÉ sont accrochés au mur. Les lustres en cristal brillent de mille feux. Le rideau se lève, révélant MADAME DE SÉVIGNÉ assise sur une chaise, vêtue d'une robe luxueuse. MARIE, la servante, se tient à proximité. <ns0:stage>(MARIE entre timidement sur la scène, tenant un plateau avec une lettre)</ns0:stage>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(préoccupée)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#marie : votre fils, madame? j'espère que sa situation s'améliore">
-          <ns0:speaker>MARIE : Votre fils, Madame? J'espère que sa situation s'améliore.</ns0:speaker>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <p>Votre fils, Madame? J'espère que sa situation s'améliore.</p>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(soupir)</ns0:stage>
           <ns0:p />
@@ -128,7 +93,7 @@
           <ns0:stage>(étonnée)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(dramatique)</ns0:stage>
           <ns0:p />
@@ -139,23 +104,23 @@
           <ns0:stage>(se rapproche, en attrapant le plateau)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(les larmes aux yeux)</ns0:stage>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Entre LE CHEVALIER, frère de MADAME DE SÉVIGNÉ, un homme d'une soixantaine d'années, vêtu d'un costume somptueux et portant une canne en ivoire.)</ns0:stage>
-        <ns0:sp who="#le chevalier">
+        <ns0:sp who="#le-chevalier">
           <ns0:speaker>LE CHEVALIER :</ns0:speaker>
           <ns0:stage>(offensé)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(se levant précipitamment)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#le chevalier">
+        <ns0:sp who="#le-chevalier">
           <ns0:speaker>LE CHEVALIER :</ns0:speaker>
           <ns0:stage>(désapprobateur)</ns0:stage>
           <ns0:p />
@@ -163,36 +128,36 @@
         <ns0:stage>(MADAME DE SÉVIGNÉ s'effondre en larmes sur le canapé,</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
-        <ns0:head>ACTE II</ns0:head>Le même salon, quelques jours plus tard. L'atmosphère est encore chargée de tensions émotionnelles. Des servant déplacent des meubles et des objets, préparant un événement important. De grands rideaux de velours sont accrochés aux fenêtres.<ns0:sp who="#le chevalier est assis à la table, écrivant une lettre. madame de sévigné se promène nerveusement dans la pièce, s'arrêtant de temps en temps pour ajuster un objet">
-          <ns0:speaker>LE CHEVALIER est assis à la table, écrivant une lettre. MADAME DE SÉVIGNÉ se promène nerveusement dans la pièce, s'arrêtant de temps en temps pour ajuster un objet.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#le chevalier">
+        <ns0:head>ACTE II</ns0:head>
+          <stage>Le même salon, quelques jours plus tard. L'atmosphère est encore chargée de tensions émotionnelles. Des servant déplacent des meubles et des objets, préparant un événement important. De grands rideaux de velours sont accrochés aux fenêtres.</stage>
+          <ns0:stage>LE CHEVALIER est assis à la table, écrivant une lettre. MADAME DE SÉVIGNÉ se promène nerveusement dans la pièce, s'arrêtant de temps en temps pour ajuster un objet.</ns0:stage>
+        <ns0:sp who="#le-chevalier">
           <ns0:speaker>LE CHEVALIER :</ns0:speaker>
           <ns0:stage>(termine d'écrire, tendant la lettre)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(prendant la lettre, soupirant)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#le chevalier">
+        <ns0:sp who="#le-chevalier">
           <ns0:speaker>LE CHEVALIER :</ns0:speaker>
           <ns0:stage>(confiant)</ns0:stage>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Un domestique entre discrètement sur la scène, portant une boîte en velours.)</ns0:stage>
-        <ns0:sp who="#domestique : pardon, madame. j'ai apporté la boîte de bijoux que vous avez demandée">
-          <ns0:speaker>DOMESTIQUE : Pardon, Madame. J'ai apporté la boîte de bijoux que vous avez demandée.</ns0:speaker>
-          <ns0:p />
+        <ns0:sp who="#domestique">
+          <ns0:speaker>DOMESTIQUE :</ns0:speaker> 
+          <p>Pardon, Madame. J'ai apporté la boîte de bijoux que vous avez demandée.</p>
         </ns0:sp>
         <ns0:stage>(MADAME DE SÉVIGNÉ sourit tristement, ouvre la boîte et examine les bijoux avec nostalgie.)</ns0:stage>
-        <ns0:sp who="#madame de sévigné : ces bijoux sont des souvenirs de famille, présageant un avenir lumineux. peut-être inciteront-ils louis à reconsidérer sa périlleuse passion">
-          <ns0:speaker>MADAME DE SÉVIGNÉ : Ces bijoux sont des souvenirs de famille, présageant un avenir lumineux. Peut-être inciteront-ils Louis à reconsidérer sa périlleuse passion.</ns0:speaker>
+        <ns0:sp who="#madame-de-sévigné">
+          <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker> 
+          <p>Ces bijoux sont des souvenirs de famille, présageant un avenir lumineux. Peut-être inciteront-ils Louis à reconsidérer sa périlleuse passion.</p>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#le chevalier">
+        <ns0:sp who="#le-chevalier">
           <ns0:speaker>LE CHEVALIER :</ns0:speaker>
           <ns0:stage>(se lève)</ns0:stage>
           <ns0:p />
@@ -202,44 +167,36 @@
           <ns0:stage>(présente une veste, brillant)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(attrape sa robe de soirée)</ns0:stage>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Ils commencent à se préparer, se revêtant de leurs vêtements aux tissus somptueux.)</ns0:stage>
         <ns0:stage>(Pendant ce temps, un portrait de LUCIE est placé discrètement au centre du mur.)</ns0:stage>
-        <ns0:sp who="#le chevalier">
+        <ns0:sp who="#le-chevalier">
           <ns0:speaker>LE CHEVALIER :</ns0:speaker>
           <ns0:stage>(admire le portrait)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(tristement)</ns0:stage>
-          <ns0:p />
         </ns0:sp>
         <ns0:stage>(Le rideau tombe lentement sur le salon élégant, plongeant la scène dans l'obscurité.)</ns0:stage>
-        <ns0:sp who="#fin de l'">
-          <ns0:speaker>FIN DE L'</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
+        <ns0:stage>FIN DE L'ACTE II</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
-        <ns0:head>ACTE II</ns0:head>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ACTE III</ns0:head>Un jardin luxuriant et bien entretenu. Des rosiers en fleurs bordent les allées, créant une atmosphère romantique. Une table est dressée avec élégance pour un dîner en plein air. Des bougies sont placées stratégiquement, créant une lueur douce.<ns0:sp who="#madame de sévigné et le chevalier sont assis autour de la table, attendant l'arrivée de louis. ils semblent inquiets mais résolus">
-          <ns0:speaker>MADAME DE SÉVIGNÉ et LE CHEVALIER sont assis autour de la table, attendant l'arrivée de LOUIS. Ils semblent inquiets mais résolus.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:head>ACTE III</ns0:head>Un jardin luxuriant et bien entretenu. Des rosiers en fleurs bordent les allées, créant une atmosphère romantique. Une table est dressée avec élégance pour un dîner en plein air. Des bougies sont placées stratégiquement, créant une lueur douce.
+        <ns0:stage>MADAME DE SÉVIGNÉ et LE CHEVALIER sont assis autour de la table, attendant l'arrivée de LOUIS. Ils semblent inquiets mais résolus.</ns0:stage>
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(anxieuse)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#le chevalier : soyez forte, ma sœur. la nuit est encore jeune, il y a de l'espoir">
-          <ns0:speaker>LE CHEVALIER : Soyez forte, ma sœur. La nuit est encore jeune, il y a de l'espoir.</ns0:speaker>
+        <ns0:sp who="#le-chevalier">
+          <ns0:speaker>LE CHEVALIER :</ns0:speaker>
+          <p>Soyez forte, ma sœur. La nuit est encore jeune, il y a de l'espoir.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(LOUIS entre sur la scène, cerné par LUCIE, une jeune fille aux yeux vifs et à la voix agréable. Ils semblent joyeux, marchant main dans la main.)</ns0:stage>
@@ -248,7 +205,7 @@
           <ns0:stage>(avec émotion)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(émue, se lève)</ns0:stage>
           <ns0:p />
@@ -260,7 +217,7 @@
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(LUCIE regardé MADAME DE SÉVIGNÉ avec suspicion.)</ns0:stage>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(émouvante)</ns0:stage>
           <ns0:p />
@@ -270,7 +227,7 @@
           <ns0:stage>(hésitante)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(s'approche de la table, ouvre la boîte de bijoux)</ns0:stage>
           <ns0:p />
@@ -280,7 +237,7 @@
           <ns0:stage>(regardant les bijoux, émue)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(gentiment)</ns0:stage>
           <ns0:p />
@@ -291,32 +248,32 @@
           <ns0:stage>(la voix emplie de regret)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#lucie : (la voix remplie de tendresse">
-          <ns0:speaker>LUCIE : (la voix remplie de tendresse</ns0:speaker>
-          <ns0:p />
+        <ns0:sp who="#lucie">
+          <ns0:speaker>LUCIE : </ns0:speaker>
+          <stage>(la voix remplie de tendresse)</stage>
         </ns0:sp>
       </ns0:div>
       <ns0:div type="scene">
-        <ns0:head>ACTE IV</ns0:head>La scène représente un salon intime, richement décoré dans un style romantique. Des bougies sont allumées, projetant une lueur chaude et douce autour de la pièce. Des tapis moelleux et des coussins brodés parsèment le sol.<ns0:sp who="#madame de sévigné est assise sur un fauteuil, un livre entre les mains. louis entre dans la pièce, l'air sombre et préoccupé">
-          <ns0:speaker>MADAME DE SÉVIGNÉ est assise sur un fauteuil, un livre entre les mains. LOUIS entre dans la pièce, l'air sombre et préoccupé.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
+        <ns0:head>ACTE IV</ns0:head>
+        <stage>La scène représente un salon intime, richement décoré dans un style romantique. Des bougies sont allumées, projetant une lueur chaude et douce autour de la pièce. Des tapis moelleux et des coussins brodés parsèment le sol.</stage>
+          <ns0:stage>MADAME DE SÉVIGNÉ est assise sur un fauteuil, un livre entre les mains. LOUIS entre dans la pièce, l'air sombre et préoccupé.</ns0:stage>
         <ns0:sp who="#louis">
           <ns0:speaker>LOUIS :</ns0:speaker>
           <ns0:stage>(timidement)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(posant son livre, doucement)</ns0:stage>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(LOUIS s'assoit près de sa mère, l'air triste.)</ns0:stage>
-        <ns0:sp who="#louis : j'ai réfléchi longuement à ce que vous avez dit, mère. je réalise maintenant l'impact de mes actions sur notre famille et sur le cœur de lucie. je suis prêt à faire tout ce qui est en mon pouvoir pour réparer les torts que j'ai causés">
-          <ns0:speaker>LOUIS : J'ai réfléchi longuement à ce que vous avez dit, Mère. Je réalise maintenant l'impact de mes actions sur notre famille et sur le cœur de Lucie. Je suis prêt à faire tout ce qui est en mon pouvoir pour réparer les torts que j'ai causés.</ns0:speaker>
+        <ns0:sp who="#louis">
+          <ns0:speaker>LOUIS :</ns0:speaker> 
+          <p>J'ai réfléchi longuement à ce que vous avez dit, Mère. Je réalise maintenant l'impact de mes actions sur notre famille et sur le cœur de Lucie. Je suis prêt à faire tout ce qui est en mon pouvoir pour réparer les torts que j'ai causés.</p>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(doucement)</ns0:stage>
           <ns0:p />
@@ -327,7 +284,7 @@
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Un sourire léger se dessine sur le visage de MADAME DE SÉVIGNÉ.)</ns0:stage>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(étreignant LOUIS)</ns0:stage>
           <ns0:p />
@@ -345,29 +302,25 @@
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(LUCIE et LOUIS se tiennent face à face, unis dans leurs intentions.)</ns0:stage>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(le regard rempli d'amour)</ns0:stage>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Tout est empli de bonheur et d'une nouvelle espérance. Le rideau tombe lentement sur cette scène sereine et réconciliatrice.)</ns0:stage>
-        <ns0:sp who="#fin de l'act">
-          <ns0:speaker>FIN DE L'ACT</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
+        <ns0:stage>FIN DE L'ACT</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
-        <ns0:head>ACTE V</ns0:head>Un jardin romantique, illuminé par la lueur douce d'une soirée d'été. Des roses et des fleurs en abondance décorent chaque recoin du jardin. Une grande arche de fleurs est dressée au centre, prête pour une cérémonie.<ns0:sp who="#madame de sévigné, le chevalier et plusieurs invités se tiennent devant l'arche, attendant l'arrivée de lucie">
-          <ns0:speaker>MADAME DE SÉVIGNÉ, LE CHEVALIER et plusieurs INVITÉS se tiennent devant l'arche, attendant l'arrivée de LUCIE.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
+        <ns0:head>ACTE V</ns0:head>
+        <stage>Un jardin romantique, illuminé par la lueur douce d'une soirée d'été. Des roses et des fleurs en abondance décorent chaque recoin du jardin. Une grande arche de fleurs est dressée au centre, prête pour une cérémonie.</stage>
+          <ns0:stage>MADAME DE SÉVIGNÉ, LE CHEVALIER et plusieurs INVITÉS se tiennent devant l'arche, attendant l'arrivée de LUCIE.</ns0:stage>
         <ns0:stage>(LUCIE, magnifiquement vêtue, entre sur la scène, accompagnée de LOUIS.)</ns0:stage>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(émue aux larmes)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#le chevalier">
+        <ns0:sp who="#le-chevalier">
           <ns0:speaker>LE CHEVALIER :</ns0:speaker>
           <ns0:stage>(solennel)</ns0:stage>
           <ns0:p />
@@ -378,7 +331,7 @@
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(LUCIE sourit, les yeux brillants d'émotion.)</ns0:stage>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(ému)</ns0:stage>
           <ns0:p />
@@ -389,26 +342,20 @@
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(MADAME DE SÉVIGNÉ sourit, étreignant alors LOUIS et LUCIE.)</ns0:stage>
-        <ns0:sp who="#madame de sévigné">
+        <ns0:sp who="#madame-de-sévigné">
           <ns0:speaker>MADAME DE SÉVIGNÉ :</ns0:speaker>
           <ns0:stage>(émouvante)</ns0:stage>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Tous les INVITÉS applaudissent avec joie tandis que LOUIS et LUCIE échangent des regards remplis d'espoir.)</ns0:stage>
-        <ns0:sp who="#le chevalier">
+        <ns0:sp who="#le-chevalier">
           <ns0:speaker>LE CHEVALIER :</ns0:speaker>
           <ns0:stage>(levant sa coupe)</ns0:stage>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Tous les INVITÉS portent un toast, célébrant ce moment d'union et de réconciliation.)</ns0:stage>
         <ns0:stage>(Le rideau tombe doucement, laissant le jardin paisible et rempli d'amour.)</ns0:stage>
-        <ns0:sp who="#fin de l'">
-          <ns0:speaker>FIN DE L'</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ACTE V</ns0:head>
+        <ns0:stage>FIN DE L'ACTE V</ns0:stage>
       </ns0:div>
     </ns0:body>
   </ns0:text>

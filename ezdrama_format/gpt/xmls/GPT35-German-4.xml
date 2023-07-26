@@ -26,31 +26,22 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="prinz ferdinand von hohenstein">
-            <ns0:persName>PRINZ FERDINAND von Hohenstein</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="edward">
+          <ns0:person xml:id="edward" sex="M">
             <ns0:persName>EDWARD</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="prinz ferdinand steht in der mitte des raumes und begrüßt die gäste. louisa steht an seiner seite und strahlt vor glück. die atmosphäre istvorhang geht auf">
-            <ns0:persName>PRINZ FERDINAND steht in der Mitte des Raumes und begrüßt die Gäste. LOUISA steht an seiner Seite und strahlt vor Glück. Die Atmosphäre istVORHANG GEHT AUF</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="louisa">
+          <ns0:person xml:id="louisa" sex="F">
             <ns0:persName>LOUISA</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="sophie">
+          <ns0:person xml:id="sophie" sex="F">
             <ns0:persName>SOPHIE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="richard">
+          <ns0:person xml:id="richard" sex="M">
             <ns0:persName>RICHARD</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="burkhard">
+          <ns0:person xml:id="burkhard" sex="M">
             <ns0:persName>BURKHARD</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="vorhang fälltvorhang geht auf">
-            <ns0:persName>VORHANG FÄLLTVORHANG GEHT AUF</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="prinz ferdinand">
+          <ns0:person xml:id="prinz-ferdinand" sex="M">
             <ns0:persName>PRINZ FERDINAND</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
@@ -79,8 +70,11 @@
     </ns0:listRelation>
   </ns0:standOff>
   <ns0:text>
-    <ns0:body>VORHANG GEHT AUF <ns0:stage>(Szene 1: Ein eleganter Salon in einem herrschaftlichen Haus. Die Wände sind mit edlen Gemälden geschmückt. Auf der rechten Seite steht ein edler Flügel, auf der linken Seite ein mit prunkvollem Porzellan verzierter Kamin. Ein großer Kristallkronleuchter hängt von der Decke und wirft funkelndes Licht auf die Szenerie.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand von hohenstein">
+    <ns0:body>
+      <ns0:div>
+        <head>VORHANG GEHT AUF</head> 
+          <ns0:stage>(Szene 1: Ein eleganter Salon in einem herrschaftlichen Haus. Die Wände sind mit edlen Gemälden geschmückt. Auf der rechten Seite steht ein edler Flügel, auf der linken Seite ein mit prunkvollem Porzellan verzierter Kamin. Ein großer Kristallkronleuchter hängt von der Decke und wirft funkelndes Licht auf die Szenerie.)</ns0:stage>
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND von Hohenstein</ns0:speaker>
         <ns0:p>Heute Abend empfange ich die Eliten der Stadt in meinem Hause. Ein Dankeschön für ihre Unterstützung in meiner politischen Kampagne. </ns0:p>
       </ns0:sp>
@@ -91,7 +85,7 @@
         <ns0:p>Eure Hoheit, die ersten Gäste treffen bereits ein. Wie möchtet Ihr den Abend beginnen?</ns0:p>
       </ns0:sp>
       <ns0:stage>(respektvoll)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Bevor wir die Gäste begrüßen, möchte ich erst einen Moment der Ruhe, Edward.</ns0:p>
       </ns0:sp>
@@ -104,7 +98,7 @@
       </ns0:sp>
       <ns0:stage>(schwebend)</ns0:stage>
       <ns0:stage>(Prinz FERDINAND tritt aus dem Haus und bemerkt LOUISA.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Bezaubernde Louisa, wie wundervoll, Euch hier zu sehen. Ihr seid die Königin meines Herzens.</ns0:p>
       </ns0:sp>
@@ -116,18 +110,18 @@
       </ns0:sp>
       <ns0:stage>(lächelnd)</ns0:stage>
       <ns0:stage>(PRINZ FERDINAND nimmt LOUISAS Hand und küsst sie galant.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Lasst uns diesen Abend gemeinsam genießen, mein Liebling. Möge er der Beginn einer glücklichen Zukunft sein.</ns0:p>
       </ns0:sp>
       <ns0:stage>(entzückt)</ns0:stage>
       <ns0:stage>(Szene 3: Im Salon. Musik erklingt im Hintergrund. Die Gäste trudeln ein; darunter RICHARD, ein politischer Verbündeter des Prinzen, SOPHIE, eine betörende junge Dame aus gutem Haus, und BURKHARD, ein mysteriöser Fremder mit einem geheimnisvollen Lächeln.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand steht in der mitte des raumes und begrüßt die gäste. louisa steht an seiner seite und strahlt vor glück. die atmosphäre istvorhang geht auf">
-        <ns0:speaker>PRINZ FERDINAND steht in der Mitte des Raumes und begrüßt die Gäste. LOUISA steht an seiner Seite und strahlt vor Glück. Die Atmosphäre istVORHANG GEHT AUF</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
+      <ns0:stage>PRINZ FERDINAND steht in der Mitte des Raumes und begrüßt die Gäste. LOUISA steht an seiner Seite und strahlt vor Glück. Die Atmosphäre ist</ns0:stage>
+      </ns0:div>
+      <ns0:div>
+        <head>VORHANG GEHT AUF</head>
       <ns0:stage>(Szene 1: Der elegante Salon, das Fest ist auf dem Höhepunkt. Die Gäste tanzen zu einer lebhaften Walzermelodie. PRINZ FERDINAND und LOUISA stehen in der Mitte des Raumes und beobachten das Geschehen.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Der Abend ist ein voller Erfolg, meine Liebe. Die Gäste sind begeistert und wir ernten viel Lob.</ns0:p>
       </ns0:sp>
@@ -181,10 +175,13 @@
         <ns0:p>Prinz Ferdinand, schaut nur! Der Himmel färbt sich rot. Es ist ein Zeichen des Unglücks.</ns0:p>
       </ns0:sp>
       <ns0:stage>(überrascht)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
-        <ns0:p>Das ist seltsam, Louisa. Was magVORHANG GEHT AUF</ns0:p>
+        <ns0:p>Das ist seltsam, Louisa. Was mag</ns0:p>
       </ns0:sp>
+      </ns0:div>
+      <ns0:div>
+        <head>VORHANG GEHT AUF</head>
       <ns0:stage>(besorgt)</ns0:stage>
       <ns0:stage>(Szene 1: Ein düsteres Studierzimmer in einem alten Schloss. BURKHARD steht allein in der Mitte des Raumes, umgeben von Büchern und mysteriösen Gegenständen.)</ns0:stage>
       <ns0:sp who="#burkhard">
@@ -194,7 +191,7 @@
       <ns0:stage>(verzückt)</ns0:stage>
       <ns0:stage>(Er murmelt unverständliche Worte und beginnt, Zeichen auf den Boden zu zeichnen.)</ns0:stage>
       <ns0:stage>(Szene 2: Der Salon im Schloss. PRINZ FERDINAND, LOUISA, SOPHIE und RICHARD sitzen an einem großen Tisch.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Es ist seltsam. Seit dem Fest ist eine düstere Stimmung über das Land gekommen. Ein Unglück scheint bevorzustehen.</ns0:p>
       </ns0:sp>
@@ -215,7 +212,7 @@
       </ns0:sp>
       <ns0:stage>(entschlossen)</ns0:stage>
       <ns0:stage>(Szene 3: Das düstere Studierzimmer. PRINZ FERDINAND, LOUISA, SOPHIE und RICHARD betreten vorsichtig den Raum.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Burkhard, wir wissen um deine Pläne. Du wirst dich uns stellen müssen!</ns0:p>
       </ns0:sp>
@@ -228,7 +225,7 @@
       <ns0:stage>(spöttisch)</ns0:stage>
       <ns0:stage>(Eine dunkle Energie erfüllt den Raum, gefolgt von einem lauten Knall.)</ns0:stage>
       <ns0:stage>(Szene 4: Der Salon im Schloss. Ein Fluch hat den Raum erfasst. Die Wände sind mit Efeu bedeckt, ein fahles Licht scheint durch die Fenster. Die Gäste liegen regungslos am Boden.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Louisa! Richard! Sophie!</ns0:p>
       </ns0:sp>
@@ -250,12 +247,12 @@
       </ns0:sp>
       <ns0:stage>(kämpferisch)</ns0:stage>
       <ns0:stage>(Die vier Charaktere verlassen den Salon, entschlossen, Burkhard zu konfrontieren.)</ns0:stage>
-      <ns0:sp who="#vorhang fälltvorhang geht auf">
-        <ns0:speaker>VORHANG FÄLLTVORHANG GEHT AUF</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
+        <ns0:stage>VORHANG FÄLLT</ns0:stage>
+      </ns0:div>
+      <ns0:div>
+        <head>VORHANG GEHT AUF</head>
       <ns0:stage>(Szene 1: Ein düsterer Wald. PRINZ FERDINAND, LOUISA, SOPHIE und RICHARD rennen atemlos durch das Unterholz.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Haltet euch fest, meine Lieben! Wenn wir Burkhard nicht aufhalten, wird dieser Fluch für immer über uns und das Land herrschen.</ns0:p>
       </ns0:sp>
@@ -284,7 +281,7 @@
       </ns0:sp>
       <ns0:stage>(mutig)</ns0:stage>
       <ns0:stage>(Szene 3: Ein gewaltiges Duell zwischen PRINZ FERDINAND und BURKHARD entfaltet sich. Kämpfe, wirbelnde Energien und dramatische Bewegungen. LOUISA, SOPHIE und RICHARD stehen gespannt am Rand.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Du magst Macht besitzen, Burkhard, aber meine Liebe zu Louisa ist stärker als jedes dunkle Verlangen.</ns0:p>
       </ns0:sp>
@@ -315,9 +312,12 @@
       </ns0:sp>
       <ns0:stage>(friedvoll)</ns0:stage>
       <ns0:stage>(Alle Charaktere reichen Burkhard die Hand.)</ns0:stage>
-      <ns0:stage>(Szene 5: ZurVORHANG GEHT AUF</ns0:stage>
+      <ns0:stage>(Szene 5: Zur</ns0:stage>
+      </ns0:div>
+      <ns0:div>
+        <head>VORHANG GEHT AUF</head>
       <ns0:stage>(Szene 1: Ein prächtiger Festsaal im Palast. Die Wände sind mit kostbaren Wandteppichen geschmückt, ein großer Kronleuchter erhellt den Raum. Eine festliche Stimmung herrscht.)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Heute feiern wir das Ende unseres Leids und das Neue, das vor uns liegt. Lasst uns den Frieden und die Freude dieser Nacht genießen.</ns0:p>
       </ns0:sp>
@@ -329,7 +329,7 @@
         <ns0:p>Prinz Ferdinand, ich bin überwältigt von Dankbarkeit und Glück. Gemeinsam haben wir die dunklen Schatten besiegt und unsere Liebe gestärkt.</ns0:p>
       </ns0:sp>
       <ns0:stage>(emotional)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Louisa, du bist meine Königin, meine wahre Liebe. Lasst uns diese Nacht dazu nutzen, den Beginn einer strahlenden Zukunft zu feiern.</ns0:p>
       </ns0:sp>
@@ -361,11 +361,12 @@
         <ns0:p>Prinz Ferdinand, unser Leben ist erfüllt von Glück und Harmonie. Nie hätte ich mir eine wundervollere Zukunft erträumen können.</ns0:p>
       </ns0:sp>
       <ns0:stage>(strahlend)</ns0:stage>
-      <ns0:sp who="#prinz ferdinand">
+      <ns0:sp who="#prinz-ferdinand">
         <ns0:speaker>PRINZ FERDINAND</ns0:speaker>
         <ns0:p>Louisa, du bist alles, was mein Herz begehrt. J</ns0:p>
       </ns0:sp>
       <ns0:stage>(glücklich)</ns0:stage>
+      </ns0:div>
     </ns0:body>
   </ns0:text>
 <fileDesc><titleStmt><title>GPT35-German-4</title></titleStmt></fileDesc></ns0:TEI>

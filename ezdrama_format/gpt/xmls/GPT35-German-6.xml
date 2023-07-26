@@ -26,116 +26,26 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="andreas: lieber andreas, ich habe gehört, dass du befördert wurdest und nun eine leitende position in der fabrik inne hast. herzlichen glückwunsch">
-            <ns0:persName>ANDREAS: Lieber Andreas, ich habe gehört, dass du befördert wurdest und nun eine leitende Position in der Fabrik inne hast. Herzlichen Glückwunsch!</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas: ich habe gehört, dass euer brunnen repariert werden muss. ich dachte, ich könnte helfen">
-            <ns0:persName>ANDREAS: Ich habe gehört, dass euer Brunnen repariert werden muss. Ich dachte, ich könnte helfen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas: friedrich, du bist wie ein vater für mich. deine worte sind balsam für meine seele">
-            <ns0:persName>ANDREAS: Friedrich, du bist wie ein Vater für mich. Deine Worte sind Balsam für meine Seele</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria: guten abend, liebe sophie. friedrich und ich wollten andreas besuchen und sehen, wie es ihm geht">
-            <ns0:persName>MARIA: Guten Abend, liebe Sophie. Friedrich und ich wollten Andreas besuchen und sehen, wie es ihm geht</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria: es ist mir eine freude, emma. bildung ist ein schatz, den wir für jeden zugänglich machen sollten">
-            <ns0:persName>MARIA: Es ist mir eine Freude, Emma. Bildung ist ein Schatz, den wir für jeden zugänglich machen sollten</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria: sei nicht traurig, großvater. wir schaffen das. ich werde deinen lasten helfen">
-            <ns0:persName>MARIA: Sei nicht traurig, Großvater. Wir schaffen das. Ich werde deinen Lasten helfen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="sophie: maria, andreas, ich komme, um eure erfolge zu feiern. es ist erstaunlich zu sehen, wie ihr beide gewachsen seid. maria, ich möchte dir dafür danken, dass du den kindern unseres viertels eine bildungsmöglichkeit gegeben hast">
-            <ns0:persName>SOPHIE: Maria, Andreas, ich komme, um eure Erfolge zu feiern. Es ist erstaunlich zu sehen, wie ihr beide gewachsen seid. Maria, ich möchte dir dafür danken, dass du den Kindern unseres Viertels eine Bildungsmöglichkeit gegeben hast</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="sophie: ich habe gute beziehungen zu dem fabrikbesitzer. ich werde morgen persönlich mit ihm sprechen und ihn um eine chance für dich bitten">
-            <ns0:persName>SOPHIE: Ich habe gute Beziehungen zu dem Fabrikbesitzer. Ich werde morgen persönlich mit ihm sprechen und ihn um eine Chance für dich bitten</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="ernst">
-            <ns0:persName>ERNST:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas: sophie, du hast immer an mich geglaubt und mir geholfen, als ich es am dringendsten gebraucht habe. du bist meine treue freundin, und ich danke dir aus tiefstem herzen">
-            <ns0:persName>ANDREAS: Sophie, du hast immer an mich geglaubt und mir geholfen, als ich es am dringendsten gebraucht habe. Du bist meine treue Freundin, und ich danke dir aus tiefstem Herzen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria: hörst du das, andreas? das lied unserer solidarität und des gemeinsamen strebens. wir sind nicht allein. wir stehen zusammen">
-            <ns0:persName>MARIA: Hörst du das, Andreas? Das Lied unserer Solidarität und des gemeinsamen Strebens. Wir sind nicht allein. Wir stehen zusammen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="friedrich: andreas, mein sohn, bleibe stark. ich habe gesehen, wie hart du arbeitest und welche opfer du bringst. die zeiten mögen sich ändern, aber die werte, für die wir kämpfen, bleiben bestehen">
-            <ns0:persName>FRIEDRICH: Andreas, mein Sohn, bleibe stark. Ich habe gesehen, wie hart du arbeitest und welche Opfer du bringst. Die Zeiten mögen sich ändern, aber die Werte, für die wir kämpfen, bleiben bestehen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="sophie: andreas, ich freue mich so sehr für dich! du hast bewiesen, dass man trotz aller hindernisse durch harte arbeit und den glauben an veränderung große erfolge erzielen kann">
-            <ns0:persName>SOPHIE: Andreas, ich freue mich so sehr für dich! Du hast bewiesen, dass man trotz aller Hindernisse durch harte Arbeit und den Glauben an Veränderung große Erfolge erzielen kann</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria: sophie, das ist unglaublich nett von dir! ich wusste immer, dass du eine großzügige seele hast">
-            <ns0:persName>MARIA: Sophie, das ist unglaublich nett von dir! Ich wusste immer, dass du eine großzügige Seele hast</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas: sophie, es ist hart, aber ich habe die hoffnung noch nicht aufgegeben. ich werde weiterhin kämpfen, um eine bessere zukunft zu erreichen">
-            <ns0:persName>ANDREAS: Sophie, es ist hart, aber ich habe die Hoffnung noch nicht aufgegeben. Ich werde weiterhin kämpfen, um eine bessere Zukunft zu erreichen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="sophie: das ist sehr rücksichtsvoll von euch. andreas, wie ist deine arbeit heute gelaufen?">
-            <ns0:persName>SOPHIE: Das ist sehr rücksichtsvoll von euch. Andreas, wie ist deine Arbeit heute gelaufen?</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria: sophie, deine unterstützung und dein engagement haben mir geholfen, diesen raum der bildung zu schaffen. ohne dich wäre es nicht möglich gewesen">
-            <ns0:persName>MARIA: Sophie, deine Unterstützung und dein Engagement haben mir geholfen, diesen Raum der Bildung zu schaffen. Ohne dich wäre es nicht möglich gewesen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="emma: danke, maria, dass du uns lehrst und uns hilfst. ohne dich hätten wir niemals die chance gehabt, zu lernen">
-            <ns0:persName>EMMA: Danke, Maria, dass du uns lehrst und uns hilfst. Ohne dich hätten wir niemals die Chance gehabt, zu lernen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas: du hast recht, maria. du bist mein anker, mein antrieb. du und friedrich haltet mich aufrecht">
-            <ns0:persName>ANDREAS: Du hast recht, Maria. Du bist mein Anker, mein Antrieb. Du und Friedrich haltet mich aufrecht</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas: friedrich, deine worte sind tröstend, aber die realität ist hart. die zeiten haben sich geändert, und das schnelle geld, von dem ich träumte, ist schwer zu erreichen">
-            <ns0:persName>ANDREAS: Friedrich, deine Worte sind tröstend, aber die Realität ist hart. Die Zeiten haben sich geändert, und das schnelle Geld, von dem ich träumte, ist schwer zu erreichen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="schüler">
+          <ns0:person xml:id="schüler" sex="M">
             <ns0:persName>SCHÜLER:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="sophie">
+          <ns0:person xml:id="sophie" sex="F">
             <ns0:persName>SOPHIE:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="andreas: friedrich, du hast uns die weisheit und den glauben gegeben, um diese veränderung herbeizuführen. wir werden deine lehren und deinen geist in ehren halten">
-            <ns0:persName>ANDREAS: Friedrich, du hast uns die Weisheit und den Glauben gegeben, um diese Veränderung herbeizuführen. Wir werden deine Lehren und deinen Geist in Ehren halten</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas: maria, du hast immer noch diese reine seele, diese hingabe an das gute. aber ich habe viele fehler gemacht und bin jetzt demütiger als je zuvor">
-            <ns0:persName>ANDREAS: Maria, du hast immer noch diese reine Seele, diese Hingabe an das Gute. Aber ich habe viele Fehler gemacht und bin jetzt demütiger als je zuvor</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="friedrich: meine lieben kinder, ich bin so stolz auf euch. ihr habt eure träume nicht nur verfolgt, sondern ihr habt sie wirklichkeit werden lassen">
-            <ns0:persName>FRIEDRICH: Meine lieben Kinder, ich bin so stolz auf euch. Ihr habt eure Träume nicht nur verfolgt, sondern ihr habt sie Wirklichkeit werden lassen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="friedrich: heute ist ein tag des feierns und der wertschätzung für alles, was wir erreicht haben. doch morgen werden wir mit noch größerer entschlossenheit weitermachen">
-            <ns0:persName>FRIEDRICH: Heute ist ein Tag des Feierns und der Wertschätzung für alles, was wir erreicht haben. Doch morgen werden wir mit noch größerer Entschlossenheit weitermachen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="friedrich: aber du bist doch noch so jung! du solltest keine schwere arbeit machen müssen">
-            <ns0:persName>FRIEDRICH: Aber du bist doch noch so jung! Du solltest keine schwere Arbeit machen müssen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas: hallo, friedrich! maria! wie geht es euch?">
-            <ns0:persName>ANDREAS: Hallo, Friedrich! Maria! Wie geht es euch?</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas: es tut mir aufrichtig leid, friedrich. ich war jung und hoffnungslos, als ich die stadt verließ. aber nun bin ich zurückgekehrt, um meine fehler wiedergutzumachen">
-            <ns0:persName>ANDREAS: Es tut mir aufrichtig leid, Friedrich. Ich war jung und hoffnungslos, als ich die Stadt verließ. Aber nun bin ich zurückgekehrt, um meine Fehler wiedergutzumachen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria: andreas, du siehst müde aus. was ist passiert?">
-            <ns0:persName>MARIA: Andreas, du siehst müde aus. Was ist passiert?</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria: andreas, sophie, die zukunft liegt vor uns! gemeinsam werden wir weiterkämpfen und eine welt schaffen, in der gerechtigkeit und solidarität vorherrschen">
-            <ns0:persName>MARIA: Andreas, Sophie, die Zukunft liegt vor uns! Gemeinsam werden wir weiterkämpfen und eine Welt schaffen, in der Gerechtigkeit und Solidarität vorherrschen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="friedrich: es wird spät. wir sollten unsere arbeiten für heute beenden und morgen früh damit weitermachen">
-            <ns0:persName>FRIEDRICH: Es wird spät. Wir sollten unsere Arbeiten für heute beenden und morgen früh damit weitermachen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas: danke, maria. es war ein langer weg, aber ich bin so dankbar für die möglichkeit, mich weiterzuentwickeln und einfluss in der fabrik zu nehmen">
-            <ns0:persName>ANDREAS: Danke, Maria. Es war ein langer Weg, aber ich bin so dankbar für die Möglichkeit, mich weiterzuentwickeln und Einfluss in der Fabrik zu nehmen</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="andreas">
+          <ns0:person xml:id="andreas" sex="M">
             <ns0:persName>ANDREAS:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="maria">
+          <ns0:person xml:id="ernst" sex="M">
+            <ns0:persName>ERNST:</ns0:persName>
+          </ns0:person>
+          <ns0:person xml:id="maria" sex="F">
             <ns0:persName>MARIA:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="friedrich">
-            <ns0:persName>FRIEDRICH:</ns0:persName>
+          <ns0:person xml:id="emma" sex="F">
+            <ns0:persName>EMMA:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="andreas: friedrich, du hast uns den weg gezeigt und uns immer mit deiner weisheit und unterstützung begleitet. es ist ein großes geschenk, dich an unserer seite zu haben">
-            <ns0:persName>ANDREAS: Friedrich, du hast uns den Weg gezeigt und uns immer mit deiner Weisheit und Unterstützung begleitet. Es ist ein großes Geschenk, dich an unserer Seite zu haben</ns0:persName>
+          <ns0:person xml:id="friedrich" sex="M">
+            <ns0:persName>FRIEDRICH:</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
       </ns0:particDesc>
@@ -163,37 +73,43 @@
     </ns0:listRelation>
   </ns0:standOff>
   <ns0:text>
-    <ns0:body>ACT I <ns0:stage>(In einer traditionellen deutschen Stadt, im Jahr 1830. Ein kleiner Platz mit einem Brunnen, umgeben von alten Häusern. Die Sonne geht langsam unter und wirft warmes Licht auf die Szene. MENSCHEN tummeln sich auf dem Platz und gehen ihren täglichen Aufgaben nach. Unter ihnen sind FRIEDRICH, ein alter Mann mit weißem Bart, und MARIA, ein junges Mädchen in einfachen Kleidern. Die beiden stehen am Brunnen.)</ns0:stage>
+    <ns0:body>
+      <ns0:div>
+        <head>ACT I</head> 
+        <ns0:stage>(In einer traditionellen deutschen Stadt, im Jahr 1830. Ein kleiner Platz mit einem Brunnen, umgeben von alten Häusern. Die Sonne geht langsam unter und wirft warmes Licht auf die Szene. MENSCHEN tummeln sich auf dem Platz und gehen ihren täglichen Aufgaben nach. Unter ihnen sind FRIEDRICH, ein alter Mann mit weißem Bart, und MARIA, ein junges Mädchen in einfachen Kleidern. Die beiden stehen am Brunnen.)</ns0:stage>
       <ns0:sp who="#friedrich">
         <ns0:speaker>FRIEDRICH:</ns0:speaker>
         <ns0:stage>(erschöpft)</ns0:stage>
         <ns0:p />
       </ns0:sp>
-      <ns0:sp who="#maria: sei nicht traurig, großvater. wir schaffen das. ich werde deinen lasten helfen">
-        <ns0:speaker>MARIA: Sei nicht traurig, Großvater. Wir schaffen das. Ich werde deinen Lasten helfen.</ns0:speaker>
+      <ns0:sp who="#maria">
+        <ns0:speaker>MARIA: </ns0:speaker>
+        <p>Sei nicht traurig, Großvater. Wir schaffen das. Ich werde deinen Lasten helfen.</p>
         <ns0:p />
       </ns0:sp>
-      <ns0:sp who="#friedrich: aber du bist doch noch so jung! du solltest keine schwere arbeit machen müssen">
-        <ns0:speaker>FRIEDRICH: Aber du bist doch noch so jung! Du solltest keine schwere Arbeit machen müssen.</ns0:speaker>
+      <ns0:sp who="#friedrich">
+        <ns0:speaker>FRIEDRICH:</ns0:speaker> 
+        <p>Aber du bist doch noch so jung! Du solltest keine schwere Arbeit machen müssen.</p>
         <ns0:p />
       </ns0:sp>
       <ns0:sp who="#maria">
-        <ns0:speaker>MARIA:</ns0:speaker>
+        <ns0:speaker>MARIA: </ns0:speaker>
         <ns0:stage>(enthusiastisch)</ns0:stage>
         <ns0:p />
       </ns0:sp>
       <ns0:stage>(Die beiden setzen ihre Arbeit fort, während die MENSCHEN um sie herum weitergehen. Andreas, ein junger BURSCH, tritt auf der Bühne auf. Er trägt feine Kleidung und wirkt durchdringend.)</ns0:stage>
-      <ns0:sp who="#andreas: hallo, friedrich! maria! wie geht es euch?">
-        <ns0:speaker>ANDREAS: Hallo, Friedrich! Maria! Wie geht es euch?</ns0:speaker>
+      <ns0:sp who="#andreas">
+        <ns0:speaker>ANDREAS:</ns0:speaker> 
+        <p>Hallo, Friedrich! Maria! Wie geht es euch?</p>
         <ns0:p />
       </ns0:sp>
       <ns0:sp who="#maria">
-        <ns0:speaker>MARIA:</ns0:speaker>
+        <ns0:speaker>MARIA: </ns0:speaker>
         <ns0:stage>(überrascht)</ns0:stage>
         <ns0:p />
       </ns0:sp>
-      <ns0:sp who="#andreas: ich habe gehört, dass euer brunnen repariert werden muss. ich dachte, ich könnte helfen">
-        <ns0:speaker>ANDREAS: Ich habe gehört, dass euer Brunnen repariert werden muss. Ich dachte, ich könnte helfen.</ns0:speaker>
+      <ns0:sp who="#andreas">
+        <ns0:speaker>ANDREAS: </ns0:speaker><p>Ich habe gehört, dass euer Brunnen repariert werden muss. Ich dachte, ich könnte helfen.</p>
         <ns0:p />
       </ns0:sp>
       <ns0:sp who="#friedrich">
@@ -201,12 +117,12 @@
         <ns0:stage>(misstrauisch)</ns0:stage>
         <ns0:p />
       </ns0:sp>
-      <ns0:sp who="#andreas: es tut mir aufrichtig leid, friedrich. ich war jung und hoffnungslos, als ich die stadt verließ. aber nun bin ich zurückgekehrt, um meine fehler wiedergutzumachen">
-        <ns0:speaker>ANDREAS: Es tut mir aufrichtig leid, Friedrich. Ich war jung und hoffnungslos, als ich die Stadt verließ. Aber nun bin ich zurückgekehrt, um meine Fehler wiedergutzumachen.</ns0:speaker>
+      <ns0:sp who="#andreas">
+        <ns0:speaker>ANDREAS: </ns0:speaker><p>Es tut mir aufrichtig leid, Friedrich. Ich war jung und hoffnungslos, als ich die Stadt verließ. Aber nun bin ich zurückgekehrt, um meine Fehler wiedergutzumachen.</p>
         <ns0:p />
       </ns0:sp>
       <ns0:sp who="#maria">
-        <ns0:speaker>MARIA:</ns0:speaker>
+        <ns0:speaker>MARIA: </ns0:speaker>
         <ns0:stage>(erfreut)</ns0:stage>
         <ns0:p />
       </ns0:sp>
@@ -216,21 +132,22 @@
         <ns0:p />
       </ns0:sp>
       <ns0:stage>(Die Personen arbeiten weiter am Brunnen. Die Szene verdunkelt sich langsam.)</ns0:stage>
-      <ns0:sp who="#friedrich: es wird spät. wir sollten unsere arbeiten für heute beenden und morgen früh damit weitermachen">
+      <ns0:sp who="#friedrich">
         <ns0:speaker>FRIEDRICH: Es wird spät. Wir sollten unsere Arbeiten für heute beenden und morgen früh damit weitermachen.</ns0:speaker>
         <ns0:p />
       </ns0:sp>
       <ns0:sp who="#maria">
-        <ns0:speaker>MARIA:</ns0:speaker>
+        <ns0:speaker>MARIA: </ns0:speaker>
         <ns0:stage>(besorgt)</ns0:stage>
         <ns0:p />
       </ns0:sp>
       <ns0:stage>(Die Personen verlassen langsam den Platz, während das Licht immer schwächer wird. Der Vorhang fällt.)</ns0:stage>
+      </ns0:div>
       <ns0:div type="scene">
         <ns0:head>AKT II</ns0:head>
         <ns0:stage>(Sophies Haus, eine schlichte Wohnung mit wenigen Möbeln. MARIA und FRIEDRICH sind am Esstisch und haben eine einfache Mahlzeit. ANDREAS betritt das Zimmer und ist gekleidet wie ein Fabrikarbeiter.)</ns0:stage>
-        <ns0:sp who="#maria: andreas, du siehst müde aus. was ist passiert?">
-          <ns0:speaker>MARIA: Andreas, du siehst müde aus. Was ist passiert?</ns0:speaker>
+        <ns0:sp who="#maria">
+          <ns0:speaker>MARIA: </ns0:speaker><p> Andreas, du siehst müde aus. Was ist passiert?</p>
           <ns0:p />
         </ns0:sp>
         <ns0:sp who="#andreas">
@@ -243,17 +160,18 @@
           <ns0:stage>(besorgt)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#andreas: friedrich, deine worte sind tröstend, aber die realität ist hart. die zeiten haben sich geändert, und das schnelle geld, von dem ich träumte, ist schwer zu erreichen">
-          <ns0:speaker>ANDREAS: Friedrich, deine Worte sind tröstend, aber die Realität ist hart. Die Zeiten haben sich geändert, und das schnelle Geld, von dem ich träumte, ist schwer zu erreichen.</ns0:speaker>
+        <ns0:sp who="#andreas">
+          <ns0:speaker>ANDREAS: </ns0:speaker><p>Friedrich, deine Worte sind tröstend, aber die Realität ist hart. Die Zeiten haben sich geändert, und das schnelle Geld, von dem ich träumte, ist schwer zu erreichen.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:sp who="#maria">
-          <ns0:speaker>MARIA:</ns0:speaker>
+          <ns0:speaker>MARIA: </ns0:speaker>
           <ns0:stage>(besorgt)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#andreas: maria, du hast immer noch diese reine seele, diese hingabe an das gute. aber ich habe viele fehler gemacht und bin jetzt demütiger als je zuvor">
-          <ns0:speaker>ANDREAS: Maria, du hast immer noch diese reine Seele, diese Hingabe an das Gute. Aber ich habe viele Fehler gemacht und bin jetzt demütiger als je zuvor.</ns0:speaker>
+        <ns0:sp who="#andreas">
+          <ns0:speaker>ANDREAS:</ns0:speaker>
+          <p>Maria, du hast immer noch diese reine Seele, diese Hingabe an das Gute. Aber ich habe viele Fehler gemacht und bin jetzt demütiger als je zuvor.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Die Tür öffnet sich und SOPHIE, eine wohlhabende Frau mittleren Alters, tritt ein.)</ns0:stage>
@@ -262,16 +180,16 @@
           <ns0:stage>(freundlich)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#maria: guten abend, liebe sophie. friedrich und ich wollten andreas besuchen und sehen, wie es ihm geht">
-          <ns0:speaker>MARIA: Guten Abend, liebe Sophie. Friedrich und ich wollten Andreas besuchen und sehen, wie es ihm geht.</ns0:speaker>
+        <ns0:sp who="#maria">
+          <ns0:speaker>MARIA: </ns0:speaker><p> Guten Abend, liebe Sophie. Friedrich und ich wollten Andreas besuchen und sehen, wie es ihm geht.</p>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#sophie: das ist sehr rücksichtsvoll von euch. andreas, wie ist deine arbeit heute gelaufen?">
+        <ns0:sp who="#sophie">
           <ns0:speaker>SOPHIE: Das ist sehr rücksichtsvoll von euch. Andreas, wie ist deine Arbeit heute gelaufen?</ns0:speaker>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#andreas: sophie, es ist hart, aber ich habe die hoffnung noch nicht aufgegeben. ich werde weiterhin kämpfen, um eine bessere zukunft zu erreichen">
-          <ns0:speaker>ANDREAS: Sophie, es ist hart, aber ich habe die Hoffnung noch nicht aufgegeben. Ich werde weiterhin kämpfen, um eine bessere Zukunft zu erreichen.</ns0:speaker>
+        <ns0:sp who="#andreas">
+          <ns0:speaker>ANDREAS: </ns0:speaker><p>Sophie, es ist hart, aber ich habe die Hoffnung noch nicht aufgegeben. Ich werde weiterhin kämpfen, um eine bessere Zukunft zu erreichen.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:sp who="#sophie">
@@ -284,13 +202,13 @@
           <ns0:stage>(überrascht)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#sophie: ich habe gute beziehungen zu dem fabrikbesitzer. ich werde morgen persönlich mit ihm sprechen und ihn um eine chance für dich bitten">
+        <ns0:sp who="#sophie">
           <ns0:speaker>SOPHIE: Ich habe gute Beziehungen zu dem Fabrikbesitzer. Ich werde morgen persönlich mit ihm sprechen und ihn um eine Chance für dich bitten.</ns0:speaker>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(MARIA und FRIEDRICH schauen sich glücklich an.)</ns0:stage>
-        <ns0:sp who="#maria: sophie, das ist unglaublich nett von dir! ich wusste immer, dass du eine großzügige seele hast">
-          <ns0:speaker>MARIA: Sophie, das ist unglaublich nett von dir! Ich wusste immer, dass du eine großzügige Seele hast.</ns0:speaker>
+        <ns0:sp who="#maria">
+          <ns0:speaker>MARIA: </ns0:speaker><p> Sophie, das ist unglaublich nett von dir! Ich wusste immer, dass du eine großzügige Seele hast.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:sp who="#sophie">
@@ -325,7 +243,7 @@
         </ns0:sp>
         <ns0:stage>(Andreas sieht müde aus und arbeitet weiter. Die Szene ändert sich und zeigt Maria, die Blickkontakt mit Andreas sucht.)</ns0:stage>
         <ns0:sp who="#maria">
-          <ns0:speaker>MARIA:</ns0:speaker>
+          <ns0:speaker>MARIA: </ns0:speaker>
           <ns0:stage>(sanft)</ns0:stage>
           <ns0:p />
         </ns0:sp>
@@ -335,26 +253,26 @@
           <ns0:p />
         </ns0:sp>
         <ns0:sp who="#maria">
-          <ns0:speaker>MARIA:</ns0:speaker>
+          <ns0:speaker>MARIA: </ns0:speaker>
           <ns0:stage>(tröstend)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#andreas: du hast recht, maria. du bist mein anker, mein antrieb. du und friedrich haltet mich aufrecht">
-          <ns0:speaker>ANDREAS: Du hast recht, Maria. Du bist mein Anker, mein Antrieb. Du und Friedrich haltet mich aufrecht.</ns0:speaker>
+        <ns0:sp who="#andreas">
+          <ns0:speaker>ANDREAS: </ns0:speaker><p>Du hast recht, Maria. Du bist mein Anker, mein Antrieb. Du und Friedrich haltet mich aufrecht.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(FRIEDRICH kommt langsam auf die Bühne.)</ns0:stage>
-        <ns0:sp who="#friedrich: andreas, mein sohn, bleibe stark. ich habe gesehen, wie hart du arbeitest und welche opfer du bringst. die zeiten mögen sich ändern, aber die werte, für die wir kämpfen, bleiben bestehen">
+        <ns0:sp who="#friedrich">
           <ns0:speaker>FRIEDRICH: Andreas, mein Sohn, bleibe stark. Ich habe gesehen, wie hart du arbeitest und welche Opfer du bringst. Die Zeiten mögen sich ändern, aber die Werte, für die wir kämpfen, bleiben bestehen.</ns0:speaker>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#andreas: friedrich, du bist wie ein vater für mich. deine worte sind balsam für meine seele">
-          <ns0:speaker>ANDREAS: Friedrich, du bist wie ein Vater für mich. Deine Worte sind Balsam für meine Seele.</ns0:speaker>
+        <ns0:sp who="#andreas">
+          <ns0:speaker>ANDREAS: </ns0:speaker><p>Friedrich, du bist wie ein Vater für mich. Deine Worte sind Balsam für meine Seele.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Die Arbeiter in der Fabrik beginnen zu singen, um die harte Arbeit zu erleichtern. Die Klänge füllen den Raum.)</ns0:stage>
-        <ns0:sp who="#maria: hörst du das, andreas? das lied unserer solidarität und des gemeinsamen strebens. wir sind nicht allein. wir stehen zusammen">
-          <ns0:speaker>MARIA: Hörst du das, Andreas? Das Lied unserer Solidarität und des gemeinsamen Strebens. Wir sind nicht allein. Wir stehen zusammen.</ns0:speaker>
+        <ns0:sp who="#maria">
+          <ns0:speaker>MARIA: </ns0:speaker><p> Hörst du das, Andreas? Das Lied unserer Solidarität und des gemeinsamen Strebens. Wir sind nicht allein. Wir stehen zusammen.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:sp who="#andreas">
@@ -368,7 +286,7 @@
         <ns0:head>AKT IV</ns0:head>
         <ns0:stage>(Ein Gemeinschaftshaus, in dem ein Treffen der Arbeiter stattfindet. Tische sind mit Essen und Trinken gedeckt. Die Stimmung ist festlich. Die Personen sind in Feierkleidung. Darunter sind auch Ernst und SOPHIE.)</ns0:stage>
         <ns0:sp who="#maria">
-          <ns0:speaker>MARIA:</ns0:speaker>
+          <ns0:speaker>MARIA: </ns0:speaker>
           <ns0:stage>(freudig)</ns0:stage>
           <ns0:p />
         </ns0:sp>
@@ -378,17 +296,17 @@
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(FRIEDRICH kommt mit einem Glas an den Tisch, an dem Maria und Andreas sitzen.)</ns0:stage>
-        <ns0:sp who="#friedrich: meine lieben kinder, ich bin so stolz auf euch. ihr habt eure träume nicht nur verfolgt, sondern ihr habt sie wirklichkeit werden lassen">
+        <ns0:sp who="#friedrich">
           <ns0:speaker>FRIEDRICH: Meine lieben Kinder, ich bin so stolz auf euch. Ihr habt eure Träume nicht nur verfolgt, sondern ihr habt sie Wirklichkeit werden lassen.</ns0:speaker>
           <ns0:p />
         </ns0:sp>
         <ns0:sp who="#maria">
-          <ns0:speaker>MARIA:</ns0:speaker>
+          <ns0:speaker>MARIA: </ns0:speaker>
           <ns0:stage>(dankbar)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#andreas: friedrich, du hast uns den weg gezeigt und uns immer mit deiner weisheit und unterstützung begleitet. es ist ein großes geschenk, dich an unserer seite zu haben">
-          <ns0:speaker>ANDREAS: Friedrich, du hast uns den Weg gezeigt und uns immer mit deiner Weisheit und Unterstützung begleitet. Es ist ein großes Geschenk, dich an unserer Seite zu haben.</ns0:speaker>
+        <ns0:sp who="#andreas">
+          <ns0:speaker>ANDREAS: </ns0:speaker><p>Friedrich, du hast uns den Weg gezeigt und uns immer mit deiner Weisheit und Unterstützung begleitet. Es ist ein großes Geschenk, dich an unserer Seite zu haben.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Das Treffen beginnt mit Reden und Toasts. Die Arbeiter erheben ihre Gläser und stoßen an.)</ns0:stage>
@@ -404,20 +322,20 @@
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Die Menge jubelt und die Feierlichkeiten setzen sich fort. Sophie tritt zu Andreas.)</ns0:stage>
-        <ns0:sp who="#sophie: andreas, ich freue mich so sehr für dich! du hast bewiesen, dass man trotz aller hindernisse durch harte arbeit und den glauben an veränderung große erfolge erzielen kann">
+        <ns0:sp who="#sophie">
           <ns0:speaker>SOPHIE: Andreas, ich freue mich so sehr für dich! Du hast bewiesen, dass man trotz aller Hindernisse durch harte Arbeit und den Glauben an Veränderung große Erfolge erzielen kann.</ns0:speaker>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#andreas: sophie, du hast immer an mich geglaubt und mir geholfen, als ich es am dringendsten gebraucht habe. du bist meine treue freundin, und ich danke dir aus tiefstem herzen">
-          <ns0:speaker>ANDREAS: Sophie, du hast immer an mich geglaubt und mir geholfen, als ich es am dringendsten gebraucht habe. Du bist meine treue Freundin, und ich danke dir aus tiefstem Herzen.</ns0:speaker>
+        <ns0:sp who="#andreas">
+          <ns0:speaker>ANDREAS: </ns0:speaker><p>Sophie, du hast immer an mich geglaubt und mir geholfen, als ich es am dringendsten gebraucht habe. Du bist meine treue Freundin, und ich danke dir aus tiefstem Herzen.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Maria und Friedrich kommen zu ihnen.)</ns0:stage>
-        <ns0:sp who="#maria: andreas, sophie, die zukunft liegt vor uns! gemeinsam werden wir weiterkämpfen und eine welt schaffen, in der gerechtigkeit und solidarität vorherrschen">
-          <ns0:speaker>MARIA: Andreas, Sophie, die Zukunft liegt vor uns! Gemeinsam werden wir weiterkämpfen und eine Welt schaffen, in der Gerechtigkeit und Solidarität vorherrschen.</ns0:speaker>
+        <ns0:sp who="#maria">
+          <ns0:speaker>MARIA: </ns0:speaker><p> Andreas, Sophie, die Zukunft liegt vor uns! Gemeinsam werden wir weiterkämpfen und eine Welt schaffen, in der Gerechtigkeit und Solidarität vorherrschen.</p>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#friedrich: heute ist ein tag des feierns und der wertschätzung für alles, was wir erreicht haben. doch morgen werden wir mit noch größerer entschlossenheit weitermachen">
+        <ns0:sp who="#friedrich">
           <ns0:speaker>FRIEDRICH: Heute ist ein Tag des Feierns und der Wertschätzung für alles, was wir erreicht haben. Doch morgen werden wir mit noch größerer Entschlossenheit weitermachen.</ns0:speaker>
           <ns0:p />
         </ns0:sp>
@@ -427,35 +345,35 @@
         <ns0:head>AKT V</ns0:head>
         <ns0:stage>(Ein Jahr später. Ein bescheidener Raum in der Fabrik, der als Schulraum genutzt wird. MÄDCHEN und JUNGEN verschiedener Altersstufen sitzen an Tischen, während MARIA als Lehrerin vorne steht.)</ns0:stage>
         <ns0:sp who="#maria">
-          <ns0:speaker>MARIA:</ns0:speaker>
+          <ns0:speaker>MARIA: </ns0:speaker>
           <ns0:stage>(begeistert)</ns0:stage>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Eine Schülerin namens EMMA kommt auf Maria zu.)</ns0:stage>
-        <ns0:sp who="#emma: danke, maria, dass du uns lehrst und uns hilfst. ohne dich hätten wir niemals die chance gehabt, zu lernen">
-          <ns0:speaker>EMMA: Danke, Maria, dass du uns lehrst und uns hilfst. Ohne dich hätten wir niemals die Chance gehabt, zu lernen.</ns0:speaker>
+        <ns0:sp who="#emma">
+          <ns0:speaker>EMMA: </ns0:speaker><p>Danke, Maria, dass du uns lehrst und uns hilfst. Ohne dich hätten wir niemals die Chance gehabt, zu lernen.</p>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#maria: es ist mir eine freude, emma. bildung ist ein schatz, den wir für jeden zugänglich machen sollten">
-          <ns0:speaker>MARIA: Es ist mir eine Freude, Emma. Bildung ist ein Schatz, den wir für jeden zugänglich machen sollten.</ns0:speaker>
+        <ns0:sp who="#maria">
+          <ns0:speaker>MARIA: </ns0:speaker><p> Es ist mir eine Freude, Emma. Bildung ist ein Schatz, den wir für jeden zugänglich machen sollten.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Die Tür öffnet sich und Andreas tritt ein, diesmal in einer ordentlichen Anzug.)</ns0:stage>
-        <ns0:sp who="#andreas: lieber andreas, ich habe gehört, dass du befördert wurdest und nun eine leitende position in der fabrik inne hast. herzlichen glückwunsch">
-          <ns0:speaker>ANDREAS: Lieber Andreas, ich habe gehört, dass du befördert wurdest und nun eine leitende Position in der Fabrik inne hast. Herzlichen Glückwunsch!</ns0:speaker>
+        <ns0:sp who="#andreas">
+          <ns0:speaker>ANDREAS: </ns0:speaker><p>Lieber Andreas, ich habe gehört, dass du befördert wurdest und nun eine leitende Position in der Fabrik inne hast. Herzlichen Glückwunsch!</p>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#andreas: danke, maria. es war ein langer weg, aber ich bin so dankbar für die möglichkeit, mich weiterzuentwickeln und einfluss in der fabrik zu nehmen">
-          <ns0:speaker>ANDREAS: Danke, Maria. Es war ein langer Weg, aber ich bin so dankbar für die Möglichkeit, mich weiterzuentwickeln und Einfluss in der Fabrik zu nehmen.</ns0:speaker>
+        <ns0:sp who="#andreas">
+          <ns0:speaker>ANDREAS: </ns0:speaker><p>Danke, Maria. Es war ein langer Weg, aber ich bin so dankbar für die Möglichkeit, mich weiterzuentwickeln und Einfluss in der Fabrik zu nehmen.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Die Tür öffnet sich erneut und Sophie betritt den Raum.)</ns0:stage>
-        <ns0:sp who="#sophie: maria, andreas, ich komme, um eure erfolge zu feiern. es ist erstaunlich zu sehen, wie ihr beide gewachsen seid. maria, ich möchte dir dafür danken, dass du den kindern unseres viertels eine bildungsmöglichkeit gegeben hast">
+        <ns0:sp who="#sophie">
           <ns0:speaker>SOPHIE: Maria, Andreas, ich komme, um eure Erfolge zu feiern. Es ist erstaunlich zu sehen, wie ihr beide gewachsen seid. Maria, ich möchte dir dafür danken, dass du den Kindern unseres Viertels eine Bildungsmöglichkeit gegeben hast.</ns0:speaker>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#maria: sophie, deine unterstützung und dein engagement haben mir geholfen, diesen raum der bildung zu schaffen. ohne dich wäre es nicht möglich gewesen">
-          <ns0:speaker>MARIA: Sophie, deine Unterstützung und dein Engagement haben mir geholfen, diesen Raum der Bildung zu schaffen. Ohne dich wäre es nicht möglich gewesen.</ns0:speaker>
+        <ns0:sp who="#maria">
+          <ns0:speaker>MARIA: </ns0:speaker><p> Sophie, deine Unterstützung und dein Engagement haben mir geholfen, diesen Raum der Bildung zu schaffen. Ohne dich wäre es nicht möglich gewesen.</p>
           <ns0:p />
         </ns0:sp>
         <ns0:stage>(Die Schülerinnen und Schüler erheben ihre Hefte und präsentieren ihre Werke mit Stolz.)</ns0:stage>
@@ -465,7 +383,7 @@
           <ns0:p />
         </ns0:sp>
         <ns0:sp who="#maria">
-          <ns0:speaker>MARIA:</ns0:speaker>
+          <ns0:speaker>MARIA: </ns0:speaker>
           <ns0:stage>(gerührt)</ns0:stage>
           <ns0:p />
         </ns0:sp>
@@ -474,12 +392,12 @@
           <ns0:stage>(als letzter auf die Bühne kommend)</ns0:stage>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp who="#andreas: friedrich, du hast uns die weisheit und den glauben gegeben, um diese veränderung herbeizuführen. wir werden deine lehren und deinen geist in ehren halten">
-          <ns0:speaker>ANDREAS: Friedrich, du hast uns die Weisheit und den Glauben gegeben, um diese Veränderung herbeizuführen. Wir werden deine Lehren und deinen Geist in Ehren halten.</ns0:speaker>
+        <ns0:sp who="#andreas">
+          <ns0:speaker>ANDREAS: </ns0:speaker><p>Friedrich, du hast uns die Weisheit und den Glauben gegeben, um diese Veränderung herbeizuführen. Wir werden deine Lehren und deinen Geist in Ehren halten.</p>
           <ns0:p />
         </ns0:sp>
-        <ns0:sp>
-          <ns0:speaker>MARIA: Heute feiern wir nicht nur unseren eigenen Erfolg, sondern auch diejenigen, die vor uns gekämpft haben und uns den Weg geebnet haben. Lassen Sie uns mit Stolz und Dankbarkeit</ns0:speaker>
+        <ns0:sp who="maria">
+          <ns0:speaker>MARIA: </ns0:speaker><p> Heute feiern wir nicht nur unseren eigenen Erfolg, sondern auch diejenigen, die vor uns gekämpft haben und uns den Weg geebnet haben. Lassen Sie uns mit Stolz und Dankbarkeit</p>
         </ns0:sp>
       </ns0:div>
     </ns0:body>

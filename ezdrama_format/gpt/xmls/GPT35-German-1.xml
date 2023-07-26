@@ -26,34 +26,28 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="volk">
+          <ns0:personGrp xml:id="volk" sex="UNKNOWN">
             <ns0:persName>VOLK</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="hartmann">
+          </ns0:personGrp>
+          <ns0:person xml:id="hartmann" sex="M">
             <ns0:persName>HARTMANN</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="august">
+          <ns0:person xml:id="august" sex="M">
             <ns0:persName>AUGUST</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="menge">
-            <ns0:persName>MENGE</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="mann">
+          <ns0:person xml:id="mann" sex="M">
             <ns0:persName>MANN</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="dienerin">
+          <ns0:person xml:id="dienerin" sex="F">
             <ns0:persName>DIENERIN</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="rosenberg">
+          <ns0:person xml:id="rosenberg" sex="M">
             <ns0:persName>ROSENBERG</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="endezweiter akt">
-            <ns0:persName>ENDEZweiter Akt</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="soldat">
+          <ns0:person xml:id="soldat" sex="M">
             <ns0:persName>SOLDAT</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="amalie">
+          <ns0:person xml:id="amalie" sex="F">
             <ns0:persName>AMALIE</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
@@ -82,11 +76,16 @@
     </ns0:listRelation>
   </ns0:standOff>
   <ns0:text>
-    <ns0:body>Erster Akt <ns0:stage>(Zimmer in einem herrschaftlichen Haus. Die Wände sind mit schweren Vorhängen, Gemälden und antiken Möbelstücken geschmückt. Ein Kamin, der mit einem wärmenden Feuer brennt, steht im Mittelpunkt des Raumes. Auf einem Tisch in der Mitte des Zimmers stehen fein gearbeitete Porzellantassen. Über allem liegt ein Hauch von Eleganz und Altertum.)</ns0:stage>
+    <ns0:body>
+      <ns0:div>
+        <head>Erster Akt</head>
+        <ns0:stage>(Zimmer in einem herrschaftlichen Haus. Die Wände sind mit schweren Vorhängen, Gemälden und antiken Möbelstücken geschmückt. Ein Kamin, der mit einem wärmenden Feuer brennt, steht im Mittelpunkt des Raumes. Auf einem Tisch in der Mitte des Zimmers stehen fein gearbeitete Porzellantassen. Über allem liegt ein Hauch von Eleganz und Altertum.)</ns0:stage>
       <ns0:sp who="#amalie">
         <ns0:speaker>AMALIE</ns0:speaker>
         <ns0:stage>(eine junge, schöne Frau in gehobener Kleidung betritt den Raum, sie wirkt besorgt und unruhig. Sie geht zum Fenster und sieht hinaus)</ns0:stage>
-        <ns0:p><ns0:stage>(leise zu sich selbst)</ns0:stage> Was sind das für dunkle Wolken am Horizont? Warum lastet ein so schweres Gewicht auf meiner Brust?    <ns0:stage>(Sie entfernt sich vom Fenster und geht zu einem Tisch, auf dem ein Brief liegt. Sie nimmt den Brief auf und liest ihn sorgfältig.)</ns0:stage></ns0:p>
+        <ns0:p><ns0:stage>(leise zu sich selbst)</ns0:stage> 
+          <p>Was sind das für dunkle Wolken am Horizont? Warum lastet ein so schweres Gewicht auf meiner Brust? </p>
+          <ns0:stage>(Sie entfernt sich vom Fenster und geht zu einem Tisch, auf dem ein Brief liegt. Sie nimmt den Brief auf und liest ihn sorgfältig.)</ns0:stage></ns0:p>
       </ns0:sp>
       <ns0:sp who="#amalie">
         <ns0:speaker>AMALIE</ns0:speaker>
@@ -118,10 +117,10 @@
         <ns0:p><ns0:stage>(schluchzend)</ns0:stage> AUGUST, ich bin bereit, dich zu unterstützen, egal was geschieht. Wir sind eine Einheit, ein Team.    <ns0:stage>(Der Raum verdunkelt sich langsam und die Szene endet mit AMALIE und AUGUST, die sich in einer liebevollen Umarmung halten.)</ns0:stage></ns0:p>
       </ns0:sp>
       <ns0:stage>(Abgewechselt mit intensiven Blicken zwischen AMALIE und AUGUST, spricht sanfte Musik im Hintergrund.)</ns0:stage>
-      <ns0:sp who="#endezweiter akt">
-        <ns0:speaker>ENDEZweiter Akt</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
+      <ns0:stage>ENDE [Erster] Akt</ns0:stage>
+      </ns0:div>
+      <ns0:div>
+        <ns0:head>[Zweiter Akt]</ns0:head>
       <ns0:stage>(Ein herrschaftlicher Salon, eingerichtet mit prächtigen Möbeln, edlen Teppichen und einem großen Kronleuchter in der Mitte des Raumes. Die festlichen Vorhänge sind geöffnet, und ein Tisch ist mit kleinen Köstlichkeiten und Wein gedeckt. AMALIE und AUGUST sitzen am Tisch und unterhalten sich lebhaft.)</ns0:stage>
       <ns0:sp who="#august">
         <ns0:speaker>AUGUST</ns0:speaker>
@@ -163,8 +162,12 @@
       </ns0:sp>
       <ns0:sp who="#rosenberg">
         <ns0:speaker>ROSENBERG</ns0:speaker>
-        <ns0:p><ns0:stage>(eindringlich)</ns0:stage> Wir brauchen deine Stimme, AUGUST. Dein Einfluss und deine Redekunst können die Wogen glätten und zur Einheit führenDritter Akt</ns0:p>
-      </ns0:sp>
+        <ns0:p><ns0:stage>(eindringlich)</ns0:stage> 
+          Wir brauchen deine Stimme, AUGUST. Dein Einfluss und deine Redekunst können die Wogen glätten und zur Einheit führen</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div>
+        <head>Dritter Akt</head>
       <ns0:stage>(Ein städtischer Marktplatz, geschmückt mit Fahnen und bunten Ständen. Die Menge ist in Unruhe und diskutiert lebhaft. Im Zentrum steht eine Rednertribüne, umgeben von erhöhten Sitzen. Menschenmengen versammeln sich um die Bühne, während aus der Ferne Truppen marschieren.)</ns0:stage>
       <ns0:stage>(AUGUST, AMALIE, HARTMANN und ROSENBERG treten auf den Marktplatz. Sie sind von der Menge umgeben.)</ns0:stage>
       <ns0:sp who="#amalie">
@@ -185,7 +188,7 @@
         <ns0:speaker>ROSENBERG</ns0:speaker>
         <ns0:p><ns0:stage>(tritt neben HARTMANN und hält eine emotionale Rede)</ns0:stage> Lasst uns zusammenstehen, vereinte Brüder und Schwestern! Gemeinsam können wir den Wandel verwirklichen.</ns0:p>
       </ns0:sp>
-      <ns0:sp who="#menge">
+      <ns0:sp who="#volk">
         <ns0:speaker>MENGE</ns0:speaker>
         <ns0:p><ns0:stage>(rufen)</ns0:stage> Freiheit! Gerechtigkeit!</ns0:p>
       </ns0:sp>
@@ -206,8 +209,11 @@
       </ns0:sp>
       <ns0:sp who="#mann">
         <ns0:speaker>MANN</ns0:speaker>
-        <ns0:p><ns0:stage>(mutig)</ns0:stage> Wir werden uns nicht einschüchtern lassen! Unsere Stimmen werden niemals verstummen.    (AMALIE, AUGUST, HARTMANN und ROSENBERG halten sich gegenseitig fest. Ein Gefühl der Verzweiflung liegt in der LuftVierter Akt</ns0:p>
+        <ns0:p><ns0:stage>(mutig)</ns0:stage> Wir werden uns nicht einschüchtern lassen! Unsere Stimmen werden niemals verstummen.    (AMALIE, AUGUST, HARTMANN und ROSENBERG halten sich gegenseitig fest. Ein Gefühl der Verzweiflung liegt in der Luft</ns0:p>
       </ns0:sp>
+      </ns0:div>
+      <ns0:div>
+        <head>Vierter Akt</head>
       <ns0:stage>(MENSCHEN rufen laut, TRUPPEN drängen die Menge zurück.)</ns0:stage>
       <ns0:stage>(Die Innenräume eines dunklen Gefängnisses. Die Wände sind kalt und feucht. AUGUST sitzt alleine in einer Ecke. Sein Gesicht ist von Trübsal gezeichnet.)</ns0:stage>
       <ns0:sp who="#august">
@@ -247,8 +253,11 @@
       </ns0:sp>
       <ns0:sp who="#amalie">
         <ns0:speaker>AMALIE</ns0:speaker>
-        <ns0:p><ns0:stage>(mit Entschlossenheit)</ns0:stage> Wir werden nicht aufgeben, AUGUST. Wir werden durch diese dunkle Nacht schreiten und das LichtFünfter Akt</ns0:p>
+        <ns0:p><ns0:stage>(mit Entschlossenheit)</ns0:stage> Wir werden nicht aufgeben, AUGUST. Wir werden durch diese dunkle Nacht schreiten und das Licht</ns0:p>
       </ns0:sp>
+      </ns0:div>
+      <ns0:div>
+        <head>Fünfter Akt</head>
       <ns0:stage>(Der Marktplatz ist erneut gefüllt mit Menschenmengen. Fahnen wehen im Wind und Musik erklingt im Hintergrund. AUGUST, AMALIE, HARTMANN und ROSENBERG stehen nun auf der Rednertribüne, deren Erscheinung ein Symbol der Hoffnung ist.)</ns0:stage>
       <ns0:sp who="#august">
         <ns0:speaker>AUGUST</ns0:speaker>
@@ -261,10 +270,8 @@
       </ns0:sp>
       <ns0:sp who="#hartmann">
         <ns0:speaker>HARTMANN</ns0:speaker>
-        <ns0:p><ns0:stage>(erhebt seine Stimme)</ns0:stage> Die Revolution möge nicht nur ein </ns0:p>
+        <ns0:p><ns0:stage>(erhebt seine Stimme)</ns0:stage> Die Revolution möge nicht nur ein Akt der Rebellion gegen das Alte sein, sondern auch ein Weg, um das Fundament einer freieren und gerechteren Gesellschaft zu legen.</ns0:p>
       </ns0:sp>
-      <ns0:div type="scene">
-        <ns0:head>Akt der Rebellion gegen das Alte sein, sondern auch ein Weg, um das Fundament einer freieren und gerechteren Gesellschaft zu legen.</ns0:head>
         <ns0:sp who="#rosenberg">
           <ns0:speaker>ROSENBERG</ns0:speaker>
           <ns0:p><ns0:stage>(ergänzt)</ns0:stage> Jedes Individuum hat das Recht auf seine Stimme, seine Meinung und seine Träume. Lasst uns diese Rechte verteidigen und für eine Welt kämpfen, in der Freiheit und Mitmenschlichkeit regieren.</ns0:p>
@@ -289,9 +296,7 @@
           <ns0:p><ns0:stage>(erhebt seine Faust)</ns0:stage> Der Kampf mag lang und schwierig sein, aber wir werden niemals aufgeben. Unsere Stimmen mögen gedämpft gewesen sein, aber sie werden nicht mehr verstummen</ns0:p>
         </ns0:sp>
         <ns0:stage>(Die Menge umarmt sich und reckt die Fäuste in die Luft. Das Lied der Revolution erklingt.)</ns0:stage>
-        <ns0:sp>
-          <ns0:speaker>ENDE</ns0:speaker>
-        </ns0:sp>
+        <stage>ENDE</stage>
       </ns0:div>
     </ns0:body>
   </ns0:text>

@@ -26,25 +26,19 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="priester">
+          <ns0:person xml:id="priester" sex="M">
             <ns0:persName>PRIESTER</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="samuel">
+          <ns0:person xml:id="samuel" sex="M">
             <ns0:persName>SAMUEL</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="artur">
-            <ns0:persName>ARTUR</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="arthur">
+          <ns0:person xml:id="arthur" sex="M">
             <ns0:persName>ARTHUR</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="maria">
+          <ns0:person xml:id="maria" sex="F">
             <ns0:persName>MARIA</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="endefünfter akt">
-            <ns0:persName>ENDEFünfter Akt</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="martha">
+          <ns0:person xml:id="martha" sex="F">
             <ns0:persName>MARTHA</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
@@ -348,11 +342,7 @@
           <ns0:p>Arthur, mein Lieber, du warst immer mein Fels, meine Stärke. Auch wenn du nun alleine bist, wird meine Liebe für immer bei dir sein.</ns0:p>
         </ns0:sp>
         <ns0:stage>(DER ENDE prellt von Männern die Tränen ab.)</ns0:stage>
-        <ns0:sp who="#endefünfter akt">
-          <ns0:speaker>ENDEFünfter Akt</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(</ns0:stage>
+        <ns0:stage>ENDE Fünfter Akt</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>SZENE 1: Das Wohnzimmer von MARTHA, einige Jahre später. MARTHA sitzt am Tisch, schreibt einen Brief.)</ns0:head>
@@ -378,7 +368,7 @@
         <ns0:head>SZENE 2: Ein eleganter Konzertsaal. Der VORHANG hebt sich langsam.)</ns0:head>
         <ns0:stage>(Auf der BÜHNE steht ARTUR, gekleidet in einen edlen Anzug, bereit, das Klavier zu spielen.)</ns0:stage>
         <ns0:stage>(Das PUBLIKUM ist erwartungsvoll und applaudierend.)</ns0:stage>
-        <ns0:sp who="#artur">
+        <ns0:sp who="#arthur">
           <ns0:speaker>ARTUR</ns0:speaker>
           <ns0:stage>(konzentriert)</ns0:stage>
           <ns0:p />
@@ -394,7 +384,7 @@
           <ns0:stage>(mit Tränen der Freude in den Augen)</ns0:stage>
           <ns0:p>Artur, mein lieber Sohn, du hast die Herzen der Menschen tief berührt. Dein Vater wäre so stolz auf dich gewesen.</ns0:p>
         </ns0:sp>
-        <ns0:sp who="#artur">
+        <ns0:sp who="#arthur">
           <ns0:speaker>ARTUR</ns0:speaker>
           <ns0:stage>(dankbar)</ns0:stage>
           <ns0:p>Danke, Mutter. Es ist meiner Liebe zur Musik und der Unterstützung unserer Familie zu verdanken, dass ich heute hier stehe.</ns0:p>
