@@ -26,9 +26,6 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="konets">
-            <ns0:persName>КОНЕЦ</ns0:persName>
-          </ns0:person>
           <ns0:person xml:id="grafinja">
             <ns0:persName>ГРАФИНЯ</ns0:persName>
           </ns0:person>
@@ -190,10 +187,9 @@
         </ns0:sp>
         <ns0:stage>(ЛИЗАВЕТА и ГРАФИНЯ МАРИЯ входят в карету и уезжают. Звучат грустные ноты музыки.)</ns0:stage>
         <ns0:stage>(Занавес падает)</ns0:stage>
-        <ns0:sp who="#konets">
-          <ns0:speaker>КОНЕЦ</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
+
+        <ns0:stage>КОНЕЦ</ns0:stage>
+
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>АКТ ЧЕТВЕРТЫЙ</ns0:head>
@@ -226,10 +222,7 @@
         </ns0:sp>
         <ns0:stage>(Они собираются в объятиях, символизируя восстановление семейной связи и примирение.)</ns0:stage>
         <ns0:stage>(Занавес падает)</ns0:stage>
-        <ns0:sp who="#konets">
-          <ns0:speaker>КОНЕЦ</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
+        <ns0:stage>КОНЕЦ</ns0:stage>
       </ns0:div>
       <ns0:div type="scene">
         <ns0:head>АКТ ПЯТЫЙ</ns0:head>
@@ -264,10 +257,8 @@
         </ns0:sp>
         <ns0:stage>(Они все складывают руки друг друга на плечи и смотрят на танцующую толпу.)</ns0:stage>
         <ns0:stage>(Занавес падает)</ns0:stage>
-        <ns0:sp>
-          <ns0:speaker>КОНЕЦ</ns0:speaker>
-        </ns0:sp>
+        <ns0:stage>КОНЕЦ</ns0:stage>
       </ns0:div>
     </ns0:body>
   </ns0:text>
-<fileDesc><titleStmt><title>GPT35-Russian-1</title></titleStmt></fileDesc></ns0:TEI>
+</ns0:TEI>
