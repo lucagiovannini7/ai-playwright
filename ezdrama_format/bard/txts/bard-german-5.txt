@@ -1,0 +1,460 @@
+# Erster 
+##Akt 
+
+$Szenenbild: Ein dunkler Wald. Im Hintergrund ist ein Schloss zu sehen.
+
+^Personen:
+
+@Faust: Ein junger Mann, der an Magie interessiert ist.
+@Mephistopheles: Ein Teufel, der Faust mit Macht verführen möchte.
+@Faust: (allein) Ich bin so einsam. Ich habe alles, was ich mir wünschen kann, aber ich bin immer noch nicht zufrieden. Ich sehne mich nach etwas mehr.
+
+@Mephistopheles: (tritt auf) Ich kann dir helfen. Ich kann dir alles geben, was du dir wünschst.
+
+@Faust: Was willst du dafür?
+
+@Mephistopheles: Ich will deine Seele.
+
+@Faust: Das ist ein hoher Preis.
+
+@Mephistopheles: Es ist der einzige Preis, den ich verlangen kann.
+
+@Faust: Ich willige ein.
+
+@Mephistopheles: Dann ist es besiegelt. Du wirst alles bekommen, was du dir wünschst, aber deine Seele gehört mir.
+
+@Faust: Ich bin bereit.
+
+@Mephistopheles: Dann lass uns beginnen.
+
+Mephistopheles schwenkt seinen Stab und die 
+##Szene verwandelt sich in ein prächtiges Schloss. Faust ist umgeben von Luxus und Reichtum. Er hat alles bekommen, was er sich je gewünscht hat. Aber er ist nicht glücklich. Er weiß, dass er seine Seele für all das verloren hat.
+
+@Faust: (allein) Ich habe alles, was ich mir je gewünscht habe, aber ich bin nicht glücklich. Ich habe meine Seele verloren.
+
+@Mephistopheles: (tritt auf) Was ist los?
+
+@Faust: Ich bin nicht glücklich.
+
+@Mephistopheles: Warum nicht? Du hast alles, was du dir je gewünscht hast.
+
+@Faust: Ich habe meine Seele verloren.
+
+@Mephistopheles: Das ist nicht wichtig. Du hast alles andere.
+
+@Faust: Es ist mir wichtig. Ich möchte meine Seele zurück.
+
+@Mephistopheles: Das ist nicht möglich. Du hast es unterschrieben.
+
+@Faust: Ich möchte es zurückziehen.
+
+@Mephistopheles: Das ist nicht möglich.
+
+@Faust: Ich werde nicht aufgeben. Ich werde meine Seele zurückbekommen.
+
+@Mephistopheles: Dann wirst du mich besiegen müssen.
+
+@Faust: Ich bin bereit.
+
+Faust und Mephistopheles stürzen sich in einen Kampf. Der Kampf dauert lange und erbittert. Am Ende ist Faust der Sieger. Er hat seine Seele zurückgewonnen.
+
+@Faust: (allein) Ich habe meine Seele zurückgewonnen. Ich bin frei.
+
+@Mephistopheles: (tritt auf) Du hast mich besiegt.
+
+@Faust: Ja, ich habe dich besiegt.
+
+@Mephistopheles: Ich werde mich rächen.
+
+@Faust: Du kannst dich nicht rächen. Ich bin frei.
+
+@Mephistopheles: Ich werde dich finden.
+
+@Faust: Du wirst mich nicht finden. Ich bin frei.
+
+Faust wendet sich ab und geht. Mephistopheles bleibt allein zurück. Er ist verärgert und wütend, aber er weiß, dass er Faust nicht besiegen kann. Faust ist frei.
+
+
+
+
+# 
+##Akt II
+
+
+$Szenenbild: Ein dunkler Wald. Im Hintergrund ist ein Schloss zu sehen.
+
+^Personen:
+
+@FAUST: 
+Ein junger Mann, der an Magie interessiert ist.
+@MEPHISTOPHELES: 
+Ein Teufel, der Faust mit Macht verführen möchte.
+@FAUST: (allein)
+ Ich habe alles, was ich mir wünschen kann, aber ich bin immer noch nicht zufrieden. Ich sehne mich nach etwas mehr.
+
+@MEPHISTOPHELES: (tritt auf)
+ Ich kann dir helfen. Ich kann dir alles geben, was du dir wünschst.
+
+@FAUST: 
+Was willst du dafür?
+
+@MEPHISTOPHELES: 
+Ich will deine Seele.
+
+@FAUST: 
+Das ist ein hoher Preis.
+
+@MEPHISTOPHELES: 
+Es ist der einzige Preis, den ich verlangen kann.
+
+@FAUST: 
+Ich willige ein.
+
+@MEPHISTOPHELES: 
+Dann ist es besiegelt. Du wirst alles bekommen, was du dir wünschst, aber deine Seele gehört mir.
+
+@FAUST: 
+Ich bin bereit.
+
+@MEPHISTOPHELES: 
+Dann lass uns beginnen.
+
+@MEPHISTOPHELES 
+schwenkt seinen Stab und die 
+##Szene verwandelt sich in ein prächtiges Schloss. Faust ist umgeben von Luxus und Reichtum. Er hat alles bekommen, was er sich je gewünscht hat. Aber er ist nicht glücklich. Er weiß, dass er seine Seele für all das verloren hat.
+
+@FAUST: (allein)
+ Ich habe alles, was ich mir je gewünscht habe, aber ich bin nicht glücklich. Ich habe meine Seele verloren.
+
+@MEPHISTOPHELES: (tritt auf)
+ Was ist los?
+
+@FAUST: 
+Ich bin nicht glücklich.
+
+@MEPHISTOPHELES: 
+Warum nicht? Du hast alles, was du dir je gewünscht hast.
+
+@FAUST: 
+Ich habe meine Seele verloren.
+
+@MEPHISTOPHELES: 
+Das ist nicht wichtig. Du hast alles andere.
+
+@FAUST: 
+Es ist mir wichtig. Ich möchte meine Seele zurück.
+
+@MEPHISTOPHELES: 
+Das ist nicht möglich. Du hast es unterschrieben.
+
+@FAUST: 
+Ich möchte es zurückziehen.
+
+@MEPHISTOPHELES: 
+Das ist nicht möglich.
+
+@FAUST: 
+Ich werde nicht aufgeben. Ich werde meine Seele zurückbekommen.
+
+@MEPHISTOPHELES: 
+Dann wirst du mich besiegen müssen.
+
+@FAUST: 
+Ich bin bereit.
+
+Faust und Mephistopheles stürzen sich in einen Kampf. Der Kampf dauert lange und erbittert. Am Ende ist Faust der Sieger. Er hat seine Seele zurückgewonnen.
+
+@FAUST: (allein)
+ Ich habe meine Seele zurückgewonnen. Ich bin frei.
+
+@MEPHISTOPHELES: (tritt auf)
+ Du hast mich besiegt.
+
+@FAUST: 
+Ja, ich habe dich besiegt.
+
+@MEPHISTOPHELES: 
+Ich werde mich rächen.
+
+@FAUST: 
+Du kannst dich nicht rächen. Ich bin frei.
+
+@MEPHISTOPHELES: 
+Ich werde dich finden.
+
+@FAUST: 
+Ich werde dich nicht finden. Ich bin frei.
+
+Faust wendet sich ab und geht. Mephistopheles bleibt allein zurück. Er ist verärgert und wütend, aber er weiß, dass er Faust nicht besiegen kann. Faust ist frei.
+
+@Faust: (allein) Ich bin endlich frei. Ich bin nicht länger an Mephistopheles gebunden. Ich kann mein eigenes Leben leben. Ich kann tun, was ich will. Ich bin frei.
+
+Faust wendet sich ab und geht. Er ist glücklich und frei.
+
+
+### 
+##AKT III
+
+
+$Szenenbild: Ein dunkler Wald. Im Hintergrund ist ein Schloss zu sehen.
+
+^Personen:
+
+@FAUST: 
+Ein junger Mann, der an Magie interessiert ist.
+@MEPHISTOPHELES: 
+Ein Teufel, der Faust mit Macht verführen möchte.
+@FAUST: (allein)
+ Ich habe alles, was ich mir wünschen kann, aber ich bin immer noch nicht zufrieden. Ich sehne mich nach etwas mehr.
+
+@MEPHISTOPHELES: (tritt auf)
+ Ich kann dir helfen. Ich kann dir alles geben, was du dir wünschst.
+
+@FAUST: 
+Was willst du dafür?
+
+@MEPHISTOPHELES: 
+Ich will deine Seele.
+
+@FAUST: 
+Das ist ein hoher Preis.
+
+@MEPHISTOPHELES: 
+Es ist der einzige Preis, den ich verlangen kann.
+
+@FAUST: 
+Ich willige ein.
+
+@MEPHISTOPHELES: 
+Dann ist es besiegelt. Du wirst alles bekommen, was du dir wünschst, aber deine Seele gehört mir.
+
+@FAUST: 
+Ich bin bereit.
+
+@MEPHISTOPHELES: 
+Dann lass uns beginnen.
+
+@MEPHISTOPHELES 
+schwenkt seinen Stab und die 
+##Szene verwandelt sich in ein prächtiges Schloss. Faust ist umgeben von Luxus und Reichtum. Er hat alles bekommen, was er sich je gewünscht hat. Aber er ist nicht glücklich. Er weiß, dass er seine Seele für all das verloren hat.
+
+@FAUST: (allein)
+ Ich habe alles, was ich mir je gewünscht habe, aber ich bin nicht glücklich. Ich habe meine Seele verloren.
+
+@MEPHISTOPHELES: (tritt auf)
+ Was ist los?
+
+@FAUST: 
+Ich bin nicht glücklich.
+
+@MEPHISTOPHELES: 
+Warum nicht? Du hast alles, was du dir je gewünscht hast.
+
+@FAUST: 
+Ich habe meine Seele verloren.
+
+@MEPHISTOPHELES: 
+Das ist nicht wichtig. Du hast alles andere.
+
+@FAUST: 
+Es ist mir wichtig. Ich möchte meine Seele zurück.
+
+@MEPHISTOPHELES: 
+Das ist nicht möglich. Du hast es unterschrieben.
+
+@FAUST: 
+Ich möchte es zurückziehen.
+
+@MEPHISTOPHELES: 
+Das ist nicht möglich.
+
+@FAUST: 
+Ich werde nicht aufgeben. Ich werde meine Seele zurückbekommen.
+
+@MEPHISTOPHELES: 
+Dann wirst du mich besiegen müssen.
+
+Faust und Mephistopheles stürzen sich in einen Kampf. Der Kampf dauert lange und erbittert. Am Ende ist Faust der Sieger. Er hat seine Seele zurückgewonnen.
+
+@FAUST: (allein)
+ Ich habe meine Seele zurückgewonnen. Ich bin frei.
+
+@MEPHISTOPHELES: (tritt auf)
+ Du hast mich besiegt.
+
+@FAUST: 
+Ja, ich habe dich besiegt.
+
+@MEPHISTOPHELES: 
+Ich werde mich rächen.
+
+@FAUST: 
+Du kannst dich nicht rächen. Ich bin frei.
+
+@MEPHISTOPHELES: 
+Ich werde dich finden.
+
+@FAUST: 
+Ich werde dich nicht finden. Ich bin frei.
+
+Faust wendet sich ab und geht. Mephistopheles bleibt allein zurück. Er ist verärgert und wütend, aber er weiß, dass er Faust nicht besiegen kann. Faust ist frei.
+
+
+## 
+##AKT IV
+
+
+
+##Szene 1
+
+$Ort: Ein dunkler Wald. Im Hintergrund ist ein Schloss zu sehen.
+
+Figuren:
+
+@FAUST: 
+Ein junger Mann, der an Magie interessiert ist.
+@MEPHISTOPHELES: 
+Ein Teufel, der Faust mit Macht verführen möchte.
+@Faust: (allein) Ich habe alles, was ich mir wünschen kann, aber ich bin immer noch nicht zufrieden. Ich sehne mich nach etwas mehr.
+
+@Mephistopheles: (tritt auf) Ich kann dir helfen. Ich kann dir alles geben, was du dir wünschst.
+
+@Faust: Was willst du dafür?
+
+@Mephistopheles: Ich will deine Seele.
+
+@Faust: Das ist ein hoher Preis.
+
+@Mephistopheles: Es ist der einzige Preis, den ich verlangen kann.
+
+@Faust: Ich willige ein.
+
+@Mephistopheles: Dann ist es besiegelt. Du wirst alles bekommen, was du dir wünschst, aber deine Seele gehört mir.
+
+@Faust: Ich bin bereit.
+
+@Mephistopheles: Dann lass uns beginnen.
+
+Mephistopheles schwenkt seinen Stab und die 
+##Szene verwandelt sich in ein prächtiges Schloss. Faust ist umgeben von Luxus und Reichtum. Er hat alles bekommen, was er sich je gewünscht hat. Aber er ist nicht glücklich. Er weiß, dass er seine Seele für all das verloren hat.
+
+@Faust: (allein) Ich habe alles, was ich mir je gewünscht habe, aber ich bin nicht glücklich. Ich habe meine Seele verloren.
+
+@Mephistopheles: (tritt auf) Was ist los?
+
+@Faust: Ich bin nicht glücklich.
+
+@Mephistopheles: Warum nicht? Du hast alles, was du dir je gewünscht hast.
+
+@Faust: Ich habe meine Seele verloren.
+
+@Mephistopheles: Das ist nicht wichtig. Du hast alles andere.
+
+@Faust: Es ist mir wichtig. Ich möchte meine Seele zurück.
+
+@Mephistopheles: Das ist nicht möglich. Du hast es unterschrieben.
+
+@Faust: Ich möchte es zurückziehen.
+
+@Mephistopheles: Das ist nicht möglich.
+
+@Faust: Ich werde nicht aufgeben. Ich werde meine Seele zurückbekommen.
+
+@Mephistopheles: Dann wirst du mich besiegen müssen.
+
+Faust und Mephistopheles stürzen sich in einen Kampf. Der Kampf dauert lange und erbittert. Am Ende ist Faust der Sieger. Er hat seine Seele zurückgewonnen.
+
+@Faust: (allein) Ich habe meine Seele zurückgewonnen. Ich bin frei.
+
+@Mephistopheles: (tritt auf) Du hast mich besiegt.
+
+@Faust: Ja, ich habe dich besiegt.
+
+@Mephistopheles: Ich werde mich rächen.
+
+@Faust: Du kannst dich nicht rächen. Ich bin frei.
+
+@Mephistopheles: Ich werde dich finden.
+
+@Faust: Ich werde dich nicht finden. Ich bin frei.
+
+Faust wendet sich ab und geht. Mephistopheles bleibt allein zurück. Er ist verärgert und wütend, aber er weiß, dass er Faust nicht besiegen kann. Faust ist frei.
+
+
+
+
+
+##Szene 1
+
+$Ort: Ein dunkler Wald. Im Hintergrund ist ein Schloss zu sehen.
+
+Figuren:
+
+@FAUST: 
+Ein junger Mann, der an Magie interessiert ist.
+@MEPHISTOPHELES: 
+Ein Teufel, der Faust mit Macht verführen möchte.
+@Faust: (allein) Ich habe alles, was ich mir wünschen kann, aber ich bin immer noch nicht zufrieden. Ich sehne mich nach etwas mehr.
+
+@Mephistopheles: (tritt auf) Ich kann dir helfen. Ich kann dir alles geben, was du dir wünschst.
+
+@Faust: Was willst du dafür?
+
+@Mephistopheles: Ich will deine Seele.
+
+@Faust: Das ist ein hoher Preis.
+
+@Mephistopheles: Es ist der einzige Preis, den ich verlangen kann.
+
+@Faust: Ich willige ein.
+
+@Mephistopheles: Dann ist es besiegelt. Du wirst alles bekommen, was du dir wünschst, aber deine Seele gehört mir.
+
+@Faust: Ich bin bereit.
+
+@Mephistopheles: Dann lass uns beginnen.
+
+Mephistopheles schwenkt seinen Stab und die 
+##Szene verwandelt sich in ein prächtiges Schloss. Faust ist umgeben von Luxus und Reichtum. Er hat alles bekommen, was er sich je gewünscht hat. Aber er ist nicht glücklich. Er weiß, dass er seine Seele für all das verloren hat.
+
+@Faust: (allein) Ich habe alles, was ich mir je gewünscht habe, aber ich bin nicht glücklich. Ich habe meine Seele verloren.
+
+@Mephistopheles: (tritt auf) Was ist los?
+
+@Faust: Ich bin nicht glücklich.
+
+@Mephistopheles: Warum nicht? Du hast alles, was du dir je gewünscht hast.
+
+@Faust: Ich habe meine Seele verloren.
+
+@Mephistopheles: Das ist nicht wichtig. Du hast alles andere.
+
+@Faust: Es ist mir wichtig. Ich möchte meine Seele zurück.
+
+@Mephistopheles: Das ist nicht möglich. Du hast es unterschrieben.
+
+@Faust: Ich möchte es zurückziehen.
+
+@Mephistopheles: Das ist nicht möglich.
+
+@Faust: Ich werde nicht aufgeben. Ich werde meine Seele zurückbekommen.
+
+@Mephistopheles: Dann wirst du mich besiegen müssen.
+
+Faust und Mephistopheles stürzen sich in einen Kampf. Der Kampf dauert lange und erbittert. Am Ende ist Faust der Sieger. Er hat seine Seele zurückgewonnen.
+
+@Faust: (allein) Ich habe meine Seele zurückgewonnen. Ich bin frei.
+
+@Mephistopheles: (tritt auf) Du hast mich besiegt.
+
+@Faust: Ja, ich habe dich besiegt.
+
+@Mephistopheles: Ich werde mich rächen.
+
+@Faust: Du kannst dich nicht rächen. Ich bin frei.
+
+@Mephistopheles: Ich werde dich finden.
+
+@Faust: Ich werde dich nicht finden. Ich bin frei.
+
+Faust wendet sich ab und geht. Mephistopheles bleibt allein zurück. Er ist verärgert und wütend, aber er weiß, dass er Faust nicht besiegen kann. Faust ist frei.

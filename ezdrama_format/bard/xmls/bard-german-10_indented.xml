@@ -1,0 +1,652 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="epilog">
+            <persName>**EPILOG**</persName>
+          </person>
+          <person sex="MALE" xml:id="einige stunden später">
+            <persName>**EINIGE STUNDEN SPÄTER**</persName>
+          </person>
+          <person sex="MALE" xml:id="einige jahre später">
+            <persName>**EINIGE JAHRE SPÄTER**</persName>
+          </person>
+          <person sex="MALE" xml:id="der herzog geist">
+            <persName>**DER HERZOG GEIST**</persName>
+          </person>
+          <person sex="MALE" xml:id="die soldaten">
+            <persName>**DIE SOLDATEN**</persName>
+          </person>
+          <person sex="MALE" xml:id="der herzog">
+            <persName>**DER HERZOG**</persName>
+          </person>
+          <person sex="MALE" xml:id="die frau">
+            <persName>**DIE FRAU**</persName>
+          </person>
+          <person sex="MALE" xml:id="ein friedhof">
+            <persName>**EIN FRIEDHOF**</persName>
+          </person>
+          <person sex="MALE" xml:id="ein raum im schloss">
+            <persName>**EIN RAUM IM SCHLOSS**</persName>
+          </person>
+          <person sex="MALE" xml:id="der kameradier">
+            <persName>**DER KAMERADIER**</persName>
+          </person>
+          <person sex="MALE" xml:id="die kinder">
+            <persName>**DIE KINDER**</persName>
+          </person>
+          <person sex="MALE" xml:id="ein schlachtfeld">
+            <persName>**EIN SCHLACHTFELD**</persName>
+          </person>
+          <person sex="MALE" xml:id="der sohn">
+            <persName>**DER SOHN**</persName>
+          </person>
+          <person sex="MALE" xml:id="herzog geist">
+            <persName>**HERZOG GEIST**</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>Sure, here is a first act of a 19th-century German play in the style of German drama in German:<div type="act">
+        <head>**Erster Akt**</head>
+        <div type="scene">
+          <head>**</head>
+        </div>
+        <div type="scene">
+          <head>Szene 1**</head>* * *<sp who="#ein raum im schloss">
+            <speaker>**EIN RAUM IM SCHLOSS**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Ich bin der Herzog von Bayern. Ich bin mächtig und reich. Ich habe alles, was ich mir wünschen kann. Aber ich bin auch einsam. Ich habe keine Freunde. Ich habe keine Familie. Ich bin ein Gefangener in meinem eigenen Schloss.</p>
+          </sp>
+          <stage>(sitzt auf einem Thron)</stage>
+          <sp who="#der kameradier">
+            <speaker>**DER KAMERADIER**</speaker>
+            <p>Euer Gnaden, es ist ein Bote von der Front gekommen.</p>
+          </sp>
+          <stage>(tritt ein)</stage>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Was hat er zu berichten?</p>
+          </sp>
+          <stage>(steht auf)</stage>
+          <sp who="#der kameradier">
+            <speaker>**DER KAMERADIER**</speaker>
+            <p>Die Schlacht war verloren. Unsere Armee ist besiegt.</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>* * *</p>
+          </sp>
+          <stage>(fällt in Ohnmacht)</stage>
+        </div>
+        <div type="scene">
+          <head>**</head>
+        </div>
+        <div type="scene">
+          <head>Szene 2**</head>* * *<sp who="#einige stunden später">
+            <speaker>**EINIGE STUNDEN SPÄTER**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Wo bin ich?</p>
+          </sp>
+          <stage>(erwacht)</stage>
+          <sp who="#der kameradier">
+            <speaker>**DER KAMERADIER**</speaker>
+            <p>Ihr seid in eurem Schlafgemach, Euer Gnaden.</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Was ist geschehen?</p>
+          </sp>
+          <sp who="#der kameradier">
+            <speaker>**DER KAMERADIER**</speaker>
+            <p>Ihr habt einen Schwächeanfall erlitten.</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Die Schlacht. Was ist mit der Schlacht?</p>
+          </sp>
+          <sp who="#der kameradier">
+            <speaker>**DER KAMERADIER**</speaker>
+            <p>Sie ist verloren. Unsere Armee ist besiegt.</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Das ist das Ende.</p>
+          </sp>
+          <stage>(weint)</stage>
+          <sp who="#der kameradier">
+            <speaker>**DER KAMERADIER**</speaker>
+            <p>Nein, Euer Gnaden. Es ist noch nicht zu spät. Ihr könnt noch alles zurückgewinnen.</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Wie?</p>
+          </sp>
+          <sp who="#der kameradier">
+            <speaker>**DER KAMERADIER**</speaker>
+            <p>Ihr müsst kämpfen. Ihr müsst eure Armee neu aufstellen. Ihr müsst die Schlacht rächen.</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Ich kann es nicht. Ich bin zu schwach.</p>
+          </sp>
+          <sp who="#der kameradier">
+            <speaker>**DER KAMERADIER**</speaker>
+            <p>Ihr müsst es. Ihr seid der Herzog von Bayern. Ihr seid der letzte Hoffnungsträger eurers Volkes.</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Du hast recht. Ich werde kämpfen. Ich werde meine Armee neu aufstellen. Ich werde die Schlacht rächen.* * *Sure, here is another act of the same play in German:</p>
+          </sp>
+          <stage>(steht auf)</stage>
+          <stage>**(Der Herzog und der Kamerad gehen.)**</stage>
+          <stage>**Der Vorhang fällt.**</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>**Zweiter Akt**</head>
+        <div type="scene">
+          <head>**</head>
+        </div>
+        <div type="scene">
+          <head>Szene 1**</head>* * *<sp who="#ein schlachtfeld">
+            <speaker>**EIN SCHLACHTFELD**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Wir haben gekämpft. Wir haben unsere Armee neu aufgestellt. Wir haben die Schlacht gerächt.</p>
+          </sp>
+          <stage>(steht auf dem Schlachtfeld, umringt von seinen Soldaten)</stage>
+          <sp who="#die soldaten">
+            <speaker>**DIE SOLDATEN**</speaker>
+            <p>Hurra! Hurra! Der Herzog ist ein Held!</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Ich bin kein Held. Ich bin nur ein Mann, der alles verloren hat und dann alles wiedergewonnen hat.</p>
+          </sp>
+          <sp who="#die soldaten">
+            <speaker>**DIE SOLDATEN**</speaker>
+            <p>Ihr seid der Herzog von Bayern. Ihr seid der neue Hoffnungsträger eures Volkes.</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Ich werde mein Volk nicht enttäuschen.* * *</p>
+          </sp>
+          <stage>**(Der Herzog und seine Soldaten ziehen triumphierend ab.)**</stage>
+        </div>
+        <div type="scene">
+          <head>**</head>
+        </div>
+        <div type="scene">
+          <head>Szene 2**</head>* * *<sp who="#ein raum im schloss">
+            <speaker>**EIN RAUM IM SCHLOSS**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Ich habe alles zurückgewonnen. Mein Reich. Mein Volk. Meine Ehre.</p>
+          </sp>
+          <stage>(sitzt auf dem Thron, neben ihm seine Frau und sein Sohn)</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Ich bin so stolz auf dich, mein Gemahl.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich will auch ein Held sein wie du, Vater.</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Du wirst es sein, mein Sohn. Du wirst es sein.* * *</p>
+          </sp>
+          <stage>**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**</stage>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Ich muss jetzt gehen. Es ist Zeit, mich zu verabschieden.</p>
+          </sp>
+          <stage>(steht auf)</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Wohin gehst du, mein Gemahl?</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Ich gehe ins Jenseits. Meine Zeit ist gekommen.</p>
+          </sp>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Aber wir brauchen dich doch.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ja, Vater. Wir wollen dich nicht loslassen.</p>
+          </sp>
+          <sp who="#der herzog">
+            <speaker>**DER HERZOG**</speaker>
+            <p>Ich werde immer bei euch sein. In eurem Herzen und in eurem Gedächtnis.* * *</p>
+          </sp>
+          <stage>**(Der Herzog geht.)**</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Mein Gemahl ist tot.</p>
+          </sp>
+          <stage>(weint)</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich weiß, Mutter. Aber er wird immer in unseren Herzen sein.* * *Sure, here is another act of the same play in German:**Dritter Akt**</p>
+          </sp>
+          <stage>**(Die Frau und der Sohn umarmen sich.)**</stage>
+          <stage>**Der Vorhang fällt.**</stage>
+        </div>
+        <div type="scene">
+          <head>**</head>
+        </div>
+        <div type="scene">
+          <head>Szene 1**</head>* * *<sp who="#einige jahre später">
+            <speaker>**EINIGE JAHRE SPÄTER**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#ein raum im schloss">
+            <speaker>**EIN RAUM IM SCHLOSS**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich habe die Herrschaft von meinem Vater übernommen. Ich habe mein Bestes getan, um sein Erbe zu bewahren. Mein Volk ist friedlich und wohlhabend. Ich bin stolz auf das, was ich erreicht habe.</p>
+          </sp>
+          <stage>(sitzt auf dem Thron, neben ihm seine Frau und seine Kinder)</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Ich bin so stolz auf dich, mein Gemahl. Du bist ein guter und gerechter Herrscher.</p>
+          </sp>
+          <sp who="#die kinder">
+            <speaker>**DIE KINDER**</speaker>
+            <p>Wir lieben dich, Vater!</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich liebe euch auch, meine Kinder.* * *</p>
+          </sp>
+          <sp who="#der herzog geist">
+            <speaker>**DER HERZOG GEIST**</speaker>
+            <p>Ich bin stolz auf dich, mein Sohn. Du hast mein Erbe würdig fortgeführt.</p>
+          </sp>
+          <stage>(erscheint im Raum)</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Vater!</p>
+          </sp>
+          <sp who="#der herzog geist">
+            <speaker>**DER HERZOG GEIST**</speaker>
+            <p>Ja, es bin ich. Ich bin gekommen, um dir zu sagen, dass du ein guter Sohn und ein guter Herrscher bist. Ich bin stolz auf dich.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Danke, Vater. Ich habe mein Bestes getan.</p>
+          </sp>
+          <sp who="#der herzog geist">
+            <speaker>**DER HERZOG GEIST**</speaker>
+            <p>Ich weiß, mein Sohn. Ich bin stolz auf dich.</p>
+          </sp>
+          <stage>**(Der Herzog Geist legt seine Hand auf die Schulter des Sohnes.)**</stage>
+          <sp who="#der herzog geist">
+            <speaker>**DER HERZOG GEIST**</speaker>
+            <p>Ich muss jetzt gehen. Aber ich werde immer bei dir sein. In deinem Herzen und in deinem Gedächtnis.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich weiß, Vater. Ich werde dich nie vergessen.* * *</p>
+          </sp>
+          <stage>**(Der Herzog Geist verschwindet.)**</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich muss jetzt gehen. Es ist Zeit, mich zu verabschieden.</p>
+          </sp>
+          <stage>(steht auf)</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Wohin gehst du, mein Gemahl?</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich gehe ins Jenseits. Meine Zeit ist gekommen.</p>
+          </sp>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Aber wir brauchen dich doch.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ja, Mutter. Wir wollen dich nicht loslassen.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich werde immer bei euch sein. In eurem Herzen und in eurem Gedächtnis.* * *</p>
+          </sp>
+          <stage>**(Der Sohn geht.)**</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Mein Gemahl ist tot.</p>
+          </sp>
+          <stage>(weint)</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich weiß, Mutter. Aber er wird immer in unseren Herzen sein.* * *</p>
+          </sp>
+          <stage>**(Die Frau und der Sohn umarmen sich.)**</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>**Epilog**</head>* * *<sp who="#einige jahre später">
+          <speaker>**EINIGE JAHRE SPÄTER**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#ein friedhof">
+          <speaker>**EIN FRIEDHOF**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#der sohn">
+          <speaker>**DER SOHN**</speaker>
+          <p>Es ist einige Jahre her, seit mein Vater gestorben ist. Aber ich denke immer noch an ihn. Er war ein großer Mann und ein guter Vater. Ich bin dankbar für alles, was er mir beigebracht hat.</p>
+        </sp>
+        <stage>(steht am Grab seines Vaters)</stage>
+        <stage>**(Der Sohn legt einen Blumenstrauß auf das Grab.)**</stage>
+        <sp who="#der sohn">
+          <speaker>**DER SOHN**</speaker>
+          <p>Ich weiß, dass du immer bei mir bist, Vater. In meinem Herzen und in meinem Gedächtnis. Ich werde dein Erbe weiterführen und ein guter Herrscher sein, wie du es warst.* * *Sure, here is another act of the same play in German:**Vierter Akt**</p>
+        </sp>
+        <stage>**(Der Sohn geht.)**</stage>
+        <stage>**Der Vorhang fällt.**</stage>
+        <div type="scene">
+          <head>**</head>
+        </div>
+        <div type="scene">
+          <head>Szene 1**</head>* * *<sp who="#einige jahre später">
+            <speaker>**EINIGE JAHRE SPÄTER**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#ein raum im schloss">
+            <speaker>**EIN RAUM IM SCHLOSS**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich bin alt geworden. Ich habe mein Leben lang gekämpft und gestritten. Aber ich habe auch viel erreicht. Ich habe mein Reich aufgebaut und mein Volk geeint. Ich bin stolz auf das, was ich getan habe.</p>
+          </sp>
+          <stage>(sitzt auf dem Thron, neben ihm seine Frau und seine erwachsenen Kinder)</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Ich bin auch stolz auf dich, mein Gemahl. Du hast ein großes Werk vollbracht.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich bin dankbar für alles, was du für mich getan hast, Vater. Ich werde dein Erbe weiterführen.</p>
+          </sp>
+          <sp who="#der herzog geist">
+            <speaker>**DER HERZOG GEIST**</speaker>
+            <p>Ich weiß, dass du es kannst, mein Sohn. Du bist ein guter und gerechter Mann. Ich bin stolz auf dich.</p>
+          </sp>
+          <stage>**(Der Herzog Geist erscheint im Raum.)**</stage>
+          <sp who="#herzog geist">
+            <speaker>**HERZOG GEIST**</speaker>
+            <p>Ich bin stolz auf dich, mein Sohn. Du hast mein Erbe würdig fortgeführt.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Vater!</p>
+          </sp>
+          <sp who="#herzog geist">
+            <speaker>**HERZOG GEIST**</speaker>
+            <p>Ja, es bin ich. Ich bin gekommen, um dir zu sagen, dass du ein guter Sohn und ein guter Herrscher bist. Ich bin stolz auf dich.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Danke, Vater. Ich habe mein Bestes getan.</p>
+          </sp>
+          <sp who="#herzog geist">
+            <speaker>**HERZOG GEIST**</speaker>
+            <p>Ich weiß, mein Sohn. Ich bin stolz auf dich.</p>
+          </sp>
+          <stage>**(Der Herzog Geist legt seine Hand auf die Schulter des Sohnes.)**</stage>
+          <sp who="#herzog geist">
+            <speaker>**HERZOG GEIST**</speaker>
+            <p>Ich muss jetzt gehen. Aber ich werde immer bei dir sein. In deinem Herzen und in deinem Gedächtnis.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich weiß, Vater. Ich werde dich nie vergessen.* * *</p>
+          </sp>
+          <stage>**(Der Herzog Geist verschwindet.)**</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich muss jetzt gehen. Es ist Zeit, mich zu verabschieden.</p>
+          </sp>
+          <stage>(steht auf)</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Wohin gehst du, mein Gemahl?</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich gehe ins Jenseits. Meine Zeit ist gekommen.</p>
+          </sp>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Aber wir brauchen dich doch.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ja, Mutter. Wir wollen dich nicht loslassen.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich werde immer bei euch sein. In eurem Herzen und in eurem Gedächtnis.* * *</p>
+          </sp>
+          <stage>**(Der Sohn geht.)**</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Mein Gemahl ist tot.</p>
+          </sp>
+          <stage>(weint)</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich weiß, Mutter. Aber er wird immer in unseren Herzen sein.* * *</p>
+          </sp>
+          <stage>**(Die Frau und der Sohn umarmen sich.)**</stage>
+          <sp who="#epilog">
+            <speaker>**EPILOG**</speaker>
+            <p>* * *</p>
+          </sp>
+          <sp who="#einige jahre später">
+            <speaker>**EINIGE JAHRE SPÄTER**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#ein friedhof">
+            <speaker>**EIN FRIEDHOF**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Es ist einige Jahre her, seit mein Vater gestorben ist. Aber ich denke immer noch an ihn. Er war ein großer Mann und ein guter Vater. Ich bin dankbar für alles, was er mir beigebracht hat.</p>
+          </sp>
+          <stage>(steht am Grab seines Vaters)</stage>
+          <stage>**(Der Sohn legt einen Blumenstrauß auf das Grab.)**</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich weiß, dass du immer bei mir bist, Vater. In meinem Herzen und in meinem Gedächtnis. Ich werde dein Erbe weiterführen und ein guter Herrscher sein, wie du es warst.* * *Sure, here is another act of the same play in German:**Fünfter Akt**</p>
+          </sp>
+          <stage>**(Der Sohn geht.)**</stage>
+          <stage>**Der Vorhang fällt.**</stage>
+        </div>
+        <div type="scene">
+          <head>**</head>
+        </div>
+        <div type="scene">
+          <head>Szene 1**</head>* * *<sp who="#einige jahre später">
+            <speaker>**EINIGE JAHRE SPÄTER**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#ein raum im schloss">
+            <speaker>**EIN RAUM IM SCHLOSS**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich bin alt geworden. Ich habe mein Leben lang gekämpft und gestritten. Aber ich habe auch viel erreicht. Ich habe mein Reich aufgebaut und mein Volk geeint. Ich bin stolz auf das, was ich getan habe.</p>
+          </sp>
+          <stage>(sitzt auf dem Thron, neben ihm seine Frau und seine erwachsenen Kinder)</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Ich bin auch stolz auf dich, mein Gemahl. Du hast ein großes Werk vollbracht.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich bin dankbar für alles, was du für mich getan hast, Vater. Ich werde dein Erbe weiterführen.</p>
+          </sp>
+          <sp who="#der herzog geist">
+            <speaker>**DER HERZOG GEIST**</speaker>
+            <p>Ich weiß, dass du es kannst, mein Sohn. Du bist ein guter und gerechter Mann. Ich bin stolz auf dich.</p>
+          </sp>
+          <stage>**(Der Herzog Geist erscheint im Raum.)**</stage>
+          <sp who="#herzog geist">
+            <speaker>**HERZOG GEIST**</speaker>
+            <p>Ich bin stolz auf dich, mein Sohn. Du hast mein Erbe würdig fortgeführt.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Vater!</p>
+          </sp>
+          <sp who="#herzog geist">
+            <speaker>**HERZOG GEIST**</speaker>
+            <p>Ja, es bin ich. Ich bin gekommen, um dir zu sagen, dass du ein guter Sohn und ein guter Herrscher bist. Ich bin stolz auf dich.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Danke, Vater. Ich habe mein Bestes getan.</p>
+          </sp>
+          <sp who="#herzog geist">
+            <speaker>**HERZOG GEIST**</speaker>
+            <p>Ich weiß, mein Sohn. Ich bin stolz auf dich.</p>
+          </sp>
+          <stage>**(Der Herzog Geist legt seine Hand auf die Schulter des Sohnes.)**</stage>
+          <sp who="#herzog geist">
+            <speaker>**HERZOG GEIST**</speaker>
+            <p>Ich muss jetzt gehen. Aber ich werde immer bei dir sein. In deinem Herzen und in deinem Gedächtnis.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich weiß, Vater. Ich werde dich nie vergessen.* * *</p>
+          </sp>
+          <stage>**(Der Herzog Geist verschwindet.)**</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich muss jetzt gehen. Es ist Zeit, mich zu verabschieden.</p>
+          </sp>
+          <stage>(steht auf)</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Wohin gehst du, mein Gemahl?</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich gehe ins Jenseits. Meine Zeit ist gekommen.</p>
+          </sp>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Aber wir brauchen dich doch.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ja, Mutter. Wir wollen dich nicht loslassen.</p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich werde immer bei euch sein. In eurem Herzen und in eurem Gedächtnis.* * *</p>
+          </sp>
+          <stage>**(Der Sohn geht.)**</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Mein Gemahl ist tot.</p>
+          </sp>
+          <stage>(weint)</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich weiß, Mutter. Aber er wird immer in unseren Herzen sein.* * *</p>
+          </sp>
+          <stage>**(Die Frau und der Sohn umarmen sich.)**</stage>
+          <sp who="#epilog">
+            <speaker>**EPILOG**</speaker>
+            <p>* * *</p>
+          </sp>
+          <sp who="#einige jahre später">
+            <speaker>**EINIGE JAHRE SPÄTER**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#ein friedhof">
+            <speaker>**EIN FRIEDHOF**</speaker>
+            <p></p>
+          </sp>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Es ist einige Jahre her, seit mein Vater gestorben ist. Aber ich denke immer noch an ihn. Er war ein großer Mann und ein guter Vater. Ich bin dankbar für alles, was er mir beigebracht hat.</p>
+          </sp>
+          <stage>(steht am Grab seines Vaters)</stage>
+          <stage>**(Der Sohn legt einen Blumenstrauß auf das Grab.)**</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich weiß, dass du immer bei mir bist, Vater. In meinem Herzen und in meinem Gedächtnis. Ich werde dein Erbe weiterführen und ein guter Herrscher sein, wie du es warst.* * ***Zusätzlicher Dialog:**</p>
+          </sp>
+          <stage>**(Der Sohn geht.)**</stage>
+          <stage>**Der Vorhang fällt.**</stage>
+          <sp who="#der sohn">
+            <speaker>**DER SOHN**</speaker>
+            <p>Ich weiß, dass es schwer ist, aber wir müssen stark sein. Wir müssen das Erbe unseres Vaters weiterführen.</p>
+          </sp>
+          <stage>(zu seiner Frau)</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Ich weiß, mein Gemahl. Wir werden es tun.</p>
+          </sp>
+          <stage>**(Der Sohn und die Frau umarmen sich.)**</stage>
+          <stage>**(Der Sohn geht weg.)**</stage>
+          <sp who="#die frau">
+            <speaker>**DIE FRAU**</speaker>
+            <p>Vater, ich weiß, dass du uns von oben ansiehst. Wir werden dich nie vergessen.</p>
+          </sp>
+          <stage>(sieht auf das Grab des Herzogs)</stage>
+          <stage>**(Die Frau geht weg.)**</stage>
+          <stage>**(Der Vorhang fällt.)**</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

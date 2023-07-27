@@ -1,0 +1,457 @@
+
+## 
+##AKT I
+
+
+$Szenenbild: Ein dunkles Zimmer in einem alten Schloss.
+
+^Personen:
+
+@ELIZABETH: 
+Die junge Tochter des Schlossherrn.
+@FRIEDERICH: 
+Ein junger Mann, der in Elizabeth verliebt ist.
+@DER 
+SCHLOSSHERRN: Der Vater von Elizabeth.
+@DIE 
+MUTTER: Die Mutter von Elizabeth.
+$(Der Vorhang geht auf. Elizabeth sitzt am Fenster und starrt in die Dunkelheit.):
+
+@ELIZABETH: (seufzend)
+ Ich kann nicht schlafen. Ich denke immer an Friedrich.
+
+$(Friedrich tritt ein.)
+
+@FRIEDERICH: 
+Elizabeth!
+
+@ELIZABETH: 
+Friedrich!
+
+$(Sie fallen sich in die Arme.)
+
+@FRIEDERICH: 
+Ich habe dich so vermisst.
+
+@ELIZABETH: 
+Ich habe dich auch vermisst.
+
+$(Sie küssen sich.)
+
+@DER 
+SCHLOSSHERRN: (tritt herein) Was ist hier los?
+
+@FRIEDERICH: 
+Herr, ich habe Elizabeth.
+
+@DER 
+SCHLOSSHERRN: Was? Was hast du gesagt?
+
+@FRIEDERICH: 
+Ich habe Elizabeth. Ich liebe sie und ich will sie heiraten.
+
+@DER 
+SCHLOSSHERRN: Das ist unmöglich! Elizabeth ist meine Tochter. Sie kann nicht mit dir heiraten.
+
+@FRIEDERICH: 
+Aber warum nicht?
+
+@DER 
+SCHLOSSHERRN: Weil du nicht gut genug für sie bist.
+
+@FRIEDERICH: 
+Das ist nicht wahr! Ich liebe sie und ich werde sie heiraten, egal was du sagst.
+
+@DER 
+SCHLOSSHERRN: Das werden wir sehen!
+
+$(Der Schlossherr geht.)
+
+@FRIEDERICH: 
+Elizabeth, ich werde dich nie aufgeben.
+
+@ELIZABETH: 
+Ich weiß.
+
+$(Sie küssen sich wieder.)
+
+$(Der Vorhang fällt.)
+
+
+## 
+##AKT II 
+
+Sure, here is another act of the same play in German:
+
+$Szenenbild: Ein heller Raum in einem alten Schloss.
+
+^Personen:
+
+@ELIZABETH: 
+Die junge Tochter des Schlossherrn.
+@FRIEDERICH: 
+Ein junger Mann, der in Elizabeth verliebt ist.
+@DER 
+SCHLOSSHERRN: Der Vater von Elizabeth.
+@DIE 
+MUTTER: Die Mutter von Elizabeth.
+$(Der Vorhang geht auf. Elizabeth und Friedrich sitzen auf einer Bank.):
+
+@ELIZABETH: 
+Friedrich, ich habe Angst.
+
+@FRIEDERICH: 
+Was ist los?
+
+@ELIZABETH: 
+Mein Vater. Er wird uns nicht heiraten lassen.
+
+@FRIEDERICH: 
+Ich habe mir das schon gedacht. Aber wir werden uns nicht aufgeben.
+
+@ELIZABETH: 
+Aber wie sollen wir das machen?
+
+@FRIEDERICH: 
+Ich habe einen Plan.
+
+$(Friedrich erzählt Elizabeth seinen Plan.)
+
+@ELIZABETH: 
+Das ist ein verrückter Plan. Aber ich bin dabei.
+
+$(Sie küssen sich.)
+
+$(Der Schlossherr tritt herein.):
+
+@DER 
+SCHLOSSHERRN: Was ist hier los?
+
+@ELIZABETH: 
+Vater, wir wollen heiraten.
+
+@DER 
+SCHLOSSHERRN: Das ist unmöglich!
+
+@FRIEDERICH: 
+Aber wir lieben uns.
+
+@DER 
+SCHLOSSHERRN: Das ist mir egal. Du bist nicht gut genug für sie.
+
+@FRIEDERICH: 
+Ich bin gut genug für sie!
+
+@DER 
+SCHLOSSHERRN: Wir werden sehen!
+
+$(Der Schlossherr geht.)
+
+@ELIZABETH: 
+Friedrich, was ist jetzt?
+
+@FRIEDERICH: 
+Wir gehen.
+
+$(Sie gehen.)
+
+$(Der Vorhang fällt.)
+
+##AKT III
+
+$Szenenbild: Eine Waldlichtung.
+
+^Personen:
+
+@ELIZABETH: 
+Die junge Tochter des Schlossherrn.
+@FRIEDERICH: 
+Ein junger Mann, der in Elizabeth verliebt ist.
+@DER 
+SCHLOSSHERRN: Der Vater von Elizabeth.
+@DIE 
+MUTTER: Die Mutter von Elizabeth.
+$(Der Vorhang geht auf. Elizabeth und Friedrich stehen auf einer Lichtung im Wald.):
+
+@ELIZABETH: 
+Friedrich, wir haben es geschafft.
+
+@FRIEDERICH: 
+Ja, wir haben es geschafft.
+
+$(Sie umarmen sich.)
+
+@ELIZABETH: 
+Ich kann es nicht glauben. Wir sind frei.
+
+@FRIEDERICH: 
+Ja, wir sind frei.
+
+$(Sie küssen sich.)
+
+$(Der Schlossherr tritt herein.):
+
+@DER 
+SCHLOSSHERRN: Elizabeth! Friedrich!
+
+$(Elizabeth und Friedrich springen auseinander.)
+
+@DER 
+SCHLOSSHERRN: Was macht ihr hier?
+
+@ELIZABETH: 
+Wir sind weggelaufen.
+
+@DER 
+SCHLOSSHERRN: Weggelaufen? Was soll das heißen?
+
+@FRIEDERICH: 
+Wir haben geheiratet.
+
+@DER 
+SCHLOSSHERRN: Geheiratet? Was?
+
+@FRIEDERICH: 
+Ja, wir haben geheiratet. Wir sind jetzt Mann und Frau.
+
+@DER 
+SCHLOSSHERRN: Das ist unmöglich!
+
+@ELIZABETH: 
+Es ist wahr. Wir haben es getan.
+
+@DER 
+SCHLOSSHERRN: Ich werde euch finden und euch zurückbringen!
+
+$(Der Schlossherr geht.)
+
+@ELIZABETH: 
+Friedrich, was ist jetzt?
+
+@FRIEDERICH: 
+Wir werden hier bleiben. Wir werden ein neues Leben anfangen.
+
+@ELIZABETH: 
+Ja, wir werden ein neues Leben anfangen.
+
+$(Sie küssen sich.)
+
+$(Der Vorhang fällt.):
+
+## 
+##AKT IV
+
+$Szenenbild: Ein kleines Haus am Waldrand.
+
+^Personen:
+
+@ELIZABETH: 
+Die junge Frau, die nun mit Friedrich verheiratet ist.
+@FRIEDERICH: 
+Der junge Mann, der nun mit Elizabeth verheiratet ist.
+@DAS 
+MÄDCHEN: Ein kleines Mädchen, das bei Elizabeth und Friedrich wohnt.
+$(Der Vorhang geht auf. Elizabeth und Friedrich sitzen am Tisch und essen. Das Mädchen spielt auf dem Boden.):
+
+@ELIZABETH: 
+Friedrich, ich bin so glücklich.
+
+@FRIEDERICH: 
+Ich auch.
+
+@ELIZABETH: 
+Wir haben ein schönes Leben hier.
+
+@FRIEDERICH: 
+Ja, wir haben.
+
+$(Das Mädchen kommt zu ihnen.):
+
+@MÄDCHEN: 
+Mama, Papa, ich habe Hunger.
+
+@ELIZABETH: 
+Komm, wir essen.
+
+$(Sie essen alle zusammen.)
+
+$(Nach dem Essen.):
+
+@ELIZABETH: 
+Friedrich, ich habe etwas zu sagen.
+
+@FRIEDERICH: 
+Was ist es?
+
+@ELIZABETH: 
+Ich bin schwanger.
+
+@FRIEDERICH: 
+Was? Das ist wunderbar!
+
+@ELIZABETH: 
+Ja, es ist.
+
+$(Sie umarmen sich.)
+
+$(Der Schlossherr tritt herein.):
+
+@DER 
+SCHLOSSHERRN: Elizabeth! Friedrich!
+
+$(Elizabeth und Friedrich springen auseinander.)
+
+@DER 
+SCHLOSSHERRN: Ich habe euch gefunden.
+
+@ELIZABETH: 
+Vater!
+
+@FRIEDERICH: 
+Was wollen Sie hier?
+
+@DER 
+SCHLOSSHERRN: Ich habe euch zurückzubringen.
+
+@ELIZABETH: 
+Wir wollen nicht zurück.
+
+@DER 
+SCHLOSSHERRN: Aber ihr könnt nicht hier bleiben.
+
+@ELIZABETH: 
+Wir werden schon sehen.
+
+@DER 
+SCHLOSSHERRN: Ich werde euch nicht aufgeben.
+
+$(Der Schlossherr geht.)
+
+@ELIZABETH: 
+Friedrich, was ist jetzt?
+
+@FRIEDERICH: 
+Wir werden hier bleiben. Wir werden eine Familie gründen.
+
+@ELIZABETH: 
+Ja, wir werden eine Familie gründen.
+
+$(Sie küssen sich.)
+
+$(Das Vorhang fällt.)
+
+## 
+##AKT V
+
+$Szenenbild: Ein Jahr später. Das kleine Haus am Waldrand ist jetzt ein größeres Haus. Elizabeth und Friedrich haben ein zweites Kind bekommen, einen Jungen.
+
+^Personen:
+
+@ELIZABETH: 
+Die junge Frau, die nun mit Friedrich verheiratet ist und zwei Kinder hat.
+@FRIEDERICH: 
+Der junge Mann, der nun mit Elizabeth verheiratet ist und zwei Kinder hat.
+@DAS 
+MÄDCHEN: Das kleine Mädchen, das jetzt ein Jahr alt ist.
+@DER 
+JUNGE: Der kleine Junge, der gerade geboren ist.
+$(Der Vorhang geht auf. Elizabeth und Friedrich sitzen am Tisch und essen. Das Mädchen spielt auf dem Boden. Der Junge liegt in der Wiege.):
+
+@ELIZABETH: 
+Friedrich, ich bin so glücklich.
+
+@FRIEDERICH: 
+Ich auch.
+
+@ELIZABETH: 
+Wir haben eine schöne Familie.
+
+@FRIEDERICH: 
+Ja, wir haben.
+
+$(Das Mädchen kommt zu ihnen.):
+
+@MÄDCHEN: 
+Mama, Papa, ich habe Hunger.
+
+@ELIZABETH: 
+Komm, wir essen.
+
+$(Sie essen alle zusammen.)
+
+$(Nach dem Essen.):
+
+@ELIZABETH: 
+Friedrich, ich habe etwas zu sagen.
+
+@FRIEDERICH: 
+Was ist es?
+
+@ELIZABETH: 
+Ich habe einen Brief von meinem Vater bekommen.
+
+@FRIEDERICH: 
+Was steht in dem Brief?
+
+@ELIZABETH: 
+Er schreibt, dass er uns endlich akzeptiert.
+
+@FRIEDERICH: 
+Was? Das ist wunderbar!
+
+@ELIZABETH: 
+Ja, es ist.
+
+$(Sie umarmen sich.)
+
+$(Der Schlossherr tritt herein.):
+
+@DER 
+SCHLOSSHERRN: Elizabeth! Friedrich!
+
+$(Elizabeth und Friedrich springen auseinander.)
+
+@DER 
+SCHLOSSHERRN: Ich habe euch einen Brief geschrieben.
+
+@ELIZABETH: 
+Vater!
+
+@FRIEDERICH: 
+Was wollen Sie hier?
+
+@DER 
+SCHLOSSHERRN: Ich habe euch um Verzeihung gebeten.
+
+@ELIZABETH: 
+Wir haben Sie schon längst vergeben.
+
+@DER 
+SCHLOSSHERRN: Ich möchte, dass ihr zu mir zurückkommt.
+
+@ELIZABETH: 
+Wir wollen nicht zurück.
+
+@DER 
+SCHLOSSHERRN: Aber ihr könnt hier nicht bleiben.
+
+@ELIZABETH: 
+Wir werden schon sehen.
+
+@DER 
+SCHLOSSHERRN: Ich werde euch immer lieben.
+
+$(Der Schlossherr geht.)
+
+@ELIZABETH: 
+Friedrich, was ist jetzt?
+
+@FRIEDERICH: 
+Wir werden hier bleiben. Wir werden unsere Familie hier großziehen.
+
+@ELIZABETH: 
+Ja, wir werden unsere Familie hier großziehen.
+
+$(Sie küssen sich.)
+
+$(Das Vorhang fällt.):
