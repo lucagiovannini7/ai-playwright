@@ -1,288 +1,320 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
-  <ns0:teiHeader>
-    <ns0:fileDesc>
-      <ns0:titleStmt><ns0:title>GPT35-Russian-5</ns0:title></ns0:titleStmt>
-      <ns0:publicationStmt>
-        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
-        <ns0:idno type="URL">https://dracor.org</ns0:idno>
-        <ns0:availability>
-          <ns0:licence>
-            <ns0:ab>CC0 1.0</ns0:ab>
-            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
-          </ns0:licence>
-        </ns0:availability>
-      </ns0:publicationStmt>
-      <ns0:sourceDesc>
-        <ns0:bibl type="digitalSource">
-          <ns0:name>ENTER SOURCE NAME HERE</ns0:name>
-          <ns0:idno type="URL">ENTER SOURCE URL HERE</ns0:idno>
-          <ns0:availability status="free">
-            <ns0:p>In the public domain.</ns0:p>
-          </ns0:availability>
-        </ns0:bibl>
-      </ns0:sourceDesc>
-    </ns0:fileDesc>
-    <ns0:profileDesc>
-      <ns0:particDesc>
-        <ns0:listPerson>
-          <ns0:person xml:id="nikolaj:">
-            <ns0:persName>НИКОЛАЙ:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="nikol">
-            <ns0:persName>НИКОЛ</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="svetochi_2:">
-            <ns0:persName>СВЕТОЧИ 2:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="starik:">
-            <ns0:persName>СТАРИК:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="mihail:">
-            <ns0:persName>МИХАИЛ:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="svetochi_1:">
-            <ns0:persName>СВЕТОЧИ 1:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="starik:_ja_prostoj_starik,_ljubitel_prirody_i_nabljudatel_chelovecheskoj_dushi._menja_zovut_mihail">
-            <ns0:persName>СТАРИК: Я простой старик, любитель природы и наблюдатель человеческой души. Меня зовут МИХАИЛ</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="anna:_dorogoj_nikolaj,_ty_ne_spal_ves_etot_den_i_vsju_noch._ja_vizhu,_chto_tvoja_dusha_v_borbe_s_samoj_soboj">
-            <ns0:persName>АННА: Дорогой Николай, ты не спал весь этот день и всю ночь. Я вижу, что твоя душа в борьбе с самой собой</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="anna:_dorogoj,_chto_ty_delaesh?_stoit_li_grustit_nad_nesbytochnymi_mechtami_i_kapitulirovat_pered_bezyshodnostju?">
-            <ns0:persName>АННА: Дорогой, что ты делаешь? Стоит ли грустить над несбыточными мечтами и капитулировать перед безысходностью?</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="doktor:">
-            <ns0:persName>ДОКТОР:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="anna:">
-            <ns0:persName>АННА:</ns0:persName>
-          </ns0:person>
-        </ns0:listPerson>
-      </ns0:particDesc>
-    </ns0:profileDesc>
-    <ns0:revisionDesc>
-      <ns0:listChange>
-        <ns0:change when="2023-07-24">DESCRIBE CHANGE</ns0:change>
-      </ns0:listChange>
-    </ns0:revisionDesc>
-  </ns0:teiHeader>
-  <ns0:standOff>
-    <ns0:listEvent>
-      <ns0:event type="print" when="2023">
-        <ns0:desc />
-      </ns0:event>
-      <ns0:event type="premiere" when="2023">
-        <ns0:desc />
-      </ns0:event>
-      <ns0:event type="written" when="2023">
-        <ns0:desc />
-      </ns0:event>
-    </ns0:listEvent>
-    <ns0:listRelation>
-      <ns0:relation active="INSERT" name="wikidata" passive="INSERT" />
-    </ns0:listRelation>
-  </ns0:standOff>
-  <ns0:text>
-    <ns0:body>
-      <ns0:div type="scene">
-        <ns0:head>Акт 1</ns0:head>
-        <ns0:stage>(НИКОЛАЙ, средних лет, лежит на диване в четре утра. Он одет в чёрный костюм, его лицо выражает глубокую печаль и усталость.)</ns0:stage>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(в слабом голосе)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит АННА, юная, красивая женщина, но с мрачным выражением на лице.)</ns0:stage>
-        <ns0:sp who="#anna:_dorogoj_nikolaj,_ty_ne_spal_ves_etot_den_i_vsju_noch._ja_vizhu,_chto_tvoja_dusha_v_borbe_s_samoj_soboj">
-          <ns0:speaker>АННА: Дорогой Николай, ты не спал весь этот день и всю ночь. Я вижу, что твоя душа в борьбе с самой собой.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(с опустившимся взглядом)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(выражение обиды)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(с горечью)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(с нежностью)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikol">
-          <ns0:speaker>НИКОЛ</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Акт 2</ns0:head>
-        <ns0:stage>(Сцена представляет собой обширную библиотеку, наполненную книгами и полотнами. На столе, окруженном книгами, сидит НИКОЛАЙ).</ns0:stage>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(читает стихи шекспировского пьеса)</ns0:stage>
-          <ns0:p>"Чтоб переструнной дар священный          Натянуть не мог преемник мой,            Бессмертьем моей Гоминида –         Натял на грудь и умер с тобою".</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Входит АННА)</ns0:stage>
-        <ns0:sp who="#anna:_dorogoj,_chto_ty_delaesh?_stoit_li_grustit_nad_nesbytochnymi_mechtami_i_kapitulirovat_pered_bezyshodnostju?">
-          <ns0:speaker>АННА: Дорогой, что ты делаешь? Стоит ли грустить над несбыточными мечтами и капитулировать перед безысходностью?</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(в озадачении)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(с силой)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(возбужденно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(с уверенностью)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Акт 3</ns0:head>
-        <ns0:stage>(Сцена - просторный сад с высокими деревьями, цветущими цветами. АННА стоит посреди сцены, под утренним солнцем.)</ns0:stage>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(с благоговением)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит НИКОЛАЙ, одетый в мрачный фрак, с нотной папкой в руках)</ns0:stage>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(вздыхает)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(эмоционально)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Звучит аплодисменты и громкий шум светочей, которые выходят на сцену)</ns0:stage>
-        <ns0:sp who="#svetochi_1:">
-          <ns0:speaker>СВЕТОЧИ 1:</ns0:speaker>
-          <ns0:stage>(энтузиазм)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#svetochi_2:">
-          <ns0:speaker>СВЕТОЧИ 2:</ns0:speaker>
-          <ns0:stage>(возбуждение)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(с благодарностью)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(с счастливой улыбкой)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Акт 4</ns0:head>
-        <ns0:stage>(Сцена - опустевшая комната с книгами и клавишными инструментами. На переднем плане стоит НИКОЛАЙ, грузно дыша, с покосившимся взглядом).</ns0:stage>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(полушепотом)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит АННА, с взглядом опасения)</ns0:stage>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(вздыхает)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(в отчаянии)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(сострадательно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит ДОКТОР, старец с белой бородой и серьезным выражением лица)</ns0:stage>
-        <ns0:sp who="#doktor:">
-          <ns0:speaker>ДОКТОР:</ns0:speaker>
-          <ns0:stage>(задумчиво)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(с надеждой)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Акт 5</ns0:head>
-        <ns0:stage>(Сцена - уединенная дача на берегу реки. Возле дерева сидит АННА, заглядывая в дали. Звучат пение птиц и шум реки.)</ns0:stage>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(смиренно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Вдруг входит НИКОЛАЙ, смятый и измученный)</ns0:stage>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(опустив голову)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(нежно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит СТАРИК)</ns0:stage>
-        <ns0:sp who="#starik:">
-          <ns0:speaker>СТАРИК:</ns0:speaker>
-          <ns0:stage>(с умиротворением)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(возбужденно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#starik:_ja_prostoj_starik,_ljubitel_prirody_i_nabljudatel_chelovecheskoj_dushi._menja_zovut_mihail">
-          <ns0:speaker>СТАРИК: Я простой старик, любитель природы и наблюдатель человеческой души. Меня зовут МИХАИЛ.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#anna:">
-          <ns0:speaker>АННА:</ns0:speaker>
-          <ns0:stage>(вслух)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#mihail:">
-          <ns0:speaker>МИХАИЛ:</ns0:speaker>
-          <ns0:stage>(улыбается)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp>
-          <ns0:speaker>НИКО</ns0:speaker>
-        </ns0:sp>
-      </ns0:div>
-    </ns0:body>
-  </ns0:text>
-<fileDesc><titleStmt><title>GPT35-Russian-5</title></titleStmt></fileDesc></ns0:TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>GPT35-Russian-5</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="vyllyrsson">
+            <persName>ВИЛЛИРССОН</persName>
+          </person>
+          <person sex="FEMALE" xml:id="anna">
+            <persName>АННА</persName>
+          </person>
+          <person sex="MALE" xml:id="yvan">
+            <persName>ИВАН</persName>
+          </person>
+          <person sex="MALE" xml:id="vladymyr">
+            <persName>ВЛАДИМИР</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>АКТ ПЕРВЫЙ</head>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 1</head><stage>(Внутри дачного домика АННЫ. Издали слышится звон колокольчика.)</stage><sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(заходит справа, прерывает свою речь, слыша звон)</stage>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 2</head>
+        <sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(входит слева в явном нетерпении)</stage>
+          <p> Владимир, кто это? Неужели наша надежда втайне получает от нас прельщения?</p>
+        </sp>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(пренебрежительно)</stage>
+          <p> Заткнись, Анна! Головокружение ненависти разбивает твои слова на бессмысленные крики.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 3</head><stage>(Настроение АННЫ сразу изменяется на деликатность и ложь.)</stage><sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(ласково)</stage>
+          <p> Тогда, мой дорогой, я отберу себе свои слова и промолчу.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 4</head>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(сердитый)</stage>
+          <p> Все, что делаешь, то делаешь ради себя. Ты никогда не уделяешь мне внимания.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 5</head>
+        <sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(осуждает другую, с уверенностью)</stage>
+          <p> Да, Владимир, обвинитель однажды в любви, также любит подделывать.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 6</head>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(снижает тон)</stage>
+          <p> Ты всегда меня раздражаешь словами шипения. Но я не могу пребывать вечно без ответа на твои уколы. <stage>(Звон колокольчика на улице снова раздается)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>АКТ ВТОРОЙ</head>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 1</head><stage>(Внутри дачного домика АННЫ. На заднем плане виднеется ИВАН, ученик, читающий книгу.)</stage><sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(входит справа, встречает ИВАНА)</stage>
+          <p> Иван, неужели ты там всё время читаешь? Нам нужно поговорить о серьезных делах.</p>
+        </sp>
+        <sp who="#yvan">
+          <speaker>ИВАН </speaker>
+          <stage>(поднимается, с уважением)</stage>
+          <p> Конечно, госпожа. Я всегда готов помочь во всем, во что вы нуждаетесь.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 2</head><stage>(Входит ВЛАДИМИР следом за АННОЙ)</stage><sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(возмущенный)</stage>
+          <p> Анна, что ты делаешь с Иваном? Серьезные дела должны быть вверены только мне!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 3</head>
+        <sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(успакаивает, но с презрением)</stage>
+          <p> Владимир, неужели ты так переживаешь из-за Ивана? Он всего лишь ученик, который мне помогает.</p>
+        </sp>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(саркастически)</stage>
+          <p> О, конечно, я должен быть вашим единственным помощником. Ведь все должно вращаться вокруг вас, правда?</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 4</head>
+        <sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(раздраженно)</stage>
+          <p> Никогда не понимаешь меня, Владимир. Ты не видишь моих нужд и страданий. Иван учуял прелесть этой поэзии, лежащей в моей душе.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 5</head>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(обиженный)</stage>
+          <p> Так все дело в твоей душе, не так ли? Ты упускаешь из виду то, что я чувствую и переживаю.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 6</head>
+        <sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(безжалостно)</stage>
+          <p> Ты всегда предпочитаешь самоустраниться, Владимир. Твоя безразличность тоже мучает меня.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 7</head>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(злой)</stage>
+          <p> Моя безразличность? Я просто чувствую, что невидимые стены все усиливаются, и я теряю веру в то, что ты когда-нибудь чувствуешь истинное с</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>АКТ ТРЕТИЙ</head>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 1</head><stage>(Улица перед дачным домиком АННЫ. ВЛАДИМИР стоит у окна, смотря вдаль, пытаясь осмыслить происходящее.)</stage><sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(горько)</stage>
+          <p> Как же мы заблудились на этом пути, Анна? Моя любовь к тебе стала тенями моей души.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 2</head><stage>(АННА выходит из дома, пышно наряженная, подходит к ВЛАДИМИРУ)</stage><sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(жестом выражает возмущение)</stage>
+          <p> Владимир, почему ты всегда такой унылый? Неужели ты не можешь видеть красоту вокруг нас?</p>
+        </sp>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(устало)</stage>
+          <p> Красота, которую ты показываешь мне, как и все остальное в твоей жизни, лишь поверхностная и мнимая.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 3</head>
+        <sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(возмущенно)</stage>
+          <p> Ты опять погружаешься в свои собственные тьмы. Неужели тебе так неинтересна реальность?</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 4</head><stage>(В это время входит ИВАН, опешив встретить АННУ и ВЛАДИМИРА такими.)</stage><sp who="#yvan">
+          <speaker>ИВАН </speaker>
+          <stage>(с некоторым недоумением)</stage>
+          <p> Простите, что перебиваю, но я услышал вашу разговоры... не могу остаться безмолвным... Я могу видеть, что страсть между вами истощается.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 5</head>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(с грустью)</stage>
+          <p> Иван, ты прав. Наш мир исчезает со дна нашего сердца, и все, что остается – тени и разочарование.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 6</head>
+        <sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(с утверждением)</stage>
+          <p> Я не могу перестать сочувствовать нашему пути, Владимир. Но я ищу новые возможности для себя, пытаясь найти счастье, которого мы оба так долго искали.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 7</head>
+        <sp who="#yvan">
+          <speaker>ИВАН </speaker>
+          <stage>(с теплотой)</stage>
+          <p> Жизнь – это постоянное движение</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>АКТ ЧЕТВЕРТЫЙ</head>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 1</head><stage>(Внутри домика Анны. Звучит мелодичная музыка. На сцене АННА, ВЛАДИМИР и ИВАН.)</stage><sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(с восторгом)</stage>
+          <p> Наши сердца заключены в этой музыке, во всех интонациях, которые она задаёт! Она позволяет мне открыться новым эмоциям и снова обнаружить себя.</p>
+        </sp>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(тревожно)</stage>
+          <p> Но необходимо ли нам всего этого? Или можно увидеть наше прошлое и воплотить его в новое будущее?</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 2</head><stage>(За окном видно неровный свет молнии и слышны раскаты грома.)</stage><sp who="#yvan">
+          <speaker>ИВАН </speaker>
+          <stage>(уходит и возвращается с курткой)</stage>
+          <p> Похоже, гроза набирает силу. Я должен отправиться домой, чтобы не попасть под дождь.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(волнуясь)</stage>
+          <p> Спасибо, Иван, что был с нами. Прими мои благодарности за все весёлые и сложные моменты, которые ты принёс в нашу жизнь.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 3</head>
+        <sp who="#yvan">
+          <speaker>ИВАН </speaker>
+          <stage>(с нежностью)</stage>
+          <p> Госпожа, господин... Я благодарен за возможность быть рядом с вами, но пришло время прощаться. Желаю вам счастья и нахождения своего истинного пути.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 4</head><stage>(ИВАН уходит, АННА и ВЛАДИМИР остаются на сцене.)</stage><sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(с тихой грустью)</stage>
+          <p> Владимир, наш мир изменяется, и мы вместе с ним. Иван помог мне понять эту истину.</p>
+        </sp>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(с надеждой)</stage>
+          <p> Может быть, вместе мы сможем найти новый смысл, новый путь, где наши души снова будут найти себя.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 5</head><stage>(Начинается легкий дождь, зазвучала грустная музыка.)</stage><sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(с грустью и решимостью)</stage>
+          <p> Пусть этот дождь смывает</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>АКТ ПЯТЫЙ</head>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 1</head><stage>(Улица перед домиком АННЫ. Дождь прекратился. АННА и ВЛАДИМИР идут молча рядом, посмотрев друг на друга.)</stage><sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(терпеливо)</stage>
+          <p> Возможно, судьба обретения счастья лежит в наших руках, если только мы сумеем принять решения и идти вместе.</p>
+        </sp>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(с смирением)</stage>
+          <p> Я был глух к твоим стремлениям и потребностям, Анна. Но теперь я готов пойти за тобой и добиться счастья.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 2</head><stage>(Появляется ВИЛЛИРССОН)</stage><sp who="#vyllyrsson">
+          <speaker>ВИЛЛИРССОН </speaker>
+          <stage>(возбужденно)</stage>
+          <p> Анна, Владимир! Я только что получил письмо, которое осветило моё сердце. Мы получили приглашение в город, где нас ждет радость и новые возможности.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 3</head>
+        <sp who="#anna">
+          <speaker>АННА </speaker>
+          <stage>(радостно)</stage>
+          <p> Это замечательно, Виллирссон! Мы отправимся вместе в город, чтобы открыть новые главы нашей жизни.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 4</head>
+        <sp who="#vladymyr">
+          <speaker>ВЛАДИМИР </speaker>
+          <stage>(с просветлением)</stage>
+          <p> Да, давайте оставим позади темные тени прошлого и отправимся вместе в поисках счастья и исполнения наших мечт.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>СЦЕНА 5</head><stage>(Все три персоны идут со спокойной решимостью в горизонт, улыбаясь друг другу.)   </stage></div>
+    </body>
+  </text>
+</TEI>

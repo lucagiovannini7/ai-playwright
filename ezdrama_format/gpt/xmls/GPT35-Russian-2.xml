@@ -1,379 +1,230 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
-  <ns0:teiHeader>
-    <ns0:fileDesc>
-      <ns0:titleStmt><ns0:title>GPT35-Russian-2</ns0:title></ns0:titleStmt>
-      <ns0:publicationStmt>
-        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
-        <ns0:idno type="URL">https://dracor.org</ns0:idno>
-        <ns0:availability>
-          <ns0:licence>
-            <ns0:ab>CC0 1.0</ns0:ab>
-            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
-          </ns0:licence>
-        </ns0:availability>
-      </ns0:publicationStmt>
-      <ns0:sourceDesc>
-        <ns0:bibl type="digitalSource">
-          <ns0:name>ENTER SOURCE NAME HERE</ns0:name>
-          <ns0:idno type="URL">ENTER SOURCE URL HERE</ns0:idno>
-          <ns0:availability status="free">
-            <ns0:p>In the public domain.</ns0:p>
-          </ns0:availability>
-        </ns0:bibl>
-      </ns0:sourceDesc>
-    </ns0:fileDesc>
-    <ns0:profileDesc>
-      <ns0:particDesc>
-        <ns0:listPerson>
-          <ns0:person xml:id="aleksei vasilyevich rubin - a learned middle-aged playwright">
-            <ns0:persName>ALEKSEI VASILYEVICH RUBIN - A learned middle-aged playwright</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="mesto:_gostinnaja_v_pomeste_rubina._kabinet_obstavlen_tjazheloj_derevjannoj_mebelju,_na_stenah_visit_knizhnaja_shkaf_s_proizvedenijami_klassicheskoj_literatury._natalja_alekseevna_vhodit,_volnujuschajasja,_derzha_pismo_v_rukah">
-            <ns0:persName>МЕСТО: Гостинная в поместье РУБИНА. Кабинет обставлен тяжелой деревянной мебелью, на стенах висит книжная шкаф с произведениями классической литературы. НАТАЛЬЯ АЛЕКСЕЕВНА входит, волнующаяся, держа письмо в руках</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="natalia alekseevna - rubin's wife, a melancholic woman in her early thirties">
-            <ns0:persName>NATALIA ALEKSEEVNA - Rubin's wife, a melancholic woman in her early thirties</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="count dmitri vladimirovich - a distinguished nobleman">
-            <ns0:persName>COUNT DMITRI VLADIMIROVICH - A distinguished nobleman</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria ivanovna petrova">
-            <ns0:persName>MARIA IVANOVNA PETROVA:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="aleksei vasilyevich rubin: ladies and gentlemen, allow me to present ferdinand vasilyevich, a prodigious pianist whose craftsmanship leaves audiences bewitched">
-            <ns0:persName>ALEKSEI VASILYEVICH RUBIN: Ladies and gentlemen, allow me to present Ferdinand Vasilyevich, a prodigious pianist whose craftsmanship leaves audiences bewitched</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria ivanovna petrova - natalia's best friend, a lively and worldly woman in her thirties">
-            <ns0:persName>MARIA IVANOVNA PETROVA - Natalia's best friend, a lively and worldly woman in her thirties</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="natalia alekseevna">
-            <ns0:persName>NATALIA ALEKSEEVNA:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="ferdinand vasilyevich - a talented pianist">
-            <ns0:persName>FERDINAND VASILYEVICH - A talented pianist</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="maria ivanovna petrova - natalia's best friend, a lively and worldly woman">
-            <ns0:persName>MARIA IVANOVNA PETROVA - Natalia's best friend, a lively and worldly woman</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="natalia alekseevna: maria! how wonderful it is to see you">
-            <ns0:persName>NATALIA ALEKSEEVNA: Maria! How wonderful it is to see you!</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="aleksei vasilyevich rubin">
-            <ns0:persName>ALEKSEI VASILYEVICH RUBIN:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="ferdinand vasilyevich">
-            <ns0:persName>FERDINAND VASILYEVICH:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="aleksei vasil[note: due to text limitations, i will provide an excerpt from the second act of the play.]">
-            <ns0:persName>ALEKSEI VASIL[Note: Due to text limitations, I will provide an excerpt from the second act of the play.]</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="nikolai semyonich - an elderly servant">
-            <ns0:persName>NIKOLAI SEMYONICH - An elderly servant</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="alexander petrovich kuryatnikov - a young and ambitious writer">
-            <ns0:persName>ALEXANDER PETROVICH KURYATNIKOV - A young and ambitious writer</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="mihail_ivanovich:_izvinite_za_vmeshatelstvo,_no_u_menja_est_novosti_ot_teatra_moskvy._my_prochitali_vashe_proizvedenie_i_otsenili_ego_vysoko._u_nas_est_namerenie_postavit_ego_na_stsene">
-            <ns0:persName>МИХАИЛ ИВАНОВИЧ: Извините за вмешательство, но у меня есть новости от театра Москвы. Мы прочитали ваше произведение и оценили его высоко. У нас есть намерение поставить его на сцене</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="mesto:_nebolshoj_park_u_zagorodnogo_pomestja._zolotistye_listja_padajut_s_derevev,_sozdavaja_atmosferu_umirotvorenija._na_skame_sidjat_natalia_alekseevna_i_princess_elena_grigoryevna,_obernutye_v_pushistye_shali">
-            <ns0:persName>МЕСТО: Небольшой парк у загородного поместья. Золотистые листья падают с деревьев, создавая атмосферу умиротворения. На скамье сидят NATALIA ALEKSEEVNA и PRINCESS ELENA GRIGORYEVNA, обернутые в пушистые шали</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="mesto:_spalnja_rubina._v_komnate_tiho,_svechi_osveschajut_komnatu._natalja_alekseevna_sidit_na_stule,_pogruzhennaja_v_svoi_mysli">
-            <ns0:persName>МЕСТО: Спальня РУБИНА. В комнате тихо, свечи освещают комнату. НАТАЛЬЯ АЛЕКСЕЕВНА сидит на стуле, погруженная в свои мысли</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="alexander petrovich kuryatnikov">
-            <ns0:persName>ALEXANDER PETROVICH KURYATNIKOV:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="princess elena grigoryevna - a regal and fashionable noblewoman">
-            <ns0:persName>PRINCESS ELENA GRIGORYEVNA - A regal and fashionable noblewoman</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="princess elena grigoryevna">
-            <ns0:persName>PRINCESS ELENA GRIGORYEVNA:</ns0:persName>
-          </ns0:person>
-        </ns0:listPerson>
-      </ns0:particDesc>
-    </ns0:profileDesc>
-    <ns0:revisionDesc>
-      <ns0:listChange>
-        <ns0:change when="2023-07-24">DESCRIBE CHANGE</ns0:change>
-      </ns0:listChange>
-    </ns0:revisionDesc>
-  </ns0:teiHeader>
-  <ns0:standOff>
-    <ns0:listEvent>
-      <ns0:event type="print" when="2023">
-        <ns0:desc />
-      </ns0:event>
-      <ns0:event type="premiere" when="2023">
-        <ns0:desc />
-      </ns0:event>
-      <ns0:event type="written" when="2023">
-        <ns0:desc />
-      </ns0:event>
-    </ns0:listEvent>
-    <ns0:listRelation>
-      <ns0:relation active="INSERT" name="wikidata" passive="INSERT" />
-    </ns0:listRelation>
-  </ns0:standOff>
-  <ns0:text>
-    <ns0:body>Title: "Разочарование" (Disillusionment)Setting: A modest drawing-room in a 19th-century Russian nobleman's house. The room is furnished with simple yet elegant decor - a fireplace, a few chairs, and a table with a samovar. The atmosphere is somber, reflecting the drama unfolding within.Characters:<ns0:sp who="#aleksei vasilyevich rubin - a learned middle-aged playwright">
-        <ns0:speaker>ALEKSEI VASILYEVICH RUBIN - A learned middle-aged playwright</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#natalia alekseevna - rubin's wife, a melancholic woman in her early thirties">
-        <ns0:speaker>NATALIA ALEKSEEVNA - Rubin's wife, a melancholic woman in her early thirties</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#alexander petrovich kuryatnikov - a young and ambitious writer">
-        <ns0:speaker>ALEXANDER PETROVICH KURYATNIKOV - A young and ambitious writer</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#maria ivanovna petrova - natalia's best friend, a lively and worldly woman in her thirties">
-        <ns0:speaker>MARIA IVANOVNA PETROVA - Natalia's best friend, a lively and worldly woman in her thirties</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#nikolai semyonich - an elderly servant">
-        <ns0:speaker>NIKOLAI SEMYONICH - An elderly servant</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:stage>(Aleksei Vasilyevich Rubin sits at a table, pen in hand, intently reading manuscript pages while Natalia Alekseevna paces back and forth, her eyes clouded with worry.)</ns0:stage>
-      <ns0:sp who="#natalia alekseevna">
-        <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-        <ns0:stage>(restlessly)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#aleksei vasilyevich rubin">
-        <ns0:speaker>ALEKSEI VASILYEVICH RUBIN:</ns0:speaker>
-        <ns0:stage>(looks up from his manuscript, his voice marked by exhaustion)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:stage>(A knock is heard at the door, and Natalia rushes to answer.)</ns0:stage>
-      <ns0:sp who="#natalia alekseevna: maria! how wonderful it is to see you">
-        <ns0:speaker>NATALIA ALEKSEEVNA: Maria! How wonderful it is to see you!</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:stage>(Maria Ivanovna Petrova enters, dressed elegantly and exuding a sense of vivacity.)</ns0:stage>
-      <ns0:sp who="#maria ivanovna petrova">
-        <ns0:speaker>MARIA IVANOVNA PETROVA:</ns0:speaker>
-        <ns0:stage>(embracing Natalia warmly)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#natalia alekseevna">
-        <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-        <ns0:stage>(with a sigh)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#alexander petrovich kuryatnikov">
-        <ns0:speaker>ALEXANDER PETROVICH KURYATNIKOV:</ns0:speaker>
-        <ns0:stage>(entering, carrying a rolled manuscript)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:stage>(The elderly servant, NIKOLAI SEMYONICH, enters with a tray of tea and sets it on the table.)</ns0:stage>
-      <ns0:sp who="#alexander petrovich kuryatnikov">
-        <ns0:speaker>ALEXANDER PETROVICH KURYATNIKOV:</ns0:speaker>
-        <ns0:stage>(noticing Natalia)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#natalia alekseevna">
-        <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-        <ns0:stage>(forcing a smile)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:stage>(Aleksei Vasilyevich Rubin sets his manuscript aside and pours tea for everyone.)</ns0:stage>
-      <ns0:sp who="#aleksei vasil[note: due to text limitations, i will provide an excerpt from the second act of the play.]">
-        <ns0:speaker>ALEKSEI VASIL[Note: Due to text limitations, I will provide an excerpt from the second act of the play.]</ns0:speaker>
-        <ns0:p>Act IISetting: The grand ballroom of a nobleman's mansion. The place is adorned with chandeliers, intricate tapestries, and a grand staircase leading to an upper landing. The atmosphere is lively, with guests mingling and dancing.Characters:</ns0:p>
-      </ns0:sp>
-      <ns0:sp who="#aleksei vasilyevich rubin - a learned middle-aged playwright">
-        <ns0:speaker>ALEKSEI VASILYEVICH RUBIN - A learned middle-aged playwright</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#natalia alekseevna - rubin's wife, a melancholic woman in her early thirties">
-        <ns0:speaker>NATALIA ALEKSEEVNA - Rubin's wife, a melancholic woman in her early thirties</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#alexander petrovich kuryatnikov - a young and ambitious writer">
-        <ns0:speaker>ALEXANDER PETROVICH KURYATNIKOV - A young and ambitious writer</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#maria ivanovna petrova - natalia's best friend, a lively and worldly woman">
-        <ns0:speaker>MARIA IVANOVNA PETROVA - Natalia's best friend, a lively and worldly woman</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#princess elena grigoryevna - a regal and fashionable noblewoman">
-        <ns0:speaker>PRINCESS ELENA GRIGORYEVNA - A regal and fashionable noblewoman</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#count dmitri vladimirovich - a distinguished nobleman">
-        <ns0:speaker>COUNT DMITRI VLADIMIROVICH - A distinguished nobleman</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#ferdinand vasilyevich - a talented pianist">
-        <ns0:speaker>FERDINAND VASILYEVICH - A talented pianist</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:stage>(The ballroom is buzzing with excitement as guests continue to arrive. Natalia Alekseevna and Maria Ivanovna Petrova enter, dressed in elegant gowns.)</ns0:stage>
-      <ns0:sp who="#maria ivanovna petrova">
-        <ns0:speaker>MARIA IVANOVNA PETROVA:</ns0:speaker>
-        <ns0:stage>(whispering to Natalia)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#natalia alekseevna">
-        <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-        <ns0:stage>(with a sigh)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#maria ivanovna petrova">
-        <ns0:speaker>MARIA IVANOVNA PETROVA:</ns0:speaker>
-        <ns0:stage>(holding Natalia's hand)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:stage>(As Alexander Petrovich Kuryatnikov enters, surrounded by admirers, he scans the room and spots Natalia.)</ns0:stage>
-      <ns0:sp who="#alexander petrovich kuryatnikov">
-        <ns0:speaker>ALEXANDER PETROVICH KURYATNIKOV:</ns0:speaker>
-        <ns0:stage>(approaching Natalia)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:sp who="#natalia alekseevna">
-        <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-        <ns0:stage>(taken aback)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:stage>(Aleksei Vasilyevich Rubin enters, guiding a hesitant Ferndinand Vasilyevich to the piano.)</ns0:stage>
-      <ns0:sp who="#aleksei vasilyevich rubin: ladies and gentlemen, allow me to present ferdinand vasilyevich, a prodigious pianist whose craftsmanship leaves audiences bewitched">
-        <ns0:speaker>ALEKSEI VASILYEVICH RUBIN: Ladies and gentlemen, allow me to present Ferdinand Vasilyevich, a prodigious pianist whose craftsmanship leaves audiences bewitched.</ns0:speaker>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:stage>(Ferdinand Vasilyevich hesitantly sits at the piano, his fingers trembling.)</ns0:stage>
-      <ns0:sp who="#ferdinand vasilyevich">
-        <ns0:speaker>FERDINAND VASILYEVICH:</ns0:speaker>
-        <ns0:stage>(nervously)</ns0:stage>
-        <ns0:p />
-      </ns0:sp>
-      <ns0:stage>(As the music begins, the guests start to sway to the rhythm, drawn by the melody.)</ns0:stage>
-      <ns0:sp who="#natalia alekseevna">
-        <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-        <ns0:stage>(whispering to Maria)</ns0:stage>
-        <ns0:p>Note: Due to text limitations, I am unable to provide an entire act. Here is an excerpt from Act III of the play.</ns0:p>
-      </ns0:sp>
-      <ns0:stage>(Maria Ivanovna Petrova smiles and watches the crowd, including Alexander Petrovich and Natalia, engrossУтвXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</ns0:stage>
-      <ns0:div type="scene">
-        <ns0:head>АКТ III</ns0:head>Сцена 1<ns0:sp who="#mesto:_nebolshoj_park_u_zagorodnogo_pomestja._zolotistye_listja_padajut_s_derevev,_sozdavaja_atmosferu_umirotvorenija._na_skame_sidjat_natalia_alekseevna_i_princess_elena_grigoryevna,_obernutye_v_pushistye_shali">
-          <ns0:speaker>МЕСТО: Небольшой парк у загородного поместья. Золотистые листья падают с деревьев, создавая атмосферу умиротворения. На скамье сидят NATALIA ALEKSEEVNA и PRINCESS ELENA GRIGORYEVNA, обернутые в пушистые шали.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#natalia alekseevna">
-          <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-          <ns0:stage>(с печалью в голосе)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#princess elena grigoryevna">
-          <ns0:speaker>PRINCESS ELENA GRIGORYEVNA:</ns0:speaker>
-          <ns0:stage>(с сочувствием)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#natalia alekseevna">
-          <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-          <ns0:stage>(с досадой)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Aleksei Vasilyevich Rubin и ALEXANDER PETROVICH KURYATNIKOV входят, спорим и махнув рукой.)</ns0:stage>
-        <ns0:sp who="#aleksei vasilyevich rubin">
-          <ns0:speaker>ALEKSEI VASILYEVICH RUBIN:</ns0:speaker>
-          <ns0:stage>(с раздражением)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#alexander petrovich kuryatnikov">
-          <ns0:speaker>ALEXANDER PETROVICH KURYATNIKOV:</ns0:speaker>
-          <ns0:stage>(с вызовом)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#natalia alekseevna">
-          <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-          <ns0:stage>(вздыхает и встает)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>АКТ IV</ns0:head>Сцена 1<ns0:sp who="#mesto:_gostinnaja_v_pomeste_rubina._kabinet_obstavlen_tjazheloj_derevjannoj_mebelju,_na_stenah_visit_knizhnaja_shkaf_s_proizvedenijami_klassicheskoj_literatury._natalja_alekseevna_vhodit,_volnujuschajasja,_derzha_pismo_v_rukah">
-          <ns0:speaker>МЕСТО: Гостинная в поместье РУБИНА. Кабинет обставлен тяжелой деревянной мебелью, на стенах висит книжная шкаф с произведениями классической литературы. НАТАЛЬЯ АЛЕКСЕЕВНА входит, волнующаяся, держа письмо в руках.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#natalia alekseevna">
-          <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-          <ns0:stage>(с тревогой)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(ALEKSEI VASILYEVICH RUBIN входит в кабинет, устремляя взгляд на жена.)</ns0:stage>
-        <ns0:sp who="#aleksei vasilyevich rubin">
-          <ns0:speaker>ALEKSEI VASILYEVICH RUBIN:</ns0:speaker>
-          <ns0:stage>(с неуверенностью)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#natalia alekseevna">
-          <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-          <ns0:stage>(горько)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#aleksei vasilyevich rubin">
-          <ns0:speaker>ALEKSEI VASILYEVICH RUBIN:</ns0:speaker>
-          <ns0:stage>(пытается приблизиться)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#natalia alekseevna">
-          <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-          <ns0:stage>(снижая голос)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(МИХАИЛ ИВАНОВИЧ, доверенное лицо от театра Москвы, входит в кабинет, держа в руках конверт.)</ns0:stage>
-        <ns0:sp who="#mihail_ivanovich:_izvinite_za_vmeshatelstvo,_no_u_menja_est_novosti_ot_teatra_moskvy._my_prochitali_vashe_proizvedenie_i_otsenili_ego_vysoko._u_nas_est_namerenie_postavit_ego_na_stsene">
-          <ns0:speaker>МИХАИЛ ИВАНОВИЧ: Извините за вмешательство, но у меня есть новости от театра Москвы. Мы прочитали ваше произведение и оценили его высоко. У нас есть намерение поставить его на сцене.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(ALEKSEI VASILYEVICH</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>АКТ V</ns0:head>Сцена 1<ns0:sp who="#mesto:_spalnja_rubina._v_komnate_tiho,_svechi_osveschajut_komnatu._natalja_alekseevna_sidit_na_stule,_pogruzhennaja_v_svoi_mysli">
-          <ns0:speaker>МЕСТО: Спальня РУБИНА. В комнате тихо, свечи освещают комнату. НАТАЛЬЯ АЛЕКСЕЕВНА сидит на стуле, погруженная в свои мысли.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(NATALIA ALEKSEEVNA слышит стук в дверь, но продолжает сидеть неподвижно.)</ns0:stage>
-        <ns0:sp who="#alexander petrovich kuryatnikov">
-          <ns0:speaker>ALEXANDER PETROVICH KURYATNIKOV:</ns0:speaker>
-          <ns0:stage>(входит)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#natalia alekseevna">
-          <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-          <ns0:stage>(поднимается с полулья)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#alexander petrovich kuryatnikov">
-          <ns0:speaker>ALEXANDER PETROVICH KURYATNIKOV:</ns0:speaker>
-          <ns0:stage>(просяще)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(NATALIA ALEKSEEVNA размышляет, вздыхает и садится на кровать.)</ns0:stage>
-        <ns0:sp who="#natalia alekseevna">
-          <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-          <ns0:stage>(мягко)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(ALEKSEI VASILYEVICH RUBIN входит, видя волнение в комнате.)</ns0:stage>
-        <ns0:sp who="#aleksei vasilyevich rubin">
-          <ns0:speaker>ALEKSEI VASILYEVICH RUBIN:</ns0:speaker>
-          <ns0:stage>(с тревогой)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#natalia alekseevna">
-          <ns0:speaker>NATALIA ALEKSEEVNA:</ns0:speaker>
-          <ns0:stage>(поднимается)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(АЛЕКСАНДР ПЕТРОВИЧ уходит, оставля</ns0:stage>
-      </ns0:div>
-    </ns0:body>
-  </ns0:text>
-<fileDesc><titleStmt><title>GPT35-Russian-2</title></titleStmt></fileDesc></ns0:TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main"> Ведомый Судьбой (Driven by Fate)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="fulkyn">
+            <persName>ФУЛЬКИН:</persName>
+          </person>
+          <person sex="MALE" xml:id="zalyna">
+            <persName>ЗАЛИНА:</persName>
+          </person>
+          <person sex="MALE" xml:id="veronyka">
+            <persName>ВЕРОНИКА:</persName>
+          </person>
+          <person sex="MALE" xml:id="natasha">
+            <persName>НАТАША:</persName>
+          </person>
+          <person sex="MALE" xml:id="vera">
+            <persName>ВЕРА:</persName>
+          </person>
+          <person sex="MALE" xml:id="olha">
+            <persName>ОЛЬГА:</persName>
+          </person>
+          <person sex="MALE" xml:id="yvanov">
+            <persName>ИВАНОВ:</persName>
+          </person>
+          <person sex="MALE" xml:id="zverev">
+            <persName>ЗВЕРЕВ:</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head> Первый акт</head>
+        <stage>(Сцена представляет собой уютное помещение восемнадцатого века. В центре комнаты стол с книгами и перьевкой. Через окно виден заснеженный пейзаж, погруженный в сумрак. Открывается картина умиротворения, к которой неожиданно нарушает торжественная тишина.)    (ВЕРА, молодая женщина с грустными глазами и серебристыми волосами, сидит за столом, письмо в руках. В ее взгляде читается тревога, и она терзается неясными сомнениями.)</stage><sp who="#vera:">
+          <speaker>ВЕРА: </speaker>
+          <stage>(Тихо)</stage>
+          <p> Зачем же судьба нас ведет за ниточку? Почему она сыплет мысли в мое сердце, темнуюющие мое будущее? Боже мой, дай мне силы понять и принять ее волю.    <stage>(ЗВЕРЕВ, мужчина в возрасте, пришедший из города, покидает одну дверь и проходит через комнату, останавливаясь у двери, напротив которой сидит ВЕРА. Он стоит под дверным косяком и наблюдает за ней.)</stage></p>
+        </sp>
+        <sp who="#zverev:">
+          <speaker>ЗВЕРЕВ: </speaker>
+          <stage>(Волнуется)</stage>
+          <p> Вера, я вижу в твоих глазах муки и тревоги. Развей их, моя драгоценная жена.</p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА: </speaker>
+          <stage>(Вздыхает)</stage>
+          <p> Александр, ты не поверишь, что только что получила письмо от своей сестры. Она пишет о нашей недавней встрече с молодым писателем, НИКОЛАЕМ.</p>
+        </sp>
+        <sp who="#zverev:">
+          <speaker>ЗВЕРЕВ: </speaker>
+          <stage>(Задумчиво)</stage>
+          <p> Николай… имя, что пронизывает душу и сердце, словно звук чудесной музыки. Нет, я не поверю в то, что твоя сестра могла повстречаться с ним, да и смекать к какой цели его заманивала.</p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА: </speaker>
+          <stage>(С трепетом)</stage>
+          <p> Но Александр, мне сложно обретать п</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> Второй акт</head>
+        <stage>(Сцена изображает зал в шикарном особняке. Вокруг высокого стола с множеством свечей собрались люди в праздничных нарядах. Слышится смех и шепот.)    (ВЕРА и ЗВЕРЕВ входят в зал, рука об руку. Взгляды всех присутствующих обращаются на них. ВЕРА оставляет полное впечатление красоты и грации, в то время как ЗВЕРЕВ искусно придерживает своей глубокой человечностью.)</stage><sp who="#vera:">
+          <speaker>ВЕРА: </speaker>
+          <stage>(С нерешительностью)</stage>
+          <p> Александр, я так волнуюсь. Не знаю, что ожидать от этого бала.</p>
+        </sp>
+        <sp who="#zverev:">
+          <speaker>ЗВЕРЕВ: </speaker>
+          <stage>(Улыбаясь)</stage>
+          <p> Моя дорогая, это лишь еще одна встреча в этом бесконечном спектакле жизни. Ты будешь блистать, уверена.    <stage>(ИВАНОВ, молодой и привлекательный джентльмен, подходит к ним.)</stage></p>
+        </sp>
+        <sp who="#yvanov:">
+          <speaker>ИВАНОВ:</speaker>
+          <p>Добрый вечер, Вера, Александр. Рад видеть вас здесь.</p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА:</speaker>
+          <p>Иванов, спасибо за приглашение. Этот бал великолепен.</p>
+        </sp>
+        <sp who="#zverev:">
+          <speaker>ЗВЕРЕВ: </speaker>
+          <stage>(С усмешкой)</stage>
+          <p> Да, Иванов, ты непревзойден в создании социальной среды и в хорошем вкусе.    <stage>(НАТАША, обаятельная и элегантная модница, приближается к ним.)</stage></p>
+        </sp>
+        <sp who="#natasha:">
+          <speaker>НАТАША:</speaker>
+          <p>Дорогие мои, как хорошо видеть вас здесь!</p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА:</speaker>
+          <p>Наталья, вы прекрасны сегодня, как всегда.</p>
+        </sp>
+        <sp who="#natasha:">
+          <speaker>НАТАША:</speaker>
+          <p>Спасибо, милая Вера. Вы не представляете, сколько подготовки вложено в этот бал. Дорогие друзья, я хочу назвать нашу золотую пару - Веру и Александра - посетителями нашего скромного вечера.    <stage>(ЗВЕРЕВ и ВЕРА благодарно мают головой и проходят внутрь зала.)</stage>    (</p>
+        </sp>
+        <stage>СЦЕНА меняется в н</stage>
+      </div>
+      <div type="scene">
+        <head>Третий акт</head>
+        <stage>(Сцена олицетворяет длинный коридор в историческом особняке. Подсвеченные лампами эффектные картины вывешены на стенах. Коридор погружен в полумрак, который лишь скрывает тайны прошлого.)    (ВЕРА, одетая в пышное вечернее платье, стоит перед дверью комнаты ЗАЛИНЫ. Она дрожит от нервов и колеблется, а затем, собравшись с духом, открывает дверь и заходит.)    (ЗАЛИНА, старушка с глухими глазами, сидит напротив ВЕРЫ за круглым столом. ЗАЛИНА улыбается и протягивает руки для приветствия.)</stage>
+        <sp who="#zalyna:">
+          <speaker>ЗАЛИНА:</speaker>
+          <p>Моя дорогая Вера, приятно видеть тебя. Присаживайся, милая, здесь есть для тебя много, что я хочу рассказать.</p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА: </speaker>
+          <stage>(Нервно)</stage>
+          <p> Бабушка Залина, я с нетерпением ждала этой встречи. Я чувствую, что эта беседа будет решающей для нашей семьи.</p>
+        </sp>
+        <sp who="#zalyna:">
+          <speaker>ЗАЛИНА: </speaker>
+          <stage>(С грустью)</stage>
+          <p> Ты права, Вера. Мои глаза не видят ясности в нашем будущем. Но есть знание, которое нам необходимо разделить.    <stage>(ЗАЛИНА достает старую коробку из-под стола и открывает ее. Внутри лежат письма и документы.)</stage></p>
+        </sp>
+        <sp who="#zalyna:">
+          <speaker>ЗАЛИНА:</speaker>
+          <p>Это документы и письма, связанные с нашей семейной историей. В них заключена правда, которую долгие годы хранила в себе только я. Но сейчас время пришло, чтобы разобраться в прошлом и понять, каково будет наше будущее.</p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА: </speaker>
+          <stage>(С тревогой)</stage>
+          <p> Бабушка, я готова услышать все. Расскажите мне о наших корнях, о нашей судьбе.    (ЗАЛИНА начинает рассказывать историю семьи, включая скрытую тайну, которая связана с про <stage>(ФУЛЬКИН и ОЛЬГА торопливо выходят на сцену и обнаруживают ВЕРУ в последних трудностях, сердце ОЛЬГИ начинает сжиматься от сострадания.)</stage></p>
+        </sp>
+        <sp who="#olha:">
+          <speaker>ОЛЬГА: </speaker>
+          <stage>(Встревая)</stage>
+          <p> Вера! Что случилось?</p>
+        </sp>
+        <sp who="#fulkyn:">
+          <speaker>ФУЛЬКИН: </speaker>
+          <stage>(Кивая головой)</stage>
+          <p> Я услышал шум и прибежал сюда. Ты должна оставаться сильной, Вера!</p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА: </speaker>
+          <stage>(Состроив гримасу боли)</stage>
+          <p> Я… Я не знаю что делать! Моя бабушка! Она нуждается в медицинской помощи!</p>
+        </sp>
+        <sp who="#olha:">
+          <speaker>ОЛЬГА: </speaker>
+          <stage>(Решительно)</stage>
+          <p> Мы должны довериться Богу и сделать все, что в наших силах. Мы найдем врача и привезем его сюда. Фулькин, вы должны пойти немедленно в город.</p>
+        </sp>
+        <sp who="#fulkyn:">
+          <speaker>ФУЛЬКИН: </speaker>
+          <stage>(Смеясь)</stage>
+          <p> Мисс Ольга, вы забыли, что я простой художник. Но я постараюсь найти кого-то, кто поможет нам.    <stage>(ФУЛЬКИН спешно уходит со сцены.)</stage>
+            <stage>(ВЕРА и ОЛЬГА остаются на сцене, смятенные и бездейственные.)</stage></p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА:</speaker>
+          <p>Ольга, что я могу сделать? Бабушке становится все хуже.</p>
+        </sp>
+        <sp who="#olha:">
+          <speaker>ОЛЬГА:</speaker>
+          <p>Мы не можем сдаваться. Мы должны постоять друг за друга и бороться до конца. Бог всегда на стороне тех, кто верит и надеется. Мы должны верить в исцеление.    <stage>(ЗВЕРЕВ входит на сцену, выглядя беспокойным.)</stage></p>
+        </sp>
+        <sp who="#zverev:">
+          <speaker>ЗВЕРЕВ:</speaker>
+          <p>Вера, Ольга, что здесь происходит? Я услышал, что с бабушкой случилось что-то ужасное!</p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА: </speaker>
+          <stage>(С пронзительным горем)</stage>
+          <p> Да, Александр, ее сердце… Оно стало слабым, и все люди были сбиты с толку. Я не знаю, чего ожидать.</p>
+        </sp>
+        <sp who="#zverev:">
+          <speaker>ЗВЕРЕВ: </speaker>
+          <stage>(Сжимает руку ВЕРЫ)</stage>
+          <p> Мое сердце т</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> Четвёртый акт</head>
+        <stage>(Сцена представляет собой главную комнату богато украшенного особняка. На центральном столе горят свечи, отдавая теплым светом. По сторонам комнаты расставлены удобные кресла и диваны. ВОЗРАСТНАЯ ВЕРОНИКА сидит в одном из кресел, склонив голову и держа в руках молитвенную верёвку.)    (ВЕРА входит в комнату, глубоко вздохнув.)</stage>
+        <sp who="#vera:">
+          <speaker>ВЕРА:</speaker>
+          <p>Бабушка, я пришла, чтобы поговорить с вами. Расскажите мне все, что вы знаете о нашем прошлом. Что связывает нашу семью с этой тайной?</p>
+        </sp>
+        <sp who="#veronyka:">
+          <speaker>ВЕРОНИКА: </speaker>
+          <stage>(Вздыхает)</stage>
+          <p> Дитя моё, наша семья обладает древним наследием, связанным с орденом Чёрного Камня. Этот орден существует в тени веками, скрывая свои тайны от мира. Однажды мой муж, ваш прадедушка, решил исследовать их и проник в запретный мир. Это привело к чёрным событиям, и мы все должны нести их тяжесть.</p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА: </speaker>
+          <stage>(Трепетный голос)</stage>
+          <p> Но какая связь между нами и этим орденом?</p>
+        </sp>
+        <sp who="#veronyka:">
+          <speaker>ВЕРОНИКА:</speaker>
+          <p>Ваши родители были членами этого ордена, и их судьбу определили его законы и тайны. Теперь эта судьба лежит на ваших плечах, Вера. Ваше рождение обязано священному контракту, заключенному вашим отцом с орденом.</p>
+        </sp>
+        <sp who="#vera:">
+          <speaker>ВЕРА: </speaker>
+          <stage>(C горечью)</stage>
+          <p> Разве это справедливо, бабушка? Мы не имеем выбора в этом?</p>
+        </sp>
+        <sp who="#veronyka:">
+          <speaker>ВЕРОНИКА: </speaker>
+          <stage>(Берёзовой серьёзностью)</stage>
+          <p> Верится вообще лишь тему, объявлен судьбою. Но помни, Вера, что сила твоего характера и решимости прокладыв</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>
