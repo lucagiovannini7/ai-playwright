@@ -1,0 +1,470 @@
+
+
+$**
+##Acte I**
+
+$**
+##Scène 1**
+
+* * *
+
+@**UNE RUE DANS UNE VILLE**
+
+@**UN HOMME**
+
+$(seul)
+
+Je suis un homme simple. Je n'ai pas de grandes ambitions. Je veux juste vivre ma vie en paix. Mais aujourd'hui, je sens que quelque chose ne va pas.
+
+$**(Il regarde autour de lui.)**
+
+La ville est calme, mais il y a une tension palpable dans l'air. Les gens se regardent avec méfiance.
+
+$**(Il continue à marcher.)**
+
+Je ne sais pas ce qui se passe, mais j'ai peur.
+
+$**(Il s'arrête devant une taverne.)**
+
+Je vais entrer et prendre une bière. Peut-être que ça me calmera.
+
+$**(Il entre dans la taverne.)**
+
+* * *
+
+$**
+##Scène 2**
+
+* * *
+
+@**LA TAVERNE**
+
+$**L'HOMME**
+
+$(se place au bar.)**
+
+Une bière, s'il vous plaît.
+
+@**LE BARMAN**
+
+$(lui sert une bière.)**
+
+Voilà, monsieur.
+
+$**L'HOMME**
+
+Merci.
+
+$**(Il prend une gorgée de bière.)**
+
+Ah, ça fait du bien.
+
+$**(Il regarde autour de lui.)**
+
+La taverne est pleine de monde. Les gens parlent à voix basse, mais je peux deviner qu'ils parlent de ce qui se passe.
+
+$**(Il se tourne vers le barman.)**
+
+Qu'est-ce qui se passe, en fait ?
+
+@**LE BARMAN**
+
+Je ne sais pas grand-chose. Mais il y a des rumeurs que le roi est mort.
+
+$**L'HOMME**
+
+Le roi ? Mort ? Mais comment est-ce possible ?
+
+@**LE BARMAN**
+
+Je ne sais pas. Mais c'est ce qu'on dit.
+
+$**L'HOMME**
+
+$(il est choqué.)**
+
+Si le roi est mort, alors le pays est en danger.
+
+@**LE BARMAN**
+
+Je sais. C'est une période très troublée.
+
+$**L'HOMME**
+
+$(il se lève.)**
+
+Je dois rentrer chez moi. Je dois voir ma famille.
+
+@**LE BARMAN**
+
+D'accord, monsieur. Soyez prudent.
+
+$**L'HOMME**
+
+$(il sort de la taverne.)**
+
+* * *
+
+$**Le rideau tombe.**
+
+
+
+
+
+$**
+##Acte II**
+
+$**
+##Scène 1**
+
+* * *
+
+@**UNE CHAMBRE DANS UNE MAISON**
+
+@**UNE FEMME**
+
+$(assise sur un lit, inquiète.)**
+
+Où est-il ? Il devrait être rentré depuis longtemps.
+
+$**(Elle se lève et va à la fenêtre.)**
+
+Je vois des gens dans la rue. Ils semblent paniqués.
+
+$**(Elle revient au lit et s'assoit.)**
+
+Que se passe-t-il ? Qu'est-ce qui a pu arriver à mon mari ?
+
+$**(Elle entend un bruit à la porte.)**
+
+Qui est là ?
+
+$**(La porte s'ouvre et l'HOMME entre.)**
+
+C'est moi, chéri.
+
+@**LA FEMME**
+
+$(elle se lève et court vers lui.)**
+
+Mon amour ! Tu es sain et sauf !
+
+$**L'HOMME**
+
+Oui, je suis bien. Mais il se passe des choses terribles.
+
+@**LA FEMME**
+
+Qu'est-ce que c'est ?
+
+$**L'HOMME**
+
+Le roi est mort.
+
+@**LA FEMME**
+
+Le roi ? Mort ? Mais comment est-ce possible ?
+
+$**L'HOMME**
+
+Je ne sais pas. Mais c'est ce qu'on dit.
+
+@**LA FEMME**
+
+$(elle est choquée.)**
+
+Si le roi est mort, alors le pays est en danger.
+
+$**L'HOMME**
+
+Je sais. C'est une période très troublée.
+
+@**LA FEMME**
+
+$(elle se met à pleurer.)**
+
+Que va-t-il se passer ?
+
+$**L'HOMME**
+
+Je ne sais pas. Mais nous devons rester forts.
+
+@**LA FEMME**
+
+$(elle s'essuie les larmes.)**
+
+Tu as raison. Nous devons rester forts.
+
+$**(L'HOMME et la FEMME s'embrassent.)**
+
+* * *
+
+$**Le rideau tombe.**
+
+
+
+
+
+$**
+##Acte III**
+
+$**
+##Scène 1**
+
+* * *
+
+@**UNE PLACE PUBLIQUE**
+
+@**UNE FOULE DE GENS**
+
+$(agitée.)**
+
+Que se passe-t-il ?
+
+$**Où est le roi ?
+
+$**Qui va nous gouverner ?
+
+$**La foule est en colère. Ils crient et se bousculaient.
+
+$**L'HOMME**
+
+$(se lève sur un banc.)**
+
+Peuple de France, écoutez-moi !
+
+$**La foule se calme et l'écoute.**
+
+$**L'HOMME**
+
+Le roi est mort. Mais nous ne sommes pas sans chef. Je suis le duc de Bourgogne, et je serai votre roi.
+
+$**La foule applaudit.**
+
+$**L'HOMME**
+
+Je promets de vous gouverner avec justice et sagesse. Je ferai tout ce que je peux pour vous protéger et pour vous faire prospérer.
+
+$**La foule acclame le duc de Bourgogne.**
+
+$**L'HOMME**
+
+Vive le roi !
+
+$**La foule**
+
+Vive le roi !
+
+* * *
+
+$**Le rideau tombe.**
+
+
+
+
+
+$**
+##Acte IV**
+
+$**
+##Scène 1**
+
+* * *
+
+@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+
+@**LE DUC DE BOURGOGNE**
+
+$(seul, assis sur un trône.)**
+
+Je suis le roi. Je suis le maître de ce pays.
+
+$**(Il se lève et regarde par la fenêtre.)**
+
+La ville est calme. Les gens semblent avoir accepté ma nouvelle autorité.
+
+$**(Il sourit.)**
+
+Je vais être un grand roi. Je vais faire de la France un pays prospère et puissant.
+
+$**(Il se tourne vers la porte.)**
+
+Entrez !
+
+$**(La porte s'ouvre et un LACAI entre.)**
+
+@**LE LACAI**
+
+Monseigneur, le peuple demande à vous voir.
+
+@**LE DUC DE BOURGOGNE**
+
+Qu'ils entrent.
+
+$**(Le LACAI sort.)**
+
+* * *
+
+$**
+##Scène 2**
+
+* * *
+
+@**LA CHAMBRE**
+
+@**LE DUC DE BOURGOGNE**
+
+$(assis sur son trône.)**
+
+Que voulez-vous ?
+
+@**UNE FEMME**
+
+$(se lève.)**
+
+Monseigneur, nous sommes venus vous demander justice.
+
+@**LE DUC DE BOURGOGNE**
+
+Justice ? De quoi parlez-vous ?
+
+@**LA FEMME**
+
+Mon mari a été accusé à tort de crime qu'il n'a pas commis. Il a été condamné à mort.
+
+@**LE DUC DE BOURGOGNE**
+
+Je vois. Et vous voulez que je l'acquitte ?
+
+@**LA FEMME**
+
+Oui, Monseigneur. Nous sommes sûrs de son innocence.
+
+@**LE DUC DE BOURGOGNE**
+
+Je vais examiner son dossier.
+
+@**LA FEMME**
+
+Merci, Monseigneur.
+
+$**(La femme et les autres gens quittent la pièce.)**
+
+* * *
+
+@**LE DUC DE BOURGOGNE**
+
+$(seul.)**
+
+Je dois faire attention. Je ne peux pas me permettre de faire une erreur.
+
+$**(Il se lève et va à la fenêtre.)**
+
+Je dois être un bon roi. Je dois faire ce qui est juste.
+
+* * *
+
+$**Le rideau tombe.**
+
+
+
+
+
+$**
+##Acte V**
+
+$**
+##Scène 1**
+
+* * *
+
+@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+
+@**LE DUC DE BOURGOGNE**
+
+$(seul, assis sur un trône.)**
+
+J'ai examiné le dossier de la femme. Son mari a été accusé à tort. Je vais l'acquitter.
+
+$**(Il se lève et va à la fenêtre.)**
+
+J'ai fait ce qui est juste. Je suis un bon roi.
+
+$**(Il se tourne vers la porte.)**
+
+Entrez !
+
+$**(La porte s'ouvre et un LACAI entre.)**
+
+@**LE LACAI**
+
+Monseigneur, la femme est là.
+
+@**LE DUC DE BOURGOGNE**
+
+Faites-la entrer.
+
+$**(Le LACAI sort.)**
+
+* * *
+
+$**
+##Scène 2**
+
+* * *
+
+@**LA CHAMBRE**
+
+@**LA FEMME**
+
+$(se lève.)**
+
+Monseigneur, merci. Vous avez fait ce que personne d'autre n'a pu faire.
+
+@**LE DUC DE BOURGOGNE**
+
+Je n'ai fait que mon devoir.
+
+@**LA FEMME**
+
+Mon mari est innocent. Il va être libéré ?
+
+@**LE DUC DE BOURGOGNE**
+
+Oui, il va être libéré.
+
+@**LA FEMME**
+
+Merci, Monseigneur. Je ne sais comment vous remercier.
+
+@**LE DUC DE BOURGOGNE**
+
+Vous n'avez pas besoin de me remercier. Je suis juste content d'avoir pu vous aider.
+
+@**LA FEMME**
+
+Je vous souhaite une longue vie, Monseigneur.
+
+@**LE DUC DE BOURGOGNE**
+
+Je vous en remercie.
+
+$**(La femme sort.)**
+
+* * *
+
+@**LE DUC DE BOURGOGNE**
+
+$(seul.)**
+
+Je suis content d'avoir pu aider cette femme. J'ai fait ce que je devais faire.
+
+$**(Il se lève et va à la fenêtre.)**
+
+Je suis un bon roi. Je vais faire de la France un pays prospère et juste.
+
+* * *
+
+$**Le rideau tombe.**
+
+

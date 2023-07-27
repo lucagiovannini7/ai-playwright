@@ -1,0 +1,505 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="un lacai">
+            <persName>**UN LACAI**</persName>
+          </person>
+          <person sex="MALE" xml:id="la cour">
+            <persName>**LA COUR**</persName>
+          </person>
+          <person sex="MALE" xml:id="une chambre dans le palais royal">
+            <persName>**UNE CHAMBRE DANS LE PALAIS ROYAL**</persName>
+          </person>
+          <person sex="MALE" xml:id="les chefs du peuple">
+            <persName>**LES CHEFS DU PEUPLE**</persName>
+          </person>
+          <person sex="MALE" xml:id="le messager">
+            <persName>**LE MESSAGER**</persName>
+          </person>
+          <person sex="MALE" xml:id="une chambre dans un hôtel">
+            <persName>**UNE CHAMBRE DANS UN HÔTEL**</persName>
+          </person>
+          <person sex="MALE" xml:id="une place publique">
+            <persName>**UNE PLACE PUBLIQUE**</persName>
+          </person>
+          <person sex="MALE" xml:id="un chef du peuple">
+            <persName>**UN CHEF DU PEUPLE**</persName>
+          </person>
+          <person sex="MALE" xml:id="le duc">
+            <persName>**LE DUC**</persName>
+          </person>
+          <person sex="MALE" xml:id="une salle de rendez-vous">
+            <persName>**UNE SALLE DE RENDEZ-VOUS**</persName>
+          </person>
+          <person sex="MALE" xml:id="le peuple">
+            <persName>**LE PEUPLE**</persName>
+          </person>
+          <person sex="MALE" xml:id="la reine">
+            <persName>**LA REINE**</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <stage>**</stage>
+      <div type="scene">
+        <head>Acte I**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une chambre dans un hôtel">
+          <speaker>**UNE CHAMBRE DANS UN HÔTEL**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je suis le Duc de Bourgogne. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi seul. Je n'ai pas d'amis. Je n'ai pas de famille. Je suis un prisonnier dans mon propre hôtel.</p>
+        </sp>
+        <stage>(assis sur un lit)</stage>
+        <sp who="#un lacai">
+          <speaker>**UN LACAI**</speaker>
+          <p>Monseigneur, il y a un messager de la cour.</p>
+        </sp>
+        <stage>(entre)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Qu'il entre.</p>
+        </sp>
+        <stage>**(Le messager entre.)**</stage>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Monseigneur, la reine vous demande de vous rendre à la cour immédiatement.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Pourquoi ?</p>
+        </sp>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Je ne sais pas, Monseigneur. Mais la reine est très insistante.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Bien. Je vais me préparer.* * *</p>
+        </sp>
+        <stage>**(Le messager sort.)**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2**</head>* * *<sp who="#la cour">
+          <speaker>**LA COUR**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>La reine ?</p>
+        </sp>
+        <stage>(entre)</stage>
+        <sp who="#la reine">
+          <speaker>**LA REINE**</speaker>
+          <p>Oui, c'est moi. Je suis contente que vous soyez là.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Madame, qu'y a-t-il ?</p>
+        </sp>
+        <sp who="#la reine">
+          <speaker>**LA REINE**</speaker>
+          <p>Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je suis désolé, Madame.</p>
+        </sp>
+        <sp who="#la reine">
+          <speaker>**LA REINE**</speaker>
+          <p>Je sais. Mais je dois vous demander de lui succéder.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Moi ? Mais je ne suis pas de la famille royale.</p>
+        </sp>
+        <sp who="#la reine">
+          <speaker>**LA REINE**</speaker>
+          <p>Je sais. Mais vous êtes le plus puissant noble du royaume. Et vous êtes un homme juste et sage.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je ne sais pas si je suis capable de faire cela.</p>
+        </sp>
+        <sp who="#la reine">
+          <speaker>**LA REINE**</speaker>
+          <p>Vous devez essayer. Le royaume a besoin de vous.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je le ferai, Madame.</p>
+        </sp>
+        <sp who="#la reine">
+          <speaker>**LA REINE**</speaker>
+          <p>Merci, Duc. Je sais que vous ne me décevrez pas.* * *</p>
+        </sp>
+        <stage>**(Le Duc et la Reine s'inclinent l'un à l'autre.)**</stage>
+        <stage>**Le rideau tombe.**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Acte II**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une chambre dans le palais royal">
+          <speaker>**UNE CHAMBRE DANS LE PALAIS ROYAL**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je suis le nouveau roi de France. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi responsable. Je dois prendre soin du royaume. Je dois faire en sorte que le peuple soit heureux.</p>
+        </sp>
+        <stage>(assis sur un trône)</stage>
+        <sp who="#un lacai">
+          <speaker>**UN LACAI**</speaker>
+          <p>Monseigneur, il y a un messager du peuple.</p>
+        </sp>
+        <stage>(entre)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Qu'il entre.</p>
+        </sp>
+        <stage>**(Le messager entre.)**</stage>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Monseigneur, le peuple est en colère. Ils sont mécontents de votre règne.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Pourquoi ?</p>
+        </sp>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Ils disent que vous êtes trop arrogant. Ils disent que vous ne vous souciez pas d'eux.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>C'est faux ! Je me soucie du peuple. Je veux que le peuple soit heureux.</p>
+        </sp>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Ils ne vous croient pas, Monseigneur. Ils disent que vous ne les comprenez pas.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je dois les comprendre. Je dois trouver un moyen de les apaiser.</p>
+        </sp>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Je vous en prie, Monseigneur, faites quelque chose. Le peuple est sur le point de se révolter.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je ferai quelque chose. Je promets.* * *</p>
+        </sp>
+        <stage>**(Le messager sort.)**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2**</head>* * *<sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je dois trouver un moyen de calmer le peuple. Je dois trouver un moyen de les comprendre.J'ai une idée. Je vais convoquer les chefs du peuple et leur parler. Je leur expliquerai mes intentions et je leur demanderai leur aide.* * *</p>
+        </sp>
+        <stage>(seul)</stage>
+        <stage>**(Il réfléchit.)**</stage>
+        <stage>**Le rideau tombe.**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Acte III**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une salle de rendez-vous">
+          <speaker>**UNE SALLE DE RENDEZ-VOUS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Peuple de France, je vous parle. Je sais que vous êtes en colère. Je sais que vous êtes mécontents de mon règne.</p>
+        </sp>
+        <stage>(se tient devant les chefs du peuple)</stage>
+        <sp who="#les chefs du peuple">
+          <speaker>**LES CHEFS DU PEUPLE**</speaker>
+          <p></p>
+        </sp>
+        <stage>(murmures)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je vous ai entendu. Je sais que je n'ai pas été un bon roi. J'ai été arrogant et je n'ai pas pris soin de vous.</p>
+        </sp>
+        <sp who="#les chefs du peuple">
+          <speaker>**LES CHEFS DU PEUPLE**</speaker>
+          <p></p>
+        </sp>
+        <stage>(murmures plus forts)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Mais je veux changer. Je veux être un bon roi pour vous. Je veux que vous soyez heureux.</p>
+        </sp>
+        <sp who="#les chefs du peuple">
+          <speaker>**LES CHEFS DU PEUPLE**</speaker>
+          <p></p>
+        </sp>
+        <stage>(silence)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je sais que je ne peux pas gagner votre confiance en un jour. Mais je promets de faire de mon mieux. Je promets de changer.</p>
+        </sp>
+        <sp who="#les chefs du peuple">
+          <speaker>**LES CHEFS DU PEUPLE**</speaker>
+          <p></p>
+        </sp>
+        <stage>(murmures)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je vous demande de me donner une chance. Je vous demande de me laisser prouver que je peux être un bon roi pour vous.</p>
+        </sp>
+        <sp who="#un chef du peuple">
+          <speaker>**UN CHEF DU PEUPLE**</speaker>
+          <p>Monseigneur, nous vous écoutons.</p>
+        </sp>
+        <stage>(se lève)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je vous remercie. Je vais commencer par abroger les taxes les plus oppressives. Je vais également investir dans l'agriculture et l'industrie, afin de créer de nouveaux emplois. Et je vais me battre pour la justice et l'égalité pour tous.</p>
+        </sp>
+        <sp who="#les chefs du peuple">
+          <speaker>**LES CHEFS DU PEUPLE**</speaker>
+          <p></p>
+        </sp>
+        <stage>(applaudissements)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je sais que ce ne sera pas facile. Mais je suis déterminé à faire de la France un pays plus juste et plus prospère.</p>
+        </sp>
+        <sp who="#les chefs du peuple">
+          <speaker>**LES CHEFS DU PEUPLE**</speaker>
+          <p></p>
+        </sp>
+        <stage>(applaudissements)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Merci, peuple de France. Je ferai tout ce que je peux pour vous.* * *</p>
+        </sp>
+        <stage>**(Les chefs du peuple applaudissent.)**</stage>
+        <stage>**Le rideau tombe.**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Acte IV**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une chambre dans le palais royal">
+          <speaker>**UNE CHAMBRE DANS LE PALAIS ROYAL**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Ils m'ont cru. Ils m'ont donné une chance. Je dois leur prouver que je suis digne de leur confiance.</p>
+        </sp>
+        <stage>(seul)</stage>
+        <sp who="#un lacai">
+          <speaker>**UN LACAI**</speaker>
+          <p>Monseigneur, il y a un messager du peuple.</p>
+        </sp>
+        <stage>(entre)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Qu'il entre.</p>
+        </sp>
+        <stage>**(Le messager entre.)**</stage>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Monseigneur, le peuple est content. Ils sont heureux de votre règne.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.</p>
+        </sp>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Monseigneur, le peuple vous demande une faveur.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Quelle faveur ?</p>
+        </sp>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Le peuple demande que vous abaissiez les taxes.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je vois. Je vais réfléchir à votre demande.</p>
+        </sp>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Merci, Monseigneur.* * *</p>
+        </sp>
+        <stage>**(Le messager sort.)**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2**</head>* * *<sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je dois abaisser les taxes. Le peuple en a besoin. Mais je ne peux pas me permettre de faire cela. Le royaume est déjà endetté.J'ai une idée. Je vais créer une nouvelle taxe sur les riches. Cela permettra de abaisser les taxes sur les pauvres et de ne pas mettre en danger les finances du royaume.* * *</p>
+        </sp>
+        <stage>(seul)</stage>
+        <stage>**(Il réfléchit.)**</stage>
+        <stage>**Le rideau tombe.**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Acte V**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une chambre dans le palais royal">
+          <speaker>**UNE CHAMBRE DANS LE PALAIS ROYAL**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>J'ai fait ce qu'il fallait. J'ai abaisser les taxes sur les pauvres et j'ai créé une nouvelle taxe sur les riches. Je suis sûr que le peuple sera content.</p>
+        </sp>
+        <stage>(seul)</stage>
+        <sp who="#un lacai">
+          <speaker>**UN LACAI**</speaker>
+          <p>Monseigneur, il y a un messager du peuple.</p>
+        </sp>
+        <stage>(entre)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Qu'il entre.</p>
+        </sp>
+        <stage>**(Le messager entre.)**</stage>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Monseigneur, le peuple est ravi. Ils sont très reconnaissants pour ce que vous avez fait.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je suis content de l'entendre. Je suis heureux de pouvoir aider le peuple.</p>
+        </sp>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Monseigneur, le peuple vous demande de rester roi. Ils ne veulent pas que vous abdiquez.</p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je ne vais pas abdiquer. Je suis le roi de France et je resterai roi jusqu'à ma mort.</p>
+        </sp>
+        <sp who="#le messager">
+          <speaker>**LE MESSAGER**</speaker>
+          <p>Merci, Monseigneur.* * *</p>
+        </sp>
+        <stage>**(Le messager sort.)**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2**</head>* * *<sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je suis content de rester roi. Je suis heureux de pouvoir servir le peuple.Je sais que je dois faire plus pour le peuple. Je dois leur donner une vie meilleure.Je vais travailler dur pour faire de la France un pays plus juste et plus prospère.</p>
+        </sp>
+        <stage>(seul)</stage>
+        <stage>**(Il réfléchit.)**</stage>
+        <stage>**(Il se lève.)**</stage>
+        <stage>**(Le rideau tombe.)**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Acte VI**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une chambre dans le palais royal">
+          <speaker>**UNE CHAMBRE DANS LE PALAIS ROYAL**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>J'ai régné pendant de nombreuses années maintenant. J'ai vu le royaume prospérer sous mon règne. Mais je sais que je ne suis pas le roi parfait. J'ai fait des erreurs. J'ai blessé des gens.Je veux faire une chose avant de mourir. Je veux faire amende honorable pour mes erreurs. Je veux que le peuple me pardonne.Je vais aller vers le peuple et leur parler. Je vais leur dire que je suis désolé pour les torts que je leur ai causés. Je vais leur demander pardon.* * *</p>
+        </sp>
+        <stage>(seul)</stage>
+        <stage>**(Il réfléchit.)**</stage>
+        <stage>**(Il se lève.)**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2**</head>* * *<sp who="#une place publique">
+          <speaker>**UNE PLACE PUBLIQUE**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Peuple de France, je vous parle. Je suis le roi, et je suis venu vous demander pardon.</p>
+        </sp>
+        <stage>(devant le peuple)</stage>
+        <sp who="#le peuple">
+          <speaker>**LE PEUPLE**</speaker>
+          <p></p>
+        </sp>
+        <stage>(bruit de la foule)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>J'ai fait des erreurs. J'ai blessé des gens. Je suis désolé pour cela.</p>
+        </sp>
+        <sp who="#le peuple">
+          <speaker>**LE PEUPLE**</speaker>
+          <p></p>
+        </sp>
+        <stage>(bruit de la foule)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je veux que vous me pardonniez. Je veux que nous construisions un avenir meilleur ensemble.</p>
+        </sp>
+        <sp who="#le peuple">
+          <speaker>**LE PEUPLE**</speaker>
+          <p></p>
+        </sp>
+        <stage>(bruit de la foule)</stage>
+        <sp who="#le duc">
+          <speaker>**LE DUC**</speaker>
+          <p>Je vous remercie. Je vais travailler dur pour être un meilleur roi pour vous.</p>
+        </sp>
+        <sp who="#le peuple">
+          <speaker>**LE PEUPLE**</speaker>
+          <p>* * *</p>
+        </sp>
+        <stage>(applaudissements)</stage>
+        <stage>**Le rideau tombe.**</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

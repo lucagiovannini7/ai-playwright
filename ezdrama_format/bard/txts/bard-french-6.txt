@@ -1,0 +1,453 @@
+
+
+$**
+##Acte I**
+
+$**
+##Scène 1**
+
+* * *
+
+@**UNE CHAMBRE DANS UN HÔTEL**
+
+@**LE DUC**
+
+$(assis sur un lit)
+
+Je suis le Duc de Bourgogne. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi seul. Je n'ai pas d'amis. Je n'ai pas de famille. Je suis un prisonnier dans mon propre hôtel.
+
+@**UN LACAI**
+
+$(entre)
+
+Monseigneur, il y a un messager de la cour.
+
+@**LE DUC**
+
+Qu'il entre.
+
+$**(Le messager entre.)**
+
+@**LE MESSAGER**
+
+Monseigneur, la reine vous demande de vous rendre à la cour immédiatement.
+
+@**LE DUC**
+
+Pourquoi ?
+
+@**LE MESSAGER**
+
+Je ne sais pas, Monseigneur. Mais la reine est très insistante.
+
+@**LE DUC**
+
+Bien. Je vais me préparer.
+
+$**(Le messager sort.)**
+
+* * *
+
+$**
+##Scène 2**
+
+* * *
+
+@**LA COUR**
+
+@**LE DUC**
+
+$(entre)
+
+La reine ?
+
+@**LA REINE**
+
+Oui, c'est moi. Je suis contente que vous soyez là.
+
+@**LE DUC**
+
+Madame, qu'y a-t-il ?
+
+@**LA REINE**
+
+Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps.
+
+@**LE DUC**
+
+Je suis désolé, Madame.
+
+@**LA REINE**
+
+Je sais. Mais je dois vous demander de lui succéder.
+
+@**LE DUC**
+
+Moi ? Mais je ne suis pas de la famille royale.
+
+@**LA REINE**
+
+Je sais. Mais vous êtes le plus puissant noble du royaume. Et vous êtes un homme juste et sage.
+
+@**LE DUC**
+
+Je ne sais pas si je suis capable de faire cela.
+
+@**LA REINE**
+
+Vous devez essayer. Le royaume a besoin de vous.
+
+@**LE DUC**
+
+Je le ferai, Madame.
+
+@**LA REINE**
+
+Merci, Duc. Je sais que vous ne me décevrez pas.
+
+$**(Le Duc et la Reine s'inclinent l'un à l'autre.)**
+
+* * *
+
+$**Le rideau tombe.**
+
+
+
+
+
+$**
+##Acte II**
+
+$**
+##Scène 1**
+
+* * *
+
+@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+
+@**LE DUC**
+
+$(assis sur un trône)
+
+Je suis le nouveau roi de France. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi responsable. Je dois prendre soin du royaume. Je dois faire en sorte que le peuple soit heureux.
+
+@**UN LACAI**
+
+$(entre)
+
+Monseigneur, il y a un messager du peuple.
+
+@**LE DUC**
+
+Qu'il entre.
+
+$**(Le messager entre.)**
+
+@**LE MESSAGER**
+
+Monseigneur, le peuple est en colère. Ils sont mécontents de votre règne.
+
+@**LE DUC**
+
+Pourquoi ?
+
+@**LE MESSAGER**
+
+Ils disent que vous êtes trop arrogant. Ils disent que vous ne vous souciez pas d'eux.
+
+@**LE DUC**
+
+C'est faux ! Je me soucie du peuple. Je veux que le peuple soit heureux.
+
+@**LE MESSAGER**
+
+Ils ne vous croient pas, Monseigneur. Ils disent que vous ne les comprenez pas.
+
+@**LE DUC**
+
+Je dois les comprendre. Je dois trouver un moyen de les apaiser.
+
+@**LE MESSAGER**
+
+Je vous en prie, Monseigneur, faites quelque chose. Le peuple est sur le point de se révolter.
+
+@**LE DUC**
+
+Je ferai quelque chose. Je promets.
+
+$**(Le messager sort.)**
+
+* * *
+
+$**
+##Scène 2**
+
+* * *
+
+@**LE DUC**
+
+$(seul)
+
+Je dois trouver un moyen de calmer le peuple. Je dois trouver un moyen de les comprendre.
+
+$**(Il réfléchit.)**
+
+J'ai une idée. Je vais convoquer les chefs du peuple et leur parler. Je leur expliquerai mes intentions et je leur demanderai leur aide.
+
+* * *
+
+$**Le rideau tombe.**
+
+
+
+
+
+$**
+##Acte III**
+
+$**
+##Scène 1**
+
+* * *
+
+@**UNE SALLE DE RENDEZ-VOUS**
+
+@**LE DUC**
+
+$(se tient devant les chefs du peuple)
+
+Peuple de France, je vous parle. Je sais que vous êtes en colère. Je sais que vous êtes mécontents de mon règne.
+
+@**LES CHEFS DU PEUPLE**
+
+$(murmures)
+
+@**LE DUC**
+
+Je vous ai entendu. Je sais que je n'ai pas été un bon roi. J'ai été arrogant et je n'ai pas pris soin de vous.
+
+@**LES CHEFS DU PEUPLE**
+
+$(murmures plus forts)
+
+@**LE DUC**
+
+Mais je veux changer. Je veux être un bon roi pour vous. Je veux que vous soyez heureux.
+
+@**LES CHEFS DU PEUPLE**
+
+$(silence)
+
+@**LE DUC**
+
+Je sais que je ne peux pas gagner votre confiance en un jour. Mais je promets de faire de mon mieux. Je promets de changer.
+
+@**LES CHEFS DU PEUPLE**
+
+$(murmures)
+
+@**LE DUC**
+
+Je vous demande de me donner une chance. Je vous demande de me laisser prouver que je peux être un bon roi pour vous.
+
+@**UN CHEF DU PEUPLE**
+
+$(se lève)
+
+Monseigneur, nous vous écoutons.
+
+@**LE DUC**
+
+Je vous remercie. Je vais commencer par abroger les taxes les plus oppressives. Je vais également investir dans l'agriculture et l'industrie, afin de créer de nouveaux emplois. Et je vais me battre pour la justice et l'égalité pour tous.
+
+@**LES CHEFS DU PEUPLE**
+
+$(applaudissements)
+
+@**LE DUC**
+
+Je sais que ce ne sera pas facile. Mais je suis déterminé à faire de la France un pays plus juste et plus prospère.
+
+@**LES CHEFS DU PEUPLE**
+
+$(applaudissements)
+
+@**LE DUC**
+
+Merci, peuple de France. Je ferai tout ce que je peux pour vous.
+
+$**(Les chefs du peuple applaudissent.)**
+
+* * *
+
+$**Le rideau tombe.**
+
+
+
+
+
+$**
+##Acte IV**
+
+$**
+##Scène 1**
+
+* * *
+
+@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+
+@**LE DUC**
+
+$(seul)
+
+Ils m'ont cru. Ils m'ont donné une chance. Je dois leur prouver que je suis digne de leur confiance.
+
+@**UN LACAI**
+
+$(entre)
+
+Monseigneur, il y a un messager du peuple.
+
+@**LE DUC**
+
+Qu'il entre.
+
+$**(Le messager entre.)**
+
+@**LE MESSAGER**
+
+Monseigneur, le peuple est content. Ils sont heureux de votre règne.
+
+@**LE DUC**
+
+Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
+
+@**LE MESSAGER**
+
+Monseigneur, le peuple est content. Ils sont heureux de votre règne.
+
+@**LE DUC**
+
+Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
+
+@**LE MESSAGER**
+
+Monseigneur, le peuple vous demande une faveur.
+
+@**LE DUC**
+
+Quelle faveur ?
+
+@**LE MESSAGER**
+
+Le peuple demande que vous abaissiez les taxes.
+
+@**LE DUC**
+
+Je vois. Je vais réfléchir à votre demande.
+
+@**LE MESSAGER**
+
+Merci, Monseigneur.
+
+$**(Le messager sort.)**
+
+* * *
+
+$**
+##Scène 2**
+
+* * *
+
+@**LE DUC**
+
+$(seul)
+
+Je dois abaisser les taxes. Le peuple en a besoin. Mais je ne peux pas me permettre de faire cela. Le royaume est déjà endetté.
+
+$**(Il réfléchit.)**
+
+J'ai une idée. Je vais créer une nouvelle taxe sur les riches. Cela permettra de abaisser les taxes sur les pauvres et de ne pas mettre en danger les finances du royaume.
+
+* * *
+
+$**Le rideau tombe.**
+
+
+
+
+
+$**
+##Acte V**
+
+$**
+##Scène 1**
+
+* * *
+
+@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+
+@**LE DUC**
+
+$(seul)
+
+J'ai fait ce qu'il fallait. J'ai abaisser les taxes sur les pauvres et j'ai créé une nouvelle taxe sur les riches. Je suis sûr que le peuple sera content.
+
+@**UN LACAI**
+
+$(entre)
+
+Monseigneur, il y a un messager du peuple.
+
+@**LE DUC**
+
+Qu'il entre.
+
+$**(Le messager entre.)**
+
+@**LE MESSAGER**
+
+Monseigneur, le peuple est ravi. Ils sont très reconnaissants pour ce que vous avez fait.
+
+@**LE DUC**
+
+Je suis content de l'entendre. Je suis heureux de pouvoir aider le peuple.
+
+@**LE MESSAGER**
+
+Monseigneur, le peuple vous demande de rester roi. Ils ne veulent pas que vous abdiquez.
+
+@**LE DUC**
+
+Je ne vais pas abdiquer. Je suis le roi de France et je resterai roi jusqu'à ma mort.
+
+@**LE MESSAGER**
+
+Merci, Monseigneur.
+
+$**(Le messager sort.)**
+
+* * *
+
+$**
+##Scène 2**
+
+* * *
+
+@**LE DUC**
+
+$(seul)
+
+Je suis content de rester roi. Je suis heureux de pouvoir servir le peuple.
+
+$**(Il réfléchit.)**
+
+Je sais que je dois faire plus pour le peuple. Je dois leur donner une vie meilleure.
+
+$**(Il se lève.)**
+
+Je vais travailler dur pour faire de la France un pays plus juste et plus prospère.
+
+$**(Le rideau tombe.)**
+
+

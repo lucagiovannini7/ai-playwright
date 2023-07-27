@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="une rue dans une ville">
+            <persName>**UNE RUE DANS UNE VILLE**</persName>
+          </person>
+          <person sex="MALE" xml:id="le barman">
+            <persName>**LE BARMAN**</persName>
+          </person>
+          <person sex="MALE" xml:id="une foule de gens">
+            <persName>**UNE FOULE DE GENS**</persName>
+          </person>
+          <person sex="MALE" xml:id="une chambre dans le palais royal">
+            <persName>**UNE CHAMBRE DANS LE PALAIS ROYAL**</persName>
+          </person>
+          <person sex="MALE" xml:id="un homme">
+            <persName>**UN HOMME**</persName>
+          </person>
+          <person sex="MALE" xml:id="la chambre">
+            <persName>**LA CHAMBRE**</persName>
+          </person>
+          <person sex="MALE" xml:id="une femme">
+            <persName>**UNE FEMME**</persName>
+          </person>
+          <person sex="MALE" xml:id="la femme">
+            <persName>**LA FEMME**</persName>
+          </person>
+          <person sex="MALE" xml:id="une place publique">
+            <persName>**UNE PLACE PUBLIQUE**</persName>
+          </person>
+          <person sex="MALE" xml:id="le duc de bourgogne">
+            <persName>**LE DUC DE BOURGOGNE**</persName>
+          </person>
+          <person sex="MALE" xml:id="une chambre dans une maison">
+            <persName>**UNE CHAMBRE DANS UNE MAISON**</persName>
+          </person>
+          <person sex="MALE" xml:id="le lacai">
+            <persName>**LE LACAI**</persName>
+          </person>
+          <person sex="MALE" xml:id="la taverne">
+            <persName>**LA TAVERNE**</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <stage>**</stage>
+      <div type="scene">
+        <head>Acte I**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une rue dans une ville">
+          <speaker>**UNE RUE DANS UNE VILLE**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#un homme">
+          <speaker>**UN HOMME**</speaker>
+          <p>Je suis un homme simple. Je n'ai pas de grandes ambitions. Je veux juste vivre ma vie en paix. Mais aujourd'hui, je sens que quelque chose ne va pas.La ville est calme, mais il y a une tension palpable dans l'air. Les gens se regardent avec méfiance.Je ne sais pas ce qui se passe, mais j'ai peur.Je vais entrer et prendre une bière. Peut-être que ça me calmera.* * *</p>
+        </sp>
+        <stage>(seul)</stage>
+        <stage>**(Il regarde autour de lui.)**</stage>
+        <stage>**(Il continue à marcher.)**</stage>
+        <stage>**(Il s'arrête devant une taverne.)**</stage>
+        <stage>**(Il entre dans la taverne.)**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2**</head>* * *<sp who="#la taverne">
+          <speaker>**LA TAVERNE**</speaker>
+          <p>Une bière, s'il vous plaît.</p>
+        </sp>
+        <stage>**L'HOMME**</stage>
+        <stage>(se place au bar.)**</stage>
+        <sp who="#le barman">
+          <speaker>**LE BARMAN**</speaker>
+          <p>Voilà, monsieur.Merci.Ah, ça fait du bien.La taverne est pleine de monde. Les gens parlent à voix basse, mais je peux deviner qu'ils parlent de ce qui se passe.Qu'est-ce qui se passe, en fait ?</p>
+        </sp>
+        <stage>(lui sert une bière.)**</stage>
+        <stage>**L'HOMME**</stage>
+        <stage>**(Il prend une gorgée de bière.)**</stage>
+        <stage>**(Il regarde autour de lui.)**</stage>
+        <stage>**(Il se tourne vers le barman.)**</stage>
+        <sp who="#le barman">
+          <speaker>**LE BARMAN**</speaker>
+          <p>Je ne sais pas grand-chose. Mais il y a des rumeurs que le roi est mort.Le roi ? Mort ? Mais comment est-ce possible ?</p>
+        </sp>
+        <stage>**L'HOMME**</stage>
+        <sp who="#le barman">
+          <speaker>**LE BARMAN**</speaker>
+          <p>Je ne sais pas. Mais c'est ce qu'on dit.Si le roi est mort, alors le pays est en danger.</p>
+        </sp>
+        <stage>**L'HOMME**</stage>
+        <stage>(il est choqué.)**</stage>
+        <sp who="#le barman">
+          <speaker>**LE BARMAN**</speaker>
+          <p>Je sais. C'est une période très troublée.Je dois rentrer chez moi. Je dois voir ma famille.</p>
+        </sp>
+        <stage>**L'HOMME**</stage>
+        <stage>(il se lève.)**</stage>
+        <sp who="#le barman">
+          <speaker>**LE BARMAN**</speaker>
+          <p>D'accord, monsieur. Soyez prudent.* * *</p>
+        </sp>
+        <stage>**L'HOMME**</stage>
+        <stage>(il sort de la taverne.)**</stage>
+        <stage>**Le rideau tombe.**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Acte II**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une chambre dans une maison">
+          <speaker>**UNE CHAMBRE DANS UNE MAISON**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#une femme">
+          <speaker>**UNE FEMME**</speaker>
+          <p>Où est-il ? Il devrait être rentré depuis longtemps.Je vois des gens dans la rue. Ils semblent paniqués.Que se passe-t-il ? Qu'est-ce qui a pu arriver à mon mari ?Qui est là ?C'est moi, chéri.</p>
+        </sp>
+        <stage>(assise sur un lit, inquiète.)**</stage>
+        <stage>**(Elle se lève et va à la fenêtre.)**</stage>
+        <stage>**(Elle revient au lit et s'assoit.)**</stage>
+        <stage>**(Elle entend un bruit à la porte.)**</stage>
+        <stage>**(La porte s'ouvre et l'HOMME entre.)**</stage>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Mon amour ! Tu es sain et sauf !Oui, je suis bien. Mais il se passe des choses terribles.</p>
+        </sp>
+        <stage>(elle se lève et court vers lui.)**</stage>
+        <stage>**L'HOMME**</stage>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Qu'est-ce que c'est ?Le roi est mort.</p>
+        </sp>
+        <stage>**L'HOMME**</stage>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Le roi ? Mort ? Mais comment est-ce possible ?Je ne sais pas. Mais c'est ce qu'on dit.</p>
+        </sp>
+        <stage>**L'HOMME**</stage>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Si le roi est mort, alors le pays est en danger.Je sais. C'est une période très troublée.</p>
+        </sp>
+        <stage>(elle est choquée.)**</stage>
+        <stage>**L'HOMME**</stage>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Que va-t-il se passer ?Je ne sais pas. Mais nous devons rester forts.</p>
+        </sp>
+        <stage>(elle se met à pleurer.)**</stage>
+        <stage>**L'HOMME**</stage>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Tu as raison. Nous devons rester forts.* * *</p>
+        </sp>
+        <stage>(elle s'essuie les larmes.)**</stage>
+        <stage>**(L'HOMME et la FEMME s'embrassent.)**</stage>
+        <stage>**Le rideau tombe.**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Acte III**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une place publique">
+          <speaker>**UNE PLACE PUBLIQUE**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#une foule de gens">
+          <speaker>**UNE FOULE DE GENS**</speaker>
+          <p>Que se passe-t-il ?Peuple de France, écoutez-moi !Le roi est mort. Mais nous ne sommes pas sans chef. Je suis le duc de Bourgogne, et je serai votre roi.Je promets de vous gouverner avec justice et sagesse. Je ferai tout ce que je peux pour vous protéger et pour vous faire prospérer.Vive le roi !Vive le roi !* * *</p>
+        </sp>
+        <stage>(agitée.)**</stage>
+        <stage>**Où est le roi ?</stage>
+        <stage>**Qui va nous gouverner ?</stage>
+        <stage>**La foule est en colère. Ils crient et se bousculaient.</stage>
+        <stage>**L'HOMME**</stage>
+        <stage>(se lève sur un banc.)**</stage>
+        <stage>**La foule se calme et l'écoute.**</stage>
+        <stage>**L'HOMME**</stage>
+        <stage>**La foule applaudit.**</stage>
+        <stage>**L'HOMME**</stage>
+        <stage>**La foule acclame le duc de Bourgogne.**</stage>
+        <stage>**L'HOMME**</stage>
+        <stage>**La foule**</stage>
+        <stage>**Le rideau tombe.**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Acte IV**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une chambre dans le palais royal">
+          <speaker>**UNE CHAMBRE DANS LE PALAIS ROYAL**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Je suis le roi. Je suis le maître de ce pays.La ville est calme. Les gens semblent avoir accepté ma nouvelle autorité.Je vais être un grand roi. Je vais faire de la France un pays prospère et puissant.Entrez !</p>
+        </sp>
+        <stage>(seul, assis sur un trône.)**</stage>
+        <stage>**(Il se lève et regarde par la fenêtre.)**</stage>
+        <stage>**(Il sourit.)**</stage>
+        <stage>**(Il se tourne vers la porte.)**</stage>
+        <stage>**(La porte s'ouvre et un LACAI entre.)**</stage>
+        <sp who="#le lacai">
+          <speaker>**LE LACAI**</speaker>
+          <p>Monseigneur, le peuple demande à vous voir.</p>
+        </sp>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Qu'ils entrent.* * *</p>
+        </sp>
+        <stage>**(Le LACAI sort.)**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2**</head>* * *<sp who="#la chambre">
+          <speaker>**LA CHAMBRE**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Que voulez-vous ?</p>
+        </sp>
+        <stage>(assis sur son trône.)**</stage>
+        <sp who="#une femme">
+          <speaker>**UNE FEMME**</speaker>
+          <p>Monseigneur, nous sommes venus vous demander justice.</p>
+        </sp>
+        <stage>(se lève.)**</stage>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Justice ? De quoi parlez-vous ?</p>
+        </sp>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Mon mari a été accusé à tort de crime qu'il n'a pas commis. Il a été condamné à mort.</p>
+        </sp>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Je vois. Et vous voulez que je l'acquitte ?</p>
+        </sp>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Oui, Monseigneur. Nous sommes sûrs de son innocence.</p>
+        </sp>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Je vais examiner son dossier.</p>
+        </sp>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Merci, Monseigneur.* * *</p>
+        </sp>
+        <stage>**(La femme et les autres gens quittent la pièce.)**</stage>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Je dois faire attention. Je ne peux pas me permettre de faire une erreur.Je dois être un bon roi. Je dois faire ce qui est juste.* * *</p>
+        </sp>
+        <stage>(seul.)**</stage>
+        <stage>**(Il se lève et va à la fenêtre.)**</stage>
+        <stage>**Le rideau tombe.**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Acte V**</head>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 1**</head>* * *<sp who="#une chambre dans le palais royal">
+          <speaker>**UNE CHAMBRE DANS LE PALAIS ROYAL**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>J'ai examiné le dossier de la femme. Son mari a été accusé à tort. Je vais l'acquitter.J'ai fait ce qui est juste. Je suis un bon roi.Entrez !</p>
+        </sp>
+        <stage>(seul, assis sur un trône.)**</stage>
+        <stage>**(Il se lève et va à la fenêtre.)**</stage>
+        <stage>**(Il se tourne vers la porte.)**</stage>
+        <stage>**(La porte s'ouvre et un LACAI entre.)**</stage>
+        <sp who="#le lacai">
+          <speaker>**LE LACAI**</speaker>
+          <p>Monseigneur, la femme est là.</p>
+        </sp>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Faites-la entrer.* * *</p>
+        </sp>
+        <stage>**(Le LACAI sort.)**</stage>
+        <stage>**</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2**</head>* * *<sp who="#la chambre">
+          <speaker>**LA CHAMBRE**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Monseigneur, merci. Vous avez fait ce que personne d'autre n'a pu faire.</p>
+        </sp>
+        <stage>(se lève.)**</stage>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Je n'ai fait que mon devoir.</p>
+        </sp>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Mon mari est innocent. Il va être libéré ?</p>
+        </sp>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Oui, il va être libéré.</p>
+        </sp>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Merci, Monseigneur. Je ne sais comment vous remercier.</p>
+        </sp>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Vous n'avez pas besoin de me remercier. Je suis juste content d'avoir pu vous aider.</p>
+        </sp>
+        <sp who="#la femme">
+          <speaker>**LA FEMME**</speaker>
+          <p>Je vous souhaite une longue vie, Monseigneur.</p>
+        </sp>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Je vous en remercie.* * *</p>
+        </sp>
+        <stage>**(La femme sort.)**</stage>
+        <sp who="#le duc de bourgogne">
+          <speaker>**LE DUC DE BOURGOGNE**</speaker>
+          <p>Je suis content d'avoir pu aider cette femme. J'ai fait ce que je devais faire.Je suis un bon roi. Je vais faire de la France un pays prospère et juste.* * *</p>
+        </sp>
+        <stage>(seul.)**</stage>
+        <stage>**(Il se lève et va à la fenêtre.)**</stage>
+        <stage>**Le rideau tombe.**</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
