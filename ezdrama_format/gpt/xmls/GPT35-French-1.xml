@@ -28,25 +28,25 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="paul" sex="M">
+          <ns0:person xml:id="paul" sex="MALE">
             <ns0:persName>PAUL</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="madame-legrand" sex="F">
+          <ns0:person xml:id="madame-legrand" sex="FEMALE">
             <ns0:persName>MADAME LEGRAND</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="videolette" sex="F">
+          <ns0:person xml:id="videolette" sex="FEMALE">
             <ns0:persName>VIDEOLETTE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="sonia" sex="F">
+          <ns0:person xml:id="sonia" sex="FEMALE">
             <ns0:persName>SONIA</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="leon" sex="M">
+          <ns0:person xml:id="leon" sex="MALE">
             <ns0:persName>LEON</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="melanie" sex="F">
+          <ns0:person xml:id="melanie" sex="FEMALE">
             <ns0:persName>MELANIE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="monsieur-legrand" sex="M">
+          <ns0:person xml:id="monsieur-legrand" sex="MALE">
             <ns0:persName>MONSIEUR LEGRAND</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

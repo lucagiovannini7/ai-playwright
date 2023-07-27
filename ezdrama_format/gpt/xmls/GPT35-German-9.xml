@@ -29,16 +29,16 @@
           <ns0:person xml:id="die-gestalt" sex="UNKNOWN">
             <ns0:persName>DIE GESTALT</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="frau-müller" sex="F">
+          <ns0:person xml:id="frau-müller" sex="FEMALE">
             <ns0:persName>FRAU MÜLLER</ns0:persName>
           </ns0:person>
           <ns0:person xml:id="der-unbekannte" sex="UNKNOWN">
             <ns0:persName>DER UNBEKANNTE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="herr-schmidt" sex="M">
+          <ns0:person xml:id="herr-schmidt" sex="MALE">
             <ns0:persName>HERR SCHMIDT</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="hans" sex="M">
+          <ns0:person xml:id="hans" sex="MALE">
             <ns0:persName>HANS</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

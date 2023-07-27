@@ -26,22 +26,22 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="hermine-von-meyenburg" sex="F">
+          <ns0:person xml:id="hermine-von-meyenburg" sex="FEMALE">
             <ns0:persName>HERMINE VON MEYENBURG	- Seine Tochter</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="von-meyenburg" sex="M">
+          <ns0:person xml:id="von-meyenburg" sex="MALE">
             <ns0:persName>VON MEYENBURG		- Ein wohlhabender Gutsherr</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="wolfgang-von-hartenstein" sex="M">
+          <ns0:person xml:id="wolfgang-von-hartenstein" sex="MALE">
             <ns0:persName>WOLFGANG VON HARTENSTEIN	- Ein edelmütiger Freund der Familie</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="walpurga" sex="M">
+          <ns0:person xml:id="walpurga" sex="MALE">
             <ns0:persName>WALPURGA			- Ein Dorfbewohner</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="leffebre" sex="M">
+          <ns0:person xml:id="leffebre" sex="MALE">
             <ns0:persName>LEFFEBRE			- Verwalter des Gutsherren</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="walpurga" sex="F">
+          <ns0:person xml:id="walpurga" sex="FEMALE">
             <ns0:persName>WALPURGA:</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

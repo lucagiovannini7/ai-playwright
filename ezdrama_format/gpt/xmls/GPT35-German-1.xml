@@ -29,25 +29,25 @@
           <ns0:personGrp xml:id="volk" sex="UNKNOWN">
             <ns0:persName>VOLK</ns0:persName>
           </ns0:personGrp>
-          <ns0:person xml:id="hartmann" sex="M">
+          <ns0:person xml:id="hartmann" sex="MALE">
             <ns0:persName>HARTMANN</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="august" sex="M">
+          <ns0:person xml:id="august" sex="MALE">
             <ns0:persName>AUGUST</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="mann" sex="M">
+          <ns0:person xml:id="mann" sex="MALE">
             <ns0:persName>MANN</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="dienerin" sex="F">
+          <ns0:person xml:id="dienerin" sex="FEMALE">
             <ns0:persName>DIENERIN</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="rosenberg" sex="M">
+          <ns0:person xml:id="rosenberg" sex="MALE">
             <ns0:persName>ROSENBERG</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="soldat" sex="M">
+          <ns0:person xml:id="soldat" sex="MALE">
             <ns0:persName>SOLDAT</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="amalie" sex="F">
+          <ns0:person xml:id="amalie" sex="FEMALE">
             <ns0:persName>AMALIE</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

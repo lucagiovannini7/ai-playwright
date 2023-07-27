@@ -26,31 +26,31 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="serviteur" sex="M">
+          <ns0:person xml:id="serviteur" sex="MALE">
             <ns0:persName>SERVITEUR:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="vicomte" sex="M">
+          <ns0:person xml:id="vicomte" sex="MALE">
             <ns0:persName>VICOMTE:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="dramaturge" sex="M">
+          <ns0:person xml:id="dramaturge" sex="MALE">
             <ns0:persName>DRAMATURGE:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="diplomate" sex="M">
+          <ns0:person xml:id="diplomate" sex="MALE">
             <ns0:persName>DIPLomate:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="commissaire-de-police" sex="M">
+          <ns0:person xml:id="commissaire-de-police" sex="MALE">
             <ns0:persName>COMMISSAIRE DE POLICE:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="comtesse" sex="F">
+          <ns0:person xml:id="comtesse" sex="FEMALE">
             <ns0:persName>COMTESSE:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="comte" sex="M">
+          <ns0:person xml:id="comte" sex="MALE">
             <ns0:persName>COMTE:</ns0:persName>
           </ns0:person>
           <ns0:personGrp xml:id="tous" sex="UNKNOWN">
             <ns0:persName>TOUS:</ns0:persName>
           </ns0:personGrp>
-          <ns0:person xml:id="vicomtesse" sex="F">
+          <ns0:person xml:id="vicomtesse" sex="FEMALE">
             <ns0:persName>VICOMTESSE:</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

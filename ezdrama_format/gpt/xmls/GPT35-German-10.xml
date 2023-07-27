@@ -26,31 +26,31 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="kuenstler" sex="M">
+          <ns0:person xml:id="kuenstler" sex="MALE">
             <ns0:persName>KUENSTLER:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="richter" sex="M">
+          <ns0:person xml:id="richter" sex="MALE">
             <ns0:persName>RICHTER:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="lingham" sex="M">
+          <ns0:person xml:id="lingham" sex="MALE">
             <ns0:persName>LINGHAM:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="hauswirtin" sex="F">
+          <ns0:person xml:id="hauswirtin" sex="FEMALE">
             <ns0:persName>HAUSWIRTIN:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="schlosser" sex="M">
+          <ns0:person xml:id="schlosser" sex="MALE">
             <ns0:persName>SCHLOSSER:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="apotheker" sex="M">
+          <ns0:person xml:id="apotheker" sex="MALE">
             <ns0:persName>APOTHEKER:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="zauberin" sex="F">
+          <ns0:person xml:id="zauberin" sex="FEMALE">
             <ns0:persName>ZAUBERIN:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="schneiderin" sex="F">
+          <ns0:person xml:id="schneiderin" sex="FEMALE">
             <ns0:persName>SCHNEIDERIN:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="kapitaen" sex="M">
+          <ns0:person xml:id="kapitaen" sex="MALE">
             <ns0:persName>KAPITAEN:</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

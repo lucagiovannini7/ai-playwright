@@ -26,22 +26,22 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="le-baron" sex="M">
+          <ns0:person xml:id="le-baron" sex="MALE">
             <ns0:persName>LE BARON</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="le-comte" sex="M">
+          <ns0:person xml:id="le-comte" sex="MALE">
             <ns0:persName>LE COMTE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="madame-la-baronne" sex="F">
+          <ns0:person xml:id="madame-la-baronne" sex="FEMALE">
             <ns0:persName>MADAME LA BARONNE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="professeur-sagesse" sex="M">
+          <ns0:person xml:id="professeur-sagesse" sex="MALE">
             <ns0:persName>PROFESSEUR SAGESSE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="la-comtesse" sex="F">
+          <ns0:person xml:id="la-comtesse" sex="FEMALE">
             <ns0:persName>LA COMTESSE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="monsieur-l-artiste" sex="M">
+          <ns0:person xml:id="monsieur-l-artiste" sex="MALE">
             <ns0:persName>MONSIEUR L'ARTISTE</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

@@ -26,19 +26,19 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="karl" sex="M">
+          <ns0:person xml:id="karl" sex="MALE">
             <ns0:persName>KARL</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="der-hausherr" sex="M">
+          <ns0:person xml:id="der-hausherr" sex="MALE">
             <ns0:persName>DER HAUSHERR</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="bedchen" sex="M">
+          <ns0:person xml:id="bedchen" sex="MALE">
             <ns0:persName>BEDCHEN</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="der-weise" sex="M">
+          <ns0:person xml:id="der-weise" sex="MALE">
             <ns0:persName>DER WEISE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="spiegel" sex="M">
+          <ns0:person xml:id="spiegel" sex="MALE">
             <ns0:persName>SPIEGEL</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

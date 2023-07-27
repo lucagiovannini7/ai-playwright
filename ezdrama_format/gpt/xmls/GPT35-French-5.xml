@@ -29,19 +29,19 @@
           <ns0:person xml:id="canari" sex="UNKNOWN">
             <ns0:persName>CANARI</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="laurent" sex="M">
+          <ns0:person xml:id="laurent" sex="MALE">
             <ns0:persName>LAURENT</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="le-garçon-de-l-auberge" sex="M">
+          <ns0:person xml:id="le-garçon-de-l-auberge" sex="MALE">
             <ns0:persName>LE GARÇON DE L'AUBERGE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="rose" sex="F">
+          <ns0:person xml:id="rose" sex="FEMALE">
             <ns0:persName>ROSE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="le-père-de-madeleine" sex="M">
+          <ns0:person xml:id="le-père-de-madeleine" sex="MALE">
             <ns0:persName>LE PÈRE DE MADELEINE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="madeleine" sex="F">
+          <ns0:person xml:id="madeleine" sex="FEMALE">
             <ns0:persName>MADELEINE</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

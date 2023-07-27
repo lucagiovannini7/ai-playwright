@@ -26,22 +26,22 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="le-comte-d-artagnan" sex="M">
+          <ns0:person xml:id="le-comte-d-artagnan" sex="MALE">
             <ns0:persName>LE COMTE D'ARTAGNAN:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="monsieur-pierreval" sex="M">
+          <ns0:person xml:id="monsieur-pierreval" sex="MALE">
             <ns0:persName>MONSIEUR PIERREVAL:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="lady-eugénie" sex="F">
+          <ns0:person xml:id="lady-eugénie" sex="FEMALE">
             <ns0:persName>LADY EUGÉNIE:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="premier-serviteur" sex="M">
+          <ns0:person xml:id="premier-serviteur" sex="MALE">
             <ns0:persName>PREMIER SERVITEUR:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="le-vicomte-de-valmont" sex="M">
+          <ns0:person xml:id="le-vicomte-de-valmont" sex="MALE">
             <ns0:persName>LE VICOMTE DE VALMONT:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="madame-pierreval" sex="F">
+          <ns0:person xml:id="madame-pierreval" sex="FEMALE">
             <ns0:persName>MADAME PIERREVAL:</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

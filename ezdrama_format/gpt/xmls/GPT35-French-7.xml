@@ -26,22 +26,22 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="la-marquise" sex="F">
+          <ns0:person xml:id="la-marquise" sex="FEMALE">
             <ns0:persName>LA MARQUISE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="louis-xvi" sex="M">
+          <ns0:person xml:id="louis-xvi" sex="MALE">
             <ns0:persName>LOUIS XVI</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="louis-philippe" sex="M">
+          <ns0:person xml:id="louis-philippe" sex="MALE">
             <ns0:persName>LOUIS-PHILIPPE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="marie-antoinette" sex="F">
+          <ns0:person xml:id="marie-antoinette" sex="FEMALE">
             <ns0:persName>MARIE-ANTOINETTE</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="jacques" sex="M">
+          <ns0:person xml:id="jacques" sex="MALE">
             <ns0:persName>JACQUES</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="ferdinand" sex="M">
+          <ns0:person xml:id="ferdinand" sex="MALE">
             <ns0:persName>FERDINAND</ns0:persName>
           </ns0:person>
         </ns0:listPerson>

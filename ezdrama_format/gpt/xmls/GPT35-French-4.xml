@@ -26,34 +26,34 @@
     <ns0:profileDesc>
       <ns0:particDesc>
         <ns0:listPerson>
-          <ns0:person xml:id="marthe" sex="F">
+          <ns0:person xml:id="marthe" sex="FEMALE">
             <ns0:persName>MARTHE:</ns0:persName>
           </ns0:person>
           <ns0:person xml:id="tous-les-partisans" sex="UNKNOWN">
             <ns0:persName>TOUS LES PARTISANS:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="un-partisan" sex="M">
+          <ns0:person xml:id="un-partisan" sex="MALE">
             <ns0:persName>UN PARTISAN:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="robert" sex="M">
+          <ns0:person xml:id="robert" sex="MALE">
             <ns0:persName>ROBERT:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="invité-1" sex="M">
+          <ns0:person xml:id="invité-1" sex="MALE">
             <ns0:persName>INVITÉ 1:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="le-juge" sex="M">
+          <ns0:person xml:id="le-juge" sex="MALE">
             <ns0:persName>LE JUGE:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="renaud" sex="M">
+          <ns0:person xml:id="renaud" sex="MALE">
             <ns0:persName>RENAUD:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="eugenie-de-valmont" sex="F">
+          <ns0:person xml:id="eugenie-de-valmont" sex="FEMALE">
             <ns0:persName>EUGENIE DE VALMONT:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="comte-felix-de-valmont" sex="M">
+          <ns0:person xml:id="comte-felix-de-valmont" sex="MALE">
             <ns0:persName>COMTE FELIX DE VALMONT:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="une-invitée" sex="F">
+          <ns0:person xml:id="une-invitée" sex="FEMALE">
             <ns0:persName>UNE INVITÉE:</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
