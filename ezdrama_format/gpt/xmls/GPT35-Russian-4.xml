@@ -1,248 +1,211 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
-  <ns0:teiHeader>
-    <ns0:fileDesc>
-      <ns0:titleStmt><ns0:title>GPT35-Russian-4</ns0:title></ns0:titleStmt>
-      <ns0:publicationStmt>
-        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
-        <ns0:idno type="URL">https://dracor.org</ns0:idno>
-        <ns0:availability>
-          <ns0:licence>
-            <ns0:ab>CC0 1.0</ns0:ab>
-            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
-          </ns0:licence>
-        </ns0:availability>
-      </ns0:publicationStmt>
-      <ns0:sourceDesc>
-        <ns0:bibl type="digitalSource">
-          <ns0:name>ENTER SOURCE NAME HERE</ns0:name>
-          <ns0:idno type="URL">ENTER SOURCE URL HERE</ns0:idno>
-          <ns0:availability status="free">
-            <ns0:p>In the public domain.</ns0:p>
-          </ns0:availability>
-        </ns0:bibl>
-      </ns0:sourceDesc>
-    </ns0:fileDesc>
-    <ns0:profileDesc>
-      <ns0:particDesc>
-        <ns0:listPerson>
-          <ns0:person xml:id="knjaginja_vera:">
-            <ns0:persName>КНЯГИНЯ ВЕРА:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="knjaz_aleksandr:">
-            <ns0:persName>КНЯЗЬ АЛЕКСАНДР:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="vituha:">
-            <ns0:persName>ВИТУХА:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="margarita:">
-            <ns0:persName>МАРГАРИТА:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="zahar:">
-            <ns0:persName>ЗАХАР:</ns0:persName>
-          </ns0:person>
-        </ns0:listPerson>
-      </ns0:particDesc>
-    </ns0:profileDesc>
-    <ns0:revisionDesc>
-      <ns0:listChange>
-        <ns0:change when="2023-07-24">DESCRIBE CHANGE</ns0:change>
-      </ns0:listChange>
-    </ns0:revisionDesc>
-  </ns0:teiHeader>
-  <ns0:standOff>
-    <ns0:listEvent>
-      <ns0:event type="print" when="2023">
-        <ns0:desc />
-      </ns0:event>
-      <ns0:event type="premiere" when="2023">
-        <ns0:desc />
-      </ns0:event>
-      <ns0:event type="written" when="2023">
-        <ns0:desc />
-      </ns0:event>
-    </ns0:listEvent>
-    <ns0:listRelation>
-      <ns0:relation active="INSERT" name="wikidata" passive="INSERT" />
-    </ns0:listRelation>
-  </ns0:standOff>
-  <ns0:text>
-    <ns0:body>
-      <ns0:div type="scene">
-        <ns0:head>Акт 1</ns0:head>
-        <ns0:stage>(Занавес открывается. Сцена олицетворяет мрачную московскую улицу в зарослях морозного зимнего дня. Снег покрывает землю, а вдалеке виден ПЕРВЫЙ ПРОПУСК, залитый лунным светом.)</ns0:stage>
-        <ns0:stage>(ЗАХАР, молодой искрометный КУПЕЦ, выходит на сцену, окутавшись в шубу и шапку. Он топает ногами, пытаясь согреться от холода.)</ns0:stage>
-        <ns0:sp who="#zahar:">
-          <ns0:speaker>ЗАХАР:</ns0:speaker>
-          <ns0:stage>(хрипло)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит МАРГАРИТА, молодая и изысканная ГОРОДСКАЯ КРЕСТЬЯНКА. Она носит пеструю юбку и платок на голове.)</ns0:stage>
-        <ns0:sp who="#margarita:">
-          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
-          <ns0:stage>(улыбаясь)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#zahar:">
-          <ns0:speaker>ЗАХАР:</ns0:speaker>
-          <ns0:stage>(ведет МАРГАРИТУ к себе под покровом шубы)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#margarita:">
-          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
-          <ns0:stage>(сочувственно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Они останавливаются перед ВИТУХОЙ, беззаботным и легкомысленным МУЖЧИНОЙ.)</ns0:stage>
-        <ns0:sp who="#vituha:">
-          <ns0:speaker>ВИТУХА:</ns0:speaker>
-          <ns0:stage>(с ухмылкой)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#margarita:">
-          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
-          <ns0:stage>(недоверчиво)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Акт 2</ns0:head>
-        <ns0:stage>(Занавес открывается. Сцена представляет покои во дворце КНЯЗЯ АЛЕКСАНДРА, освещенные тусклым светом свечей. В глубине зала расположен простой ДЕРЕВЯННЫЙ СТОЛ, украшенный серебряным самоваром и фарфоровой посудой. Вокруг стола сидят КНЯЗЬ АЛЕКСАНДР и его ЖЕНА, КНЯГИНЯ ВЕРА, одетые в пышные роскошные одежды.)</ns0:stage>
-        <ns0:sp who="#knjaz_aleksandr:">
-          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
-          <ns0:stage>(серьезно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#knjaginja_vera:">
-          <ns0:speaker>КНЯГИНЯ ВЕРА:</ns0:speaker>
-          <ns0:stage>(беспокойно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#knjaz_aleksandr:">
-          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
-          <ns0:stage>(решительно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит ЗАХАР одетый в красивый купеческий костюм. Он приносит поднос с горячим чаем.)</ns0:stage>
-        <ns0:sp who="#zahar:">
-          <ns0:speaker>ЗАХАР:</ns0:speaker>
-          <ns0:stage>(улыбаясь)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#knjaginja_vera:">
-          <ns0:speaker>КНЯГИНЯ ВЕРА:</ns0:speaker>
-          <ns0:stage>(осведомленно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#knjaz_aleksandr:">
-          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
-          <ns0:stage>(проникновенно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Акт 3</ns0:head>
-        <ns0:stage>(Занавес поднимается. Сцена представляет просторный сельский особняк. В центре зала стоит роскошный деревянный СТОЛ, украшенный цветами и пышными угощениями. Вокруг стола собираются ГОСТИ - аристократы и высокопоставленные чиновники.)</ns0:stage>
-        <ns0:stage>(Входит ЗАКХАР и МАРГАРИТА одетые в шикарные наряды. Они взаимно улыбаются друг другу.)</ns0:stage>
-        <ns0:sp who="#margarita:">
-          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
-          <ns0:stage>(благодарно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#zahar:">
-          <ns0:speaker>ЗАХАР:</ns0:speaker>
-          <ns0:stage>(проникновенно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит КНЯЗЬ АЛЕКСАНДР, уставший и истощенный.)</ns0:stage>
-        <ns0:sp who="#knjaz_aleksandr:">
-          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
-          <ns0:stage>(с глубоким вздохом)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(ГОСТИ молча слушают КНЯЗЯ АЛЕКСАНДРА.)</ns0:stage>
-        <ns0:sp who="#knjaz_aleksandr:">
-          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
-          <ns0:stage>(вспоминает)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#zahar:">
-          <ns0:speaker>ЗАХАР:</ns0:speaker>
-          <ns0:stage>(скромно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#knjaginja_vera:">
-          <ns0:speaker>КНЯГИНЯ ВЕРА:</ns0:speaker>
-          <ns0:stage>(испытывая умиление)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(VOW</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Акт 4</ns0:head>
-        <ns0:stage>(Занавес поднимается. Сцена изображает скромную заснеженную деревню. Возле деревенского КОТТЕДЖА стоит скромная LE CHARLESTON С малым количеством кошельков и сумок.)</ns0:stage>
-        <ns0:stage>(Входит ВИТУХА в простом деревенском костюме с платком на шее.)</ns0:stage>
-        <ns0:sp who="#vituha:">
-          <ns0:speaker>ВИТУХА:</ns0:speaker>
-          <ns0:stage>(грустно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит МАРГАРИТА, одетая в простое одеяние и несет корзину с овощами.)</ns0:stage>
-        <ns0:sp who="#margarita:">
-          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
-          <ns0:stage>(улыбаясь)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#vituha:">
-          <ns0:speaker>ВИТУХА:</ns0:speaker>
-          <ns0:stage>(улыбается в ответ)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входят ЗАХАР и КНЯГИНЯ ВЕРА, вместе с КНЯЗЕМ АЛЕКСАНДРОМ. Они одеты просто, но прилично.)</ns0:stage>
-        <ns0:sp who="#zahar:">
-          <ns0:speaker>ЗАХАР:</ns0:speaker>
-          <ns0:stage>(с радостью)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#knjaz_aleksandr:">
-          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
-          <ns0:stage>(благодарно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#knjaginja_vera:">
-          <ns0:speaker>КНЯГИНЯ ВЕРА:</ns0:speaker>
-          <ns0:stage>(с сожалением)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Акт 5</ns0:head>
-        <ns0:stage>(Занавес поднимается. Сцена представляет большой зал с высокими потолками и шикарными люстрами. В центре зала располагается большой СТОЛ, покрытый антикварной скатертью и украшенный цветами. Вокруг стола собраны ГОСТИ в роскошных нарядах.)</ns0:stage>
-        <ns0:stage>(Входят ЗАХАР и МАРГАРИТА, одетые в великолепные элегантные наряды, улыбающиеся друг другу.)</ns0:stage>
-        <ns0:sp who="#zahar:">
-          <ns0:speaker>ЗАХАР:</ns0:speaker>
-          <ns0:stage>(восхищенно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#margarita:">
-          <ns0:speaker>МАРГАРИТА:</ns0:speaker>
-          <ns0:stage>(ласково)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входят КНЯЗЬ АЛЕКСАНДР и КНЯГИНЯ ВЕРА, элегантно одетые, счастливые и светящиеся от внутренней радости.)</ns0:stage>
-        <ns0:sp who="#knjaz_aleksandr:">
-          <ns0:speaker>КНЯЗЬ АЛЕКСАНДР:</ns0:speaker>
-          <ns0:stage>(с благодарностью)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#knjaginja_vera:">
-          <ns0:speaker>КНЯГИНЯ ВЕРА:</ns0:speaker>
-          <ns0:stage>(восхищенно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(На СТОЛЕ появляются разнообразные угощения. ГОСТИ начинают радостно беседовать, смеяться и наслаждаться вечером.)</ns0:stage>
-        <ns0:stage>(ВЫПОЛНЕНИЕ ВЫСОКИХ КУЛИНАРНЫХ МУЗЫКАЛЬНЫХ ЗАМЕРОВ, которые заполняют зал радостными звуками.)</ns0:stage>
-      </ns0:div>
-    </ns0:body>
-  </ns0:text>
-<fileDesc><titleStmt><title>GPT35-Russian-4</title></titleStmt></fileDesc></ns0:TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>GPT35-Russian-4</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="muzыkant">
+            <persName>МУЗЫКАНТ</persName>
+          </person>
+          <person sex="MALE" xml:id="rabotnyk">
+            <persName>РАБОТНИК</persName>
+          </person>
+          <person sex="MALE" xml:id="lakanyn">
+            <persName>ЛАКАНИН</persName>
+          </person>
+          <person sex="MALE" xml:id="vor">
+            <persName>ВОР</persName>
+          </person>
+          <person sex="FEMALE" xml:id="djakova">
+            <persName>ДЬЯКОВА</persName>
+          </person>
+          <person sex="FEMALE" xml:id="maryja">
+            <persName>МАРИЯ</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>Акт 1</head><stage>(Внутри дома РАБОТНИКА)(Комната маленькой жилищной крошечности, меблирована пестро и массивно. Старопостижной крестьянской культуры — реквизит угса и настенный икоства)</stage><sp who="#rabotnyk">
+          <speaker>РАБОТНИК </speaker>
+          <stage>(старик с изодранной одеждой и измученным лицом)</stage>
+          <p><stage>(с трудом садится на старый деревянный стул)</stage> Нищета притиснула меня силой непомерной. Что я стал все таким! Жизнь – бесконечная борьба за выживание! Питание и счастье — все это приходится добывать с кровью и потом. <stage>(Слабонасядкая ДЬЯКОВА выходит на сцену, она растерянна)</stage></p>
+        </sp>
+        <sp who="#djakova">
+          <speaker>ДЬЯКОВА</speaker>
+          <p><stage>(с тревогой на лице)</stage> Здравствуйте, дядя Работник! Я из деревни, вам нужна моя помощь?</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(поднимает глаза с тоски)</stage> А, Дьякова! Ты что здесь делаешь? Ты должна была быть в деревне, заменив меня на поле!</p>
+        </sp>
+        <sp who="#djakova">
+          <speaker>ДЬЯКОВА</speaker>
+          <p><stage>(с горящими глазами)</stage> Я живу, чтобы быть осознанной помощником всем нуждающимся. Посмотрите только — у вас нет ни еды, ни соли, а вокруг так много богатства.</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(чувствуется стыд)</stage> Да, богатство... Боль и горе все время в зabrва мы. Не понимаю, как это стало нормальным. <stage>(Входной rumbling from outside. Кто-то мычит)</stage></p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК </speaker>
+          <stage>(агрессивно)</stage>
+          <p><stage>(A gesture of annoyance)</stage> Я чувствую, когда поднимается пыль и шумит галоп. <stage>(There is a knock on the door; some ворчание возможно, получить там впустить в гостиную)</stage></p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p>Отойдите назад! Я говорю, я не пускаю ни одного зажиточного уженарек, который хочет поглядеть на мою нищую судьбу!(The knocking on the door continues.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Акт 2</head><stage>(Та же комната. Начало вечера. Помещение освещено тусклым светом свечи на старой деревянной тумбе.)</stage><sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(вяло)</stage> Они все мне надоели. И та зависть...отвратительно. Обыкновенной мне искренности найти негде <stage>(Входная дверь оказывается открытой-ЛАКАНИН входит с уверенностью)</stage></p>
+        </sp>
+        <sp who="#lakanyn">
+          <speaker>ЛАКАНИН</speaker>
+          <p><stage>(с ухмылкой)</stage> Добрый вечер, господин Работник. Я услышал, что у вас проблемы. Не поверите, но я могу помочь вам решить некоторые из них.</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(поднимает брови с недоверием)</stage> И вы снова здесь. Это даже не представляют собой эфирное существующего настоящего мир уровни доктрин от лица вещества и сновидения. Что вы хотите?</p>
+        </sp>
+        <sp who="#lakanyn">
+          <speaker>ЛАКАНИН</speaker>
+          <p><stage>(улыбается и лестницами на его карнавальной подарки)</stage> Моя цель лишь помочь другим стать более успешными и богатыми. У меня есть предложение, которое поможет вам избежать нищеты и достигнуть преуспеха.</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(размышляет и скрип новой идеи)</stage> Так что это за предложение? <stage>(ЛАКАНИН достает из мешка золотые монеты и кладет их перед РАБОТНИКОМ)</stage></p>
+        </sp>
+        <sp who="#lakanyn">
+          <speaker>ЛАКАНИН</speaker>
+          <p><stage>(весело)</stage> Вот ваши первые деньги. Я предлагаю вам стать моим бизнес-партнером. Зафиксированное орава впитается тестом в горле.</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(силен, выделяя мощное)</stage> Я... Я не уверен. Вдруг это нечестно с другими, возможно, еще больше нуждаются?</p>
+        </sp>
+        <sp who="#lakanyn">
+          <speaker>ЛАКАНИН</speaker>
+          <p><stage>(с нежностью)</stage> Почему бы вам не обрести счастье и достаток? Зависть запутана, нищетообразен!(РАБОТНИК размышляет и пытается принять</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Акт 3</head><stage>(Та же комната. Утро. Рабочими предметами заполнена повседневная рутина)</stage><sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(с гневом)</stage> Где же он? Обещал встретиться со мной на углу за миску супа, а уже прошло два часа! <stage>(Заходит ВОР, неустойчиво и неуверенно)</stage></p>
+        </sp>
+        <sp who="#vor">
+          <speaker>ВОР</speaker>
+          <p><stage>(бормочет себе под нос)</stage> Надо быть осторожным, чтобы не попасться при краже...</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(с неприязнью)</stage> Ну, кто мне следующий сегодня доставит разочарование?</p>
+        </sp>
+        <sp who="#vor">
+          <speaker>ВОР</speaker>
+          <p><stage>(бросает украденный предмет на стол)</stage> Держи! Никто рядом не видел, я спрятался за углом. А ты заслужил явное понимание границ имущества.</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(берет предмет и узнает свое)</stage> О, это же мои потерянные серебряные ложечки! Их вернули... Так от кogo же... <stage>(Входит ЛАКАНИН с уверенностью, улыбается)</stage></p>
+        </sp>
+        <sp who="#lakanyn">
+          <speaker>ЛАКАНИН</speaker>
+          <p><stage>(улыбается и показывает свою ладонь)</stage> Они мне заплатили за вашу недоверчивость и некупленность. Я доказал вам, что богатство может быть достигнуто, и, возможно, вы станете моим последующим напарником, капиталистом.</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(с тоской)</stage> Видите ли, господин Лаканин, я может быть лишь простым рабочим, но золото в моем сердце уже стало блекнуть, мое счастье не заключается в накоплении материального богатства. <stage>(ЛАКАНИН уходит в унижении)</stage></p>
+        </sp>
+        <sp who="#vor">
+          <speaker>ВОР</speaker>
+          <p><stage>(поднимает брови из уважения)</stage> Я не мог поверить, что у кого-то действительно есть принципы. Вероятно, мне это в следующем деле поможет. Впрочем, я должен быть осторожным... <stage>(ВОР уходит)</stage></p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(грустно)</stage> Оцените то, что у яичных ячеек опыта есть данности к</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Акт 4</head><stage>(Тот же дом. Вечер. Комната освещена мягким светом свечей)</stage><sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(сидит за столом и письменно стучит пером по бумаге)</stage> Как долго прошло с тех пор, как я начал эту пьесу, и как много я узнал о блеске и тени человеческого общества. Горе и богатство оказались лишь обесценивающими сторонами того, что на самом деле важно в жизни. Наверное, невозможно достичь истинного счастья, думая лишь о собственной выгоде. <stage>(Входит МАРИЯ, молодая женщина с детьми)</stage></p>
+        </sp>
+        <sp who="#maryja">
+          <speaker>МАРИЯ</speaker>
+          <p><stage>(с улыбкой и теплотой)</stage> Добрый вечер, дядя Работник. Я привела вас немного еды, чтобы поделиться с вами. Чему вы сейчас заняты?</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(улыбается и поднимается)</stage> Мария, мой ангел хранитель. Я пишу пьесу - историю об их жизнях, о богатых и нищих, о том, как они отказываются от самых важных ценностей.</p>
+        </sp>
+        <sp who="#maryja">
+          <speaker>МАРИЯ</speaker>
+          <p><stage>(восхищенно)</stage> Как замечательно! Вы отражаете на сцене истину о жизни и призываете нас к пониманию и состраданию. Ваш талант позволит увидеть эту истину многим. <stage>(Они садятся за стол, едят и разговаривают)</stage></p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(поэтично)</stage> Жизнь, как драма, нуждается в понимающих зрителях, чтобы открыть свою истину. Я пытаюсь раскрыть эту истину, надеясь, что просветленные люди заметят и примут ее.</p>
+        </sp>
+        <sp who="#maryja">
+          <speaker>МАРИЯ</speaker>
+          <p><stage>(восхищенно)</stage> Вы разрабатываете путь к просветлению и позитивным перемещениям в нашем обществе. Ваш труд и преданность просвещению достойны почтения.(Их беседа продолжается,</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Акт 5</head><stage>(Та же ко</stage><stage>мната. Утро. РАБОТНИК сидит за столом, смотрит вдаль, глубоко задумывается)</stage><sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(грузно)</stage> Столько времени я провел в очереди на хлеб, так много сновидений разбилось о стену нашей отчаяния. Но никогда не перестану верить в силу идеалов. <stage>(Заходит МАРИЯ, она выглядит уставшей)</stage></p>
+        </sp>
+        <sp who="#maryja">
+          <speaker>МАРИЯ</speaker>
+          <p><stage>(выдыхает)</stage> Доброе утро, дядя Работник. Как прекрасная помощь говорить кому-то, когда все вокруг вас поглощает усталость. Вы всегда вдохновляете меня своей жизнью и борьбой.</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(улыбается)</stage> Мария, вы не подозреваете, какое значение для меня имеет ваше присутствие. Ваши слова дают мне силу и доказывают, что в моем труде есть смысл.</p>
+        </sp>
+        <sp who="#maryja">
+          <speaker>МАРИЯ</speaker>
+          <p><stage>(смотрит на стул и садится)</stage> Знаете, я видела вас рано утром, как писали свою пьесу с таким энтузиазмом. Вам удалось заставить меня поверить, что есть возможность изменить ситуацию.</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p><stage>(твердо)</stage> Изменить общество – это дело каждого, Мария. Мы должны продолжать нашу борьбу, даже если она трудна и не всегда вознаграждает нас. Наше идеалы восторжествуют, если мы не перестаем им доверять. <stage>(Звонок входной двери. РАБОТНИК поднимается и открывает)</stage>
+            <stage>(Входит МУЗЫКАНТ со скрипкой в руках)</stage></p>
+        </sp>
+        <sp who="#muzыkant">
+          <speaker>МУЗЫКАНТ</speaker>
+          <p><stage>(скромно)</stage> Извините, что врываюсь в ваше пространство, господин Работник. Но я услышал о вашей пьесе и пришел чтобы сказать вам, что я готов написать музыку для вашего произведения. Моя скрипка будет рассказывать вашу историю нотами.</p>
+        </sp>
+        <sp who="#rabotnyk">
+          <speaker>РАБОТНИК</speaker>
+          <p>(</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

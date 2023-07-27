@@ -29,12 +29,9 @@
           <ns0:person xml:id="hope">
             <ns0:persName>HOPE:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="druzja_i_blizkie_persona-alekseja:">
+          <ns0:personGrp xml:id="druzja_i_blizkie_persona-alekseja">
             <ns0:persName>ДРУЗЬЯ и БЛИЗКИЕ ПЕРСОНА-АЛЕКСЕЯ:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="ssena_ii">
-            <ns0:persName>SСЕНА II</ns0:persName>
-          </ns0:person>
+          </ns0:personGrp>
           <ns0:person xml:id="peter">
             <ns0:persName>PETER:</ns0:persName>
           </ns0:person>
@@ -50,7 +47,7 @@
           <ns0:person xml:id="natalja:">
             <ns0:persName>NАТАЛЬЯ:</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="golos_iz_tetki:">
+          <ns0:person xml:id="golos_iz_tetki">
             <ns0:persName>ГОЛОС ИЗ ТЕТКИ:</ns0:persName>
           </ns0:person>
         </ns0:listPerson>
@@ -232,7 +229,7 @@
       <ns0:div type="scene">
         <ns0:head>СЦЕНА III</ns0:head>
         <ns0:stage>(Вдруг звучит знакомый голос ГОЛОС ИЗ ТЕТКИ)</ns0:stage>
-        <ns0:sp who="#golos_iz_tetki:">
+        <ns0:sp who="#golos_iz_tetki">
           <ns0:speaker>ГОЛОС ИЗ ТЕТКИ:</ns0:speaker>
           <ns0:p>Стойте! Не дергайтесь! Конец игры!</ns0:p>
         </ns0:sp>
@@ -242,7 +239,7 @@
       <ns0:div type="scene">
         <ns0:head>СЦЕНА IV</ns0:head>
         <ns0:stage>(Входит ГОЛОС ИЗ ТЕТКИ, строгий и властный)</ns0:stage>
-        <ns0:sp who="#golos_iz_tetki:">
+        <ns0:sp who="#golos_iz_tetki">
           <ns0:speaker>ГОЛОС ИЗ ТЕТКИ:</ns0:speaker>
           <ns0:p>Как вы могли, Наталья? Нарушить все правила городской морали, играть с сердцами этих мужчин. Такие поступки не простятся!</ns0:p>
         </ns0:sp>
@@ -269,12 +266,14 @@
           <ns0:p>Мой вечный вопросом прекращен и теперь заменен радостью моих семейственных уз. Наши дни будут полны любви и поддержки, ведь я сделала свой выбор и выбрала вас всех.</ns0:p>
         </ns0:sp>
         <ns0:stage>(Счастливо)</ns0:stage>
-        <ns0:sp who="#ssena_ii">
-          <ns0:speaker>SСЕНА II</ns0:speaker>
+      </ns0:div>
+      <ns0:div type="scene">
+          <ns0:header>SСЕНА II</ns0:header>
           <ns0:p />
-        </ns0:sp>
+        
         <ns0:stage>(Входит ГОЛОС ИЗ ТЕТКИ, more relaxed and less strict)</ns0:stage>
-        <ns0:sp who="#golos_iz_tetki:">
+        <ns0:sp who="#golos_iz_tetki">
+          <!-- OMG this is extremely funny (literally 'enter voice from a woman') yet technically the markup is correct-->
           <ns0:speaker>ГОЛОС ИЗ ТЕТКИ:</ns0:speaker>
           <ns0:p>Прошу прощения за мою реактивную реакцию на ваш романтический треугольник, Наталья. Я понимаю, что ваш выбор основан на истинных чувствах. Теперь я желаю вам только счастья и долгой и благополучной жизни.</ns0:p>
         </ns0:sp>
@@ -284,7 +283,7 @@
       <ns0:div type="scene">
         <ns0:head>СЦЕНА III</ns0:head>
         <ns0:stage>(Входит ДРУЗЬЯ и БЛИЗКИЕ ПЕРСОНА-АЛЕКСЕЯ, serenading with musical instruments)</ns0:stage>
-        <ns0:sp who="#druzja_i_blizkie_persona-alekseja:">
+        <ns0:sp who="#druzja_i_blizkie_persona-alekseja">
           <ns0:speaker>ДРУЗЬЯ и БЛИЗКИЕ ПЕРСОНА-АЛЕКСЕЯ:</ns0:speaker>
           <ns0:p>Да здравствует любовь и соединение двух сердец! Мы здесь, чтобы отметить ваше счастье, ваше будущее в новом, необычном союзе.</ns0:p>
         </ns0:sp>
@@ -302,4 +301,4 @@
       </ns0:div>
     </ns0:body>
   </ns0:text>
-<fileDesc><titleStmt><title>GPT35-Russian-8</title></titleStmt></fileDesc></ns0:TEI>
+</ns0:TEI>

@@ -1,332 +1,289 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
-  <ns0:teiHeader>
-    <ns0:fileDesc>
-      <ns0:titleStmt><ns0:title>GPT35-Russian-10</ns0:title></ns0:titleStmt>
-      <ns0:publicationStmt>
-        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
-        <ns0:idno type="URL">https://dracor.org</ns0:idno>
-        <ns0:availability>
-          <ns0:licence>
-            <ns0:ab>CC0 1.0</ns0:ab>
-            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
-          </ns0:licence>
-        </ns0:availability>
-      </ns0:publicationStmt>
-      <ns0:sourceDesc>
-        <ns0:bibl type="digitalSource">
-          <ns0:name>ENTER SOURCE NAME HERE</ns0:name>
-          <ns0:idno type="URL">ENTER SOURCE URL HERE</ns0:idno>
-          <ns0:availability status="free">
-            <ns0:p>In the public domain.</ns0:p>
-          </ns0:availability>
-        </ns0:bibl>
-      </ns0:sourceDesc>
-    </ns0:fileDesc>
-    <ns0:profileDesc>
-      <ns0:particDesc>
-        <ns0:listPerson>
-          <ns0:person xml:id="nikolaj:">
-            <ns0:persName>НИКОЛАЙ:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="nikolaj:_o_kakom_stradanii_ty_govorish,_marija?_ja_lish_odin_iz_tysjachi_poterjannyh_dush._moi_tjazhesti_nichto,_po_sravneniju_s_nashej_obschej_gorechju">
-            <ns0:persName>НИКОЛАЙ: О каком страдании ты говоришь, Мария? Я лишь один из тысячи потерянных душ. Мои тяжести ничто, по сравнению с нашей общей горечью</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="valerij:_(s_entuziazmom">
-            <ns0:persName>ВАЛЕРИЙ: (с энтузиазмом</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="mihail:">
-            <ns0:persName>МИХАИЛ:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="upravljajuschij_chinovnik:">
-            <ns0:persName>УПРАВЛЯЮЩИЙ ЧИНОВНИК:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="dmitrij:">
-            <ns0:persName>ДМИТРИЙ:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="ekaterina:">
-            <ns0:persName>ЕКАТЕРИНА:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="zriteli:">
-            <ns0:persName>ЗРИТЕЛИ:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="pavel:">
-            <ns0:persName>ПАВЕЛ:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="valerij:">
-            <ns0:persName>ВАЛЕРИЙ:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="ekaterina:_(obizhenno">
-            <ns0:persName>ЕКАТЕРИНА: (обиженно</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="marija:_proshu_tebja,_ekaterina,_pojmi,_nikolaj_s_teh_por,_kak_osvobodilsja_iz_rabstva,_stal_skrytnym_i_molchalivym">
-            <ns0:persName>МАРИЯ: Прошу тебя, Екатерина, пойми, Николай с тех пор, как освободился из рабства, стал скрытным и молчаливым</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="marija:">
-            <ns0:persName>МАРИЯ:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="ivan:">
-            <ns0:persName>ИВАН:</ns0:persName>
-          </ns0:person>
-          <ns0:person xml:id="ljudmila:">
-            <ns0:persName>ЛЮДМИЛА:</ns0:persName>
-          </ns0:person>
-        </ns0:listPerson>
-      </ns0:particDesc>
-    </ns0:profileDesc>
-    <ns0:revisionDesc>
-      <ns0:listChange>
-        <ns0:change when="2023-07-24">DESCRIBE CHANGE</ns0:change>
-      </ns0:listChange>
-    </ns0:revisionDesc>
-  </ns0:teiHeader>
-  <ns0:standOff>
-    <ns0:listEvent>
-      <ns0:event type="print" when="2023">
-        <ns0:desc />
-      </ns0:event>
-      <ns0:event type="premiere" when="2023">
-        <ns0:desc />
-      </ns0:event>
-      <ns0:event type="written" when="2023">
-        <ns0:desc />
-      </ns0:event>
-    </ns0:listEvent>
-    <ns0:listRelation>
-      <ns0:relation active="INSERT" name="wikidata" passive="INSERT" />
-    </ns0:listRelation>
-  </ns0:standOff>
-  <ns0:text>
-    <ns0:body>Title: Николай и Екатерина (Nikolay and Ekaterina)<ns0:div type="scene">
-        <ns0:head>ДЕЙСТВИЕ ПЕРВОЕ</ns0:head>
-        <ns0:stage>(Комната, обставленная по-русски: деревянные полы, тяжелая мебель, иконы на стенах. В центре находится столик с чаем. В актовых креслах сидят МАРИЯ – женщина средних лет, одетая в традиционную русскую одежду и НИКОЛАЙ – молодой мужчина, в котором видны следы рабства)</ns0:stage>
-        <ns0:sp who="#marija:">
-          <ns0:speaker>МАРИЯ:</ns0:speaker>
-          <ns0:stage>(с тревогой)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(отвернувшись)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#marija:">
-          <ns0:speaker>МАРИЯ:</ns0:speaker>
-          <ns0:stage>(опасливо)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:_o_kakom_stradanii_ty_govorish,_marija?_ja_lish_odin_iz_tysjachi_poterjannyh_dush._moi_tjazhesti_nichto,_po_sravneniju_s_nashej_obschej_gorechju">
-          <ns0:speaker>НИКОЛАЙ: О каком страдании ты говоришь, Мария? Я лишь один из тысячи потерянных душ. Мои тяжести ничто, по сравнению с нашей общей горечью.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#marija:">
-          <ns0:speaker>МАРИЯ:</ns0:speaker>
-          <ns0:stage>(горько)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит ЕКАТЕРИНА – молодая женщина, внешне красивая и элегантная)</ns0:stage>
-        <ns0:sp who="#ekaterina:">
-          <ns0:speaker>ЕКАТЕРИНА:</ns0:speaker>
-          <ns0:stage>(со вздохом)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#marija:_proshu_tebja,_ekaterina,_pojmi,_nikolaj_s_teh_por,_kak_osvobodilsja_iz_rabstva,_stal_skrytnym_i_molchalivym">
-          <ns0:speaker>МАРИЯ: Прошу тебя, Екатерина, пойми, Николай с тех пор, как освободился из рабства, стал скрытным и молчаливым.</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ekaterina:">
-          <ns0:speaker>ЕКАТЕРИНА:</ns0:speaker>
-          <ns0:stage>(с сожалением)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(тона сарказма)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ekaterina:_(obizhenno">
-          <ns0:speaker>ЕКАТЕРИНА: (обиженно</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ДЕЙСТВИЕ ВТОРОЕ</ns0:head>
-        <ns0:stage>(Сад перед деревней. На заднем плане стоит ПАВЕЛ – мужчина средних лет в фермерской одежде. На переднем плане ЕКАТЕРИНА и МАРИЯ – обе одеты в традиционную русскую одежду)</ns0:stage>
-        <ns0:sp who="#pavel:">
-          <ns0:speaker>ПАВЕЛ:</ns0:speaker>
-          <ns0:stage>(разговорчиво)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ekaterina:">
-          <ns0:speaker>ЕКАТЕРИНА:</ns0:speaker>
-          <ns0:stage>(старается сдержаться)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#marija:">
-          <ns0:speaker>МАРИЯ:</ns0:speaker>
-          <ns0:stage>(с любопытством)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#pavel:">
-          <ns0:speaker>ПАВЕЛ:</ns0:speaker>
-          <ns0:stage>(с обидой)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит НИКОЛАЙ, с грустным видом)</ns0:stage>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(снисходительно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#pavel:">
-          <ns0:speaker>ПАВЕЛ:</ns0:speaker>
-          <ns0:stage>(раздраженно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(уверенно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Звучат громкие аккорды на фортепиано. Появляется ВАЛЕРИЙ – молодой и талантливый революционер)</ns0:stage>
-        <ns0:sp who="#valerij:_(s_entuziazmom">
-          <ns0:speaker>ВАЛЕРИЙ: (с энтузиазмом</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ДЕЙСТВИЕ ТРЕТЬЕ</ns0:head>
-        <ns0:stage>(Освещенный просторный зал. На сцене стол со стопками документов и книгами. На заднем плане ЛЮДМИЛА – обаятельная женщина средних лет и ДМИТРИЙ – молодой, интеллигентный человек в опрятном костюме)</ns0:stage>
-        <ns0:sp who="#ljudmila:">
-          <ns0:speaker>ЛЮДМИЛА:</ns0:speaker>
-          <ns0:stage>(возмущенно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#dmitrij:">
-          <ns0:speaker>ДМИТРИЙ:</ns0:speaker>
-          <ns0:stage>(решительно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входят НИКОЛАЙ и ЕКАТЕРИНА. НИКОЛАЙ выглядит опустошенным и лишенным энергии)</ns0:stage>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(тихо)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ekaterina:">
-          <ns0:speaker>ЕКАТЕРИНА:</ns0:speaker>
-          <ns0:stage>(сострадательно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит ПАВЕЛ, по имиджу он по-прежнему опрятен, но выглядит уставшим и печальным)</ns0:stage>
-        <ns0:sp who="#pavel:">
-          <ns0:speaker>ПАВЕЛ:</ns0:speaker>
-          <ns0:stage>(грустно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(с гордостью)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ljudmila:">
-          <ns0:speaker>ЛЮДМИЛА:</ns0:speaker>
-          <ns0:stage>(страстно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Все переглядываются, содержательный м</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ</ns0:head>
-        <ns0:stage>(Зал суда. Судья, Михаил, в традиционной юдушке сидит за письменным столом. Напротив него стоят ЗРИТЕЛИ, среди которых ИВАН - простой крестьянин, ВАЛЕРИЙ - революционер, и ПАВЕЛ - успешный фермер)</ns0:stage>
-        <ns0:sp who="#mihail:">
-          <ns0:speaker>МИХАИЛ:</ns0:speaker>
-          <ns0:stage>(серьезно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ivan:">
-          <ns0:speaker>ИВАН:</ns0:speaker>
-          <ns0:stage>(утомленно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#zriteli:">
-          <ns0:speaker>ЗРИТЕЛИ:</ns0:speaker>
-          <ns0:stage>(шепотом)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#valerij:">
-          <ns0:speaker>ВАЛЕРИЙ:</ns0:speaker>
-          <ns0:stage>(с уверенностью)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#pavel:">
-          <ns0:speaker>ПАВЕЛ:</ns0:speaker>
-          <ns0:stage>(с обидой)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Зрители мурлыкают, СУДЬЯ стучит молотком)</ns0:stage>
-        <ns0:sp who="#mihail:">
-          <ns0:speaker>МИХАИЛ:</ns0:speaker>
-          <ns0:stage>(решительно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#zriteli:">
-          <ns0:speaker>ЗРИТЕЛИ:</ns0:speaker>
-          <ns0:stage>(возмущенно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#upravljajuschij_chinovnik:">
-          <ns0:speaker>УПРАВЛЯЮЩИЙ ЧИНОВНИК:</ns0:speaker>
-          <ns0:stage>(входя, властно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ivan:">
-          <ns0:speaker>ИВАН:</ns0:speaker>
-          <ns0:stage>(со слезами)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#valerij:">
-          <ns0:speaker>ВАЛЕРИЙ:</ns0:speaker>
-          <ns0:stage>(с яростью)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>ДЕЙСТВИЕ ПЯТОЕ</ns0:head>
-        <ns0:stage>(Окраина города. Возле избушки стоит НИКОЛАЙ, израненный и со следами пыток. На нем видны признаки изнеможения и усталости)</ns0:stage>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(подавленно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ekaterina:">
-          <ns0:speaker>ЕКАТЕРИНА:</ns0:speaker>
-          <ns0:stage>(трогательно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Входит ВАЛЕРИЙ, одетый в бедную одежду, но с огромным чувством самоуверенности)</ns0:stage>
-        <ns0:sp who="#valerij:">
-          <ns0:speaker>ВАЛЕРИЙ:</ns0:speaker>
-          <ns0:stage>(уверенно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#nikolaj:">
-          <ns0:speaker>НИКОЛАЙ:</ns0:speaker>
-          <ns0:stage>(сомневается)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#valerij:">
-          <ns0:speaker>ВАЛЕРИЙ:</ns0:speaker>
-          <ns0:stage>(настойчиво)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ekaterina:">
-          <ns0:speaker>ЕКАТЕРИНА:</ns0:speaker>
-          <ns0:stage>(решительно)</ns0:stage>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Они смотрят друг на друга, ощущая глубину своего решения. Звучит музыкальный аккорд, символизирующий новую надежду и борьбу. Жизнь продолжается.)</ns0:stage>
-      </ns0:div>
-    </ns0:body>
-  </ns0:text>
-<fileDesc><titleStmt><title>GPT35-Russian-10</title></titleStmt></fileDesc></ns0:TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+        <title type="main"> Вихрь страданий (Whirlwind of Sorrows)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="FEMALE" xml:id="vera">
+            <persName>ВЕРА</persName>
+          </person>
+          <person sex="MALE" xml:id="pyotr">
+            <persName>ПИОТР</persName>
+          </person>
+          <person sex="MALE" xml:id="efym">
+            <persName>ЕФИМ</persName>
+          </person>
+          <person sex="MALE" xml:id="gryhoryj">
+            <persName>GРИГОРИЙ</persName>
+          </person>
+          <person sex="MALE" xml:id="hryhoryj">
+            <persName>ГРИГОРИЙ</persName>
+          </person>
+          <person sex="MALE" xml:id="yosyf">
+            <persName>ИОСИФ</persName>
+          </person>
+          <person sex="MALE" xml:id="hlavnыj">
+            <persName>ГЛАВНЫЙ</persName>
+          </person>
+          <person sex="FEMALE" xml:id="kozma">
+            <persName>KОЗЬМА</persName>
+          </person>
+          <person sex="MALE" xml:id="hrhoryj">
+            <persName>ГРГОРИЙ</persName>
+          </person>
+          <person sex="MALE" xml:id="vse">
+            <persName>ВСЕ</persName>
+          </person>
+          <person sex="FEMALE" xml:id="sluzhanka">
+            <persName>SLUZHANKA</persName>
+          </person>
+          <person sex="FEMALE" xml:id="praskovja">
+            <persName>ПРАСКОВЬЯ</persName>
+          </person>
+          <person sex="FEMALE" xml:id="anna">
+            <persName>АННА</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="act">
+        <head>Действие Первое</head>
+        <div type="scene">
+          <head>СЦЕНА 1</head>
+          <stage>Парабель Туманная глубоко в степи. Небольшой крестьянский дом. Вход прямо и по бокам. Мебель простая, мало шкафов. Картина очень забитой деревни. </stage><stage>(На сцене никого. Постепенно слышны шаги. Входит по ступенькам KОЗЬМА ФЕДОРОВИЧ, мужчина стариковского возраста. Он сполоскивает обувь на плошках. В руке его шуршит засушенная рогожа. За ним входит ANNА ПАВЛОВНА, женщина средних лет, одетая скромно и опрятно.)</stage>
+          <sp who="#kozma">
+            <speaker>KОЗЬМА: </speaker>
+            <stage>(Сурово)</stage>
+            <p></p>
+          </sp>
+          <sp who="#anna">
+            <speaker>ANNА: </speaker>
+            <stage>(Тихо)</stage>
+            <p> Козьма Федорович, я снова видела его вчера в деревне. Он отдавал посылку старому казаку за крепостной охотничий траншеей.</p>
+          </sp>
+          <sp who="#kozma">
+            <speaker>KОЗЬМА: </speaker>
+            <stage>(Гордо)</stage>
+            <p> Чтоб погиб он, этот крепостной, исходящий из земли червь! Он лишил меня всего! Моего дома, прекрасной дочери, моего достатка...</p>
+          </sp>
+          <sp who="#anna">
+            <speaker>ANNА: </speaker>
+            <stage>(Грустно)</stage>
+            <p> Пойми, Козьма Федорович, пора моей дочери ПРАСКОВЬИ загородиться от него. Если мне разрешат как-нибудь передвинуться в наши владения с грошами, то тут разорван будет этот страшный узел.</p>
+          </sp>
+          <sp who="#kozma">
+            <speaker>KОЗЬМА: </speaker>
+            <stage>(С сожалением)</stage>
+            <p> Да, Анна Павловна, но вот ведь хоть одно зло — да другое...</p>
+          </sp>
+          <stage>(По сторонам появляется SLUZHANKA (домработница), женщина средних лет с опустившимися плечами.)</stage>
+          <sp who="#sluzhanka">
+            <speaker>SLUZHANKA: </speaker>
+            <stage>(Трепеща)</stage>
+            <p> Анна Пав</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>Действие Второе</head>
+        <div type="scene">
+          <head>СЦЕНА 1</head>
+          <stage>ТАМЖЕ</stage>
+          <stage>(Кабинет ПИОТРА АЛЕКСЕЕВИЧА. На столе накрытый бархатными скатертями обед. За столом сидит ПИОТР АЛЕКСЕЕВИЧ, мужчина среднего возраста, одетый просто, но стильно. Рядом со столом стоят два строгих домработника, GРИГОРИЙ и ЕФИМ. В комнате тихо и напряженно.)</stage>
+          <sp who="#pyotr">
+            <speaker>ПИОТР: </speaker>
+            <stage>(Серьезно)</stage>
+            <p> Григорий, Ефим, я устал от этой тяжелой работы. Тревожит душу несправедливость, которую я свидетельствую каждый день на своих землях. В чем счастье и благосостояние, если оно приносится на чужбине бедного народа?</p>
+          </sp>
+          <sp who="#gryhoryj">
+            <speaker>GРИГОРИЙ: </speaker>
+            <stage>(Скромно)</stage>
+            <p> Барин, все мычим в архангельских глухарях, снова разделяем на часы, летим сухий пабаран...</p>
+          </sp>
+          <sp who="#efym">
+            <speaker>ЕФИМ: </speaker>
+            <stage>(Серьезно)</stage>
+            <p> Но, сударь, наших крестьянских людей вытесняют из их земли и разоряют дома. Помещичьи установления вечно объедают нашу землю и нашу нацию.</p>
+          </sp>
+          <sp who="#pyotr">
+            <speaker>ПИОТР: </speaker>
+            <stage>(Задумчиво)</stage>
+            <p> Верно, друзья мои. Что я делаю, сидя здесь и говоря о правде и справедливости, если мои действия не покажут мне самоотверженности и небоязни?</p>
+          </sp>
+          <stage>(Входит ВЕРА АЛЕКСЕЕВНА, молодая женщина страстных глаз и гордой осанкой.)</stage>
+          <sp who="#vera">
+            <speaker>ВЕРА: </speaker>
+            <stage>(Энергично)</stage>
+            <p> Питаю истинную надежду, Петр Алексеевич, что и Вы, и наш сын будут готовы предотвратить эти несправедливости. Нужно, чтобы воля народа проснулась и поднялась снова!</p>
+          </sp>
+          <sp who="#pyotr">
+            <speaker>ПИОТР: </speaker>
+            <stage>(Вдохновенно)</stage>
+            <p> Да, Вера Алексеевна, несомненно! Волею нашего нарДействие Третье</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>СЦЕНА 1</head>
+          <stage>ТАМЖЕ</stage>
+          <stage>(Небольшой зал игорного дома. На самом переднем столе играют в карты ГЛАВНЫЙ ПОМЕЩИК и ИОСИФ АНДРЕЕВИЧ. У других столов сидят игроки. Наступает поздний вечер, за окном стемнело.)</stage>
+          <sp who="#hlavnыj">
+            <speaker>ГЛАВНЫЙ: </speaker>
+            <stage>(Алчно)</stage>
+            <p> Иосиф Андреевич, вы все больше и больше преграждаете моему везению на пути! Игра здесь нетосклива, и это меня беспокоит.</p>
+          </sp>
+          <sp who="#yosyf">
+            <speaker>ИОСИФ: </speaker>
+            <stage>(С улыбкой)</stage>
+            <p> Точно, главный помещик. Везение куда-то отвернулось от вас, но оно не забыло про меня!</p>
+          </sp>
+          <stage>(Появляется АННА ПАВЛОВНА, одетая скромно. Она следит за игрой, стоя в дальнем углу комнаты.)</stage>
+          <sp who="#anna">
+            <speaker>АННА: </speaker>
+            <stage>(Шепотом)</stage>
+            <p> О, греховный мир игры и любования! С какой легкостью тут расходятся деньги, которые принадлежат беднякам!</p>
+          </sp>
+          <sp who="#hlavnыj">
+            <speaker>ГЛАВНЫЙ: </speaker>
+            <stage>(Пренебрежительно)</stage>
+            <p> Анна Павловна, вам не место здесь! Достоинство моего дома не подразумевает присутствия пестраков и нищих!</p>
+          </sp>
+          <sp who="#yosyf">
+            <speaker>ИОСИФ: </speaker>
+            <stage>(Огрызается)</stage>
+            <p> Главный помещик, давайте поспорим! Если я победил карточное состязание, то Вы выплатите мне сумму в двадцать золотых и гоните меня отсюда без суда и следствия... Если же Вы побеждаете — пусть благое дело будет сотворено для бедных казаков!</p>
+          </sp>
+          <sp who="#hlavnыj">
+            <speaker>ГЛАВНЫЙ: </speaker>
+            <stage>(Смеется)</stage>
+            <p> Откровенная глупость! Но доказать вам, что победа не в ваших руках, я согласен на этот риск!</p>
+          </sp>
+          <stage>(ИОСИФ и ГЛАВНЫЙ начинают игру с напряжением. АННА ПАВЛОВНА молится в углу.)</stage>
+          <sp who="#anna">
+            <speaker>АННА: </speaker>
+            <stage>(Молится про себя)</stage>
+            <p> Господи! Дайте и приукрась</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>Действие Четвертое</head>
+        <div type="scene">
+          <head>СЦЕНА 1</head>
+          <sp who="#tamzhe">
+            <speaker>ТАМЖЕ</speaker>
+            <p></p>
+          </sp>
+          <stage>(Большой баловый зал. Люди танцуют пары. В центре зала танцуют ГРГОРИЙ и ПРАСКОВЬЯ. Вдруг все останавливаются, оборачиваясь в сторону входа. Входит ПИОТР.)</stage>
+          <sp who="#hrhoryj">
+            <speaker>ГРГОРИЙ: </speaker>
+            <stage>(С удивлением)</stage>
+            <p> Питер! Тошнит от тебя тоска! Ты голову снизил, что случилось?</p>
+          </sp>
+          <sp who="#pyotr">
+            <speaker>ПИОТР: </speaker>
+            <stage>(Грустно)</stage>
+            <p> О, Григорий, милостыня моя! Душа моя обречена на эту вечную пустоту и печаль. Мое обетование преобразить мир было опрокинуто этим соколининым обручем!</p>
+          </sp>
+          <sp who="#praskovja">
+            <speaker>ПРАСКОВЬЯ: </speaker>
+            <stage>(Удивленно)</stage>
+            <p> Отец, о чем Вы говорите? Ваше прикосновение все изменит!</p>
+          </sp>
+          <sp who="#pyotr">
+            <speaker>ПИОТР: </speaker>
+            <stage>(Жестом)</stage>
+            <p> Вечность, увы, не в компетенции одного человека!</p>
+          </sp>
+          <stage>(Постепенно звук музыки стихает. Люди ожидают продолжения разговора.)</stage>
+          <sp who="#pyotr">
+            <speaker>ПИОТР:</speaker>
+            <p>Я потерял все, что меня делало сильным. Мои действия сорвались и обернулись моим разочарованием собственной несостоятельности!</p>
+          </sp>
+          <sp who="#vse">
+            <speaker>ВСЕ</speaker>
+            <p>ОСТАЛЬНЫЕ: <stage>(Шепотом)</stage> Что случилось? Что он имеет в виду?</p>
+          </sp>
+          <sp who="#hlavnыj">
+            <speaker>ГЛАВНЫЙ: </speaker>
+            <stage>(С лукавством)</stage>
+            <p> Питер, вы отказались от своего слова и служения мне. Понимаете, какая цена этому действию?</p>
+          </sp>
+          <sp who="#pyotr">
+            <speaker>ПИОТР: </speaker>
+            <stage>(Решительно)</stage>
+            <p> Цена — сам оправдывать ненависть, которую ваша жестокость и жадность продали. Я отвергаю вас, главный помещик, и теперь проживу остаток своих дней борясь за правду и свободу!</p>
+          </sp>
+          <stage>(Выступает ANNА ПАВЛОВНА и КОЗЬМА ФЕДОРОВИЧ.)</stage>
+          <sp who="#anna">
+            <speaker>ANNА: </speaker>
+            <stage>(Энергично)</stage>
+            <p> Я поддержу тебя, сын мой. Зло должно быть остановлено,</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>Действие Пятое</head>
+        <div type="scene">
+          <head>СЦЕНА 1</head>
+          <stage>Пустошь на окраине села. На сцене ВЕРА АЛЕКСЕЕВНА и ПИОТР. Они идут рядом.</stage><sp who="#vera">
+            <speaker>ВЕРА: </speaker>
+            <stage>(Волнующе)</stage>
+            <p> Петр, ты по-настоящему собираешься выступить против гнета помещиков? Ты рискуешь своей жизнью!</p>
+          </sp>
+          <sp who="#pyotr">
+            <speaker>ПИОТР: </speaker>
+            <stage>(Решительно)</stage>
+            <p> Вера, ты знаешь, что эта борьба неизбежна. Если мы не будем сражаться сейчас, наши дети и внуки также будут жить в несправедливом мире.</p>
+          </sp>
+          <sp who="#vera">
+            <speaker>ВЕРА: </speaker>
+            <stage>(Опасливо)</stage>
+            <p> Милый, я боюсь за тебя. Но я также понимаю, что без твоего решительного действия мы просто окажемся в тени угнетения и нищеты.</p>
+          </sp>
+          <sp who="#pyotr">
+            <speaker>ПИОТР: </speaker>
+            <stage>(Бесстрашно)</stage>
+            <p> Я готов пожертвовать всем, чтобы проследить путь перемен. Это наше предназначение, Вера - бороться за свободу и равенство.</p>
+          </sp>
+          <stage>(Они продолжают своё движение, с каждым шагом становясь более решительными.)</stage>
+        </div>
+        <div type="scene">
+          <head>СЦЕНА 2</head>
+          <stage>(На сцене поле битвы, застигнутое дымом и взрывами. Оружие в руках борцов за свободу и гнетеных крестьян. На переднем плане ПИОТР и ГРИГОРИЙ, обращающиеся к толпе.)</stage>
+          <sp who="#pyotr">
+            <speaker>ПИОТР: </speaker>
+            <stage>(Со страстной речью)</stage>
+            <p> Братья и сестры! Сегодня мы сражаемся не только за себя и свои исстрадавшиеся семьи, но и за будущее наших потомков. Мы требуем справедливости, равенства и свободы!</p>
+          </sp>
+          <sp who="#hryhoryj">
+            <speaker>ГРИГОРИЙ: </speaker>
+            <stage>(Захватывающе)</stage>
+            <p> Нас притесняли и угнетали долгие годы. Это трагическое изгойство должно прекратиться! Мы не будем больше гнить под их ярмом!</p>
+          </sp>
+          <stage>(Можно услышать громкие аплодисменты и возгласы подд</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
