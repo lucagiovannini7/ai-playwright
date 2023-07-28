@@ -30,7 +30,7 @@ def update_title_in_xml(filename):
     tree.write(filename, encoding="utf-8", xml_declaration=True)
 
 def main():
-    directory_path = "C:\\Users\\Luca Giovannini\\Documents\\GitHub\\artificial-dramas\\ezdrama_format\\gpt\\xmls"
+    directory_path = "C:\\Users\\Luca Giovannini\\Documents\\GitHub\\artificial-dramas\\ezdrama_format\\bard\\xmls"
     for filename in os.listdir(directory_path):
         if filename.endswith(".xml"):
             file_path = os.path.join(directory_path, filename)

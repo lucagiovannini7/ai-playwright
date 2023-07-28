@@ -1,605 +1,606 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="mädchen">
-            <persName>MÄDCHEN</persName>
-          </person>
-          <person sex="MALE" xml:id="das">
-            <persName>DAS</persName>
-          </person>
-          <person sex="MALE" xml:id="friederich">
-            <persName>FRIEDERICH</persName>
-          </person>
-          <person sex="MALE" xml:id="der">
-            <persName>DER</persName>
-          </person>
-          <person sex="MALE" xml:id="die">
-            <persName>DIE</persName>
-          </person>
-          <person sex="MALE" xml:id="elizabeth">
-            <persName>ELIZABETH</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head></head>
-      </div>
-      <div type="scene">
-        <head>AKT I</head>
-        <stage>Szenenbild: Ein dunkles Zimmer in einem alten Schloss.</stage>
-        <castList>
-          <castItem>Personen:</castItem>
-          <castItem></castItem>
-          <castItem></castItem>
-        </castList>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Die junge Tochter des Schlossherrn.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ein junger Mann, der in Elizabeth verliebt ist.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Der Vater von Elizabeth.</p>
-        </sp>
-        <sp who="#die">
-          <speaker>DIE</speaker>
-          <p>MUTTER: Die Mutter von Elizabeth.</p>
-        </sp>
-        <stage>(Der Vorhang geht auf. Elizabeth sitzt am Fenster und starrt in die Dunkelheit.):</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH: </speaker>
-          <stage>(seufzend)</stage>
-          <p> Ich kann nicht schlafen. Ich denke immer an Friedrich.</p>
-        </sp>
-        <stage>(Friedrich tritt ein.)</stage>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Elizabeth!</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich!</p>
-        </sp>
-        <stage>(Sie fallen sich in die Arme.)</stage>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ich habe dich so vermisst.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Ich habe dich auch vermisst.</p>
-        </sp>
-        <stage>(Sie küssen sich.)</stage>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: <stage>(tritt herein)</stage> Was ist hier los?</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Herr, ich habe Elizabeth.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Was? Was hast du gesagt?</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ich habe Elizabeth. Ich liebe sie und ich will sie heiraten.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Das ist unmöglich! Elizabeth ist meine Tochter. Sie kann nicht mit dir heiraten.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Aber warum nicht?</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Weil du nicht gut genug für sie bist.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Das ist nicht wahr! Ich liebe sie und ich werde sie heiraten, egal was du sagst.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Das werden wir sehen!</p>
-        </sp>
-        <stage>(Der Schlossherr geht.)</stage>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Elizabeth, ich werde dich nie aufgeben.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Ich weiß.</p>
-        </sp>
-        <stage>(Sie küssen sich wieder.)</stage>
-        <stage>(Der Vorhang fällt.)</stage>
-      </div>
-      <div type="scene">
-        <head></head>
-      </div>
-      <div type="scene">
-        <head>AKT II </head>Sure, here is another act of the same play in German: <stage>Szenenbild: Ein heller Raum in einem alten Schloss.</stage>
-        <castList>Personen:</castList>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Die junge Tochter des Schlossherrn.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ein junger Mann, der in Elizabeth verliebt ist.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Der Vater von Elizabeth.</p>
-        </sp>
-        <sp who="#die">
-          <speaker>DIE</speaker>
-          <p>MUTTER: Die Mutter von Elizabeth.</p>
-        </sp>
-        <stage>(Der Vorhang geht auf. Elizabeth und Friedrich sitzen auf einer Bank.):</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich, ich habe Angst.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Was ist los?</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Mein Vater. Er wird uns nicht heiraten lassen.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ich habe mir das schon gedacht. Aber wir werden uns nicht aufgeben.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Aber wie sollen wir das machen?</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ich habe einen Plan.</p>
-        </sp>
-        <stage>(Friedrich erzählt Elizabeth seinen Plan.)</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Das ist ein verrückter Plan. Aber ich bin dabei.</p>
-        </sp>
-        <stage>(Sie küssen sich.)</stage>
-        <stage>(Der Schlossherr tritt herein.):</stage>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Was ist hier los?</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Vater, wir wollen heiraten.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Das ist unmöglich!</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Aber wir lieben uns.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Das ist mir egal. Du bist nicht gut genug für sie.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ich bin gut genug für sie!</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Wir werden sehen!</p>
-        </sp>
-        <stage>(Der Schlossherr geht.)</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich, was ist jetzt?</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Wir gehen.</p>
-        </sp>
-        <stage>(Sie gehen.)</stage>
-        <stage>(Der Vorhang fällt.)</stage>
-      </div>
-      <div type="scene">
-        <head>AKT III</head>
-        <stage>Szenenbild: Eine Waldlichtung.</stage>
-        <castList>Personen:</castList>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Die junge Tochter des Schlossherrn.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ein junger Mann, der in Elizabeth verliebt ist.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Der Vater von Elizabeth.</p>
-        </sp>
-        <sp who="#die">
-          <speaker>DIE</speaker>
-          <p>MUTTER: Die Mutter von Elizabeth.</p>
-        </sp>
-        <stage>(Der Vorhang geht auf. Elizabeth und Friedrich stehen auf einer Lichtung im Wald.):</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich, wir haben es geschafft.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ja, wir haben es geschafft.</p>
-        </sp>
-        <stage>(Sie umarmen sich.)</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Ich kann es nicht glauben. Wir sind frei.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ja, wir sind frei.</p>
-        </sp>
-        <stage>(Sie küssen sich.)</stage>
-        <stage>(Der Schlossherr tritt herein.):</stage>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Elizabeth! Friedrich!</p>
-        </sp>
-        <stage>(Elizabeth und Friedrich springen auseinander.)</stage>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Was macht ihr hier?</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Wir sind weggelaufen.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Weggelaufen? Was soll das heißen?</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Wir haben geheiratet.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Geheiratet? Was?</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ja, wir haben geheiratet. Wir sind jetzt Mann und Frau.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Das ist unmöglich!</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Es ist wahr. Wir haben es getan.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Ich werde euch finden und euch zurückbringen!</p>
-        </sp>
-        <stage>(Der Schlossherr geht.)</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich, was ist jetzt?</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Wir werden hier bleiben. Wir werden ein neues Leben anfangen.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Ja, wir werden ein neues Leben anfangen.</p>
-        </sp>
-        <stage>(Sie küssen sich.)</stage>
-        <stage>(Der Vorhang fällt.):</stage>
-      </div>
-      <div type="scene">
-        <head></head>
-      </div>
-      <div type="scene">
-        <head>AKT IV</head>
-        <stage>Szenenbild: Ein kleines Haus am Waldrand.</stage>
-        <castList>Personen:</castList>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Die junge Frau, die nun mit Friedrich verheiratet ist.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Der junge Mann, der nun mit Elizabeth verheiratet ist.</p>
-        </sp>
-        <sp who="#das">
-          <speaker>DAS</speaker>
-          <p>MÄDCHEN: Ein kleines Mädchen, das bei Elizabeth und Friedrich wohnt.</p>
-        </sp>
-        <stage>(Der Vorhang geht auf. Elizabeth und Friedrich sitzen am Tisch und essen. Das Mädchen spielt auf dem Boden.):</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich, ich bin so glücklich.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ich auch.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Wir haben ein schönes Leben hier.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ja, wir haben.</p>
-        </sp>
-        <stage>(Das Mädchen kommt zu ihnen.):</stage>
-        <sp who="#mädchen">
-          <speaker>MÄDCHEN:</speaker>
-          <p>Mama, Papa, ich habe Hunger.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Komm, wir essen.</p>
-        </sp>
-        <stage>(Sie essen alle zusammen.)</stage>
-        <stage>(Nach dem Essen.):</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich, ich habe etwas zu sagen.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Ich bin schwanger.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Was? Das ist wunderbar!</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Ja, es ist.</p>
-        </sp>
-        <stage>(Sie umarmen sich.)</stage>
-        <stage>(Der Schlossherr tritt herein.):</stage>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Elizabeth! Friedrich!</p>
-        </sp>
-        <stage>(Elizabeth und Friedrich springen auseinander.)</stage>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Ich habe euch gefunden.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Vater!</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Was wollen Sie hier?</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Ich habe euch zurückzubringen.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Wir wollen nicht zurück.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Aber ihr könnt nicht hier bleiben.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Wir werden schon sehen.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Ich werde euch nicht aufgeben.</p>
-        </sp>
-        <stage>(Der Schlossherr geht.)</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich, was ist jetzt?</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Wir werden hier bleiben. Wir werden eine Familie gründen.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Ja, wir werden eine Familie gründen.</p>
-        </sp>
-        <stage>(Sie küssen sich.)</stage>
-        <stage>(Das Vorhang fällt.)</stage>
-      </div>
-      <div type="scene">
-        <head></head>
-      </div>
-      <div type="scene">
-        <head>AKT V</head>
-        <stage>Szenenbild: Ein Jahr später. Das kleine Haus am Waldrand ist jetzt ein größeres Haus. Elizabeth und Friedrich haben ein zweites Kind bekommen, einen Jungen.</stage>
-        <castList>Personen:</castList>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Die junge Frau, die nun mit Friedrich verheiratet ist und zwei Kinder hat.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Der junge Mann, der nun mit Elizabeth verheiratet ist und zwei Kinder hat.</p>
-        </sp>
-        <sp who="#das">
-          <speaker>DAS</speaker>
-          <p>MÄDCHEN: Das kleine Mädchen, das jetzt ein Jahr alt ist.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>JUNGE: Der kleine Junge, der gerade geboren ist.</p>
-        </sp>
-        <stage>(Der Vorhang geht auf. Elizabeth und Friedrich sitzen am Tisch und essen. Das Mädchen spielt auf dem Boden. Der Junge liegt in der Wiege.):</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich, ich bin so glücklich.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ich auch.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Wir haben eine schöne Familie.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Ja, wir haben.</p>
-        </sp>
-        <stage>(Das Mädchen kommt zu ihnen.):</stage>
-        <sp who="#mädchen">
-          <speaker>MÄDCHEN:</speaker>
-          <p>Mama, Papa, ich habe Hunger.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Komm, wir essen.</p>
-        </sp>
-        <stage>(Sie essen alle zusammen.)</stage>
-        <stage>(Nach dem Essen.):</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich, ich habe etwas zu sagen.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Ich habe einen Brief von meinem Vater bekommen.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Was steht in dem Brief?</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Er schreibt, dass er uns endlich akzeptiert.</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Was? Das ist wunderbar!</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Ja, es ist.</p>
-        </sp>
-        <stage>(Sie umarmen sich.)</stage>
-        <stage>(Der Schlossherr tritt herein.):</stage>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Elizabeth! Friedrich!</p>
-        </sp>
-        <stage>(Elizabeth und Friedrich springen auseinander.)</stage>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Ich habe euch einen Brief geschrieben.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Vater!</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Was wollen Sie hier?</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Ich habe euch um Verzeihung gebeten.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Wir haben Sie schon längst vergeben.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Ich möchte, dass ihr zu mir zurückkommt.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Wir wollen nicht zurück.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Aber ihr könnt hier nicht bleiben.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Wir werden schon sehen.</p>
-        </sp>
-        <sp who="#der">
-          <speaker>DER</speaker>
-          <p>SCHLOSSHERRN: Ich werde euch immer lieben.</p>
-        </sp>
-        <stage>(Der Schlossherr geht.)</stage>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Friedrich, was ist jetzt?</p>
-        </sp>
-        <sp who="#friederich">
-          <speaker>FRIEDERICH:</speaker>
-          <p>Wir werden hier bleiben. Wir werden unsere Familie hier großziehen.</p>
-        </sp>
-        <sp who="#elizabeth">
-          <speaker>ELIZABETH:</speaker>
-          <p>Ja, wir werden unsere Familie hier großziehen.</p>
-        </sp>
-        <stage>(Sie küssen sich.)</stage>
-        <stage>(Das Vorhang fällt.):</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-german-2</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="mädchen">
+            <ns0:persName>MÄDCHEN</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="das">
+            <ns0:persName>DAS</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="friederich">
+            <ns0:persName>FRIEDERICH</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="der">
+            <ns0:persName>DER</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="die">
+            <ns0:persName>DIE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="elizabeth">
+            <ns0:persName>ELIZABETH</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head />
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>AKT I</ns0:head>
+        <ns0:stage>Szenenbild: Ein dunkles Zimmer in einem alten Schloss.</ns0:stage>
+        <ns0:castList>
+          <ns0:castItem>Personen:</ns0:castItem>
+          <ns0:castItem />
+          <ns0:castItem />
+        </ns0:castList>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Die junge Tochter des Schlossherrn.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ein junger Mann, der in Elizabeth verliebt ist.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Der Vater von Elizabeth.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#die">
+          <ns0:speaker>DIE</ns0:speaker>
+          <ns0:p>MUTTER: Die Mutter von Elizabeth.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Vorhang geht auf. Elizabeth sitzt am Fenster und starrt in die Dunkelheit.):</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH: </ns0:speaker>
+          <ns0:stage>(seufzend)</ns0:stage>
+          <ns0:p> Ich kann nicht schlafen. Ich denke immer an Friedrich.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Friedrich tritt ein.)</ns0:stage>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Elizabeth!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie fallen sich in die Arme.)</ns0:stage>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ich habe dich so vermisst.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Ich habe dich auch vermisst.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie küssen sich.)</ns0:stage>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: <ns0:stage>(tritt herein)</ns0:stage> Was ist hier los?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Herr, ich habe Elizabeth.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Was? Was hast du gesagt?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ich habe Elizabeth. Ich liebe sie und ich will sie heiraten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Das ist unmöglich! Elizabeth ist meine Tochter. Sie kann nicht mit dir heiraten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Aber warum nicht?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Weil du nicht gut genug für sie bist.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Das ist nicht wahr! Ich liebe sie und ich werde sie heiraten, egal was du sagst.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Das werden wir sehen!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Schlossherr geht.)</ns0:stage>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Elizabeth, ich werde dich nie aufgeben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Ich weiß.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie küssen sich wieder.)</ns0:stage>
+        <ns0:stage>(Der Vorhang fällt.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head />
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>AKT II </ns0:head>Sure, here is another act of the same play in German: <ns0:stage>Szenenbild: Ein heller Raum in einem alten Schloss.</ns0:stage>
+        <ns0:castList>Personen:</ns0:castList>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Die junge Tochter des Schlossherrn.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ein junger Mann, der in Elizabeth verliebt ist.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Der Vater von Elizabeth.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#die">
+          <ns0:speaker>DIE</ns0:speaker>
+          <ns0:p>MUTTER: Die Mutter von Elizabeth.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Vorhang geht auf. Elizabeth und Friedrich sitzen auf einer Bank.):</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich, ich habe Angst.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Was ist los?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Mein Vater. Er wird uns nicht heiraten lassen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ich habe mir das schon gedacht. Aber wir werden uns nicht aufgeben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Aber wie sollen wir das machen?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ich habe einen Plan.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Friedrich erzählt Elizabeth seinen Plan.)</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Das ist ein verrückter Plan. Aber ich bin dabei.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie küssen sich.)</ns0:stage>
+        <ns0:stage>(Der Schlossherr tritt herein.):</ns0:stage>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Was ist hier los?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Vater, wir wollen heiraten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Das ist unmöglich!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Aber wir lieben uns.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Das ist mir egal. Du bist nicht gut genug für sie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ich bin gut genug für sie!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Wir werden sehen!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Schlossherr geht.)</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich, was ist jetzt?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Wir gehen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie gehen.)</ns0:stage>
+        <ns0:stage>(Der Vorhang fällt.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>AKT III</ns0:head>
+        <ns0:stage>Szenenbild: Eine Waldlichtung.</ns0:stage>
+        <ns0:castList>Personen:</ns0:castList>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Die junge Tochter des Schlossherrn.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ein junger Mann, der in Elizabeth verliebt ist.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Der Vater von Elizabeth.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#die">
+          <ns0:speaker>DIE</ns0:speaker>
+          <ns0:p>MUTTER: Die Mutter von Elizabeth.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Vorhang geht auf. Elizabeth und Friedrich stehen auf einer Lichtung im Wald.):</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich, wir haben es geschafft.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ja, wir haben es geschafft.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie umarmen sich.)</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Ich kann es nicht glauben. Wir sind frei.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ja, wir sind frei.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie küssen sich.)</ns0:stage>
+        <ns0:stage>(Der Schlossherr tritt herein.):</ns0:stage>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Elizabeth! Friedrich!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Elizabeth und Friedrich springen auseinander.)</ns0:stage>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Was macht ihr hier?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Wir sind weggelaufen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Weggelaufen? Was soll das heißen?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Wir haben geheiratet.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Geheiratet? Was?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ja, wir haben geheiratet. Wir sind jetzt Mann und Frau.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Das ist unmöglich!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Es ist wahr. Wir haben es getan.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Ich werde euch finden und euch zurückbringen!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Schlossherr geht.)</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich, was ist jetzt?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Wir werden hier bleiben. Wir werden ein neues Leben anfangen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Ja, wir werden ein neues Leben anfangen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie küssen sich.)</ns0:stage>
+        <ns0:stage>(Der Vorhang fällt.):</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head />
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>AKT IV</ns0:head>
+        <ns0:stage>Szenenbild: Ein kleines Haus am Waldrand.</ns0:stage>
+        <ns0:castList>Personen:</ns0:castList>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Die junge Frau, die nun mit Friedrich verheiratet ist.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Der junge Mann, der nun mit Elizabeth verheiratet ist.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#das">
+          <ns0:speaker>DAS</ns0:speaker>
+          <ns0:p>MÄDCHEN: Ein kleines Mädchen, das bei Elizabeth und Friedrich wohnt.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Vorhang geht auf. Elizabeth und Friedrich sitzen am Tisch und essen. Das Mädchen spielt auf dem Boden.):</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich, ich bin so glücklich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ich auch.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Wir haben ein schönes Leben hier.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ja, wir haben.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Das Mädchen kommt zu ihnen.):</ns0:stage>
+        <ns0:sp who="#mädchen">
+          <ns0:speaker>MÄDCHEN:</ns0:speaker>
+          <ns0:p>Mama, Papa, ich habe Hunger.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Komm, wir essen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie essen alle zusammen.)</ns0:stage>
+        <ns0:stage>(Nach dem Essen.):</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich, ich habe etwas zu sagen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Ich bin schwanger.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Was? Das ist wunderbar!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Ja, es ist.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie umarmen sich.)</ns0:stage>
+        <ns0:stage>(Der Schlossherr tritt herein.):</ns0:stage>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Elizabeth! Friedrich!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Elizabeth und Friedrich springen auseinander.)</ns0:stage>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Ich habe euch gefunden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Vater!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Was wollen Sie hier?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Ich habe euch zurückzubringen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Wir wollen nicht zurück.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Aber ihr könnt nicht hier bleiben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Wir werden schon sehen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Ich werde euch nicht aufgeben.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Schlossherr geht.)</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich, was ist jetzt?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Wir werden hier bleiben. Wir werden eine Familie gründen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Ja, wir werden eine Familie gründen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie küssen sich.)</ns0:stage>
+        <ns0:stage>(Das Vorhang fällt.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head />
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>AKT V</ns0:head>
+        <ns0:stage>Szenenbild: Ein Jahr später. Das kleine Haus am Waldrand ist jetzt ein größeres Haus. Elizabeth und Friedrich haben ein zweites Kind bekommen, einen Jungen.</ns0:stage>
+        <ns0:castList>Personen:</ns0:castList>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Die junge Frau, die nun mit Friedrich verheiratet ist und zwei Kinder hat.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Der junge Mann, der nun mit Elizabeth verheiratet ist und zwei Kinder hat.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#das">
+          <ns0:speaker>DAS</ns0:speaker>
+          <ns0:p>MÄDCHEN: Das kleine Mädchen, das jetzt ein Jahr alt ist.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>JUNGE: Der kleine Junge, der gerade geboren ist.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Vorhang geht auf. Elizabeth und Friedrich sitzen am Tisch und essen. Das Mädchen spielt auf dem Boden. Der Junge liegt in der Wiege.):</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich, ich bin so glücklich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ich auch.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Wir haben eine schöne Familie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Ja, wir haben.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Das Mädchen kommt zu ihnen.):</ns0:stage>
+        <ns0:sp who="#mädchen">
+          <ns0:speaker>MÄDCHEN:</ns0:speaker>
+          <ns0:p>Mama, Papa, ich habe Hunger.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Komm, wir essen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie essen alle zusammen.)</ns0:stage>
+        <ns0:stage>(Nach dem Essen.):</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich, ich habe etwas zu sagen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Ich habe einen Brief von meinem Vater bekommen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Was steht in dem Brief?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Er schreibt, dass er uns endlich akzeptiert.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Was? Das ist wunderbar!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Ja, es ist.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie umarmen sich.)</ns0:stage>
+        <ns0:stage>(Der Schlossherr tritt herein.):</ns0:stage>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Elizabeth! Friedrich!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Elizabeth und Friedrich springen auseinander.)</ns0:stage>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Ich habe euch einen Brief geschrieben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Vater!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Was wollen Sie hier?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Ich habe euch um Verzeihung gebeten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Wir haben Sie schon längst vergeben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Ich möchte, dass ihr zu mir zurückkommt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Wir wollen nicht zurück.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Aber ihr könnt hier nicht bleiben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Wir werden schon sehen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#der">
+          <ns0:speaker>DER</ns0:speaker>
+          <ns0:p>SCHLOSSHERRN: Ich werde euch immer lieben.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Schlossherr geht.)</ns0:stage>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Friedrich, was ist jetzt?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#friederich">
+          <ns0:speaker>FRIEDERICH:</ns0:speaker>
+          <ns0:p>Wir werden hier bleiben. Wir werden unsere Familie hier großziehen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#elizabeth">
+          <ns0:speaker>ELIZABETH:</ns0:speaker>
+          <ns0:p>Ja, wir werden unsere Familie hier großziehen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie küssen sich.)</ns0:stage>
+        <ns0:stage>(Das Vorhang fällt.):</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>
