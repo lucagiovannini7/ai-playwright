@@ -1,459 +1,397 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
-  <ns0:teiHeader>
-    <ns0:fileDesc>
-      <ns0:titleStmt>
-        <ns0:title>bard-french-8</ns0:title>
-      </ns0:titleStmt>
-      <ns0:publicationStmt>
-        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
-        <ns0:idno type="URL">https://dracor.org</ns0:idno>
-        <ns0:availability>
-          <ns0:licence>
-            <ns0:ab>CC0 1.0</ns0:ab>
-            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
-          </ns0:licence>
-        </ns0:availability>
-      </ns0:publicationStmt>
-      <ns0:sourceDesc>
-        <ns0:bibl />
-      </ns0:sourceDesc>
-    </ns0:fileDesc>
-    <ns0:profileDesc>
-      <ns0:particDesc>
-        <ns0:listPerson>
-          <ns0:person sex="MALE" xml:id="un lacai">
-            <ns0:persName>**UN LACAI**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="la cour">
-            <ns0:persName>**LA COUR**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="une chambre dans le palais royal">
-            <ns0:persName>**UNE CHAMBRE DANS LE PALAIS ROYAL**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="les chefs du peuple">
-            <ns0:persName>**LES CHEFS DU PEUPLE**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="le messager">
-            <ns0:persName>**LE MESSAGER**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="une chambre dans un hôtel">
-            <ns0:persName>**UNE CHAMBRE DANS UN HÔTEL**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="un chef du peuple">
-            <ns0:persName>**UN CHEF DU PEUPLE**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="le duc">
-            <ns0:persName>**LE DUC**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="le lacai">
-            <ns0:persName>**LE LACAI**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="une salle de rendez-vous">
-            <ns0:persName>**UNE SALLE DE RENDEZ-VOUS**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="la reine">
-            <ns0:persName>**LA REINE**</ns0:persName>
-          </ns0:person>
-        </ns0:listPerson>
-      </ns0:particDesc>
-    </ns0:profileDesc>
-  </ns0:teiHeader>
-  <ns0:text>
-    <ns0:body>
-      <ns0:stage>**</ns0:stage>
-      <ns0:div type="scene">
-        <ns0:head>Acte I**</ns0:head>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Scène 1**</ns0:head>* * *<ns0:sp who="#une chambre dans un hôtel">
-          <ns0:speaker>**UNE CHAMBRE DANS UN HÔTEL**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je suis le Duc de Bourgogne. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi seul. Je n'ai pas d'amis. Je n'ai pas de famille. Je suis un prisonnier dans mon propre hôtel.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(assis sur un lit)</ns0:stage>
-        <ns0:sp who="#un lacai">
-          <ns0:speaker>**UN LACAI**</ns0:speaker>
-          <ns0:p>Monseigneur, il y a un messager de la cour.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(entre)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Qu'il entre.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Le messager entre.)**</ns0:stage>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Monseigneur, la reine vous demande de vous rendre à la cour immédiatement.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Pourquoi ?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Je ne sais pas, Monseigneur. Mais la reine est très insistante.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Bien. Je vais me préparer.* * *</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Le messager sort.)**</ns0:stage>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Scène 2**</ns0:head>* * *<ns0:sp who="#la cour">
-          <ns0:speaker>**LA COUR**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#la reine">
-          <ns0:speaker>**LA REINE**</ns0:speaker>
-          <ns0:p>Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps. Je dois trouver un successeur.Le Duc de Bourgogne est le plus puissant noble du royaume. Il est aussi un homme juste et sage. Il serait un bon roi.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(seule)</ns0:stage>
-        <ns0:stage>**(Elle réfléchit.)**</ns0:stage>
-        <ns0:stage>**(Un laquais entre.)**</ns0:stage>
-        <ns0:sp who="#le lacai">
-          <ns0:speaker>**LE LACAI**</ns0:speaker>
-          <ns0:p>Monseigneur le Duc est arrivé.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#la reine">
-          <ns0:speaker>**LA REINE**</ns0:speaker>
-          <ns0:p>Qu'il entre.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Le Duc entre.)**</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Madame la Reine.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#la reine">
-          <ns0:speaker>**LA REINE**</ns0:speaker>
-          <ns0:p>Duc de Bourgogne, je vous ai fait venir ici pour vous parler d'une affaire importante.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je suis à votre écoute, Madame.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#la reine">
-          <ns0:speaker>**LA REINE**</ns0:speaker>
-          <ns0:p>Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps. Je dois trouver un successeur.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je comprends, Madame.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#la reine">
-          <ns0:speaker>**LA REINE**</ns0:speaker>
-          <ns0:p>Je pense que vous seriez un bon roi. Vous êtes puissant, juste et sage.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je suis honoré par votre confiance, Madame. Mais je ne suis pas sûr d'être le bon choix.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#la reine">
-          <ns0:speaker>**LA REINE**</ns0:speaker>
-          <ns0:p>Je sais que vous êtes humble, Duc. Mais je suis convaincue que vous seriez un bon roi.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je vais réfléchir à votre proposition, Madame.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#la reine">
-          <ns0:speaker>**LA REINE**</ns0:speaker>
-          <ns0:p>Je vous remercie, Duc. Je vous laisse le temps de réfléchir.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je vous en prie, Madame.* * *</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Le Duc sort.)**</ns0:stage>
-        <ns0:stage>**Le rideau tombe.**</ns0:stage>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Acte II**</ns0:head>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Scène 1**</ns0:head>* * *<ns0:sp who="#une chambre dans le palais royal">
-          <ns0:speaker>**UNE CHAMBRE DANS LE PALAIS ROYAL**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je suis le nouveau roi de France. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi responsable. Je dois prendre soin du royaume. Je dois faire en sorte que le peuple soit heureux.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(seul)</ns0:stage>
-        <ns0:sp who="#un lacai">
-          <ns0:speaker>**UN LACAI**</ns0:speaker>
-          <ns0:p>Monseigneur, il y a un messager du peuple.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(entre)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Qu'il entre.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Le messager entre.)**</ns0:stage>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Monseigneur, le peuple est en colère. Ils sont mécontents de votre règne.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Pourquoi ?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Ils disent que vous êtes trop arrogant. Ils disent que vous ne vous souciez pas d'eux.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>C'est faux ! Je me soucie du peuple. Je veux que le peuple soit heureux.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Ils ne vous croient pas, Monseigneur. Ils disent que vous ne les comprenez pas.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je dois les comprendre. Je dois trouver un moyen de les apaiser.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Je vous en prie, Monseigneur, faites quelque chose. Le peuple est sur le point de se révolter.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je ferai quelque chose. Je promets.* * *</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Le messager sort.)**</ns0:stage>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Scène 2**</ns0:head>* * *<ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je dois trouver un moyen de calmer le peuple. Je dois trouver un moyen de les comprendre.J'ai une idée. Je vais convoquer les chefs du peuple et leur parler. Je leur expliquerai mes intentions et je leur demanderai leur aide.* * *</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(seul)</ns0:stage>
-        <ns0:stage>**(Il réfléchit.)**</ns0:stage>
-        <ns0:stage>**Le rideau tombe.**</ns0:stage>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Acte III**</ns0:head>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Scène 1**</ns0:head>* * *<ns0:sp who="#une salle de rendez-vous">
-          <ns0:speaker>**UNE SALLE DE RENDEZ-VOUS**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Peuple de France, je vous parle. Je sais que vous êtes en colère. Je sais que vous êtes mécontents de mon règne.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(se tient devant les chefs du peuple)</ns0:stage>
-        <ns0:sp who="#les chefs du peuple">
-          <ns0:speaker>**LES CHEFS DU PEUPLE**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(murmures)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je vous ai entendu. Je sais que je n'ai pas été un bon roi. J'ai été arrogant et je n'ai pas pris soin de vous.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#les chefs du peuple">
-          <ns0:speaker>**LES CHEFS DU PEUPLE**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(murmures plus forts)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Mais je veux changer. Je veux être un bon roi pour vous. Je veux que vous soyez heureux.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#les chefs du peuple">
-          <ns0:speaker>**LES CHEFS DU PEUPLE**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(silence)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je sais que je ne peux pas gagner votre confiance en un jour. Mais je promets de faire de mon mieux. Je promets de changer.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#les chefs du peuple">
-          <ns0:speaker>**LES CHEFS DU PEUPLE**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(murmures)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je vous demande de me donner une chance. Je vous demande de me laisser prouver que je peux être un bon roi pour vous.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#un chef du peuple">
-          <ns0:speaker>**UN CHEF DU PEUPLE**</ns0:speaker>
-          <ns0:p>Monseigneur, nous vous écoutons.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(se lève)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je vous remercie. Je vais commencer par abroger les taxes les plus oppressives. Je vais également investir dans l'agriculture et l'industrie, afin de créer de nouveaux emplois. Et je vais me battre pour la justice et l'égalité pour tous.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#les chefs du peuple">
-          <ns0:speaker>**LES CHEFS DU PEUPLE**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(applaudissements)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je sais que ce ne sera pas facile. Mais je suis déterminé à faire de la France un pays plus juste et plus prospère.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#les chefs du peuple">
-          <ns0:speaker>**LES CHEFS DU PEUPLE**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(applaudissements)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Merci, peuple de France. Je ferai tout ce que je peux pour vous.* * *</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Les chefs du peuple applaudissent.)**</ns0:stage>
-        <ns0:stage>**Le rideau tombe.**</ns0:stage>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Acte IV**</ns0:head>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Scène 1**</ns0:head>* * *<ns0:sp who="#une chambre dans le palais royal">
-          <ns0:speaker>**UNE CHAMBRE DANS LE PALAIS ROYAL**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Ils m'ont cru. Ils m'ont donné une chance. Je dois leur prouver que je suis digne de leur confiance.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(seul)</ns0:stage>
-        <ns0:sp who="#un lacai">
-          <ns0:speaker>**UN LACAI**</ns0:speaker>
-          <ns0:p>Monseigneur, il y a un messager du peuple.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(entre)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Qu'il entre.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Le messager entre.)**</ns0:stage>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Monseigneur, le peuple est content. Ils sont heureux de votre règne.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Monseigneur, le peuple est content. Ils sont heureux de votre règne.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Monseigneur, le peuple vous demande une faveur.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Quelle faveur ?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Le peuple demande que vous abaissiez les taxes.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je vois. Je vais réfléchir à votre demande.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Merci, Monseigneur.* * *</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Le messager sort.)**</ns0:stage>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Scène 2**</ns0:head>* * *<ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je dois abaisser les taxes. Le peuple en a besoin. Mais je ne peux pas me permettre de faire cela. Le royaume est déjà endetté.J'ai une idée. Je vais créer une nouvelle taxe sur les riches. Cela permettra de abaisser les taxes sur les pauvres et de ne pas mettre en danger les finances du royaume.* * *</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(seul)</ns0:stage>
-        <ns0:stage>**(Il réfléchit.)**</ns0:stage>
-        <ns0:stage>**Le rideau tombe.**</ns0:stage>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Acte V**</ns0:head>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Scène 1**</ns0:head>* * *<ns0:sp who="#une chambre dans le palais royal">
-          <ns0:speaker>**UNE CHAMBRE DANS LE PALAIS ROYAL**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>J'ai fait ce qu'il fallait. J'ai abaisser les taxes sur les pauvres et j'ai créé une nouvelle taxe sur les riches. Je suis sûr que le peuple sera content.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(seul)</ns0:stage>
-        <ns0:sp who="#un lacai">
-          <ns0:speaker>**UN LACAI**</ns0:speaker>
-          <ns0:p>Monseigneur, il y a un messager du peuple.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(entre)</ns0:stage>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Qu'il entre.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Le messager entre.)**</ns0:stage>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Monseigneur, le peuple est ravi. Ils sont très reconnaissants pour ce que vous avez fait.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je suis content de l'entendre. Je suis heureux de pouvoir aider le peuple.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Monseigneur, le peuple vous demande de rester roi. Ils ne veulent pas que vous abdiquez.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je ne vais pas abdiquer. Je suis le roi de France et je resterai roi jusqu'à ma mort.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#le messager">
-          <ns0:speaker>**LE MESSAGER**</ns0:speaker>
-          <ns0:p>Merci, Monseigneur.* * *</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Le messager sort.)**</ns0:stage>
-        <ns0:stage>**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Scène 2**</ns0:head>* * *<ns0:sp who="#le duc">
-          <ns0:speaker>**LE DUC**</ns0:speaker>
-          <ns0:p>Je suis content de rester roi. Je suis heureux de pouvoir servir le peuple.Je sais que je dois faire plus pour le peuple. Je dois leur donner une vie meilleure.Je vais travailler dur pour faire de la France un pays plus juste et plus prospère.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(seul)</ns0:stage>
-        <ns0:stage>**(Il réfléchit.)**</ns0:stage>
-        <ns0:stage>**(Il se lève.)**</ns0:stage>
-        <ns0:stage>**(Le rideau tombe.)**</ns0:stage>
-      </ns0:div>
-    </ns0:body>
-  </ns0:text>
-</ns0:TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="madame duval">
+            <persName>MADAME DUVAL</persName>
+          </person>
+          <person sex="MALE" xml:id="cloé">
+            <persName>CLOÉ</persName>
+          </person>
+          <person sex="MALE" xml:id="chloe">
+            <persName>CHLOE</persName>
+          </person>
+          <person sex="MALE" xml:id="jules">
+            <persName>JULES</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>ACTE I</head>
+      </div>
+      <div type="scene">
+        <head>Scène 1</head>
+        <stage>(Un salon bourgeois. Madame DUVAL, une femme d'âge moyen, est assise sur un canapé. Son fils, JULES, entre.)</stage>
+        <sp who="#madame duval">
+          <speaker>MADAME DUVAL :</speaker>
+          <p>Jules, mon cher, je suis si contente de te voir.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Merci, Maman. Je suis content de te revoir aussi.</p>
+        </sp>
+        <stage>(Ils s'embrassent.)</stage>
+        <sp who="#madame duval">
+          <speaker>MADAME DUVAL :</speaker>
+          <p>Assieds-toi, mon chéri. Je veux te parler.</p>
+        </sp>
+        <stage>(Jules s'assied.)</stage>
+        <sp who="#madame duval">
+          <speaker>MADAME DUVAL :</speaker>
+          <p>Tu sais, Jules, je suis un peu inquiète pour toi.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Pourquoi, Maman ?</p>
+        </sp>
+        <sp who="#madame duval">
+          <speaker>MADAME DUVAL :</speaker>
+          <p>Tu ne sors plus beaucoup. Tu passes tout ton temps à la maison.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>C'est vrai, Maman. Mais je n'ai pas envie de sortir.</p>
+        </sp>
+        <sp who="#madame duval">
+          <speaker>MADAME DUVAL :</speaker>
+          <p>Mais pourquoi pas, mon chéri ? Tu es jeune, tu devrais profiter de la vie.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Je n'ai pas envie de profiter de la vie, Maman. Je suis fatigué.</p>
+        </sp>
+        <sp who="#madame duval">
+          <speaker>MADAME DUVAL :</speaker>
+          <p>Fatigué ? De quoi es-tu fatigué ?</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Je ne sais pas, Maman. Je suis juste fatigué.</p>
+        </sp>
+        <stage>(Il se tait.)</stage>
+        <sp who="#madame duval">
+          <speaker>MADAME DUVAL : </speaker>
+          <stage>(soupire)</stage>
+          <p> Je vois.</p>
+        </sp>
+        <stage>(Ils se regardent en silence pendant un moment.)</stage>
+        <sp who="#madame duval">
+          <speaker>MADAME DUVAL :</speaker>
+          <p>Jules, je veux que tu saches que je suis là pour toi, si tu as besoin de moi.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Merci, Maman. Je sais que tu es là pour moi.</p>
+        </sp>
+        <stage>(Ils s'embrassent à nouveau.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>
+        <stage>(Jules est seul dans le salon. Il se lève et se promène d'un air agité.)</stage>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Je ne peux pas continuer comme ça. Je dois faire quelque chose.</p>
+        </sp>
+        <stage>(Il s'arrête et regarde autour de lui.)</stage>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Mais quoi ? Je ne sais pas quoi faire.</p>
+        </sp>
+        <stage>(Il se tait et réfléchit.)</stage>
+        <sp who="#jules">
+          <speaker>JULES : </speaker>
+          <stage>(se levant d'un coup)</stage>
+          <p> J'ai une idée !</p>
+        </sp>
+        <stage>(Il sort du salon.)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE II</head>
+      </div>
+      <div type="scene">
+        <head>Scène 1</head>
+        <stage>(Une taverne. Jules est assis à une table, en train de boire un verre de vin. Une jeune femme, CLOÉ, entre.)</stage>
+        <sp who="#cloé">
+          <speaker>CLOÉ :</speaker>
+          <p>Bonjour, Jules.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Bonjour, Cloé.</p>
+        </sp>
+        <sp who="#cloé">
+          <speaker>CLOÉ :</speaker>
+          <p>Qu'est-ce que tu fais ici ?</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Je me suis dit que je sortirais un peu.</p>
+        </sp>
+        <sp who="#cloé">
+          <speaker>CLOÉ :</speaker>
+          <p>C'est bien. Tu as l'air fatigué.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Je suis un peu.</p>
+        </sp>
+        <sp who="#cloé">
+          <speaker>CLOÉ :</speaker>
+          <p>Tu veux que je te raccompagne chez toi ?</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Non, ça va. Je vais rentrer seul.</p>
+        </sp>
+        <sp who="#cloé">
+          <speaker>CLOÉ :</speaker>
+          <p>Tu es sûr ?</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Oui, je suis sûr.</p>
+        </sp>
+        <sp who="#cloé">
+          <speaker>CLOÉ :</speaker>
+          <p>D'accord.</p>
+        </sp>
+        <stage>(Cloé s'en va. Jules la regarde partir, puis il se tourne vers son verre de vin.)</stage>
+        <sp who="#jules">
+          <speaker>JULES : </speaker>
+          <stage>(à lui-même)</stage>
+          <p> Je ne sais pas ce que je fais.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>
+        <stage>(La chambre de Jules. Jules est allongé sur son lit, en train de fumer une cigarette. Il est agité.)</stage>
+        <sp who="#jules">
+          <speaker>JULES : </speaker>
+          <stage>(à lui-même)</stage>
+          <p> Je dois faire quelque chose. Je ne peux pas continuer comme ça.</p>
+        </sp>
+        <stage>(Il se lève et se promène d'un air agité.)</stage>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Mais quoi ? Je ne sais pas quoi faire.</p>
+        </sp>
+        <stage>(Il s'arrête et regarde autour de lui.)</stage>
+        <sp who="#jules">
+          <speaker>JULES : </speaker>
+          <stage>(désespéré)</stage>
+          <p> Je suis perdu.</p>
+        </sp>
+        <stage>(Il se jette sur son lit et se met à pleurer.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 3</head>
+        <stage>(Le lendemain matin. Jules est assis à son bureau, en train d'écrire une lettre.)</stage>
+        <sp who="#jules">
+          <speaker>JULES : </speaker>
+          <stage>(à lui-même)</stage>
+          <p> Chère Maman,Je t'écris pour te dire que je suis parti. Je ne sais pas où je vais, mais je ne peux pas rester ici. Je dois faire quelque chose de ma vie.Je te remercie pour tout ce que tu as fait pour moi. Je t'aime.Ton fils,JulesI hope you like this act!</p>
+        </sp>
+        <stage>(Jules plie la lettre et la met dans une enveloppe. Il l'adresse à sa mère et la met dans sa poche. Il se lève et sort de sa chambre.)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE III</head>
+      </div>
+      <div type="scene">
+        <head>Scène 1</head>
+        <stage>(Une gare. Jules est en train de monter dans un train. Il est accompagné d'un homme, M. DURAND, un vieil ami de sa famille.)</stage> M. DURAND : Tu es sûr que tu veux faire ça, Jules ?<sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Oui, je suis sûr. Je dois partir.M. DURAND : Mais où vas-tu ?</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Je ne sais pas. Je vais juste partir.M. DURAND : Tu sais que tu peux toujours compter sur moi, si tu as besoin de quelque chose.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Merci, M. Durand. Je sais que je peux compter sur vous.</p>
+        </sp>
+        <stage>(Jules lui serre la main.)</stage>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Au revoir, M. Durand.M. DURAND : Au revoir, Jules. Et bonne chance.</p>
+        </sp>
+        <stage>(Jules monte dans le train. Le train part.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>
+        <stage>(Une ville inconnue. Jules est assis sur un banc dans un parc. Il est en train de lire une lettre.)</stage>
+        <stage>(La lettre est de sa mère. Elle lui dit qu'elle l'aime et qu'elle est fière de lui. Elle lui souhaite bonne chance dans sa nouvelle vie.)</stage>
+        <sp who="#jules">
+          <speaker>JULES : </speaker>
+          <stage>(à lui-même)</stage>
+          <p> Je ne sais pas ce que l'avenir me réserve, mais je suis prêt à le découvrir.I hope you like this act!</p>
+        </sp>
+        <stage>(Il se lève et commence à marcher. Il ne sait pas où il va, mais il sait qu'il est sur la bonne voie.)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE IV</head>
+      </div>
+      <div type="scene">
+        <head>Scène 1</head>
+        <stage>(Une rue de la ville inconnue. Jules est en train de marcher. Il est fatigué et il a faim.)</stage>
+        <sp who="#jules">
+          <speaker>JULES : </speaker>
+          <stage>(à lui-même)</stage>
+          <p> Je ne sais pas où je suis, mais je dois trouver un endroit pour dormir.</p>
+        </sp>
+        <stage>(Il continue à marcher. Il arrive devant une taverne.)</stage>
+        <sp who="#jules">
+          <speaker>JULES : </speaker>
+          <stage>(à lui-même)</stage>
+          <p> Je vais essayer ici.</p>
+        </sp>
+        <stage>(Il entre dans la taverne.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>
+        <stage>(La taverne. Jules est assis à une table, en train de manger une soupe. Une femme, CHLOE, s'approche de lui.)</stage>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Bonjour, Monsieur.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Bonjour, Madame.</p>
+        </sp>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Vous êtes nouveau ici ?</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Oui, je suis.</p>
+        </sp>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Vous êtes perdu ?</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Non, je ne suis pas perdu. Je suis juste en voyage.</p>
+        </sp>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Ah, je vois.</p>
+        </sp>
+        <stage>(Ils se taisent pendant un moment.)</stage>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Vous voulez un verre de vin ?</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Oui, merci.</p>
+        </sp>
+        <stage>(Chloe lui apporte un verre de vin.)</stage>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Alors, comment se passe votre voyage ?</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Il se passe bien. Je découvre de nouvelles choses.</p>
+        </sp>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>C'est bien.</p>
+        </sp>
+        <stage>(Ils continuent à parler. Ils apprennent à se connaître. Ils s'entendent bien.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 3</head>
+        <stage>(Le lendemain matin. Jules et Chloe sont dans la chambre de Jules. Ils sont allongés sur le lit, en train de se parler.)</stage>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Je suis contente de t'avoir rencontré, Jules.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Moi aussi, je suis content de t'avoir rencontrée, Chloe.</p>
+        </sp>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Je voudrais rester avec toi.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Moi aussi, je voudrais que tu restes avec moi.I hope you like this act!</p>
+        </sp>
+        <stage>(Ils s'embrassent.)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE V</head>
+      </div>
+      <div type="scene">
+        <head>Scène 1</head>
+        <stage>(Une rue de la ville inconnue. Jules et Chloe sont en train de marcher. Ils sont heureux ensemble.)</stage>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Je suis content d'être ici avec toi, Chloe.</p>
+        </sp>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Moi aussi, je suis contente d'être ici avec toi, Jules.</p>
+        </sp>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Je ne sais pas ce que l'avenir nous réserve, mais je suis prêt à l'affronter avec toi.</p>
+        </sp>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Moi aussi, je suis prête à l'affronter avec toi.</p>
+        </sp>
+        <stage>(Ils s'embrassent.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>
+        <stage>(Un bureau de poste. Jules et Chloe sont en train d'envoyer une lettre à la mère de Jules.)</stage>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Chère Maman,Je t'écris pour te dire que je suis bien. Je suis avec Chloe, et nous sommes très heureux ensemble.Je sais que tu étais inquiète pour moi, mais je te promets que je vais bien. Je suis sur la bonne voie, et je suis sûr que je vais réussir dans la vie.Je t'aime,Jules</p>
+        </sp>
+        <stage>(Jules et Chloe s'embrassent. Ils sortent du bureau de poste.)</stage>
+      </div>
+      <div type="scene">
+        <head>Scène 3</head>
+        <stage>(Une gare. Jules et Chloe sont en train de monter dans un train. Ils sont sur le point de partir pour une nouvelle aventure.)</stage>
+        <sp who="#jules">
+          <speaker>JULES :</speaker>
+          <p>Je suis excité de voir ce que l'avenir nous réserve.</p>
+        </sp>
+        <sp who="#chloe">
+          <speaker>CHLOE :</speaker>
+          <p>Moi aussi, je suis excitée. Je sais que nous allons faire de grandes choses ensemble.The end.I hope you like this act!</p>
+        </sp>
+        <stage>(Ils se tiennent la main. Le train part.)</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

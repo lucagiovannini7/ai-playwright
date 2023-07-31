@@ -1,470 +1,454 @@
 
 
-$**
-##Acte I**
+* INTÉRIEUR D'UNE CHAMBRE *
 
-$**
-##Scène 1**
+$(Une jeune femme, CLAIRE, est assise sur un canapé, en train de lire un livre. Une servante, MARIE, entre.)
 
-* * *
+@MARIE : 
+Mademoiselle, le Comte est arrivé.
 
-@**UNE RUE DANS UNE VILLE**
+@CLAIRE : 
+Le Comte ? Il est déjà là ?
 
-@**UN HOMME**
+@MARIE : 
+Oui, mademoiselle. Il est dans le salon.
 
-$(seul)
+@CLAIRE : 
+Je vais le voir.
 
-Je suis un homme simple. Je n'ai pas de grandes ambitions. Je veux juste vivre ma vie en paix. Mais aujourd'hui, je sens que quelque chose ne va pas.
+$(Claire se lève et sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-$**(Il regarde autour de lui.)**
+@MARIE : 
+Le Comte est un homme très beau et très riche. Il est l'héritier d'une grande fortune. Claire est très heureuse qu'il soit venu la voir.
 
-La ville est calme, mais il y a une tension palpable dans l'air. Les gens se regardent avec méfiance.
+$(Claire revient dans la pièce, accompagnée du Comte.)
 
-$**(Il continue à marcher.)**
+@COMTE : 
+Claire, je suis ravi de te revoir.
 
-Je ne sais pas ce qui se passe, mais j'ai peur.
+@CLAIRE : 
+Moi aussi, Comte. Je suis très contente que tu sois venu.
 
-$**(Il s'arrête devant une taverne.)**
+@COMTE : 
+Je suis venu pour te demander ta main en mariage.
 
-Je vais entrer et prendre une bière. Peut-être que ça me calmera.
+@CLAIRE : (surprise)
+ Oh !
 
-$**(Il entre dans la taverne.)**
+@COMTE : 
+Je sais que c'est une surprise, mais je t'aime depuis longtemps. Je crois que nous serions très heureux ensemble.
 
-* * *
+@CLAIRE : 
+Je... je ne sais pas quoi dire.
 
-$**
-##Scène 2**
+@COMTE : 
+Ne dis rien pour l'instant. Je te laisse le temps de réfléchir.
 
-* * *
+$(Le Comte s'incline et sort de la pièce. Claire reste seule, pensive.)
 
-@**LA TAVERNE**
+@MARIE : 
+Qu'allez-vous faire, mademoiselle ?
 
-$**L'HOMME**
+@CLAIRE : 
+Je ne sais pas. Je dois réfléchir.
 
-$(se place au bar.)**
+$(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-Une bière, s'il vous plaît.
+@MARIE : 
+Claire est très heureuse que le Comte lui ait demandé sa main. Mais elle est aussi très inquiète. Elle ne sait pas si elle est prête à se marier.
 
-@**LE BARMAN**
 
-$(lui sert une bière.)**
 
-Voilà, monsieur.
 
-$**L'HOMME**
 
-Merci.
+* INTÉRIEUR D'UNE CHAMBRE *
 
-$**(Il prend une gorgée de bière.)**
+$(Claire est assise sur un canapé, en train de lire un livre. Marie entre.)
 
-Ah, ça fait du bien.
+@MARIE : 
+Mademoiselle, il y a un homme qui demande à vous parler.
 
-$**(Il regarde autour de lui.)**
+@CLAIRE : 
+Un homme ? Qui est-ce ?
 
-La taverne est pleine de monde. Les gens parlent à voix basse, mais je peux deviner qu'ils parlent de ce qui se passe.
+@MARIE : 
+Je ne sais pas. Il ne m'a pas dit son nom.
 
-$**(Il se tourne vers le barman.)**
+@CLAIRE : 
+Faites-le entrer.
 
-Qu'est-ce qui se passe, en fait ?
+$(Marie sort de la pièce. Un instant plus tard, un homme entre.)
 
-@**LE BARMAN**
+@HOMME : 
+Mademoiselle Claire ?
 
-Je ne sais pas grand-chose. Mais il y a des rumeurs que le roi est mort.
+@CLAIRE : 
+Oui ?
 
-$**L'HOMME**
+@HOMME : 
+Je suis le Comte de Saint-Germain. Je suis venu vous parler de votre mariage avec le Comte de Montmorency.
 
-Le roi ? Mort ? Mais comment est-ce possible ?
+@CLAIRE : 
+Je ne comprends pas.
 
-@**LE BARMAN**
+@HOMME : 
+Je sais que vous êtes encore en train de réfléchir à sa proposition. Je suis ici pour vous dire que vous ne devriez pas l'épouser.
 
-Je ne sais pas. Mais c'est ce qu'on dit.
+@CLAIRE : 
+Pourquoi ?
 
-$**L'HOMME**
+@HOMME : 
+Parce que le Comte de Montmorency est un homme dangereux. Il est cruel et sans pitié. Il ne vous fera pas de mal.
 
-$(il est choqué.)**
+@CLAIRE : 
+Je ne sais pas quoi dire.
 
-Si le roi est mort, alors le pays est en danger.
+@HOMME : 
+Je vous laisse le temps de réfléchir. Mais je vous en prie, ne vous mariez pas avec lui.
 
-@**LE BARMAN**
+$(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)
 
-Je sais. C'est une période très troublée.
+@MARIE : 
+Qu'allez-vous faire, mademoiselle ?
 
-$**L'HOMME**
+@CLAIRE : 
+Je ne sais pas. Je dois réfléchir.
 
-$(il se lève.)**
+$(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-Je dois rentrer chez moi. Je dois voir ma famille.
+@MARIE : 
+Claire est très perturbée par la visite du Comte de Saint-Germain. Elle ne sait pas quoi faire.
 
-@**LE BARMAN**
+$(Un instant plus tard, le Comte de Montmorency entre dans la pièce.)
 
-D'accord, monsieur. Soyez prudent.
+@COMTE DE MONTMORENCY : 
+Claire, je suis venu te voir.
 
-$**L'HOMME**
+@CLAIRE : (surprise)
+ Comte ?
 
-$(il sort de la taverne.)**
+@COMTE DE MONTMORENCY : 
+Je sais que tu as reçu la visite du Comte de Saint-Germain. Je veux que tu saches que je suis au courant de ses intentions.
 
-* * *
+@CLAIRE : 
+Je... je ne sais pas quoi dire.
 
-$**Le rideau tombe.**
+@COMTE DE MONTMORENCY : 
+Je sais que tu es inquiète. Mais je te promets que je ne te ferai jamais de mal. Je t'aime, Claire. Et je veux passer le reste de ma vie avec toi.
 
+@CLAIRE : 
+Je... je ne sais pas.
 
+@COMTE DE MONTMORENCY : 
+Je te laisse le temps de réfléchir. Mais je t'en prie, ne me refuse pas.
 
+$(Le Comte de Montmorency s'incline et sort de la pièce. Claire reste seule, pensive.)
 
+@MARIE : 
+Qu'allez-vous faire, mademoiselle ?
 
-$**
-##Acte II**
+@CLAIRE : 
+Je... je ne sais pas.
 
-$**
-##Scène 1**
+$(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-* * *
+@MARIE : 
+Claire est très émue par la déclaration du Comte de Montmorency. Elle ne sait pas quoi faire.
 
-@**UNE CHAMBRE DANS UNE MAISON**
 
-@**UNE FEMME**
 
-$(assise sur un lit, inquiète.)**
 
-Où est-il ? Il devrait être rentré depuis longtemps.
+* INTÉRIEUR D'UNE CHAMBRE *
 
-$**(Elle se lève et va à la fenêtre.)**
+$(Claire est assise sur un canapé, en train de lire un livre. Marie entre.)
 
-Je vois des gens dans la rue. Ils semblent paniqués.
+@MARIE : 
+Mademoiselle, le Comte de Saint-Germain est revenu.
 
-$**(Elle revient au lit et s'assoit.)**
+@CLAIRE : (surprise)
+ Le Comte de Saint-Germain ?
 
-Que se passe-t-il ? Qu'est-ce qui a pu arriver à mon mari ?
+@MARIE : 
+Oui, mademoiselle. Il est dans le salon.
 
-$**(Elle entend un bruit à la porte.)**
+@CLAIRE : 
+Je vais le voir.
 
-Qui est là ?
+$(Claire se lève et sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-$**(La porte s'ouvre et l'HOMME entre.)**
+@MARIE : 
+Claire est très inquiète par la visite du Comte de Saint-Germain. Elle ne sait pas quoi faire.
 
-C'est moi, chéri.
+$(Claire revient dans la pièce, accompagnée du Comte de Saint-Germain.)
 
-@**LA FEMME**
+@COMTE DE SAINT
+-GERMAIN : Claire, je suis venu te voir une dernière fois.
 
-$(elle se lève et court vers lui.)**
+@CLAIRE : 
+Je ne sais pas quoi vous dire, Comte.
 
-Mon amour ! Tu es sain et sauf !
+@COMTE DE SAINT
+-GERMAIN : Je sais que tu es encore en train de réfléchir à ma proposition. Je suis ici pour te dire que je ne te laisserai pas te marier avec le Comte de Montmorency.
 
-$**L'HOMME**
+@CLAIRE : 
+Pourquoi ?
 
-Oui, je suis bien. Mais il se passe des choses terribles.
+@COMTE DE SAINT
+-GERMAIN : Parce que le Comte de Montmorency est un homme dangereux. Il est cruel et sans pitié. Il ne te fera pas de mal.
 
-@**LA FEMME**
+@CLAIRE : 
+Je ne sais pas quoi dire.
 
-Qu'est-ce que c'est ?
+@COMTE DE SAINT
+-GERMAIN : Je te laisse le temps de réfléchir. Mais je te en prie, ne te maries pas avec lui. Et si tu refuses, je serai obligé de prendre des mesures plus radicales.
 
-$**L'HOMME**
+$(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)
 
-Le roi est mort.
+@MARIE : 
+Qu'allez-vous faire, mademoiselle ?
 
-@**LA FEMME**
+@CLAIRE : 
+Je... je ne sais pas. Je dois réfléchir.
 
-Le roi ? Mort ? Mais comment est-ce possible ?
+$(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-$**L'HOMME**
+@MARIE : 
+Claire est très perturbée par la menace du Comte de Saint-Germain. Elle ne sait pas quoi faire.
 
-Je ne sais pas. Mais c'est ce qu'on dit.
+$(Un instant plus tard, le Comte de Montmorency entre dans la pièce.)
 
-@**LA FEMME**
+@COMTE DE MONTMORENCY : 
+Claire, je suis venu te voir.
 
-$(elle est choquée.)**
+@CLAIRE : (surprise)
+ Comte ?
 
-Si le roi est mort, alors le pays est en danger.
+@COMTE DE MONTMORENCY : 
+Je sais que tu as reçu la visite du Comte de Saint-Germain. Je veux que tu saches que je suis au courant de ses intentions.
 
-$**L'HOMME**
+@CLAIRE : 
+Je... je ne sais pas quoi dire.
 
-Je sais. C'est une période très troublée.
+@COMTE DE MONTMORENCY : 
+Je sais que tu es inquiète. Mais je te promets que je ne te ferai jamais de mal. Je t'aime, Claire. Et je veux passer le reste de ma vie avec toi.
 
-@**LA FEMME**
+@CLAIRE : 
+Je... je ne sais pas.
 
-$(elle se met à pleurer.)**
+@COMTE DE MONTMORENCY : 
+Je te laisse le temps de réfléchir. Mais je t'en prie, ne me refuse pas.
 
-Que va-t-il se passer ?
+$(Le Comte de Montmorency s'incline et sort de la pièce. Claire reste seule, pensive.)
 
-$**L'HOMME**
+@MARIE : 
+Qu'allez-vous faire, mademoiselle ?
 
-Je ne sais pas. Mais nous devons rester forts.
+@CLAIRE : 
+Je... je ne sais pas.
 
-@**LA FEMME**
+$(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-$(elle s'essuie les larmes.)**
+@MARIE : 
+Claire est très émue par la déclaration du Comte de Montmorency. Elle ne sait pas quoi faire.
 
-Tu as raison. Nous devons rester forts.
+$(Un instant plus tard, le Comte de Saint-Germain revient dans la pièce.)
 
-$**(L'HOMME et la FEMME s'embrassent.)**
+@COMTE DE SAINT
+-GERMAIN : Claire, je sais que tu as réfléchi à ma proposition. J'espère que tu as pris la bonne décision.
 
-* * *
+@CLAIRE : 
+Je... je ne sais pas.
 
-$**Le rideau tombe.**
+@COMTE DE SAINT
+-GERMAIN : Je te laisse le temps de réfléchir une dernière fois. Mais après ça, il sera trop tard.
 
+$(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)
 
+@MARIE : 
+Qu'allez-vous faire, mademoiselle ?
 
+@CLAIRE : 
+Je... je ne sais pas. Je dois réfléchir.
 
+$(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-$**
-##Acte III**
+@MARIE 
 
-$**
-##Scène 1**
 
-* * *
+* INTÉRIEUR D'UNE CHAMBRE *
 
-@**UNE PLACE PUBLIQUE**
+$(Claire est assise sur un canapé, en train de lire un livre. Marie entre.)
 
-@**UNE FOULE DE GENS**
+@MARIE : 
+Mademoiselle, le Comte de Saint-Germain est venu vous voir.
 
-$(agitée.)**
+@CLAIRE : (surprise)
+ Le Comte de Saint-Germain ?
 
-Que se passe-t-il ?
+@MARIE : 
+Oui, mademoiselle. Il est dans le salon.
 
-$**Où est le roi ?
+@CLAIRE : 
+Je vais le voir.
 
-$**Qui va nous gouverner ?
+$(Claire se lève et sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-$**La foule est en colère. Ils crient et se bousculaient.
+@MARIE : 
+Claire est très inquiète par la visite du Comte de Saint-Germain. Elle ne sait pas quoi faire.
 
-$**L'HOMME**
+$(Claire revient dans la pièce, accompagnée du Comte de Saint-Germain.)
 
-$(se lève sur un banc.)**
+@COMTE DE SAINT
+-GERMAIN : Claire, je suis venu te voir une dernière fois.
 
-Peuple de France, écoutez-moi !
+@CLAIRE : 
+Je ne sais pas quoi vous dire, Comte.
 
-$**La foule se calme et l'écoute.**
+@COMTE DE SAINT
+-GERMAIN : Je sais que tu as réfléchi à ma proposition. J'espère que tu as pris la bonne décision.
 
-$**L'HOMME**
+@CLAIRE : 
+Je... je ne sais pas.
 
-Le roi est mort. Mais nous ne sommes pas sans chef. Je suis le duc de Bourgogne, et je serai votre roi.
+@COMTE DE SAINT
+-GERMAIN : Je te laisse le temps de réfléchir une dernière fois. Mais après ça, il sera trop tard.
 
-$**La foule applaudit.**
+$(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)
 
-$**L'HOMME**
+@MARIE : 
+Qu'allez-vous faire, mademoiselle ?
 
-Je promets de vous gouverner avec justice et sagesse. Je ferai tout ce que je peux pour vous protéger et pour vous faire prospérer.
+@CLAIRE : 
+Je... je ne sais pas. Je dois réfléchir.
 
-$**La foule acclame le duc de Bourgogne.**
+$(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-$**L'HOMME**
+@MARIE : 
+Claire est très perturbée par la menace du Comte de Saint-Germain. Elle ne sait pas quoi faire.
 
-Vive le roi !
+$(Un instant plus tard, le Comte de Montmorency entre dans la pièce.)
 
-$**La foule**
+@COMTE DE MONTMORENCY : 
+Claire, je suis venu te voir.
 
-Vive le roi !
+@CLAIRE : (surprise)
+ Comte ?
 
-* * *
+@COMTE DE MONTMORENCY : 
+Je sais que tu as reçu la visite du Comte de Saint-Germain. Je veux que tu saches que je suis au courant de ses intentions.
 
-$**Le rideau tombe.**
+@CLAIRE : 
+Je... je ne sais pas quoi dire.
 
+@COMTE DE MONTMORENCY : 
+Je sais que tu es inquiète. Mais je te promets que je ne te ferai jamais de mal. Je t'aime, Claire. Et je veux passer le reste de ma vie avec toi.
 
+@CLAIRE : 
+Je... je ne sais pas.
 
+@COMTE DE MONTMORENCY : 
+Je te laisse le temps de réfléchir. Mais je t'en prie, ne me refuse pas.
 
+$(Le Comte de Montmorency s'incline et sort de la pièce. Claire reste seule, pensive.)
 
-$**
-##Acte IV**
+@MARIE : 
+Qu'allez-vous faire, mademoiselle ?
 
-$**
-##Scène 1**
+@CLAIRE : 
+Je... je ne sais pas. Je dois réfléchir.
 
-* * *
+$(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)
 
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+@MARIE : 
+Claire est très émue par la déclaration du Comte de Montmorency. Elle ne sait pas quoi faire.
 
-@**LE DUC DE BOURGOGNE**
+$(Un instant plus tard, un HOMME ENCAPUCHÉ entre dans la pièce.)
 
-$(seul, assis sur un trône.)**
+@HOMME ENCAPUCHÉ : 
+Claire, je suis venu te sauver.
 
-Je suis le roi. Je suis le maître de ce pays.
+@CLAIRE : (surprise)
+ Qui êtes-vous ?
 
-$**(Il se lève et regarde par la fenêtre.)**
+@HOMME ENCAPUCHÉ : 
+Je suis un ami. Je sais que le Comte de Saint-Germain est un homme dangereux. Il ne te laissera jamais tranquille.
 
-La ville est calme. Les gens semblent avoir accepté ma nouvelle autorité.
+@CLAIRE : 
+Que voulez-vous que je fasse ?
 
-$**(Il sourit.)**
+@HOMME ENCAPUCHÉ : 
+Tu dois partir avec moi. Je t'emmènerai en lieu sûr.
 
-Je vais être un grand roi. Je vais faire de la France un pays prospère et puissant.
+@CLAIRE : 
+Mais...
 
-$**(Il se tourne vers la porte.)**
+@HOMME ENCAPUCHÉ : 
+Il n'y a pas de temps à perdre. Viens avec moi.
 
-Entrez !
+$(L'Homme encapuchée sort de la pièce, suivi de Claire. Marie reste seule, pensive.)
 
-$**(La porte s'ouvre et un LACAI entre.)**
+@MARIE : 
+Que va-t-il se passer ? Où Claire va-t-elle ?
 
-@**LE LACAI**
+$(La scène se fige.)
 
-Monseigneur, le peuple demande à vous voir.
+* EXTÉRIEUR D'UNE FORÊT *
 
-@**LE DUC DE BOURGOGNE**
+$(Claire et l'HOMME ENCAPUCHÉ sont assis sur un rocher.)
 
-Qu'ils entrent.
+@CLAIRE : 
+Merci de m'avoir sauvée.
 
-$**(Le LACAI sort.)**
+@HOMME ENCAPUCHÉ : 
+Ce n'est rien. Je suis juste content que tu sois en sécurité.
 
-* * *
+@CLAIRE : 
+Mais où sommes-nous ?
 
-$**
-##Scène 2**
+@HOMME ENCAPUCHÉ : 
+Nous sommes dans une forêt, loin de la ville. Je t'ai emmenée ici pour que tu sois en sécurité.
 
-* * *
+@CLAIRE : 
+Je ne sais pas quoi dire. Je suis si reconnaissante.
 
-@**LA CHAMBRE**
+@HOMME ENCAPUCHÉ : 
+Il n'y a pas de quoi. Je suis juste heureux de pouvoir t'aider.
 
-@**LE DUC DE BOURGOGNE**
+$(Ils se regardent pendant un moment.)
 
-$(assis sur son trône.)**
+@CLAIRE : 
+Qui êtes-vous ?
 
-Que voulez-vous ?
+@HOMME ENCAPUCHÉ : 
+Je m'appelle Jean.
 
-@**UNE FEMME**
+@CLAIRE : 
+Jean ?
 
-$(se lève.)**
+@HOMME ENCAPUCHÉ : 
+Oui.
 
-Monseigneur, nous sommes venus vous demander justice.
+@CLAIRE : 
+Je suis contente de vous connaître, Jean.
 
-@**LE DUC DE BOURGOGNE**
+@HOMME ENCAPUCHÉ : 
+Moi aussi, Claire.
 
-Justice ? De quoi parlez-vous ?
+$(Ils se rapprochent et s'embrassent.)
 
-@**LA FEMME**
+$(Un moment plus tard, ils se séparent.)
 
-Mon mari a été accusé à tort de crime qu'il n'a pas commis. Il a été condamné à mort.
+@CLAIRE : 
+Je ne sais pas ce que je ferais sans vous, Jean.
 
-@**LE DUC DE BOURGOGNE**
+@HOMME ENCAPUCHÉ : 
+Tu n'as pas à le savoir. Je serai toujours là pour toi.
 
-Je vois. Et vous voulez que je l'acquitte ?
+@CLAIRE : 
+Merci, Jean.
 
-@**LA FEMME**
+$(Ils s'embrassent à nouveau.)
 
-Oui, Monseigneur. Nous sommes sûrs de son innocence.
+$(La scène se fige.)
 
-@**LE DUC DE BOURGOGNE**
-
-Je vais examiner son dossier.
-
-@**LA FEMME**
-
-Merci, Monseigneur.
-
-$**(La femme et les autres gens quittent la pièce.)**
-
-* * *
-
-@**LE DUC DE BOURGOGNE**
-
-$(seul.)**
-
-Je dois faire attention. Je ne peux pas me permettre de faire une erreur.
-
-$**(Il se lève et va à la fenêtre.)**
-
-Je dois être un bon roi. Je dois faire ce qui est juste.
-
-* * *
-
-$**Le rideau tombe.**
-
-
-
-
-
-$**
-##Acte V**
-
-$**
-##Scène 1**
-
-* * *
-
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC DE BOURGOGNE**
-
-$(seul, assis sur un trône.)**
-
-J'ai examiné le dossier de la femme. Son mari a été accusé à tort. Je vais l'acquitter.
-
-$**(Il se lève et va à la fenêtre.)**
-
-J'ai fait ce qui est juste. Je suis un bon roi.
-
-$**(Il se tourne vers la porte.)**
-
-Entrez !
-
-$**(La porte s'ouvre et un LACAI entre.)**
-
-@**LE LACAI**
-
-Monseigneur, la femme est là.
-
-@**LE DUC DE BOURGOGNE**
-
-Faites-la entrer.
-
-$**(Le LACAI sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LA CHAMBRE**
-
-@**LA FEMME**
-
-$(se lève.)**
-
-Monseigneur, merci. Vous avez fait ce que personne d'autre n'a pu faire.
-
-@**LE DUC DE BOURGOGNE**
-
-Je n'ai fait que mon devoir.
-
-@**LA FEMME**
-
-Mon mari est innocent. Il va être libéré ?
-
-@**LE DUC DE BOURGOGNE**
-
-Oui, il va être libéré.
-
-@**LA FEMME**
-
-Merci, Monseigneur. Je ne sais comment vous remercier.
-
-@**LE DUC DE BOURGOGNE**
-
-Vous n'avez pas besoin de me remercier. Je suis juste content d'avoir pu vous aider.
-
-@**LA FEMME**
-
-Je vous souhaite une longue vie, Monseigneur.
-
-@**LE DUC DE BOURGOGNE**
-
-Je vous en remercie.
-
-$**(La femme sort.)**
-
-* * *
-
-@**LE DUC DE BOURGOGNE**
-
-$(seul.)**
-
-Je suis content d'avoir pu aider cette femme. J'ai fait ce que je devais faire.
-
-$**(Il se lève et va à la fenêtre.)**
-
-Je suis un bon roi. Je vais faire de la France un pays prospère et juste.
-
-* * *
-
-$**Le rideau tombe.**
-
-
+* FIN *

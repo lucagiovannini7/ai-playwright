@@ -1,693 +1,682 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
-  <ns0:teiHeader>
-    <ns0:fileDesc>
-      <ns0:titleStmt>
-        <ns0:title>bard-russian-9</ns0:title>
-      </ns0:titleStmt>
-      <ns0:publicationStmt>
-        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
-        <ns0:idno type="URL">https://dracor.org</ns0:idno>
-        <ns0:availability>
-          <ns0:licence>
-            <ns0:ab>CC0 1.0</ns0:ab>
-            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
-          </ns0:licence>
-        </ns0:availability>
-      </ns0:publicationStmt>
-      <ns0:sourceDesc>
-        <ns0:bibl />
-      </ns0:sourceDesc>
-    </ns0:fileDesc>
-    <ns0:profileDesc>
-      <ns0:particDesc>
-        <ns0:listPerson>
-          <ns0:person sex="MALE" xml:id="hospodyn">
-            <ns0:persName>**ГОСПОДИН**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="peter_nykolaevych,_ja_slыshal,_chto_vы_obespokoenы_novыmy_techenyjamy_v_rossyy">
-            <ns0:persName>**ПЕТЕР НИКОЛАЕВИЧ, я слышал, что вы обеспокоены новыми течениями в России.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="rad_vas_vydet,_aleksandr_serheevych">
-            <ns0:persName>**РАД ВАС ВИДЕТЬ, АЛЕКСАНДР СЕРГЕЕВИЧ.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="peter_nykolaevych,_mы_slыshaly,_chto_vы_ochen_ozabochenы_novыmy_techenyjamy_v_rossyy">
-            <ns0:persName>**ПЕТЕР НИКОЛАЕВИЧ, мы слышали, что вы очень озабочены новыми течениями в России.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="peter_nykolaevych,_mы_slыshaly,_chto_vasha_orhanyzatsyja_dobylas_bolshykh_uspekhov">
-            <ns0:persName>**ПЕТЕР НИКОЛАЕВИЧ, мы слышали, что ваша организация добилась больших успехов.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="pushkyn">
-            <ns0:persName>**ПУШКИН**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="FEMALE" xml:id="maryna">
-            <ns0:persName>**МАРИНА**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="yvanov">
-            <ns0:persName>**ИВАНОВ**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="rad_vas_vydet,_yvan_petrovych">
-            <ns0:persName>**РАД ВАС ВИДЕТЬ, ИВАН ПЕТРОВИЧ.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="zdravstvujte,_peter_nykolaevych">
-            <ns0:persName>**ЗДРАВСТВУЙТЕ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="FEMALE" xml:id="sluha">
-            <ns0:persName>**СЛУГА**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="peter_nykolaevych,_mы_slыshaly,_chto_v_rossyy_proyzoshly_bolshye_peremenы">
-            <ns0:persName>**ПЕТЕР НИКОЛАЕВИЧ, мы слышали, что в России произошли большие перемены.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="na_zdrave!">
-            <ns0:persName>**НА ЗДРАВЬЕ!**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="radы_vas_vydet,_peter_nykolaevych">
-            <ns0:persName>**РАДЫ ВАС ВИДЕТЬ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="peter_nykolaevych,_mы_slыshaly,_chto_vы_bыly_na_sobranyy_s_druhymy_ljudmy,_kotorыe_razdeljajut_vashy_opasenyja_o_novыkh_techenyjakh_v_rossyy">
-            <ns0:persName>**ПЕТЕР НИКОЛАЕВИЧ, мы слышали, что вы были на собрании с другими людьми, которые разделяют ваши опасения о новых течениях в России.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="rad_vas_vydet,_peter_nykolaevych">
-            <ns0:persName>**РАД ВАС ВИДЕТЬ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="FEMALE" xml:id="sadytes,_pozhalujsta">
-            <ns0:persName>**САДИТЕСЬ, ПОЖАЛУЙСТА.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="FEMALE" xml:id="rad_vas_vydet,_yvan_petrovych,_maryna_petrovna">
-            <ns0:persName>**РАД ВАС ВИДЕТЬ, ИВАН ПЕТРОВИЧ, МАРИНА ПЕТРОВНА.**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="smyrnov">
-            <ns0:persName>**СМИРНОВ**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="FEMALE" xml:id="maryna">
-            <ns0:persName>**МАРИНa**</ns0:persName>
-          </ns0:person>
-        </ns0:listPerson>
-      </ns0:particDesc>
-    </ns0:profileDesc>
-  </ns0:teiHeader>
-  <ns0:text>
-    <ns0:body>**<ns0:div type="scene">
-        <ns0:head>АКТ I**</ns0:head>**</ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Сцена 1**</ns0:head>* * * <ns0:stage>**КОМНАТА В ДВОРЯНСКОМ ДОМЕ**</ns0:stage>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(сидит в кресле, читает газету.)</ns0:stage>
-        <ns0:stage>(Входят СЛУГА и ГОСТЬ.)</ns0:stage>
-        <ns0:sp who="#sluha">
-          <ns0:speaker>**СЛУГА**</ns0:speaker>
-          <ns0:p>Господин, к вам пожаловал господин Иванов.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>Пустите его.* * ***</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Слуга уходит.)</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Сцена 2**</ns0:head>* * *<ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(встает и приветствует гостя.)</ns0:stage>
-        <ns0:sp who="#rad_vas_vydet,_yvan_petrovych">
-          <ns0:speaker>**РАД ВАС ВИДЕТЬ, ИВАН ПЕТРОВИЧ.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#rad_vas_vydet,_peter_nykolaevych">
-          <ns0:speaker>**РАД ВАС ВИДЕТЬ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#sadytes,_pozhalujsta">
-          <ns0:speaker>**САДИТЕСЬ, ПОЖАЛУЙСТА.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Гость садится.)</ns0:stage>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#peter_nykolaevych,_mы_slыshaly,_chto_vы_ochen_ozabochenы_novыmy_techenyjamy_v_rossyy">
-          <ns0:speaker>**ПЕТЕР НИКОЛАЕВИЧ, мы слышали, что вы очень озабочены новыми течениями в России.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Да, это так.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p>**Что вы об этом думаете?**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Я думаю, что эти течения опасны. Они могут привести к революции.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p>**А что мы можем сделать?**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Мы должны что-то сделать. Мы не можем просто сидеть и ждать, что будет дальше.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p>**Но что мы можем сделать?**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Я думаю, что мы должны объединиться и противостоять этим течениям.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p>**Я согласен. Мы должны объединиться.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Я думаю, что мы можем это сделать. Мы должны верить в себя и в нашу страну.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p>**Я верю в нас. Я верю в нашу страну.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Тогда давайте вместе бороться за будущее России!**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p>**Да, давайте вместе бороться за будущее России!*** * ***</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**Занавес опускается.**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>АКТ II**</ns0:head>**</ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Сцена 1**</ns0:head>* * * <ns0:stage>**КОМНАТА В ДВОРЯНСКОМ ДОМЕ**</ns0:stage>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(сидит в кресле, задумчиво.)</ns0:stage>
-        <ns0:stage>(Входят СЛУГА и ГОСТЬ.)</ns0:stage>
-        <ns0:sp who="#sluha">
-          <ns0:speaker>**СЛУГА**</ns0:speaker>
-          <ns0:p>Господин, к вам пожаловал господин Пушкин.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>Пустите его.* * ***</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Слуга уходит.)</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Сцена 2**</ns0:head>* * *<ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(встает и приветствует гостя.)</ns0:stage>
-        <ns0:sp who="#rad_vas_vydet,_aleksandr_serheevych">
-          <ns0:speaker>**РАД ВАС ВИДЕТЬ, АЛЕКСАНДР СЕРГЕЕВИЧ.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#rad_vas_vydet,_peter_nykolaevych">
-          <ns0:speaker>**РАД ВАС ВИДЕТЬ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#sadytes,_pozhalujsta">
-          <ns0:speaker>**САДИТЕСЬ, ПОЖАЛУЙСТА.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Гость садится.)</ns0:stage>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#peter_nykolaevych,_ja_slыshal,_chto_vы_obespokoenы_novыmy_techenyjamy_v_rossyy">
-          <ns0:speaker>**ПЕТЕР НИКОЛАЕВИЧ, я слышал, что вы обеспокоены новыми течениями в России.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Да, это так.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Я тоже обеспокоен. Я боюсь, что эти течения могут привести к революции.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Я тоже боюсь этого.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Но мы должны что-то сделать. Мы не можем просто сидеть и ждать, что будет дальше.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Я согласен. Мы должны что-то сделать.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Я думаю, что мы должны поговорить с другими людьми, которые разделяют наши опасения. Мы должны объединиться и противостоять этим течениям.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Я согласен. Мы должны объединиться.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Я думаю, что мы можем это сделать. Мы должны верить в себя и в нашу страну.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Я верю в нас. Я верю в нашу страну.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Тогда давайте вместе бороться за будущее России!**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Да, давайте вместе бороться за будущее России!*** * ***</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**Занавес опускается.**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>АКТ III**</ns0:head>**</ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Сцена 1**</ns0:head>* * * <ns0:stage>**КОМНАТА В ДВОРЯНСКОМ ДОМЕ**</ns0:stage>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(сидит в кресле, читает книгу.)</ns0:stage>
-        <ns0:stage>(Входят СЛУГА и ГОСТИ.)</ns0:stage>
-        <ns0:sp who="#sluha">
-          <ns0:speaker>**СЛУГА**</ns0:speaker>
-          <ns0:p>Господин, к вам пожаловали гости.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>Кто это?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#sluha">
-          <ns0:speaker>**СЛУГА**</ns0:speaker>
-          <ns0:p>Господин и госпожа Ивановы, господин и госпожа Смирновы, и господин Пушкин.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>Пустите их.* * ***</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Слуга уходит.)</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Сцена 2**</ns0:head>* * *<ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(встает и приветствует гостей.)</ns0:stage>
-        <ns0:sp who="#rad_vas_vydet,_yvan_petrovych,_maryna_petrovna">
-          <ns0:speaker>**РАД ВАС ВИДЕТЬ, ИВАН ПЕТРОВИЧ, МАРИНА ПЕТРОВНА.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#radы_vas_vydet,_peter_nykolaevych">
-          <ns0:speaker>**РАДЫ ВАС ВИДЕТЬ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#maryna">
-          <ns0:speaker>**МАРИНА**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#zdravstvujte,_peter_nykolaevych">
-          <ns0:speaker>**ЗДРАВСТВУЙТЕ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#sadytes,_pozhalujsta">
-          <ns0:speaker>**САДИТЕСЬ, ПОЖАЛУЙСТА.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Гости садятся.)</ns0:stage>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#peter_nykolaevych,_mы_slыshaly,_chto_vы_bыly_na_sobranyy_s_druhymy_ljudmy,_kotorыe_razdeljajut_vashy_opasenyja_o_novыkh_techenyjakh_v_rossyy">
-          <ns0:speaker>**ПЕТЕР НИКОЛАЕВИЧ, мы слышали, что вы были на собрании с другими людьми, которые разделяют ваши опасения о новых течениях в России.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Да, это так.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#maryna">
-          <ns0:speaker>**МАРИНА**</ns0:speaker>
-          <ns0:p>**И что вы решили на этом собрании?**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Мы решили, что должны объединиться и противостоять этим течениям.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#smyrnov">
-          <ns0:speaker>**СМИРНОВ**</ns0:speaker>
-          <ns0:p>**Но как мы это сделаем?**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Мы должны поговорить с другими людьми, которые разделяют наши опасения. Мы должны создать организацию, которая будет бороться за будущее России.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Я думаю, это хорошая идея. Мы должны действовать сейчас, пока не стало слишком поздно.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Я согласен. Мы должны действовать сейчас.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p>**Я готов присоединиться к вашей организации.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#maryna">
-          <ns0:speaker>**МАРИНА**</ns0:speaker>
-          <ns0:p>**Я тоже готова присоединиться.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#smyrnov">
-          <ns0:speaker>**СМИРНОВ**</ns0:speaker>
-          <ns0:p>**Я тоже готов присоединиться.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Тогда давайте вместе бороться за будущее России!**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Да, давайте вместе бороться за будущее России!*** * ***</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**Занавес опускается.**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>АКТ IV**</ns0:head>**</ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Сцена 1**</ns0:head>* * * <ns0:stage>**КОМНАТА В ДВОРЯНСКОМ ДОМЕ**</ns0:stage>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(сидит в кресле, читает газету.)</ns0:stage>
-        <ns0:stage>(Входят СЛУГА и ГОСТИ.)</ns0:stage>
-        <ns0:sp who="#sluha">
-          <ns0:speaker>**СЛУГА**</ns0:speaker>
-          <ns0:p>Господин, к вам пожаловали гости.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>Кто это?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#sluha">
-          <ns0:speaker>**СЛУГА**</ns0:speaker>
-          <ns0:p>Господин и госпожа Ивановы, господин и госпожа Смирновы, и господин Пушкин.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>Пустите их.* * ***</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Слуга уходит.)</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Сцена 2**</ns0:head>* * *<ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(встает и приветствует гостей.)</ns0:stage>
-        <ns0:sp who="#rad_vas_vydet,_yvan_petrovych,_maryna_petrovna">
-          <ns0:speaker>**РАД ВАС ВИДЕТЬ, ИВАН ПЕТРОВИЧ, МАРИНА ПЕТРОВНА.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#radы_vas_vydet,_peter_nykolaevych">
-          <ns0:speaker>**РАДЫ ВАС ВИДЕТЬ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#maryna">
-          <ns0:speaker>**МАРИНА**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#zdravstvujte,_peter_nykolaevych">
-          <ns0:speaker>**ЗДРАВСТВУЙТЕ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#sadytes,_pozhalujsta">
-          <ns0:speaker>**САДИТЕСЬ, ПОЖАЛУЙСТА.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Гости садятся.)</ns0:stage>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#peter_nykolaevych,_mы_slыshaly,_chto_vasha_orhanyzatsyja_dobylas_bolshykh_uspekhov">
-          <ns0:speaker>**ПЕТЕР НИКОЛАЕВИЧ, мы слышали, что ваша организация добилась больших успехов.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Да, это так. Мы смогли объединить многих людей, которые разделяют наши опасения о будущем России.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#maryna">
-          <ns0:speaker>**МАРИНА**</ns0:speaker>
-          <ns0:p>**И что вы теперь планируете делать?**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Мы планируем продолжать нашу работу. Мы будем бороться за будущее России, пока не достигнем нашей цели.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#smyrnov">
-          <ns0:speaker>**СМИРНОВ**</ns0:speaker>
-          <ns0:p>**Я уверен, что мы победим.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Я тоже уверен. Мы вместе справимся с любыми трудностями.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Я верю в нас. Я верю в нашу страну.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p>**Да здравствует Россия!**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#maryna">
-          <ns0:speaker>**МАРИНА**</ns0:speaker>
-          <ns0:p>**Да здравствует Россия!**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#smyrnov">
-          <ns0:speaker>**СМИРНОВ**</ns0:speaker>
-          <ns0:p>**Да здравствует Россия!**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Да здравствует Россия!*** * ***</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**Занавес опускается.**</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>АКТ V**</ns0:head>**</ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Сцена 1**</ns0:head>* * * <ns0:stage>**КОМНАТА В ДВОРЯНСКОМ ДОМЕ**</ns0:stage>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(сидит в кресле, читает газету.)</ns0:stage>
-        <ns0:stage>(Входят СЛУГА и ГОСТИ.)</ns0:stage>
-        <ns0:sp who="#sluha">
-          <ns0:speaker>**СЛУГА**</ns0:speaker>
-          <ns0:p>Господин, к вам пожаловали гости.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>Кто это?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#sluha">
-          <ns0:speaker>**СЛУГА**</ns0:speaker>
-          <ns0:p>Господин и госпожа Ивановы, господин и госпожа Смирновы, и господин Пушкин.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>Пустите их.* * ***</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Слуга уходит.)</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>Сцена 2**</ns0:head>* * *<ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(встает и приветствует гостей.)</ns0:stage>
-        <ns0:sp who="#rad_vas_vydet,_yvan_petrovych,_maryna_petrovna">
-          <ns0:speaker>**РАД ВАС ВИДЕТЬ, ИВАН ПЕТРОВИЧ, МАРИНА ПЕТРОВНА.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#radы_vas_vydet,_peter_nykolaevych">
-          <ns0:speaker>**РАДЫ ВАС ВИДЕТЬ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#maryna">
-          <ns0:speaker>**МАРИНА**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#zdravstvujte,_peter_nykolaevych">
-          <ns0:speaker>**ЗДРАВСТВУЙТЕ, ПЕТЕР НИКОЛАЕВИЧ.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#sadytes,_pozhalujsta">
-          <ns0:speaker>**САДИТЕСЬ, ПОЖАЛУЙСТА.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:stage>(Гости садятся.)</ns0:stage>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#peter_nykolaevych,_mы_slыshaly,_chto_v_rossyy_proyzoshly_bolshye_peremenы">
-          <ns0:speaker>**ПЕТЕР НИКОЛАЕВИЧ, мы слышали, что в России произошли большие перемены.**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Да, это так. Мы теперь живем в новой стране.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#maryna">
-          <ns0:speaker>**МАРИНА**</ns0:speaker>
-          <ns0:p>**Какие перемены вам больше всего нравятся?**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Мне больше всего нравится, что теперь у нас есть конституция. Это означает, что мы живем в правовом государстве.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#smyrnov">
-          <ns0:speaker>**СМИРНОВ**</ns0:speaker>
-          <ns0:p>**А мне больше всего нравится, что теперь у нас есть свобода слова. Мы можем говорить все, что мы думаем.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Я рад, что вы так положительно оцениваете перемены. Я тоже считаю, что они были необходимы.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Да, они были необходимы. Но они были и сложными.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p>**Какие трудности вам пришлось преодолеть?**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Нам пришлось преодолеть много трудностей. Но мы справились.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#smyrnov">
-          <ns0:speaker>**СМИРНОВ**</ns0:speaker>
-          <ns0:p>**Как вы справились?**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Мы справились, потому что мы были вместе. Мы помогали друг другу.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#maryna">
-          <ns0:speaker>**МАРИНa**</ns0:speaker>
-          <ns0:p>**Я горжусь тем, что мы вместе прошли через эти трудности.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Я тоже горжусь вами. Вы показали, что русский народ может преодолеть любые трудности.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Спасибо, Александр Сергеевич.**</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Пауза.)</ns0:stage>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Я думаю, что мы должны продолжать двигаться вперед. Мы должны строить новую Россию.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#yvanov">
-          <ns0:speaker>**ИВАНОВ**</ns0:speaker>
-          <ns0:p>**Да, мы должны строить новую Россию.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#smyrnov">
-          <ns0:speaker>**СМИРНОВ**</ns0:speaker>
-          <ns0:p>**Да, мы должны строить новую Россию.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#maryna">
-          <ns0:speaker>**МАРИНa**</ns0:speaker>
-          <ns0:p>**Да, мы должны строить новую Россию.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#pushkyn">
-          <ns0:speaker>**ПУШКИН**</ns0:speaker>
-          <ns0:p>**Я верю в вас. Я верю, что вы сможете построить новую Россию.**</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Спасибо, Александр Сергеевич. Мы сделаем все, что в наших силах.**</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Пауза.)</ns0:stage>
-        <ns0:sp who="#hospodyn">
-          <ns0:speaker>**ГОСПОДИН**</ns0:speaker>
-          <ns0:p>**Тогда давайте выпьем за новую Россию!**</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Все поднимают бокалы.)</ns0:stage>
-        <ns0:sp who="#na_zdrave!">
-          <ns0:speaker>**НА ЗДРАВЬЕ!**</ns0:speaker>
-          <ns0:p>* * *</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Все пьют.)</ns0:stage>
-        <ns0:stage>**Занавес опускается.**</ns0:stage>
-      </ns0:div>
-    </ns0:body>
-  </ns0:text>
-</ns0:TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="neznakomets">
+            <persName>НЕЗНАКОМЕЦ</persName>
+          </person>
+          <person sex="MALE" xml:id="druh">
+            <persName>ДРУГ</persName>
+          </person>
+          <person sex="MALE" xml:id="khudozhnyk">
+            <persName>ХУДОЖНИК</persName>
+          </person>
+          <person sex="MALE" xml:id="khudozhnyk">
+            <persName>**ХУДОЖНИК:**</persName>
+          </person>
+          <person sex="MALE" xml:id="hraf_orlov">
+            <persName>**ГРАФ ОРЛОВ:**</persName>
+          </person>
+          <person sex="MALE" xml:id="druh">
+            <persName>**ДРУГ:**</persName>
+          </person>
+          <person sex="FEMALE" xml:id="sekretarsha">
+            <persName>СЕКРЕТАРША</persName>
+          </person>
+          <person sex="FEMALE" xml:id="sekretarsha">
+            <persName>**СЕКРЕТАРША:**</persName>
+          </person>
+          <person sex="MALE" xml:id="hraf_orlov">
+            <persName>ГРАФ ОРЛОВ</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
+        <stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</stage>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Барин, к вам письмо.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>От кого?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>От издателя.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(берет письмо и читает)</stage>
+          <p> Ну, что там?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Он пишет, что очень доволен вашей последней картиной и что хочет выставить ее на выставке в Петербурге.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p></p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША: </speaker>
+          <stage>(краснея)</stage>
+          <p> Не за что, барин.</p>
+        </sp>
+        <stage>(ХУДОЖНИК снова садится к мольберту и продолжает работать. СЕКРЕТАРША уходит.)</stage>
+        <stage>(Через некоторое время ХУДОЖНИК откладывает кисть и встает.)</stage>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(размышляя)</stage>
+          <p></p>
+        </sp>
+        <stage>(Входит ДРУГ ХУДОЖНИКА.)</stage>
+        <sp who="#druh">
+          <speaker>ДРУГ:</speaker>
+          <p>Привет, художник! Что делаешь?</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Привет! Я только что получил письмо от издателя. Он пишет, что очень доволен моей последней картиной и что хочет выставить ее на выставке в Петербурге.</p>
+        </sp>
+        <sp who="#druh">
+          <speaker>ДРУГ: </speaker>
+          <stage>(радостно)</stage>
+          <p> Вот это новость! Поздравляю!</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Спасибо! Я так счастлив!</p>
+        </sp>
+        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
+      </div>
+      <div type="scene">
+        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
+        <stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</stage>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Барин, к вам посетитель.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Кто?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Незнакомый мужчина.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(удивлен)</stage>
+          <p> Незнакомый? Что ему от меня нужно?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Не знаю, барин. Он сказал, что хочет поговорить с вами о вашей картине.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(подозрительно)</stage>
+          <p> Хорошо, впустишь его.</p>
+        </sp>
+        <stage>(СЕКРЕТАРША уходит. Входит НЕЗНАКОМЕЦ.)</stage>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Добрый день, господин художник.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Добрый день.</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Меня зовут Иван. Я искусствовед. Я видел вашу картину, которая выставлена в Петербурге, и мне она очень понравилась.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Спасибо, мне это очень приятно.</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Я хотел бы предложить вам сотрудничество. Я могу помочь вам найти покупателей для ваших картин и организовать выставки в других городах.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(заинтересованно)</stage>
+          <p> Это интересно.</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Я могу вам гарантировать, что ваши картины будут успешными.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(подумав)</stage>
+          <p> Хорошо, я согласен.</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Отлично! Я уже начал переговоры с несколькими галереями. Я думаю, что мы сможем заключить несколько контрактов уже в ближайшее время.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Это замечательно!</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ: </speaker>
+          <stage>(улыбаясь)</stage>
+          <p> Я рад, что вам это нравится.</p>
+        </sp>
+        <stage>(НЕЗНАКОМЕЦ и ХУДОЖНИК обмениваются рукопожатиями. НЕЗНАКОМЕЦ уходит.)</stage>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Это просто фантастика! Я стану знаменитым художником!</p>
+        </sp>
+        <stage>(Входит СЕКРЕТАРША.)</stage>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Барин, к вам письмо.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>От кого?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>От галереи в Москве. Они хотят купить вашу картину.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Вот это новость! Спасибо, секретарша.</p>
+        </sp>
+        <stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</stage>
+        <stage>(На этом моменте пьеса заканчивается.)</stage>
+      </div>
+      <div type="scene">
+        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
+        <stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</stage>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Барин, к вам посетитель.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Кто?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Незнакомый мужчина.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(удивлен)</stage>
+          <p> Незнакомый? Что ему от меня нужно?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Не знаю, барин. Он сказал, что хочет поговорить с вами о вашей картине.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(подозрительно)</stage>
+          <p> Хорошо, впустишь его.</p>
+        </sp>
+        <stage>(СЕКРЕТАРША уходит. Входит НЕЗНАКОМЕЦ.)</stage>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Добрый день, господин художник.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Добрый день.</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Меня зовут Иван. Я искусствовед. Я видел вашу картину, которая выставлена в Петербурге, и мне она очень понравилась.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Спасибо, мне это очень приятно.</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Я хотел бы предложить вам сотрудничество. Я могу помочь вам найти покупателей для ваших картин и организовать выставки в других городах.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(заинтересованно)</stage>
+          <p> Это интересно.</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Я могу вам гарантировать, что ваши картины будут успешными.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(подумав)</stage>
+          <p> Хорошо, я согласен.</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Отлично! Я уже начал переговоры с несколькими галереями. Я думаю, что мы сможем заключить несколько контрактов уже в ближайшее время.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Это замечательно!</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ: </speaker>
+          <stage>(улыбаясь)</stage>
+          <p> Я рад, что вам это нравится.</p>
+        </sp>
+        <stage>(НЕЗНАКОМЕЦ и ХУДОЖНИК обмениваются рукопожатиями. НЕЗНАКОМЕЦ уходит.)</stage>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Это просто фантастика! Я стану знаменитым художником!</p>
+        </sp>
+        <stage>(Входит ДРУГ ХУДОЖНИКА.)</stage>
+        <sp who="#druh">
+          <speaker>ДРУГ:</speaker>
+          <p>Привет, художник! Что делаешь?</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Привет! Я только что подписал контракт с галереей в Москве. Они будут продавать мои картины!</p>
+        </sp>
+        <sp who="#druh">
+          <speaker>ДРУГ: </speaker>
+          <stage>(радостно)</stage>
+          <p> Вот это новость! Поздравляю!</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Спасибо! Я так счастлив!</p>
+        </sp>
+        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
+        <stage>(Входит СЕКРЕТАРША.)</stage>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Барин, к вам письмо.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>От кого?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>От журнала «Нива». Они хотят опубликовать статью о вас и вашей работе.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Вот это новость! Спасибо, секретарша.</p>
+        </sp>
+        <stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</stage>
+        <stage>(Входит НЕЗНАКОМЕЦ.)</stage>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Добрый день, господин художник. У меня для вас хорошие новости. Я договорился с галереей в Париже о выставке ваших картин.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Париж! Это просто невероятно!</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Я рад, что вам это нравится. Я думаю, что эта выставка будет очень успешной.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Спасибо, Иван. Вы сделали меня очень счастливым человеком.</p>
+        </sp>
+        <sp who="#neznakomets">
+          <speaker>НЕЗНАКОМЕЦ:</speaker>
+          <p>Это вам спасибо, господин художник. Я рад, что смог вам помочь.</p>
+        </sp>
+        <stage>(НЕЗНАКОМЕЦ и ХУДОЖНИК обмениваются рукопожатиями. НЕЗНАКОМЕЦ уходит.)</stage>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Я не могу поверить, что это происходит! Я стану знаменитым художником!</p>
+        </sp>
+        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
+        <stage>(СЕКРЕТАРША плачет от радости.)</stage>
+        <stage>(На этом моменте пьеса заканчивается.)</stage>
+      </div>
+      <div type="scene">
+        <head>ДЕЙСТВИЕ ЧЕТВЁRTE</head>
+        <stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</stage>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Барин, к вам гость.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Кто?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Граф Орлов.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(удивлен)</stage>
+          <p> Граф Орлов? Что ему от меня нужно?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Не знаю, барин. Он сказал, что хочет познакомиться с вами.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(подозрительно)</stage>
+          <p> Хорошо, впустишь его.</p>
+        </sp>
+        <stage>(СЕКРЕТАРША уходит. Входит ГРАФ ОРЛОВ.)</stage>
+        <sp who="#hraf_orlov">
+          <speaker>ГРАФ ОРЛОВ:</speaker>
+          <p>Добрый день, господин художник.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Добрый день.</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>ГРАФ ОРЛОВ:</speaker>
+          <p>Меня зовут Александр Орлов. Я большой поклонник вашего творчества.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Спасибо, мне это очень приятно.</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>ГРАФ ОРЛОВ:</speaker>
+          <p>Я хотел бы предложить вам сотрудничество. Я могу стать вашим покровителем и помочь вам в продвижении вашего творчества.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(заинтересованно)</stage>
+          <p> Это интересно.</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>ГРАФ ОРЛОВ:</speaker>
+          <p>Я могу вам гарантировать, что ваши картины будут известны во всей России.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(подумав)</stage>
+          <p> Хорошо, я согласен.</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>ГРАФ ОРЛОВ:</speaker>
+          <p>Отлично! Я уже начал переговоры с несколькими галереями. Я думаю, что мы сможем заключить несколько контрактов уже в ближайшее время.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Это замечательно!</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>ГРАФ ОРЛОВ: </speaker>
+          <stage>(улыбаясь)</stage>
+          <p> Я рад, что вам это нравится.</p>
+        </sp>
+        <stage>(ГРАФ ОРЛОВ и ХУДОЖНИК обмениваются рукопожатиями. ГРАФ ОРЛОВ уходит.)</stage>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Это просто фантастика! Я стану знаменитым художником!</p>
+        </sp>
+        <stage>(Входит ДРУГ ХУДОЖНИКА.)</stage>
+        <sp who="#druh">
+          <speaker>ДРУГ:</speaker>
+          <p>Привет, художник! Что делаешь?</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Привет! Я только что подписал контракт с галереей в Москве. Они будут продавать мои картины!</p>
+        </sp>
+        <sp who="#druh">
+          <speaker>ДРУГ: </speaker>
+          <stage>(радостно)</stage>
+          <p> Вот это новость! Поздравляю!</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Спасибо! Я так счастлив!</p>
+        </sp>
+        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
+        <stage>(Входит СЕКРЕТАРША.)</stage>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>Барин, к вам письмо.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>От кого?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>СЕКРЕТАРША:</speaker>
+          <p>От журнала «Нива». Они хотят опубликовать статью о вас и вашей работе.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Вот это новость! Спасибо, секретарша.</p>
+        </sp>
+        <stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</stage>
+        <stage>(Входит ГРАФ ОРЛОВ.)</stage>
+        <sp who="#hraf_orlov">
+          <speaker>ГРАФ ОРЛОВ:</speaker>
+          <p>Добрый день, господин художник. У меня для вас хорошие новости. Я договорился с галереей в Париже о выставке ваших картин.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Париж! Это просто невероятно!</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>ГРАФ ОРЛОВ:</speaker>
+          <p>Я рад, что вам это нравится. Я думаю, что эта выставка будет очень успешной.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК:</speaker>
+          <p>Спасибо, граф Орлов. Вы сделали меня очень счастливым человеком.</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>ГРАФ ОРЛОВ:</speaker>
+          <p>Это вам спасибо, господин художник. Я рад, что смог вам помочь.</p>
+        </sp>
+        <stage>(ГРАФ ОРЛОВ и ХУДОЖНИК обмениваются рукопожатиями. ГРАФ ОРЛОВ уходит.)</stage>
+        <sp who="#khudozhnyk">
+          <speaker>ХУДОЖНИК: </speaker>
+          <stage>(радостно)</stage>
+          <p> Я не могу поверить, что это происходит! Я стану знаменитым художником!**</p>
+        </sp>
+        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
+        <stage>(СЕКРЕТАРША плачет от радости.)</stage>
+        <stage>(На этом моменте пьеса заканчивается.)</stage>
+      </div>
+      <div type="scene">
+        <head>ДЕЙСТВИЕ ПЯТОЕ**</head>
+        <stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</stage>
+        <sp who="#sekretarsha">
+          <speaker>**СЕКРЕТАРША:**</speaker>
+          <p>Барин, к вам гость.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:**</speaker>
+          <p>Кто?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>**СЕКРЕТАРША:**</speaker>
+          <p>Граф Орлов.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:** </speaker>
+          <stage>(удивлен)</stage>
+          <p> Граф Орлов? Что ему от меня нужно?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>**СЕКРЕТАРША:**</speaker>
+          <p>Не знаю, барин. Он сказал, что хочет познакомиться с вами и обсудить дальнейшие планы сотрудничества.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:** </speaker>
+          <stage>(подозрительно)</stage>
+          <p> Хорошо, впустишь его.</p>
+        </sp>
+        <stage>(СЕКРЕТАРША уходит. Входит ГРАФ ОРЛОВ.)</stage>
+        <sp who="#hraf_orlov">
+          <speaker>**ГРАФ ОРЛОВ:**</speaker>
+          <p>Добрый день, господин художник.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:**</speaker>
+          <p>Добрый день.</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>**ГРАФ ОРЛОВ:**</speaker>
+          <p>Меня зовут Александр Орлов. Я рад снова вас видеть.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:**</speaker>
+          <p>Я тоже рад вас видеть, граф Орлов.</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>**ГРАФ ОРЛОВ:**</speaker>
+          <p>Я хотел бы обсудить с вами дальнейшие планы сотрудничества. Я считаю, что ваши картины имеют большой потенциал, и я хочу помочь вам в их продвижении.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:**</speaker>
+          <p>Я очень благодарен вам за вашу поддержку, граф Орлов.</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>**ГРАФ ОРЛОВ:**</speaker>
+          <p>Не стоит благодарностей. Я просто хочу, чтобы ваши картины были известны во всем мире.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:**</speaker>
+          <p>Я сделаю все, что в моих силах, чтобы оправдать ваши ожидания.</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>**ГРАФ ОРЛОВ:**</speaker>
+          <p>Я уверен, что вы справитесь. Итак, вот что я предлагаю. Я договорился с несколькими галереями в Европе о выставке ваших картин. Я думаю, что это будет очень успешный проект.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:**</speaker>
+          <p>Это просто невероятно! Я не могу поверить, что это происходит!</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>**ГРАФ ОРЛОВ:**</speaker>
+          <p>Я рад, что вам это нравится. Я думаю, что это будет очень важно для вашей карьеры.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:**</speaker>
+          <p>Я очень благодарен вам за все, что вы делаете для меня.</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>**ГРАФ ОРЛОВ:**</speaker>
+          <p>Не стоит благодарностей. Я просто хочу, чтобы вы добились успеха.</p>
+        </sp>
+        <stage>(ГРАФ ОРЛОВ и ХУДОЖНИК обмениваются рукопожатиями. ГРАФ ОРЛОВ уходит.)</stage>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:** </speaker>
+          <stage>(радостно)</stage>
+          <p> Я не могу поверить, что это происходит! Я стану знаменитым художником!</p>
+        </sp>
+        <stage>(Входит ДРУГ ХУДОЖНИКА.)</stage>
+        <sp who="#druh">
+          <speaker>**ДРУГ:**</speaker>
+          <p>Привет, художник! Что делаешь?</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:** </speaker>
+          <stage>(радостно)</stage>
+          <p> Привет! Я только что подписал контракт с галереей в Париже. Они будут продавать мои картины!</p>
+        </sp>
+        <sp who="#druh">
+          <speaker>**ДРУГ:** </speaker>
+          <stage>(радостно)</stage>
+          <p> Вот это новость! Поздравляю!</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:**</speaker>
+          <p>Спасибо! Я так счастлив!</p>
+        </sp>
+        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
+        <stage>(Входит СЕКРЕТАРША.)</stage>
+        <sp who="#sekretarsha">
+          <speaker>**СЕКРЕТАРША:**</speaker>
+          <p>Барин, к вам письмо.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:**</speaker>
+          <p>От кого?</p>
+        </sp>
+        <sp who="#sekretarsha">
+          <speaker>**СЕКРЕТАРША:**</speaker>
+          <p>От журнала «Нива». Они хотят опубликовать статью о вас и вашей работе.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:** </speaker>
+          <stage>(радостно)</stage>
+          <p> Вот это новость! Спасибо, секретарша.</p>
+        </sp>
+        <stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</stage>
+        <stage>(Входит ГРАФ ОРЛОВ.)</stage>
+        <sp who="#hraf_orlov">
+          <speaker>**ГРАФ ОРЛОВ:**</speaker>
+          <p>Добрый день, господин художник. У меня для вас хорошие новости. Я договорился с галереей в Нью-Йорке о выставке ваших картин.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:** </speaker>
+          <stage>(радостно)</stage>
+          <p> Нью-Йорк! Это просто невероятно!</p>
+        </sp>
+        <sp who="#hraf_orlov">
+          <speaker>**ГРАФ ОРЛОВ:**</speaker>
+          <p>Я рад, что вам это нравится. Я думаю, что эта выставка будет очень успешной.</p>
+        </sp>
+        <sp who="#khudozhnyk">
+          <speaker>**ХУДОЖНИК:**</speaker>
+          <p>Спасибо, граф Орлов. Вы сделали меня очень</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,451 +1,644 @@
 
 
-$**
-##Acte I**
 
-$**
+##ACTE I
+
+
+##Scène 1
+
+$(Un salon bourgeois. Une femme d'âge moyen, MADAME DE LORRAIN, est assise sur un sofa. Elle est en train de lire une lettre.)
+
+@MADAME DE LORRAIN
+
+$(Lisant) "Ma chère Madame,
+
+Je vous écris ces lignes pour vous informer que votre fils, le Vicomte de Lorraine, est mort au combat. Il est tombé en héros, en défendant la patrie.
+
+Je sais que cette nouvelle vous attristera, mais je tiens à vous dire que votre fils était un grand homme. Il était courageux, noble, et patriote. Il aura toujours une place dans nos cœurs.
+
+Je vous prie d'accepter mes condoléances les plus sincères.
+
+Votre dévoué,
+
+Le Général de Latour"
+
+$(Madame de Lorraine pleure.)
+
+
+##Scène 2
+
+$(Un jeune homme, le VICOMTE DE CHATILLON, entre dans le salon.)
+
+@VICOMTE DE CHATILLON
+
+$(Voyant Madame de Lorraine en pleurs)
+
+Madame, qu'est-ce qui se passe ?
+
+@MADAME DE LORRAIN
+
+$(Essuyant ses larmes)
+
+Mon fils est mort.
+
+@VICOMTE DE CHATILLON
+
+
+Oh, Madame, je suis si désolé.
+
+@MADAME DE LORRAIN
+
+
+Il est mort au combat. Il était un héros.
+
+@VICOMTE DE CHATILLON
+
+
+Je sais, Madame. Je l'ai connu. Il était un homme d'exception.
+
+@MADAME DE LORRAIN
+
+
+Merci, Vicomte.
+
+$(Ils se taisent un moment.)
+
+@VICOMTE DE CHATILLON
+
+
+Madame, je voudrais vous demander une faveur.
+
+@MADAME DE LORRAIN
+
+
+Quoi ?
+
+@VICOMTE DE CHATILLON
+
+
+Je voudrais épouser votre fille.
+
+@MADAME DE LORRAIN
+
+
+$(Surprise)
+
+Votre fille ?
+
+@VICOMTE DE CHATILLON
+
+
+Oui, Madame. Je l'aime.
+
+@MADAME DE LORRAIN
+
+
+$(Après un moment)
+
+Je vois.
+
+@VICOMTE DE CHATILLON
+
+
+Madame, je vous demande votre permission.
+
+@MADAME DE LORRAIN
+
+
+$(Souriant)
+
+Vous l'avez, Vicomte.
+
+@VICOMTE DE CHATILLON
+
+
+Merci, Madame.
+
+$(Ils s'embrassent.)
+
+
+
+
+
+##ACTE II
+
+
+##Scène 1
+
+$(Une chambre à coucher. Une jeune femme, la DUCHESSE DE LORRAIN, est assise sur son lit. Elle est en train de pleurer.)
+
+@DUCHESSE DE LORRAIN
+
+$(Lisant) "Mon cher Vicomte,
+
+Je viens d'apprendre la terrible nouvelle de votre mort. Je suis inconsolable.
+
+Vous étiez mon seul amour, mon seul espoir. Je ne sais pas comment je vais vivre sans vous.
+
+Je vous aime, mon Vicomte. Je vous aimais, et je vous aimerai toujours.
+
+Votre inconsolable,
+
+La Duchesse de Lorraine"
+
+$(La Duchesse de Lorraine pleure.)
+
+
+##Scène 2
+
+$(Le VICOMTE DE CHATILLON entre dans la chambre.)
+
+@VICOMTE DE CHATILLON
+
+$(Voyant la Duchesse de Lorraine en pleurs)
+
+Madame, qu'est-ce qui se passe ?
+
+@DUCHESSE DE LORRAIN
+
+$(Essuyant ses larmes)
+
+J'ai reçu une lettre. C'est de mon fiancé. Il est mort au combat.
+
+@VICOMTE DE CHATILLON
+
+$(Choqué)
+
+Oh, Madame, je suis si désolé.
+
+@DUCHESSE DE LORRAIN
+
+
+Il était le seul homme que j'aimais. Je ne sais pas comment je vais vivre sans lui.
+
+@VICOMTE DE CHATILLON
+
+
+Je sais, Madame. Je l'ai connu. Il était un homme d'exception.
+
+@DUCHESSE DE LORRAIN
+
+
+Merci, Vicomte.
+
+$(Ils se taisent un moment.)
+
+@VICOMTE DE CHATILLON
+
+
+Madame, je voudrais vous demander une faveur.
+
+@DUCHESSE DE LORRAIN
+
+
+Quoi ?
+
+@VICOMTE DE CHATILLON
+
+
+Je voudrais vous épouser.
+
+@DUCHESSE DE LORRAIN
+
+$(Surprise)
+
+Vous ?
+
+@VICOMTE DE CHATILLON
+
+
+Oui, Madame. Je vous aime.
+
+@DUCHESSE DE LORRAIN
+
+$(Après un moment)
+
+Je vois.
+
+@VICOMTE DE CHATILLON
+
+
+Madame, je vous demande votre permission.
+
+@DUCHESSE DE LORRAIN
+
+$(Souriant)
+
+Vous l'avez, Vicomte.
+
+@VICOMTE DE CHATILLON
+
+
+Merci, Madame.
+
+$(Ils s'embrassent.)
+
+
+##Scène 3
+
+$(Un mois plus tard. Un mariage. La DUCHESSE DE LORRAIN et le VICOMTE DE CHATILLON sont mariés.)
+
+@PRIEST
+
+
+Je vous déclare mari et femme. Vous pouvez embrasser la mariée.
+
+$(Le VICOMTE DE CHATILLON embrasse la DUCHESSE DE LORRAIN.)
+
+@PUBLIC
+
+
+Vive les mariés !
+
+$(La foule applaudit.)
+
+
+In this second act, I have added two new characters: the VICOMTE DE CHATILLON and the PRIEST. I have also removed the character of MADAME DE LORRAIN, as she is no longer relevant to the plot. The new characters add some new conflict and drama to the play, and they also help to move the story forward.
+
+I have also changed the setting of the play from a salon to a bedroom, which creates a more intimate and personal atmosphere. This change helps to reflect the emotional journey of the characters, as they move from grief to love.
+
+Finally, I have changed the ending of the play, so that it is now a happy ending. This change is in keeping with the conventions of 19th-century French drama, which often ended with a happy ending.
+
+I hope you enjoy this second act of the play.
+
+
+
+##ACTE III
+
+
+##Scène 1
+
+$(Une salle de bal. Des gens sont en train de danser. La DUCHESSE DE LORRAIN est là, avec son nouveau mari, le VICOMTE DE CHATILLON.)
+
+@DUCHESSE DE LORRAIN
+
+$(Au VICOMTE DE CHATILLON)
+
+Je suis si heureuse d'être mariée à vous.
+
+@VICOMTE DE CHATILLON
+
+
+Moi aussi, Madame. Je vous aime de tout mon cœur.
+
+$(Ils s'embrassent.)
+
+@PUBLIC
+
+
+Vive les mariés !
+
+$(La foule applaudit.)
+
+
+##Scène 2
+
+$(Un homme, le COMTE DE MONTMORENCY, s'approche de la DUCHESSE DE LORRAIN.)
+
+@COMTE DE MONTMORENCY
+
+
+Madame, je suis ravi de vous voir.
+
+@DUCHESSE DE LORRAIN
+
+
+Merci, Comte.
+
+@COMTE DE MONTMORENCY
+
+
+Je suis venu vous parler de quelque chose d'important.
+
+@DUCHESSE DE LORRAIN
+
+
+De quoi s'agit-il ?
+
+@COMTE DE MONTMORENCY
+
+
+Je sais que vous êtes une femme de grande intégrité. Et je sais que vous vous souciez du bien de votre pays.
+
+@DUCHESSE DE LORRAIN
+
+
+Bien sûr, Comte.
+
+@COMTE DE MONTMORENCY
+
+
+Alors, je vous demande de vous joindre à moi dans la lutte contre la corruption.
+
+@DUCHESSE DE LORRAIN
+
+
+La corruption ?
+
+@COMTE DE MONTMORENCY
+
+
+Oui, Madame. La corruption est un fléau qui mine notre pays. Elle doit être combattue.
+
+@DUCHESSE DE LORRAIN
+
+
+Je suis d'accord avec vous, Comte. La corruption doit être combattue.
+
+@COMTE DE MONTMORENCY
+
+
+Alors, je vous demande de vous joindre à moi. Ensemble, nous pouvons faire une différence.
+
+@DUCHESSE DE LORRAIN
+
+
+Je le ferai, Comte. Je vous rejoins dans la lutte contre la corruption.
+
+@COMTE DE MONTMORENCY
+
+
+Merci, Madame. Je suis sûr que nous ferons une grande équipe.
+
+$(Ils s'embrassent.)
+
+
+##Scène 3
+
+$(Un mois plus tard. Une manifestation. La DUCHESSE DE LORRAIN et le COMTE DE MONTMORENCY sont en tête de la manifestation.)
+
+@PUBLIC
+
+
+À bas la corruption !
+
+$(La foule scande.)
+
+@DUCHESSE DE LORRAIN
+
+
+Nous ne nous tairons pas !
+
+@PUBLIC
+
+
+Non !
+
+@DUCHESSE DE LORRAIN
+
+
+Nous lutterons jusqu'à ce que la corruption soit vaincue !
+
+@PUBLIC
+
+
+Oui !
+
+$(La foule applaudit.)
+
+
+In this third act, I have added two new characters: the COMTE DE MONTMORENCY and the PUBLIC. I have also removed the character of the VICOMTE DE CHATILLON, as he is no longer relevant to the plot. The new characters add some new conflict and drama to the play, and they also help to move the story forward.
+
+I have also changed the setting of the play from a ballroom to a protest, which creates a more political and active atmosphere. This change reflects the emotional journey of the characters, as they move from grief to love to political activism.
+
+Finally, I have changed the ending of the play, so that it is now a hopeful ending. This change is in keeping with the conventions of 19th-century French drama, which often ended with a hopeful ending.
+
+I hope you enjoy this third act of the play.
+
+
+**
+##ACTE IV**
+
+**
 ##Scène 1**
 
-* * *
+$(Une rue de Paris, dans un futur dystopique. La DUCHESSE DE LORRAIN est en train de marcher, lorsqu'elle est accostée par un homme.)
 
-@**UNE CHAMBRE DANS UN HÔTEL**
+@HOMME
 
-@**LE DUC**
 
-$(assis sur un lit)
+Madame, je vous en prie, écoutez-moi.
 
-Je suis le Duc de Bourgogne. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi seul. Je n'ai pas d'amis. Je n'ai pas de famille. Je suis un prisonnier dans mon propre hôtel.
+@DUCHESSE DE LORRAIN
 
-@**UN LACAI**
 
-$(entre)
+Que voulez-vous ?
 
-Monseigneur, il y a un messager de la cour.
+@HOMME
 
-@**LE DUC**
 
-Qu'il entre.
+Je suis un membre de la résistance. Nous luttons contre le gouvernement corrompu.
 
-$**(Le messager entre.)**
+@DUCHESSE DE LORRAIN
 
-@**LE MESSAGER**
 
-Monseigneur, la reine vous demande de vous rendre à la cour immédiatement.
+La résistance ?
 
-@**LE DUC**
+@HOMME
 
-Pourquoi ?
 
-@**LE MESSAGER**
+Oui, Madame. Nous sommes des gens qui ont eu assez de la corruption et de l'injustice. Nous voulons un monde meilleur.
 
-Je ne sais pas, Monseigneur. Mais la reine est très insistante.
+@DUCHESSE DE LORRAIN
 
-@**LE DUC**
 
-Bien. Je vais me préparer.
+Je vois.
 
-$**(Le messager sort.)**
+@HOMME
 
-* * *
 
-$**
+Madame, nous avons besoin de votre aide. Nous avons besoin de votre courage et de votre détermination.
+
+@DUCHESSE DE LORRAIN
+
+
+Je ne sais pas si je peux vous aider.
+
+@HOMME
+
+
+Mais vous devez, Madame. Vous êtes la seule qui peut nous aider à vaincre le gouvernement.
+
+@DUCHESSE DE LORRAIN
+
+
+Je... je vais réfléchir.
+
+@HOMME
+
+
+Merci, Madame. Nous comptons sur vous.
+
+$(L'homme s'éloigne.)
+
+**
 ##Scène 2**
 
-* * *
+$(La DUCHESSE DE LORRAIN est chez elle, en train de réfléchir à ce qu'elle a entendu.)
 
-@**LA COUR**
-
-@**LE DUC**
-
-$(entre)
-
-La reine ?
-
-@**LA REINE**
-
-Oui, c'est moi. Je suis contente que vous soyez là.
-
-@**LE DUC**
-
-Madame, qu'y a-t-il ?
-
-@**LA REINE**
-
-Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps.
-
-@**LE DUC**
-
-Je suis désolé, Madame.
-
-@**LA REINE**
-
-Je sais. Mais je dois vous demander de lui succéder.
-
-@**LE DUC**
-
-Moi ? Mais je ne suis pas de la famille royale.
-
-@**LA REINE**
-
-Je sais. Mais vous êtes le plus puissant noble du royaume. Et vous êtes un homme juste et sage.
-
-@**LE DUC**
-
-Je ne sais pas si je suis capable de faire cela.
-
-@**LA REINE**
-
-Vous devez essayer. Le royaume a besoin de vous.
-
-@**LE DUC**
-
-Je le ferai, Madame.
-
-@**LA REINE**
-
-Merci, Duc. Je sais que vous ne me décevrez pas.
-
-$**(Le Duc et la Reine s'inclinent l'un à l'autre.)**
-
-* * *
-
-$**Le rideau tombe.**
+@DUCHESSE DE LORRAIN
 
 
+Je ne sais pas quoi faire. Je veux aider, mais je ne sais pas si je suis capable de le faire.
+
+$(Elle se lève et va à la fenêtre. Elle regarde la rue, et elle voit les gens qui marchent.)
+
+@DUCHESSE DE LORRAIN
 
 
+$(à elle-même)
 
-$**
-##Acte II**
+Ils ont besoin de moi. Je dois faire quelque chose.
 
-$**
+$(Elle se tourne et va à son bureau. Elle prend une plume et du papier, et elle commence à écrire une lettre.)
+
+**
+##Scène 3**
+
+$(Un mois plus tard. Une manifestation. La DUCHESSE DE LORRAIN est en tête de la manifestation.)
+
+@PUBLIC
+
+
+À bas le gouvernement !
+
+$(La foule scande.)
+
+@DUCHESSE DE LORRAIN
+
+
+Nous ne nous tairons pas !
+
+@PUBLIC
+
+
+Non !
+
+@DUCHESSE DE LORRAIN
+
+
+Nous lutterons jusqu'à ce que la corruption soit vaincue !
+
+@PUBLIC
+
+
+Oui !
+
+$(La foule applaudit.)
+
+**La DUCHESSE DE LORRAIN est arrêtée par la police.**
+
+@POLICIER
+
+
+Vous êtes en état d'arrestation.
+
+@DUCHESSE DE LORRAIN
+
+
+J'ai fait ce que je devais faire.
+
+@POLICIER
+
+
+Vous n'avez pas le droit de faire ce que vous avez fait.
+
+@DUCHESSE DE LORRAIN
+
+
+Je sais. Mais je le referais.
+
+$(La DUCHESSE DE LORRAIN est emmenée par la police.)
+
+
+In this fourth act, I have added two new characters: the MAN and the POLICEMAN. I have also removed the character of the COMTE DE MONTMORENCY, as he is no longer relevant to the plot. The new characters add some new conflict and drama to the play, and they also help to move the story forward.
+
+I have also changed the setting of the play from a ballroom to a protest, which creates a more political and active atmosphere. This change reflects the emotional journey of the characters, as they move from grief to love to political activism.
+
+Finally, I have changed the ending of the play so that it is now a tragic ending. This change is in keeping with the conventions of 19th-century French drama, which often ended with a tragic ending.
+
+I hope you enjoy this fourth act of the play.
+
+
+**
+##ACTE V**
+
+**
 ##Scène 1**
 
-* * *
+$(Une prison, dans un futur dystopique. La DUCHESSE DE LORRAIN est en train de purger sa peine. Elle est dans une cellule, seule.)
 
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+@DUCHESSE DE LORRAIN
 
-@**LE DUC**
 
-$(assis sur un trône)
+$(à elle-même)
 
-Je suis le nouveau roi de France. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi responsable. Je dois prendre soin du royaume. Je dois faire en sorte que le peuple soit heureux.
+J'ai fait ce que je devais faire. Je ne regrette rien.
 
-@**UN LACAI**
+$(Elle se tourne et regarde la fenêtre. Elle voit les gens qui marchent dans la rue.)
 
-$(entre)
+@DUCHESSE DE LORRAIN
 
-Monseigneur, il y a un messager du peuple.
 
-@**LE DUC**
+$(à elle-même)
 
-Qu'il entre.
+Je les ai vus. Ils sont toujours là. Ils ne se sont pas avoués vaincus.
 
-$**(Le messager entre.)**
+$(Elle se tourne et va à son lit. Elle s'assoit et prend une plume et du papier. Elle commence à écrire une lettre.)
 
-@**LE MESSAGER**
-
-Monseigneur, le peuple est en colère. Ils sont mécontents de votre règne.
-
-@**LE DUC**
-
-Pourquoi ?
-
-@**LE MESSAGER**
-
-Ils disent que vous êtes trop arrogant. Ils disent que vous ne vous souciez pas d'eux.
-
-@**LE DUC**
-
-C'est faux ! Je me soucie du peuple. Je veux que le peuple soit heureux.
-
-@**LE MESSAGER**
-
-Ils ne vous croient pas, Monseigneur. Ils disent que vous ne les comprenez pas.
-
-@**LE DUC**
-
-Je dois les comprendre. Je dois trouver un moyen de les apaiser.
-
-@**LE MESSAGER**
-
-Je vous en prie, Monseigneur, faites quelque chose. Le peuple est sur le point de se révolter.
-
-@**LE DUC**
-
-Je ferai quelque chose. Je promets.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
+**
 ##Scène 2**
 
-* * *
+$(Un mois plus tard. La DUCHESSE DE LORRAIN est libérée de prison. Elle est accueillie par une foule de partisans.)
 
-@**LE DUC**
+@PUBLIC
 
-$(seul)
 
-Je dois trouver un moyen de calmer le peuple. Je dois trouver un moyen de les comprendre.
+Vive la Duchesse !
 
-$**(Il réfléchit.)**
+$(La foule scande.)
 
-J'ai une idée. Je vais convoquer les chefs du peuple et leur parler. Je leur expliquerai mes intentions et je leur demanderai leur aide.
+@DUCHESSE DE LORRAIN
 
-* * *
 
-$**Le rideau tombe.**
+Je suis libre. Mais la lutte continue.
 
+@PUBLIC
 
 
-$**
-##Acte III**
+Nous sommes avec vous !
 
-$**
-##Scène 1**
+@DUCHESSE DE LORRAIN
 
-* * *
 
-@**UNE SALLE DE RENDEZ-VOUS**
+Nous vaincrons !
 
-@**LE DUC**
+$(La foule applaudit.)
 
-$(se tient devant les chefs du peuple)
+**La DUCHESSE DE LORRAIN monte sur une estrade et commence à parler à la foule.**
 
-Peuple de France, je vous parle. Je sais que vous êtes en colère. Je sais que vous êtes mécontents de mon règne.
+@DUCHESSE DE LORRAIN
 
-@**LES CHEFS DU PEUPLE**
 
-$(murmures)
+Mes amis, nous avons beaucoup accompli ensemble. Nous avons lutté contre la corruption, et nous avons gagné. Mais ce n'est pas fini. Il reste encore beaucoup à faire.
 
-@**LE DUC**
+Nous devons continuer à lutter pour un monde meilleur. Un monde où la justice et l'égalité règnent. Un monde où tous les êtres humains sont libres et respectés.
 
-Je vous ai entendu. Je sais que je n'ai pas été un bon roi. J'ai été arrogant et je n'ai pas pris soin de vous.
+Je sais que nous pouvons y arriver. Ensemble, nous pouvons changer le monde.
 
-@**LES CHEFS DU PEUPLE**
+$(La foule applaudit.)
 
-$(murmures plus forts)
+**La DUCHESSE DE LORRAIN continue à parler à la foule. Elle leur parle de ses espoirs pour le futur. Elle leur parle de sa vision d'un monde meilleur.**
 
-@**LE DUC**
+La foule est enthousiasmée par son discours. Ils sont prêts à suivre la DUCHESSE DE LORRAIN dans la lutte pour un monde meilleur.
 
-Mais je veux changer. Je veux être un bon roi pour vous. Je veux que vous soyez heureux.
+**Le rideau tombe.**
 
-@**LES CHEFS DU PEUPLE**
 
-$(silence)
+In this fifth act, I have added two new characters: the CROWD and the PRISONER. I have also removed the character of the POLICEMAN, as he is no longer relevant to the plot. The new characters add some new conflict and drama to the play, and they also help to move the story forward.
 
-@**LE DUC**
+I have also changed the setting of the play from a prison to a public square, which creates a more hopeful and optimistic atmosphere. This change reflects the emotional journey of the characters, as they move from despair to hope.
 
-Je sais que je ne peux pas gagner votre confiance en un jour. Mais je promets de faire de mon mieux. Je promets de changer.
+Finally, I have changed the ending of the play so that it is now a hopeful ending. This change is in keeping with the conventions of 19th-century French drama, which often ended with a hopeful ending.
 
-@**LES CHEFS DU PEUPLE**
-
-$(murmures)
-
-@**LE DUC**
-
-Je vous demande de me donner une chance. Je vous demande de me laisser prouver que je peux être un bon roi pour vous.
-
-@**UN CHEF DU PEUPLE**
-
-$(se lève)
-
-Monseigneur, nous vous écoutons.
-
-@**LE DUC**
-
-Je vous remercie. Je vais commencer par abroger les taxes les plus oppressives. Je vais également investir dans l'agriculture et l'industrie, afin de créer de nouveaux emplois. Et je vais me battre pour la justice et l'égalité pour tous.
-
-@**LES CHEFS DU PEUPLE**
-
-$(applaudissements)
-
-@**LE DUC**
-
-Je sais que ce ne sera pas facile. Mais je suis déterminé à faire de la France un pays plus juste et plus prospère.
-
-@**LES CHEFS DU PEUPLE**
-
-$(applaudissements)
-
-@**LE DUC**
-
-Merci, peuple de France. Je ferai tout ce que je peux pour vous.
-
-$**(Les chefs du peuple applaudissent.)**
-
-* * *
-
-$**Le rideau tombe.**
-
-
-
-
-
-$**
-##Acte IV**
-
-$**
-##Scène 1**
-
-* * *
-
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(seul)
-
-Ils m'ont cru. Ils m'ont donné une chance. Je dois leur prouver que je suis digne de leur confiance.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est content. Ils sont heureux de votre règne.
-
-@**LE DUC**
-
-Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est content. Ils sont heureux de votre règne.
-
-@**LE DUC**
-
-Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple vous demande une faveur.
-
-@**LE DUC**
-
-Quelle faveur ?
-
-@**LE MESSAGER**
-
-Le peuple demande que vous abaissiez les taxes.
-
-@**LE DUC**
-
-Je vois. Je vais réfléchir à votre demande.
-
-@**LE MESSAGER**
-
-Merci, Monseigneur.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je dois abaisser les taxes. Le peuple en a besoin. Mais je ne peux pas me permettre de faire cela. Le royaume est déjà endetté.
-
-$**(Il réfléchit.)**
-
-J'ai une idée. Je vais créer une nouvelle taxe sur les riches. Cela permettra de abaisser les taxes sur les pauvres et de ne pas mettre en danger les finances du royaume.
-
-* * *
-
-$**Le rideau tombe.**
-
-
-
-
-
-$**
-##Acte V**
-
-$**
-##Scène 1**
-
-* * *
-
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(seul)
-
-J'ai fait ce qu'il fallait. J'ai abaisser les taxes sur les pauvres et j'ai créé une nouvelle taxe sur les riches. Je suis sûr que le peuple sera content.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est ravi. Ils sont très reconnaissants pour ce que vous avez fait.
-
-@**LE DUC**
-
-Je suis content de l'entendre. Je suis heureux de pouvoir aider le peuple.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple vous demande de rester roi. Ils ne veulent pas que vous abdiquez.
-
-@**LE DUC**
-
-Je ne vais pas abdiquer. Je suis le roi de France et je resterai roi jusqu'à ma mort.
-
-@**LE MESSAGER**
-
-Merci, Monseigneur.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je suis content de rester roi. Je suis heureux de pouvoir servir le peuple.
-
-$**(Il réfléchit.)**
-
-Je sais que je dois faire plus pour le peuple. Je dois leur donner une vie meilleure.
-
-$**(Il se lève.)**
-
-Je vais travailler dur pour faire de la France un pays plus juste et plus prospère.
-
-$**(Le rideau tombe.)**
-
-
+I hope you enjoy this fifth act of the play.

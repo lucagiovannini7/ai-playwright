@@ -1,469 +1,370 @@
 
 
-$**
-##Acte I**
 
-$**
-##Scène 1**
+##ACTE I
 
-* * *
 
-@**UNE CHAMBRE DANS UN HÔTEL**
+##Scène 1
 
-@**LE DUC**
+$(Un salon bourgeois. Madame DUVAL, une femme d'âge moyen, est assise sur un canapé. Son fils, JULES, entre.)
 
-$(assis sur un lit)
+@MADAME DUVAL : 
+Jules, mon cher, je suis si contente de te voir.
 
-Je suis le Duc de Bourgogne. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi seul. Je n'ai pas d'amis. Je n'ai pas de famille. Je suis un prisonnier dans mon propre hôtel.
+@JULES : 
+Merci, Maman. Je suis content de te revoir aussi.
 
-@**UN LACAI**
+$(Ils s'embrassent.)
 
-$(entre)
+@MADAME DUVAL : 
+Assieds-toi, mon chéri. Je veux te parler.
 
-Monseigneur, il y a un messager de la cour.
+$(Jules s'assied.)
 
-@**LE DUC**
+@MADAME DUVAL : 
+Tu sais, Jules, je suis un peu inquiète pour toi.
 
-Qu'il entre.
+@JULES : 
+Pourquoi, Maman ?
 
-$**(Le messager entre.)**
+@MADAME DUVAL : 
+Tu ne sors plus beaucoup. Tu passes tout ton temps à la maison.
 
-@**LE MESSAGER**
+@JULES : 
+C'est vrai, Maman. Mais je n'ai pas envie de sortir.
 
-Monseigneur, la reine vous demande de vous rendre à la cour immédiatement.
+@MADAME DUVAL : 
+Mais pourquoi pas, mon chéri ? Tu es jeune, tu devrais profiter de la vie.
 
-@**LE DUC**
+@JULES : 
+Je n'ai pas envie de profiter de la vie, Maman. Je suis fatigué.
 
-Pourquoi ?
+@MADAME DUVAL : 
+Fatigué ? De quoi es-tu fatigué ?
 
-@**LE MESSAGER**
+@JULES : 
+Je ne sais pas, Maman. Je suis juste fatigué.
 
-Je ne sais pas, Monseigneur. Mais la reine est très insistante.
+$(Il se tait.)
 
-@**LE DUC**
+@MADAME DUVAL : (soupire)
+ Je vois.
 
-Bien. Je vais me préparer.
+$(Ils se regardent en silence pendant un moment.)
 
-$**(Le messager sort.)**
+@MADAME DUVAL : 
+Jules, je veux que tu saches que je suis là pour toi, si tu as besoin de moi.
 
-* * *
+@JULES : 
+Merci, Maman. Je sais que tu es là pour moi.
 
-$**
-##Scène 2**
+$(Ils s'embrassent à nouveau.)
 
-* * *
 
-@**LA COUR**
+##Scène 2
 
-@**LA REINE**
+$(Jules est seul dans le salon. Il se lève et se promène d'un air agité.)
 
-$(seule)
+@JULES : 
+Je ne peux pas continuer comme ça. Je dois faire quelque chose.
 
-Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps. Je dois trouver un successeur.
+$(Il s'arrête et regarde autour de lui.)
 
-$**(Elle réfléchit.)**
+@JULES : 
+Mais quoi ? Je ne sais pas quoi faire.
 
-Le Duc de Bourgogne est le plus puissant noble du royaume. Il est aussi un homme juste et sage. Il serait un bon roi.
+$(Il se tait et réfléchit.)
 
-$**(Un laquais entre.)**
+@JULES : (se levant d'un coup)
+ J'ai une idée !
 
-@**LE LACAI**
+$(Il sort du salon.)
 
-Monseigneur le Duc est arrivé.
 
-@**LA REINE**
 
-Qu'il entre.
 
-$**(Le Duc entre.)**
 
-@**LE DUC**
 
-Madame la Reine.
 
-@**LA REINE**
+##ACTE II
 
-Duc de Bourgogne, je vous ai fait venir ici pour vous parler d'une affaire importante.
 
-@**LE DUC**
+##Scène 1
 
-Je suis à votre écoute, Madame.
+$(Une taverne. Jules est assis à une table, en train de boire un verre de vin. Une jeune femme, CLOÉ, entre.)
 
-@**LA REINE**
+@CLOÉ : 
+Bonjour, Jules.
 
-Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps. Je dois trouver un successeur.
+@JULES : 
+Bonjour, Cloé.
 
-@**LE DUC**
+@CLOÉ : 
+Qu'est-ce que tu fais ici ?
 
-Je comprends, Madame.
+@JULES : 
+Je me suis dit que je sortirais un peu.
 
-@**LA REINE**
+@CLOÉ : 
+C'est bien. Tu as l'air fatigué.
 
-Je pense que vous seriez un bon roi. Vous êtes puissant, juste et sage.
+@JULES : 
+Je suis un peu.
 
-@**LE DUC**
+@CLOÉ : 
+Tu veux que je te raccompagne chez toi ?
 
-Je suis honoré par votre confiance, Madame. Mais je ne suis pas sûr d'être le bon choix.
+@JULES : 
+Non, ça va. Je vais rentrer seul.
 
-@**LA REINE**
+@CLOÉ : 
+Tu es sûr ?
 
-Je sais que vous êtes humble, Duc. Mais je suis convaincue que vous seriez un bon roi.
+@JULES : 
+Oui, je suis sûr.
 
-@**LE DUC**
+@CLOÉ : 
+D'accord.
 
-Je vais réfléchir à votre proposition, Madame.
+$(Cloé s'en va. Jules la regarde partir, puis il se tourne vers son verre de vin.)
 
-@**LA REINE**
+@JULES : (à lui-même)
+ Je ne sais pas ce que je fais.
 
-Je vous remercie, Duc. Je vous laisse le temps de réfléchir.
 
-@**LE DUC**
+##Scène 2
 
-Je vous en prie, Madame.
+$(La chambre de Jules. Jules est allongé sur son lit, en train de fumer une cigarette. Il est agité.)
 
-$**(Le Duc sort.)**
+@JULES : (à lui-même)
+ Je dois faire quelque chose. Je ne peux pas continuer comme ça.
 
-* * *
+$(Il se lève et se promène d'un air agité.)
 
-$**Le rideau tombe.**
+@JULES : 
+Mais quoi ? Je ne sais pas quoi faire.
 
+$(Il s'arrête et regarde autour de lui.)
 
+@JULES : (désespéré)
+ Je suis perdu.
 
+$(Il se jette sur son lit et se met à pleurer.)
 
 
-$**
-##Acte II**
+##Scène 3
 
-$**
-##Scène 1**
+$(Le lendemain matin. Jules est assis à son bureau, en train d'écrire une lettre.)
 
-* * *
+@JULES : (à lui-même)
+ Chère Maman,
 
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+Je t'écris pour te dire que je suis parti. Je ne sais pas où je vais, mais je ne peux pas rester ici. Je dois faire quelque chose de ma vie.
 
-@**LE DUC**
+Je te remercie pour tout ce que tu as fait pour moi. Je t'aime.
 
-$(seul)
+Ton fils,
+Jules
 
-Je suis le nouveau roi de France. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi responsable. Je dois prendre soin du royaume. Je dois faire en sorte que le peuple soit heureux.
+$(Jules plie la lettre et la met dans une enveloppe. Il l'adresse à sa mère et la met dans sa poche. Il se lève et sort de sa chambre.)
 
-@**UN LACAI**
 
-$(entre)
 
-Monseigneur, il y a un messager du peuple.
+I hope you like this act!
 
-@**LE DUC**
 
-Qu'il entre.
 
-$**(Le messager entre.)**
+##ACTE III
 
-@**LE MESSAGER**
 
-Monseigneur, le peuple est en colère. Ils sont mécontents de votre règne.
+##Scène 1
 
-@**LE DUC**
+$(Une gare. Jules est en train de monter dans un train. Il est accompagné d'un homme, M. DURAND, un vieil ami de sa famille.)
 
-Pourquoi ?
+M. DURAND : Tu es sûr que tu veux faire ça, Jules ?
 
-@**LE MESSAGER**
+@JULES : 
+Oui, je suis sûr. Je dois partir.
 
-Ils disent que vous êtes trop arrogant. Ils disent que vous ne vous souciez pas d'eux.
+M. DURAND : Mais où vas-tu ?
 
-@**LE DUC**
+@JULES : 
+Je ne sais pas. Je vais juste partir.
 
-C'est faux ! Je me soucie du peuple. Je veux que le peuple soit heureux.
+M. DURAND : Tu sais que tu peux toujours compter sur moi, si tu as besoin de quelque chose.
 
-@**LE MESSAGER**
+@JULES : 
+Merci, M. Durand. Je sais que je peux compter sur vous.
 
-Ils ne vous croient pas, Monseigneur. Ils disent que vous ne les comprenez pas.
+$(Jules lui serre la main.)
 
-@**LE DUC**
+@JULES : 
+Au revoir, M. Durand.
 
-Je dois les comprendre. Je dois trouver un moyen de les apaiser.
+M. DURAND : Au revoir, Jules. Et bonne chance.
 
-@**LE MESSAGER**
+$(Jules monte dans le train. Le train part.)
 
-Je vous en prie, Monseigneur, faites quelque chose. Le peuple est sur le point de se révolter.
 
-@**LE DUC**
+##Scène 2
 
-Je ferai quelque chose. Je promets.
+$(Une ville inconnue. Jules est assis sur un banc dans un parc. Il est en train de lire une lettre.)
 
-$**(Le messager sort.)**
+$(La lettre est de sa mère. Elle lui dit qu'elle l'aime et qu'elle est fière de lui. Elle lui souhaite bonne chance dans sa nouvelle vie.)
 
-* * *
+@JULES : (à lui-même)
+ Je ne sais pas ce que l'avenir me réserve, mais je suis prêt à le découvrir.
 
-$**
-##Scène 2**
+$(Il se lève et commence à marcher. Il ne sait pas où il va, mais il sait qu'il est sur la bonne voie.)
 
-* * *
 
-@**LE DUC**
 
-$(seul)
+I hope you like this act!
 
-Je dois trouver un moyen de calmer le peuple. Je dois trouver un moyen de les comprendre.
 
-$**(Il réfléchit.)**
 
-J'ai une idée. Je vais convoquer les chefs du peuple et leur parler. Je leur expliquerai mes intentions et je leur demanderai leur aide.
+##ACTE IV
 
-* * *
 
-$**Le rideau tombe.**
+##Scène 1
 
+$(Une rue de la ville inconnue. Jules est en train de marcher. Il est fatigué et il a faim.)
 
+@JULES : (à lui-même)
+ Je ne sais pas où je suis, mais je dois trouver un endroit pour dormir.
 
+$(Il continue à marcher. Il arrive devant une taverne.)
 
+@JULES : (à lui-même)
+ Je vais essayer ici.
 
-$**
-##Acte III**
+$(Il entre dans la taverne.)
 
-$**
-##Scène 1**
 
-* * *
+##Scène 2
 
-@**UNE SALLE DE RENDEZ-VOUS**
+$(La taverne. Jules est assis à une table, en train de manger une soupe. Une femme, CHLOE, s'approche de lui.)
 
-@**LE DUC**
+@CHLOE : 
+Bonjour, Monsieur.
 
-$(se tient devant les chefs du peuple)
+@JULES : 
+Bonjour, Madame.
 
-Peuple de France, je vous parle. Je sais que vous êtes en colère. Je sais que vous êtes mécontents de mon règne.
+@CHLOE : 
+Vous êtes nouveau ici ?
 
-@**LES CHEFS DU PEUPLE**
+@JULES : 
+Oui, je suis.
 
-$(murmures)
+@CHLOE : 
+Vous êtes perdu ?
 
-@**LE DUC**
+@JULES : 
+Non, je ne suis pas perdu. Je suis juste en voyage.
 
-Je vous ai entendu. Je sais que je n'ai pas été un bon roi. J'ai été arrogant et je n'ai pas pris soin de vous.
+@CHLOE : 
+Ah, je vois.
 
-@**LES CHEFS DU PEUPLE**
+$(Ils se taisent pendant un moment.)
 
-$(murmures plus forts)
+@CHLOE : 
+Vous voulez un verre de vin ?
 
-@**LE DUC**
+@JULES : 
+Oui, merci.
 
-Mais je veux changer. Je veux être un bon roi pour vous. Je veux que vous soyez heureux.
+$(Chloe lui apporte un verre de vin.)
 
-@**LES CHEFS DU PEUPLE**
+@CHLOE : 
+Alors, comment se passe votre voyage ?
 
-$(silence)
+@JULES : 
+Il se passe bien. Je découvre de nouvelles choses.
 
-@**LE DUC**
+@CHLOE : 
+C'est bien.
 
-Je sais que je ne peux pas gagner votre confiance en un jour. Mais je promets de faire de mon mieux. Je promets de changer.
+$(Ils continuent à parler. Ils apprennent à se connaître. Ils s'entendent bien.)
 
-@**LES CHEFS DU PEUPLE**
 
-$(murmures)
+##Scène 3
 
-@**LE DUC**
+$(Le lendemain matin. Jules et Chloe sont dans la chambre de Jules. Ils sont allongés sur le lit, en train de se parler.)
 
-Je vous demande de me donner une chance. Je vous demande de me laisser prouver que je peux être un bon roi pour vous.
+@CHLOE : 
+Je suis contente de t'avoir rencontré, Jules.
 
-@**UN CHEF DU PEUPLE**
+@JULES : 
+Moi aussi, je suis content de t'avoir rencontrée, Chloe.
 
-$(se lève)
+@CHLOE : 
+Je voudrais rester avec toi.
 
-Monseigneur, nous vous écoutons.
+@JULES : 
+Moi aussi, je voudrais que tu restes avec moi.
 
-@**LE DUC**
+$(Ils s'embrassent.)
 
-Je vous remercie. Je vais commencer par abroger les taxes les plus oppressives. Je vais également investir dans l'agriculture et l'industrie, afin de créer de nouveaux emplois. Et je vais me battre pour la justice et l'égalité pour tous.
 
-@**LES CHEFS DU PEUPLE**
 
-$(applaudissements)
+I hope you like this act!
 
-@**LE DUC**
 
-Je sais que ce ne sera pas facile. Mais je suis déterminé à faire de la France un pays plus juste et plus prospère.
 
-@**LES CHEFS DU PEUPLE**
+##ACTE V
 
-$(applaudissements)
 
-@**LE DUC**
+##Scène 1
 
-Merci, peuple de France. Je ferai tout ce que je peux pour vous.
+$(Une rue de la ville inconnue. Jules et Chloe sont en train de marcher. Ils sont heureux ensemble.)
 
-$**(Les chefs du peuple applaudissent.)**
+@JULES : 
+Je suis content d'être ici avec toi, Chloe.
 
-* * *
+@CHLOE : 
+Moi aussi, je suis contente d'être ici avec toi, Jules.
 
-$**Le rideau tombe.**
+@JULES : 
+Je ne sais pas ce que l'avenir nous réserve, mais je suis prêt à l'affronter avec toi.
 
+@CHLOE : 
+Moi aussi, je suis prête à l'affronter avec toi.
 
+$(Ils s'embrassent.)
 
 
+##Scène 2
 
-$**
-##Acte IV**
+$(Un bureau de poste. Jules et Chloe sont en train d'envoyer une lettre à la mère de Jules.)
 
-$**
-##Scène 1**
+@JULES : 
+Chère Maman,
 
-* * *
+Je t'écris pour te dire que je suis bien. Je suis avec Chloe, et nous sommes très heureux ensemble.
 
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+Je sais que tu étais inquiète pour moi, mais je te promets que je vais bien. Je suis sur la bonne voie, et je suis sûr que je vais réussir dans la vie.
 
-@**LE DUC**
+Je t'aime,
+Jules
 
-$(seul)
+$(Jules et Chloe s'embrassent. Ils sortent du bureau de poste.)
 
-Ils m'ont cru. Ils m'ont donné une chance. Je dois leur prouver que je suis digne de leur confiance.
 
-@**UN LACAI**
+##Scène 3
 
-$(entre)
+$(Une gare. Jules et Chloe sont en train de monter dans un train. Ils sont sur le point de partir pour une nouvelle aventure.)
 
-Monseigneur, il y a un messager du peuple.
+@JULES : 
+Je suis excité de voir ce que l'avenir nous réserve.
 
-@**LE DUC**
+@CHLOE : 
+Moi aussi, je suis excitée. Je sais que nous allons faire de grandes choses ensemble.
 
-Qu'il entre.
+$(Ils se tiennent la main. Le train part.)
 
-$**(Le messager entre.)**
 
-@**LE MESSAGER**
 
-Monseigneur, le peuple est content. Ils sont heureux de votre règne.
+The end.
 
-@**LE DUC**
-
-Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est content. Ils sont heureux de votre règne.
-
-@**LE DUC**
-
-Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple vous demande une faveur.
-
-@**LE DUC**
-
-Quelle faveur ?
-
-@**LE MESSAGER**
-
-Le peuple demande que vous abaissiez les taxes.
-
-@**LE DUC**
-
-Je vois. Je vais réfléchir à votre demande.
-
-@**LE MESSAGER**
-
-Merci, Monseigneur.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je dois abaisser les taxes. Le peuple en a besoin. Mais je ne peux pas me permettre de faire cela. Le royaume est déjà endetté.
-
-$**(Il réfléchit.)**
-
-J'ai une idée. Je vais créer une nouvelle taxe sur les riches. Cela permettra de abaisser les taxes sur les pauvres et de ne pas mettre en danger les finances du royaume.
-
-* * *
-
-$**Le rideau tombe.**
-
-
-
-
-
-$**
-##Acte V**
-
-$**
-##Scène 1**
-
-* * *
-
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(seul)
-
-J'ai fait ce qu'il fallait. J'ai abaisser les taxes sur les pauvres et j'ai créé une nouvelle taxe sur les riches. Je suis sûr que le peuple sera content.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est ravi. Ils sont très reconnaissants pour ce que vous avez fait.
-
-@**LE DUC**
-
-Je suis content de l'entendre. Je suis heureux de pouvoir aider le peuple.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple vous demande de rester roi. Ils ne veulent pas que vous abdiquez.
-
-@**LE DUC**
-
-Je ne vais pas abdiquer. Je suis le roi de France et je resterai roi jusqu'à ma mort.
-
-@**LE MESSAGER**
-
-Merci, Monseigneur.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je suis content de rester roi. Je suis heureux de pouvoir servir le peuple.
-
-$**(Il réfléchit.)**
-
-Je sais que je dois faire plus pour le peuple. Je dois leur donner une vie meilleure.
-
-$**(Il se lève.)**
-
-Je vais travailler dur pour faire de la France un pays plus juste et plus prospère.
-
-$**(Le rideau tombe.)**
-
-
+I hope you like this act!

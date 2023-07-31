@@ -1,469 +1,379 @@
 
 
-$**
-##Acte I**
 
-$**
-##Scène 1**
+##ACTE I
 
-* * *
 
-@**UNE CHAMBRE DANS UN HÔTEL**
+##Scène 1
 
-@**LE DUC**
+$(Un salon bourgeois. Une femme, MADAME DE SALLUST, est assise sur un canapé. Une jeune fille, JEANNE, est debout à côté d'elle.)
 
-$(assis sur un lit)
+@MADAME DE SALLUST : 
+Jeanne, ma chère, je suis très contente que tu sois venue me voir aujourd'hui. J'ai quelque chose de très important à te dire.
 
-Je suis le Duc de Bourgogne. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi seul. Je n'ai pas d'amis. Je n'ai pas de famille. Je suis un prisonnier dans mon propre hôtel.
+@JEANNE : 
+Oui, Madame ?
 
-@**UN LACAI**
+@MADAME DE SALLUST : 
+Tu sais que je t'aime comme une fille. Tu es la fille que j'aurais voulu avoir.
 
-$(entre)
+@JEANNE : 
+Merci, Madame. Je vous aime aussi.
 
-Monseigneur, il y a un messager de la cour.
+@MADAME DE SALLUST : 
+Eh bien, Jeanne, je voudrais que tu saches que je t'ai choisie pour épouser mon fils, Charles.
 
-@**LE DUC**
+@JEANNE : (Surprise)
+ Madame ?
 
-Qu'il entre.
+@MADAME DE SALLUST : 
+Oui, Jeanne. Je sais que tu es une jeune fille de bonne famille, et que tu as une belle éducation. Charles est un jeune homme bien, et je suis sûre que vous serez heureux ensemble.
 
-$**(Le messager entre.)**
+@JEANNE : 
+Je... je ne sais pas quoi dire.
 
-@**LE MESSAGER**
+@MADAME DE SALLUST : 
+Il n'y a pas de quoi dire. Je sais que tu es surprise, mais je te demande de réfléchir à ma proposition. Je suis sûre que tu en verras les avantages.
 
-Monseigneur, la reine vous demande de vous rendre à la cour immédiatement.
+@JEANNE : 
+Je vais réfléchir, Madame.
 
-@**LE DUC**
+@MADAME DE SALLUST : 
+Bien. Je te laisse le temps de te faire une opinion.
 
-Pourquoi ?
+$(JEANNE sort.)
 
-@**LE MESSAGER**
+@MADAME DE SALLUST : (Seule)
+ Je suis sûre qu'elle acceptera. Elle est une jeune fille raisonnable, et elle sait que c'est une bonne occasion pour elle.
 
-Je ne sais pas, Monseigneur. Mais la reine est très insistante.
 
-@**LE DUC**
 
-Bien. Je vais me préparer.
 
-$**(Le messager sort.)**
 
-* * *
 
-$**
-##Scène 2**
 
-* * *
+##ACTE II
 
-@**LA COUR**
 
-@**LA REINE**
+##Scène 1
 
-$(seule)
+$(Une chambre à coucher. JEANNE est assise sur son lit, en train de réfléchir.)
 
-Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps. Je dois trouver un successeur.
+@JEANNE : (Seule)
+ Je ne sais pas quoi faire. D'un côté, je suis flattée que Madame de Sallust me veuille pour épouse de son fils. D'un autre côté, je ne sais pas si je suis amoureuse de Charles. Je ne l'ai jamais vu que quelques fois, et je ne le connais pas très bien.
 
-$**(Elle réfléchit.)**
+$(La porte s'ouvre, et CHARLES entre.)
 
-Le Duc de Bourgogne est le plus puissant noble du royaume. Il est aussi un homme juste et sage. Il serait un bon roi.
+@CHARLES : 
+Jeanne, je suis content de te voir. J'ai entendu dire que Madame de Sallust t'a proposé de m'épouser.
 
-$**(Un laquais entre.)**
+@JEANNE : 
+Oui, c'est vrai.
 
-@**LE LACAI**
+@CHARLES : 
+Et qu'est-ce que tu en penses ?
 
-Monseigneur le Duc est arrivé.
+@JEANNE : 
+Je ne sais pas. Je suis flattée, mais je ne sais pas si je suis amoureuse de toi.
 
-@**LA REINE**
+@CHARLES : 
+Je comprends. Tu as besoin de temps pour réfléchir.
 
-Qu'il entre.
+@JEANNE : 
+Oui.
 
-$**(Le Duc entre.)**
+@CHARLES : 
+Je te laisse le temps de te faire une opinion.
 
-@**LE DUC**
+$(CHARLES sort.)
 
-Madame la Reine.
+@JEANNE : (Seule)
+ Je ne sais pas quoi faire. J'aime Charles, mais je ne suis pas sûre si je suis amoureuse de lui. J'ai besoin de temps pour réfléchir.
 
-@**LA REINE**
+$(La porte s'ouvre, et MADAME DE SALLUST entre.)
 
-Duc de Bourgogne, je vous ai fait venir ici pour vous parler d'une affaire importante.
+@MADAME DE SALLUST : 
+Jeanne, j'ai vu Charles. Il m'a dit que tu étais encore indécise.
 
-@**LE DUC**
+@JEANNE : 
+Oui, Madame. Je suis désolée.
 
-Je suis à votre écoute, Madame.
+@MADAME DE SALLUST : 
+Ce n'est pas grave. Je sais que c'est une décision importante.
 
-@**LA REINE**
+@JEANNE : 
+Madame, j'aimerais vous demander quelque chose.
 
-Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps. Je dois trouver un successeur.
+@MADAME DE SALLUST : 
+Oui, Jeanne ?
 
-@**LE DUC**
+@JEANNE : 
+Pourrais-je avoir un peu de temps pour réfléchir ?
 
-Je comprends, Madame.
+@MADAME DE SALLUST : 
+Bien sûr, Jeanne. Tu as tout le temps qu'il te faut.
 
-@**LA REINE**
+@JEANNE : 
+Merci, Madame.
 
-Je pense que vous seriez un bon roi. Vous êtes puissant, juste et sage.
+$(MADAME DE SALLUST sort.)
 
-@**LE DUC**
+@JEANNE : (Seule)
+ Je suis contente que Madame de Sallust me donne du temps. J'ai besoin de réfléchir à ce que je veux faire.
 
-Je suis honoré par votre confiance, Madame. Mais je ne suis pas sûr d'être le bon choix.
 
-@**LA REINE**
+In this act, I have added two new characters, CHARLES and MADAME DE SALLUST. I have also removed the character of JEANNE'S father, who was in the first act. I have also changed the setting of the scene from a salon to a bedroom.
 
-Je sais que vous êtes humble, Duc. Mais je suis convaincue que vous seriez un bon roi.
+The new characters add some conflict and suspense to the play. CHARLES is interested in marrying JEANNE, but she is not sure if she is in love with him. MADAME DE SALLUST is pressuring JEANNE to marry CHARLES, but JEANNE needs time to make up her mind.
 
-@**LE DUC**
+The change in setting from a salon to a bedroom also adds some intimacy to the play. JEANNE is alone in her bedroom, and she is able to think more clearly about her decision.
 
-Je vais réfléchir à votre proposition, Madame.
+I hope you like this second act!
 
-@**LA REINE**
 
-Je vous remercie, Duc. Je vous laisse le temps de réfléchir.
 
-@**LE DUC**
 
-Je vous en prie, Madame.
+##ACTE III
 
-$**(Le Duc sort.)**
 
-* * *
+##Scène 1
 
-$**Le rideau tombe.**
+$(Une rue. JEANNE est assise sur un banc, en train de lire un livre.)
 
+@JEANNE : (Seule)
+ Je suis contente d'avoir eu le temps de réfléchir. Je sais maintenant ce que je veux faire.
 
+$(Une jeune femme, MARIE, s'approche de JEANNE.)
 
+@MARIE : 
+Bonjour, Jeanne.
 
+@JEANNE : 
+Bonjour, Marie.
 
-$**
-##Acte II**
+@MARIE : 
+Qu'est-ce que tu fais là ?
 
-$**
-##Scène 1**
+@JEANNE : 
+Je lis un livre.
 
-* * *
+@MARIE : 
+Oh, ça a l'air intéressant. De quoi ça parle ?
 
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+@JEANNE : 
+C'est une histoire d'amour.
 
-@**LE DUC**
+@MARIE : 
+Ah, l'amour...
 
-$(seul)
+@JEANNE : 
+Oui, l'amour.
 
-Je suis le nouveau roi de France. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi responsable. Je dois prendre soin du royaume. Je dois faire en sorte que le peuple soit heureux.
+@MARIE : 
+Tu as l'air d'être pensive.
 
-@**UN LACAI**
+@JEANNE : 
+Oui, je suis un peu pensive.
 
-$(entre)
+@MARIE : 
+Tu as quelque chose à me dire ?
 
-Monseigneur, il y a un messager du peuple.
+@JEANNE : 
+Oui, Marie. Je voulais te dire que j'ai décidé de ne pas épouser Charles.
 
-@**LE DUC**
+@MARIE : 
+Oh !
 
-Qu'il entre.
+@JEANNE : 
+Je sais que tu vas être déçue, mais je ne suis pas amoureuse de lui.
 
-$**(Le messager entre.)**
+@MARIE : 
+Je comprends.
 
-@**LE MESSAGER**
+@JEANNE : 
+Je suis désolée de te décevoir.
 
-Monseigneur, le peuple est en colère. Ils sont mécontents de votre règne.
+@MARIE : 
+Ce n'est pas grave. Je suis contente que tu aies fait ce que tu penses être le mieux.
 
-@**LE DUC**
+@JEANNE : 
+Merci, Marie.
 
-Pourquoi ?
+$(MARIE s'éloigne.)
 
-@**LE MESSAGER**
+@JEANNE : (Seule)
+ Je suis contente d'avoir été honnête avec Marie. Je sais que je vais lui manquer, mais je dois faire ce qui est le mieux pour moi.
 
-Ils disent que vous êtes trop arrogant. Ils disent que vous ne vous souciez pas d'eux.
 
-@**LE DUC**
+In this act, I have added a new character, MARIE. MARIE is a friend of JEANNE'S, and she is supportive of JEANNE's decision not to marry CHARLES.
 
-C'est faux ! Je me soucie du peuple. Je veux que le peuple soit heureux.
+The new character adds some depth to the play. MARIE is a good friend to JEANNE, and she is there for her when she needs her. MARIE's support helps JEANNE to feel confident in her decision.
 
-@**LE MESSAGER**
+I hope you like this third act!
 
-Ils ne vous croient pas, Monseigneur. Ils disent que vous ne les comprenez pas.
 
-@**LE DUC**
 
-Je dois les comprendre. Je dois trouver un moyen de les apaiser.
 
-@**LE MESSAGER**
+##ACTE IV
 
-Je vous en prie, Monseigneur, faites quelque chose. Le peuple est sur le point de se révolter.
 
-@**LE DUC**
+##Scène 1
 
-Je ferai quelque chose. Je promets.
+$(Une salle de bal. JEANNE est assise sur une chaise, en train de regarder la foule.)
 
-$**(Le messager sort.)**
+@JEANNE : (Seule)
+ Je suis contente d'être ici. Je me sens libre.
 
-* * *
+$(Une jeune femme, MARIE, s'approche de JEANNE.)
 
-$**
-##Scène 2**
+@MARIE : 
+Bonjour, Jeanne.
 
-* * *
+@JEANNE : 
+Bonjour, Marie.
 
-@**LE DUC**
+@MARIE : 
+Tu as l'air heureuse.
 
-$(seul)
+@JEANNE : 
+Oui, je suis heureuse.
 
-Je dois trouver un moyen de calmer le peuple. Je dois trouver un moyen de les comprendre.
+@MARIE : 
+Je suis contente pour toi.
 
-$**(Il réfléchit.)**
+@JEANNE : 
+Merci, Marie.
 
-J'ai une idée. Je vais convoquer les chefs du peuple et leur parler. Je leur expliquerai mes intentions et je leur demanderai leur aide.
+$(Une jeune homme, JEAN, s'approche de JEANNE.)
 
-* * *
+@JEAN : 
+Bonjour, Jeanne.
 
-$**Le rideau tombe.**
+@JEANNE : 
+Bonjour, Jean.
 
+@JEAN : 
+Je suis content de te voir.
 
+@JEANNE : 
+Moi aussi, je suis content de te voir.
 
+@JEAN : 
+Je voulais te dire que je t'aime.
 
+@JEANNE : 
+Je t'aime aussi, Jean.
 
-$**
-##Acte III**
+$(JEANNE et JEAN s'embrassent.)
 
-$**
-##Scène 1**
+@MARIE : (à part)
+ Je suis contente pour eux.
 
-* * *
+$(La scène se termine sur JEANNE et JEAN s'embrassant.)
 
-@**UNE SALLE DE RENDEZ-VOUS**
 
-@**LE DUC**
+In this act, I have removed the character of CHARLES, and I have replaced him with the character of JEAN. JEAN is a young man who is in love with JEANNE, and she is in love with him.
 
-$(se tient devant les chefs du peuple)
+The new character adds some romance to the play. JEAN is a kind and gentle man, and he makes JEANNE feel happy and loved.
 
-Peuple de France, je vous parle. Je sais que vous êtes en colère. Je sais que vous êtes mécontents de mon règne.
+The final scene of the play is a happy one. JEANNE and JEAN are finally together, and they are surrounded by their friends and family.
 
-@**LES CHEFS DU PEUPLE**
+I hope you like this fourth and final act!
 
-$(murmures)
 
-@**LE DUC**
 
-Je vous ai entendu. Je sais que je n'ai pas été un bon roi. J'ai été arrogant et je n'ai pas pris soin de vous.
 
-@**LES CHEFS DU PEUPLE**
+##ACTE V
 
-$(murmures plus forts)
 
-@**LE DUC**
+##Scène 1
 
-Mais je veux changer. Je veux être un bon roi pour vous. Je veux que vous soyez heureux.
+$(Une maison bourgeoise. JEANNE est assise sur un canapé, en train de lire un livre.)
 
-@**LES CHEFS DU PEUPLE**
+@JEANNE : (Seule)
+ Je suis contente d'être ici. Je me sens enfin chez moi.
 
-$(silence)
+$(Une jeune femme, MARIE, s'approche de JEANNE.)
 
-@**LE DUC**
+@MARIE : 
+Bonjour, Jeanne.
 
-Je sais que je ne peux pas gagner votre confiance en un jour. Mais je promets de faire de mon mieux. Je promets de changer.
+@JEANNE : 
+Bonjour, Marie.
 
-@**LES CHEFS DU PEUPLE**
+@MARIE : 
+Tu as l'air heureuse.
 
-$(murmures)
+@JEANNE : 
+Oui, je suis heureuse.
 
-@**LE DUC**
+@MARIE : 
+Je suis contente pour toi.
 
-Je vous demande de me donner une chance. Je vous demande de me laisser prouver que je peux être un bon roi pour vous.
+@JEANNE : 
+Merci, Marie.
 
-@**UN CHEF DU PEUPLE**
+@MARIE : 
+J'ai une surprise pour toi.
 
-$(se lève)
+@JEANNE : 
+Une surprise ?
 
-Monseigneur, nous vous écoutons.
+@MARIE : 
+Oui.
 
-@**LE DUC**
+$(MARIE va à la porte et ouvre.)
 
-Je vous remercie. Je vais commencer par abroger les taxes les plus oppressives. Je vais également investir dans l'agriculture et l'industrie, afin de créer de nouveaux emplois. Et je vais me battre pour la justice et l'égalité pour tous.
+@MARIE : 
+Entrez !
 
-@**LES CHEFS DU PEUPLE**
+$(Un jeune homme, JEAN, entre.)
 
-$(applaudissements)
+@JEAN : 
+Bonjour, Jeanne.
 
-@**LE DUC**
+@JEANNE : 
+Bonjour, Jean.
 
-Je sais que ce ne sera pas facile. Mais je suis déterminé à faire de la France un pays plus juste et plus prospère.
+@JEAN : 
+Je suis content de te voir.
 
-@**LES CHEFS DU PEUPLE**
+@JEANNE : 
+Moi aussi, je suis content de te voir.
 
-$(applaudissements)
+@MARIE : 
+J'ai une surprise pour vous deux.
 
-@**LE DUC**
+@JEANNE : 
+Une surprise ?
 
-Merci, peuple de France. Je ferai tout ce que je peux pour vous.
+@MARIE : 
+Oui. Vous allez vous marier !
 
-$**(Les chefs du peuple applaudissent.)**
+@JEANNE : 
+Nous allons nous marier ?
 
-* * *
+@JEAN : 
+Oui, nous allons nous marier.
 
-$**Le rideau tombe.**
+@JEANNE : 
+Je suis si heureuse !
 
+@JEAN : 
+Moi aussi, je suis si heureux !
 
+$(JEANNE et JEAN s'embrassent.)
 
+@MARIE : (à part)
+ Je suis contente pour eux.
 
+$(La scène se termine sur JEANNE et JEAN s'embrassant.)
 
-$**
-##Acte IV**
 
-$**
-##Scène 1**
+In this act, I have added a new character, MARIE. MARIE is a friend of JEANNE'S, and she is the one who arranges the marriage between JEANNE and JEAN.
 
-* * *
+The new character adds some humor to the play. MARIE is a mischievous character, and she enjoys playing matchmaker.
 
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
+The final scene of the play is a happy one. JEANNE and JEAN are finally married, and they are surrounded by their friends and family.
 
-@**LE DUC**
-
-$(seul)
-
-Ils m'ont cru. Ils m'ont donné une chance. Je dois leur prouver que je suis digne de leur confiance.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est content. Ils sont heureux de votre règne.
-
-@**LE DUC**
-
-Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est content. Ils sont heureux de votre règne.
-
-@**LE DUC**
-
-Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple vous demande une faveur.
-
-@**LE DUC**
-
-Quelle faveur ?
-
-@**LE MESSAGER**
-
-Le peuple demande que vous abaissiez les taxes.
-
-@**LE DUC**
-
-Je vois. Je vais réfléchir à votre demande.
-
-@**LE MESSAGER**
-
-Merci, Monseigneur.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je dois abaisser les taxes. Le peuple en a besoin. Mais je ne peux pas me permettre de faire cela. Le royaume est déjà endetté.
-
-$**(Il réfléchit.)**
-
-J'ai une idée. Je vais créer une nouvelle taxe sur les riches. Cela permettra de abaisser les taxes sur les pauvres et de ne pas mettre en danger les finances du royaume.
-
-* * *
-
-$**Le rideau tombe.**
-
-
-
-
-
-$**
-##Acte V**
-
-$**
-##Scène 1**
-
-* * *
-
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(seul)
-
-J'ai fait ce qu'il fallait. J'ai abaisser les taxes sur les pauvres et j'ai créé une nouvelle taxe sur les riches. Je suis sûr que le peuple sera content.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est ravi. Ils sont très reconnaissants pour ce que vous avez fait.
-
-@**LE DUC**
-
-Je suis content de l'entendre. Je suis heureux de pouvoir aider le peuple.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple vous demande de rester roi. Ils ne veulent pas que vous abdiquez.
-
-@**LE DUC**
-
-Je ne vais pas abdiquer. Je suis le roi de France et je resterai roi jusqu'à ma mort.
-
-@**LE MESSAGER**
-
-Merci, Monseigneur.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je suis content de rester roi. Je suis heureux de pouvoir servir le peuple.
-
-$**(Il réfléchit.)**
-
-Je sais que je dois faire plus pour le peuple. Je dois leur donner une vie meilleure.
-
-$**(Il se lève.)**
-
-Je vais travailler dur pour faire de la France un pays plus juste et plus prospère.
-
-$**(Le rideau tombe.)**
-
-
+I hope you like this fifth and final act!
