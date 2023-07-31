@@ -1,512 +1,584 @@
 
 
-$**
-##Acte I**
 
-$**
+##ACTE I
+
+
+##Scène 1
+
+* Un salon bourgeois au XIXe siècle.
+
+@MARIE
+, une jeune femme de 25 ans, est assise sur un canapé. Elle est en larmes.
+
+@MARIE
+
+$(Elle se lève et se promène dans la pièce.)
+Je ne peux pas le croire. Il m'a quittée.
+
+$(Elle s'effondre sur le canapé.)
+
+* La porte s'ouvre et JEAN, son mari, entre.
+
+@JEAN
+
+$(Il s'approche de Marie.)
+Marie, chérie, je suis désolée. Je ne voulais pas te faire de mal.
+
+@MARIE
+
+$(Elle se lève et le regarde.)
+Tu m'as quittée. Comment as-tu pu faire ça ?
+
+@JEAN
+
+Je sais que c'est difficile à comprendre, mais je ne suis plus amoureux de toi.
+
+@MARIE
+
+$(Elle éclate en sanglots.)
+Mais pourquoi ? Qu'ai-je fait ?
+
+@JEAN
+
+Rien. Tu n'as rien fait. C'est moi, le problème. Je ne suis pas l'homme que tu pensais que j'étais.
+
+@MARIE
+
+$(Elle le regarde, incrédule.)
+Tu ne m'aimes plus ?
+
+@JEAN
+
+Je ne sais pas si je t'ai jamais aimée.
+
+* Marie se met à pleurer de nouveau. Jean la prend dans ses bras.
+
+@JEAN
+
+Je suis désolé, Marie. Je ne voulais pas te faire de mal.
+
+@MARIE
+
+$(Elle se détache de lui.)
+Va-t'en. Je ne veux plus te voir.
+
+@JEAN
+
+$(Il la regarde, un moment, puis il se tourne et sort de la pièce.)
+
+* Marie reste seule dans la pièce. Elle s'effondre sur le canapé et continue à pleurer.
+
+
+
+
+
+
+##ACTE II
+
+
+##Scène 1
+
+* Le même salon bourgeois.
+
+@MARIE 
+est assise sur le canapé, toujours en larmes.
+
+* La porte s'ouvre et une femme entre.
+
+@FÉLIX
+
+$(Elle s'approche de Marie.)
+Marie, ma chère, je suis désolée d'apprendre ce qui s'est passé.
+
+@MARIE
+
+$(Elle se lève et la regarde.)
+Félix ! Je suis si contente de te voir.
+
+@FÉLIX
+
+$(Elle la prend dans ses bras.)
+Je suis là pour toi, Marie.
+
+* Marie se met à pleurer de nouveau. Félix la console.
+
+@FÉLIX
+
+Je sais que c'est difficile, mais tu vas t'en sortir.
+
+@MARIE
+
+Je ne sais pas comment. Je l'aimais tellement.
+
+@FÉLIX
+
+Je sais. Mais il ne t'aime plus. Et tu mérites mieux que ça.
+
+@MARIE
+
+Tu crois ?
+
+@FÉLIX
+
+Oui, je crois. Tu es une femme merveilleuse. Tu trouveras quelqu'un qui t'aimera pour ce que tu es.
+
+@MARIE
+
+Je l'espère.
+
+* Félix et Marie continuent à parler.
+
+
+
+##Scène 2
+
+* Quelques jours plus tard.
+
+@MARIE 
+est assise sur le canapé, en train de lire une lettre.
+
+@MARIE
+
+$(Elle sourit.)
+C'est de lui.
+
+* Elle lit la lettre à voix haute.
+
+"Chère Marie,
+
+Je sais que je t'ai fait du mal. Je suis désolé. Je n'ai pas compris ce que j'avais avant de te perdre.
+
+Je t'aime. Je t'ai toujours aimée. Je veux te reconquérir.
+
+S'il te plaît, donne-moi une chance.
+
+Ton amour,
+Jean"
+
+* Marie regarde la lettre, un moment, puis elle la plie et la met de côté.
+
+@MARIE
+
+$(Elle se lève.)
+Je ne lui pardonnerai jamais.
+
+* Marie sort de la pièce.
+
+
+I hope you like this act!
+
+
+
+##ACTE III
+
+
+##Scène 1
+
+* Le même salon bourgeois.
+
+@MARIE 
+est assise sur le canapé, en train de lire une lettre.
+
+@MARIE
+
+$(Elle sourit.)
+C'est de lui.
+
+* Elle lit la lettre à voix haute.
+
+"Chère Marie,
+
+Je sais que je t'ai fait du mal. Je suis désolé. Je n'ai pas compris ce que j'avais avant de te perdre.
+
+Je t'aime. Je t'ai toujours aimée. Je veux te reconquérir.
+
+S'il te plaît, donne-moi une chance.
+
+Ton amour,
+Jean"
+
+* Marie regarde la lettre, un moment, puis elle la plie et la met de côté.
+
+@MARIE
+
+$(Elle se lève.)
+Je ne lui pardonnerai jamais.
+
+* Marie sort de la pièce.
+
+* La porte s'ouvre et une femme entre.
+
+@ANNE
+
+$(Elle s'approche de Marie.)
+Marie, ma chère, je suis désolée d'apprendre ce qui s'est passé.
+
+@MARIE
+
+$(Elle se retourne et la regarde.)
+Anne ! Je suis si contente de te voir.
+
+@ANNE
+
+$(Elle la prend dans ses bras.)
+Je suis là pour toi, Marie.
+
+* Marie se met à pleurer de nouveau. Anne la console.
+
+@ANNE
+
+Je sais que c'est difficile, mais tu vas t'en sortir.
+
+@MARIE
+
+Je ne sais pas comment. Je l'aimais tellement.
+
+@ANNE
+
+Je sais. Mais il ne t'aime plus. Et tu mérites mieux que ça.
+
+@MARIE
+
+Tu crois ?
+
+@ANNE
+
+Oui, je crois. Tu es une femme merveilleuse. Tu trouveras quelqu'un qui t'aimera pour ce que tu es.
+
+@MARIE
+
+Je l'espère.
+
+* Anne et Marie continuent à parler.
+
+
+
+##Scène 2
+
+* Quelques jours plus tard.
+
+@MARIE 
+est assise sur le canapé, en train de lire une nouvelle lettre.
+
+@MARIE
+
+$(Elle sourit.)
+C'est de lui.
+
+* Elle lit la lettre à voix haute.
+
+"Chère Marie,
+
+Je sais que je t'ai fait du mal. Je suis désolé. Je n'ai pas compris ce que j'avais avant de te perdre.
+
+Je t'aime. Je t'ai toujours aimée. Je veux te reconquérir.
+
+J'ai compris que je ne peux pas vivre sans toi. Je suis prêt à faire tout ce qu'il faut pour te prouver mon amour.
+
+S'il te plaît, donne-moi une chance.
+
+Ton amour,
+Jean"
+
+* Marie regarde la lettre, un moment, puis elle se lève.
+
+@MARIE
+
+$(Elle se dirige vers la porte.)
+Je vais lui donner une chance.
+
+* Marie sort de la pièce.
+
+* Anne, qui était restée silencieuse pendant toute la scène, se tourne vers le public.
+
+@ANNE
+
+$(Elle sourit.)
+Je crois qu'elle va lui pardonner.
+
+* Anne sort de la pièce.
+
+
+The end.
+
+
+I hope you like this act!
+
+
+
+
+##ACTE IV
+
+
+##Scène 1
+
+* Le même salon bourgeois.
+
+@MARIE 
+est assise sur le canapé, en train de lire une nouvelle lettre.
+
+@MARIE
+
+$(Elle sourit.)
+C'est de lui.
+
+* Elle lit la lettre à voix haute.
+
+"Chère Marie,
+
+Je sais que je t'ai fait du mal. Je suis désolé. Je n'ai pas compris ce que j'avais avant de te perdre.
+
+Je t'aime. Je t'ai toujours aimée. Je veux te reconquérir.
+
+J'ai compris que je ne peux pas vivre sans toi. Je suis prêt à faire tout ce qu'il faut pour te prouver mon amour.
+
+S'il te plaît, donne-moi une chance.
+
+Ton amour,
+Jean"
+
+* Marie regarde la lettre, un moment, puis elle se lève.
+
+@MARIE
+
+$(Elle se dirige vers la porte.)
+Je vais lui donner une chance.
+
+* Marie sort de la pièce.
+
+* La porte s'ouvre et une femme entre.
+
+@ANNE
+
+$(Elle s'approche de Marie.)
+Marie, ma chère, je suis désolée d'apprendre ce qui s'est passé.
+
+@MARIE
+
+$(Elle se retourne et la regarde.)
+Anne ! Je suis si contente de te voir.
+
+@ANNE
+
+$(Elle la prend dans ses bras.)
+Je suis là pour toi, Marie.
+
+* Marie se met à pleurer de nouveau. Anne la console.
+
+@ANNE
+
+Je sais que c'est difficile, mais tu vas t'en sortir.
+
+@MARIE
+
+Je ne sais pas comment. Je l'aimais tellement.
+
+@ANNE
+
+Je sais. Mais il ne t'aime plus. Et tu mérites mieux que ça.
+
+@MARIE
+
+Tu crois ?
+
+@ANNE
+
+Oui, je crois. Tu es une femme merveilleuse. Tu trouveras quelqu'un qui t'aimera pour ce que tu es.
+
+@MARIE
+
+Je l'espère.
+
+* Anne et Marie continuent à parler.
+
+* La porte s'ouvre et un homme entre.
+
+@JEAN
+
+$(Il s'approche de Marie.)
+Marie, je suis venu te parler.
+
+@MARIE
+
+$(Elle se tourne vers lui.)
+Je n'ai rien à te dire.
+
+@JEAN
+
+Je sais que tu es en colère contre moi. Mais je t'en prie, écoute-moi.
+
+@MARIE
+
+Je n'ai rien à écouter. Tu m'as trahie.
+
+@JEAN
+
+Je sais. Et je m'excuse. Je n'ai pas compris ce que j'avais avant de te perdre.
+
+@MARIE
+
+C'est trop tard.
+
+@JEAN
+
+Non, ce n'est pas trop tard. Je t'aime. Je t'ai toujours aimée.
+
+@MARIE
+
+Je ne t'aime plus.
+
+@JEAN
+
+S'il te plaît, donne-moi une chance de te prouver que je t'aime.
+
+@MARIE
+
+Je ne sais pas.
+
+@JEAN
+
+S'il te plaît, Marie.
+
+@MARIE
+
+$(Elle le regarde, un moment, puis elle se lève.)
+D'accord. Je te donne une chance.
+
+@JEAN
+
+$(Il la prend dans ses bras.)
+Merci, Marie. Je t'aime.
+
+@MARIE
+
+Je t'aime aussi, Jean.
+
+* Jean et Marie s'embrassent.
+
+* Anne, qui était restée silencieuse pendant toute la scène, se tourne vers le public.
+
+@ANNE
+
+$(Elle sourit.)
+Je crois qu'ils vont bien finir ensemble.
+
+* Anne sort de la pièce.
+
+* Jean et Marie continuent à s'embrasser.
+
+* Le rideau tombe.
+
+
+I hope you like this act!
+
+
+**
+##ACTE V**
+
+**
 ##Scène 1**
 
-* * *
+* Le même salon bourgeois.
 
-@**UNE CHAMBRE DANS UN HÔTEL**
+* Marie et Jean sont assis sur le canapé, en train de parler.
 
-@**LE DUC**
+@MARIE
 
-$(assis sur un lit)
+$(Elle sourit.)
+Je suis si heureuse que tu m'aies pardonné.
 
-Je suis le Duc de Bourgogne. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi seul. Je n'ai pas d'amis. Je n'ai pas de famille. Je suis un prisonnier dans mon propre hôtel.
+@JEAN
 
-@**UN LACAI**
+$(Il la prend dans ses bras.)
+Moi aussi, je suis heureux. Je t'aime tellement, Marie.
 
-$(entre)
+@MARIE
 
-Monseigneur, il y a un messager de la cour.
+Je t'aime aussi, Jean.
 
-@**LE DUC**
+* Ils s'embrassent.
 
-Qu'il entre.
+* La porte s'ouvre et une femme entre.
 
-$**(Le messager entre.)**
+@ANNE
 
-@**LE MESSAGER**
+$(Elle s'approche de Marie et Jean.)
+Je suis si contente pour vous deux.
 
-Monseigneur, la reine vous demande de vous rendre à la cour immédiatement.
+@MARIE
 
-@**LE DUC**
+$(Elle se tourne vers Anne.)
+Merci, Anne. Tu as toujours été là pour moi.
 
-Pourquoi ?
+@ANNE
 
-@**LE MESSAGER**
+Je sais. Et je serai toujours là pour toi.
 
-Je ne sais pas, Monseigneur. Mais la reine est très insistante.
+* Anne, Marie, et Jean continuent à parler.
 
-@**LE DUC**
 
-Bien. Je vais me préparer.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
+**
 ##Scène 2**
 
-* * *
+* Quelques mois plus tard.
 
-@**LA COUR**
+* Marie et Jean sont mariés. Ils vivent dans une petite maison à la campagne.
 
-@**LE DUC**
+@MARIE
 
-$(entre)
+$(Elle regarde Jean.)
+Je suis si heureuse d'être ta femme.
 
-La reine ?
+@JEAN
 
-@**LA REINE**
+Moi aussi, je suis heureux d'être ton mari.
 
-Oui, c'est moi. Je suis contente que vous soyez là.
+* Ils s'embrassent.
 
-@**LE DUC**
+* La porte s'ouvre et un homme entre.
 
-Madame, qu'y a-t-il ?
+@LE DOCTEUR
 
-@**LA REINE**
+$(Il s'approche de Marie et Jean.)
+Félicitations, mes amis. Vous êtes parents d'une petite fille.
 
-Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps.
+@MARIE
 
-@**LE DUC**
+$(Elle se tourne vers le docteur.)
+Une petite fille ?
 
-Je suis désolé, Madame.
+@LE DOCTEUR
 
-@**LA REINE**
+Oui, une petite fille. Elle est en parfaite santé.
 
-Je sais. Mais je dois vous demander de lui succéder.
+@MARIE
 
-@**LE DUC**
+$(Elle se met à pleurer.)
+C'est une fille ! Je suis si heureuse !
 
-Moi ? Mais je ne suis pas de la famille royale.
+@JEAN
 
-@**LA REINE**
+Moi aussi, je suis heureux. Nous avons une petite fille.
 
-Je sais. Mais vous êtes le plus puissant noble du royaume. Et vous êtes un homme juste et sage.
+* Jean et Marie s'embrassent.
 
-@**LE DUC**
+* Le docteur sort de la pièce.
 
-Je ne sais pas si je suis capable de faire cela.
+* Marie et Jean regardent leur petite fille.
 
-@**LA REINE**
+@MARIE
 
-Vous devez essayer. Le royaume a besoin de vous.
+$(Elle regarde Jean.)
+Elle est si belle.
 
-@**LE DUC**
+@JEAN
 
-Je le ferai, Madame.
+Oui, elle est belle. Elle est comme sa mère.
 
-@**LA REINE**
+* Marie et Jean continuent à regarder leur petite fille.
 
-Merci, Duc. Je sais que vous ne me décevrez pas.
+* Le rideau tombe.
 
-$**(Le Duc et la Reine s'inclinent l'un à l'autre.)**
 
-* * *
-
-$**Le rideau tombe.**
-
-
-$**
-##Acte II**
-
-$**
-##Scène 1**
-
-* * *
-
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(assis sur un trône)
-
-Je suis le nouveau roi de France. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi responsable. Je dois prendre soin du royaume. Je dois faire en sorte que le peuple soit heureux.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est en colère. Ils sont mécontents de votre règne.
-
-@**LE DUC**
-
-Pourquoi ?
-
-@**LE MESSAGER**
-
-Ils disent que vous êtes trop arrogant. Ils disent que vous ne vous souciez pas d'eux.
-
-@**LE DUC**
-
-C'est faux ! Je me soucie du peuple. Je veux que le peuple soit heureux.
-
-@**LE MESSAGER**
-
-Ils ne vous croient pas, Monseigneur. Ils disent que vous ne les comprenez pas.
-
-@**LE DUC**
-
-Je dois les comprendre. Je dois trouver un moyen de les apaiser.
-
-@**LE MESSAGER**
-
-Je vous en prie, Monseigneur, faites quelque chose. Le peuple est sur le point de se révolter.
-
-@**LE DUC**
-
-Je ferai quelque chose. Je promets.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je dois trouver un moyen de calmer le peuple. Je dois trouver un moyen de les comprendre.
-
-$**(Il réfléchit.)**
-
-J'ai une idée. Je vais convoquer les chefs du peuple et leur parler. Je leur expliquerai mes intentions et je leur demanderai leur aide.
-
-* * *
-
-$**Le rideau tombe.**
-
-
-
-$**
-##Acte III**
-
-$**
-##Scène 1**
-
-* * *
-
-@**UNE SALLE DE RENDEZ-VOUS**
-
-@**LE DUC**
-
-$(se tient devant les chefs du peuple)
-
-Peuple de France, je vous parle. Je sais que vous êtes en colère. Je sais que vous êtes mécontents de mon règne.
-
-@**LES CHEFS DU PEUPLE**
-
-$(murmures)
-
-@**LE DUC**
-
-Je vous ai entendu. Je sais que je n'ai pas été un bon roi. J'ai été arrogant et je n'ai pas pris soin de vous.
-
-@**LES CHEFS DU PEUPLE**
-
-$(murmures plus forts)
-
-@**LE DUC**
-
-Mais je veux changer. Je veux être un bon roi pour vous. Je veux que vous soyez heureux.
-
-@**LES CHEFS DU PEUPLE**
-
-$(silence)
-
-@**LE DUC**
-
-Je sais que je ne peux pas gagner votre confiance en un jour. Mais je promets de faire de mon mieux. Je promets de changer.
-
-@**LES CHEFS DU PEUPLE**
-
-$(murmures)
-
-@**LE DUC**
-
-Je vous demande de me donner une chance. Je vous demande de me laisser prouver que je peux être un bon roi pour vous.
-
-@**UN CHEF DU PEUPLE**
-
-$(se lève)
-
-Monseigneur, nous vous écoutons.
-
-@**LE DUC**
-
-Je vous remercie. Je vais commencer par abroger les taxes les plus oppressives. Je vais également investir dans l'agriculture et l'industrie, afin de créer de nouveaux emplois. Et je vais me battre pour la justice et l'égalité pour tous.
-
-@**LES CHEFS DU PEUPLE**
-
-$(applaudissements)
-
-@**LE DUC**
-
-Je sais que ce ne sera pas facile. Mais je suis déterminé à faire de la France un pays plus juste et plus prospère.
-
-@**LES CHEFS DU PEUPLE**
-
-$(applaudissements)
-
-@**LE DUC**
-
-Merci, peuple de France. Je ferai tout ce que je peux pour vous.
-
-$**(Les chefs du peuple applaudissent.)**
-
-* * *
-
-$**Le rideau tombe.**
-
-
-
-
-
-$**
-##Acte IV**
-
-$**
-##Scène 1**
-
-* * *
-
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(seul)
-
-Ils m'ont cru. Ils m'ont donné une chance. Je dois leur prouver que je suis digne de leur confiance.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est content. Ils sont heureux de votre règne.
-
-@**LE DUC**
-
-Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple vous demande une faveur.
-
-@**LE DUC**
-
-Quelle faveur ?
-
-@**LE MESSAGER**
-
-Le peuple demande que vous abaissiez les taxes.
-
-@**LE DUC**
-
-Je vois. Je vais réfléchir à votre demande.
-
-@**LE MESSAGER**
-
-Merci, Monseigneur.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je dois abaisser les taxes. Le peuple en a besoin. Mais je ne peux pas me permettre de faire cela. Le royaume est déjà endetté.
-
-$**(Il réfléchit.)**
-
-J'ai une idée. Je vais créer une nouvelle taxe sur les riches. Cela permettra de abaisser les taxes sur les pauvres et de ne pas mettre en danger les finances du royaume.
-
-* * *
-
-$**Le rideau tombe.**
-
-
-$**
-##Acte V**
-
-$**
-##Scène 1**
-
-* * *
-
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(seul)
-
-J'ai fait ce qu'il fallait. J'ai abaisser les taxes sur les pauvres et j'ai créé une nouvelle taxe sur les riches. Je suis sûr que le peuple sera content.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est ravi. Ils sont très reconnaissants pour ce que vous avez fait.
-
-@**LE DUC**
-
-Je suis content de l'entendre. Je suis heureux de pouvoir aider le peuple.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple vous demande de rester roi. Ils ne veulent pas que vous abdiquez.
-
-@**LE DUC**
-
-Je ne vais pas abdiquer. Je suis le roi de France et je resterai roi jusqu'à ma mort.
-
-@**LE MESSAGER**
-
-Merci, Monseigneur.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je suis content de rester roi. Je suis heureux de pouvoir servir le peuple.
-
-$**(Il réfléchit.)**
-
-Je sais que je dois faire plus pour le peuple. Je dois leur donner une vie meilleure.
-
-$**(Il se lève.)**
-
-Je vais travailler dur pour faire de la France un pays plus juste et plus prospère.
-
-$**(Le rideau tombe.)**
-
-
-
-
-
-$**
-##Acte VI**
-
-$**
-##Scène 1**
-
-* * *
-
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(seul)
-
-J'ai régné pendant de nombreuses années maintenant. J'ai vu le royaume prospérer sous mon règne. Mais je sais que je ne suis pas le roi parfait. J'ai fait des erreurs. J'ai blessé des gens.
-
-$**(Il réfléchit.)**
-
-Je veux faire une chose avant de mourir. Je veux faire amende honorable pour mes erreurs. Je veux que le peuple me pardonne.
-
-$**(Il se lève.)**
-
-Je vais aller vers le peuple et leur parler. Je vais leur dire que je suis désolé pour les torts que je leur ai causés. Je vais leur demander pardon.
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**UNE PLACE PUBLIQUE**
-
-@**LE DUC**
-
-$(devant le peuple)
-
-Peuple de France, je vous parle. Je suis le roi, et je suis venu vous demander pardon.
-
-@**LE PEUPLE**
-
-$(bruit de la foule)
-
-@**LE DUC**
-
-J'ai fait des erreurs. J'ai blessé des gens. Je suis désolé pour cela.
-
-@**LE PEUPLE**
-
-$(bruit de la foule)
-
-@**LE DUC**
-
-Je veux que vous me pardonniez. Je veux que nous construisions un avenir meilleur ensemble.
-
-@**LE PEUPLE**
-
-$(bruit de la foule)
-
-@**LE DUC**
-
-Je vous remercie. Je vais travailler dur pour être un meilleur roi pour vous.
-
-@**LE PEUPLE**
-
-$(applaudissements)
-
-* * *
-
-$**Le rideau tombe.**
-
-
+I hope you like this act!

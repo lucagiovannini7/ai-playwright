@@ -1,453 +1,873 @@
 
+**
+##ACTE I**
 
-$**
-##Acte I**
-
-$**
+**
 ##Scène 1**
 
-* * *
+*INTÉRIEUR D'UNE CHAMBRE*
 
-@**UNE CHAMBRE DANS UN HÔTEL**
-
-@**LE DUC**
-
-$(assis sur un lit)
-
-Je suis le Duc de Bourgogne. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi seul. Je n'ai pas d'amis. Je n'ai pas de famille. Je suis un prisonnier dans mon propre hôtel.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager de la cour.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, la reine vous demande de vous rendre à la cour immédiatement.
-
-@**LE DUC**
-
-Pourquoi ?
-
-@**LE MESSAGER**
-
-Je ne sais pas, Monseigneur. Mais la reine est très insistante.
-
-@**LE DUC**
-
-Bien. Je vais me préparer.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LA COUR**
-
-@**LE DUC**
-
-$(entre)
-
-La reine ?
-
-@**LA REINE**
-
-Oui, c'est moi. Je suis contente que vous soyez là.
-
-@**LE DUC**
-
-Madame, qu'y a-t-il ?
-
-@**LA REINE**
-
-Mon mari, le roi, est gravement malade. Il ne lui reste que peu de temps.
-
-@**LE DUC**
-
-Je suis désolé, Madame.
-
-@**LA REINE**
-
-Je sais. Mais je dois vous demander de lui succéder.
-
-@**LE DUC**
-
-Moi ? Mais je ne suis pas de la famille royale.
-
-@**LA REINE**
-
-Je sais. Mais vous êtes le plus puissant noble du royaume. Et vous êtes un homme juste et sage.
-
-@**LE DUC**
-
-Je ne sais pas si je suis capable de faire cela.
-
-@**LA REINE**
-
-Vous devez essayer. Le royaume a besoin de vous.
-
-@**LE DUC**
-
-Je le ferai, Madame.
-
-@**LA REINE**
-
-Merci, Duc. Je sais que vous ne me décevrez pas.
-
-$**(Le Duc et la Reine s'inclinent l'un à l'autre.)**
-
-* * *
-
-$**Le rideau tombe.**
+@**MARQUISE** (_assise sur un sofa, rêveuse_)
 
 
+Ah, si j'avais pu le sauver !
+
+@**SERVANTE** (_entrant_)
 
 
+Madame, le comte est arrivé.
 
-$**
-##Acte II**
+@**MARQUISE** (_se levant_)
 
-$**
+
+Le comte ? Ah, oui, j'attendais sa visite.
+
+$(_La servante sort._)
+
+@**COMTE** (_entrant_)
+
+
+Madame la marquise, je vous salue.
+
+@**MARQUISE**
+
+
+Comte, je suis si heureuse de vous voir.
+
+@**COMTE**
+
+
+Je suis venu vous apporter des nouvelles de votre fils.
+
+@**MARQUISE**
+
+
+Oh, dites-moi vite !
+
+@**COMTE**
+
+
+Il est mort au combat.
+
+$(_La marquise s'effondre sur le sofa._)
+
+@**COMTE**
+
+
+Madame, je suis si peiné.
+
+$(_Il s'approche d'elle et lui prend la main._)
+
+@**MARQUISE**
+
+
+Mon fils, mon pauvre fils...
+
+$(_Elle se met à pleurer._)
+
+@**COMTE**
+
+
+Je sais que c'est une terrible épreuve, mais vous devez être forte.
+
+@**MARQUISE**
+
+
+Comment puis-je être forte ? Mon fils est mort !
+
+@**COMTE**
+
+
+Je sais, mais il faut que vous gardiez la tête haute.
+
+@**MARQUISE**
+
+
+Je ne sais pas si je peux.
+
+@**COMTE**
+
+
+Vous devez essayer. Pour lui.
+
+@**MARQUISE**
+
+
+$(_essuyant ses larmes_)
+
+Vous avez raison. Je dois être forte.
+
+@**COMTE**
+
+
+C'est bien. Je suis sûr que vous allez traverser cette épreuve.
+
+@**MARQUISE**
+
+
+Merci, comte.
+
+@**COMTE**
+
+
+Je vous laisse, madame. Je reviendrai demain pour prendre de vos nouvelles.
+
+@**MARQUISE**
+
+
+D'accord. Merci, comte.
+
+$(_Le comte sort._)
+
+@**MARQUISE**
+
+
+$(_seule_)
+
+Mon fils... mon pauvre fils...
+
+$(_Elle s'effondre sur le sofa et pleure à nouveau._)
+
+@**FIN DE LA SCÈNE**
+
+
+**
+##ACTE II**
+
+**
 ##Scène 1**
 
-* * *
+*INTÉRIEUR D'UNE CHAMBRE*
 
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(assis sur un trône)
-
-Je suis le nouveau roi de France. Je suis puissant et riche. J'ai tout ce que je pourrais souhaiter. Mais je suis aussi responsable. Je dois prendre soin du royaume. Je dois faire en sorte que le peuple soit heureux.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est en colère. Ils sont mécontents de votre règne.
-
-@**LE DUC**
-
-Pourquoi ?
-
-@**LE MESSAGER**
-
-Ils disent que vous êtes trop arrogant. Ils disent que vous ne vous souciez pas d'eux.
-
-@**LE DUC**
-
-C'est faux ! Je me soucie du peuple. Je veux que le peuple soit heureux.
-
-@**LE MESSAGER**
-
-Ils ne vous croient pas, Monseigneur. Ils disent que vous ne les comprenez pas.
-
-@**LE DUC**
-
-Je dois les comprendre. Je dois trouver un moyen de les apaiser.
-
-@**LE MESSAGER**
-
-Je vous en prie, Monseigneur, faites quelque chose. Le peuple est sur le point de se révolter.
-
-@**LE DUC**
-
-Je ferai quelque chose. Je promets.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je dois trouver un moyen de calmer le peuple. Je dois trouver un moyen de les comprendre.
-
-$**(Il réfléchit.)**
-
-J'ai une idée. Je vais convoquer les chefs du peuple et leur parler. Je leur expliquerai mes intentions et je leur demanderai leur aide.
-
-* * *
-
-$**Le rideau tombe.**
+@**MARQUISE** (_assise sur un sofa, rêveuse_)
 
 
+Mon fils, mon pauvre fils...
+
+$(_La servante entre._)
+
+@**SERVANTE**
 
 
+Madame, une dame est là pour vous voir.
 
-$**
-##Acte III**
+@**MARQUISE**
 
-$**
+
+Une dame ? Qui est-elle ?
+
+@**SERVANTE**
+
+
+Elle ne m'a pas dit son nom.
+
+@**MARQUISE**
+
+
+Faites-la entrer.
+
+$(_La servante sort._)
+
+@**MARQUISE**
+
+
+$(_seule_)
+
+Je me demande qui peut bien être cette dame.
+
+$(_La dame entre._)
+
+@**DAME**
+
+
+Madame la marquise, je vous salue.
+
+@**MARQUISE**
+
+
+$(_se levant_)
+
+Madame, je vous en prie, asseyez-vous.
+
+@**DAME**
+
+
+Merci, madame.
+
+$(_Elle s'assied._)
+
+@**MARQUISE**
+
+
+Comment puis-je vous aider ?
+
+@**DAME**
+
+
+Je suis la mère du soldat qui a tué votre fils.
+
+$(_La marquise s'effondre sur le sofa._)
+
+@**MARQUISE**
+
+
+Oh !
+
+@**DAME**
+
+
+Je sais que c'est une terrible épreuve pour vous, mais je voulais vous exprimer mes condoléances.
+
+@**MARQUISE**
+
+
+Merci, madame.
+
+@**DAME**
+
+
+Je sais que ce n'est pas grand-chose, mais je voudrais vous offrir ce médaillon. Il appartenait à mon fils.
+
+$(_Elle lui tend le médaillon._)
+
+@**MARQUISE**
+
+
+$(_prenant le médaillon_)
+
+Merci, madame. Je l'apprécie.
+
+@**DAME**
+
+
+Je vous en prie.
+
+$(_Il y a un silence._)
+
+@**MARQUISE**
+
+
+Madame, je voudrais vous demander quelque chose.
+
+@**DAME**
+
+
+Oui, madame ?
+
+@**MARQUISE**
+
+
+Pourriez-vous me raconter comment votre fils est mort ?
+
+@**DAME**
+
+
+Bien sûr, madame.
+
+$(_Elle raconte comment son fils est mort au combat._)
+
+@**MARQUISE**
+
+
+Merci, madame.
+
+@**DAME**
+
+
+Je suis contente que cela vous ait aidé.
+
+@**MARQUISE**
+
+
+Oui, ça m'a fait du bien d'entendre votre histoire.
+
+@**DAME**
+
+
+Je suis contente de l'entendre.
+
+$(_Il y a un silence._)
+
+@**MARQUISE**
+
+
+Madame, je voudrais vous proposer un marché.
+
+@**DAME**
+
+
+Un marché ?
+
+@**MARQUISE**
+
+
+Oui. Je vous propose que nous nous échangions nos médaillons.
+
+@**DAME**
+
+
+Mais pourquoi ?
+
+@**MARQUISE**
+
+
+Parce que je voudrais que vous gardiez le médaillon de mon fils.
+
+@**DAME**
+
+
+Mais je ne peux pas accepter ça !
+
+@**MARQUISE**
+
+
+Si, je vous en prie. Je veux que vous gardiez ce médaillon comme un souvenir de mon fils.
+
+@**DAME**
+
+
+$(_prenant le médaillon_)
+
+Merci, madame. Je l'apprécie.
+
+@**MARQUISE**
+
+
+Je suis contente que vous l'acceptiez.
+
+$(_Il y a un silence._)
+
+@**MARQUISE**
+
+
+Madame, je voudrais vous remercier pour votre visite.
+
+@**DAME**
+
+
+Je vous en prie, madame. C'était un plaisir de vous rencontrer.
+
+@**MARQUISE**
+
+
+Au revoir, madame.
+
+@**DAME**
+
+
+Au revoir, madame.
+
+$(_La dame sort._)
+
+@**MARQUISE**
+
+
+$(_seule_)
+
+Je suis contente d'avoir rencontré cette dame. Elle m'a fait du bien.
+
+$(_
+
+**
+##ACTE III**
+
+**
 ##Scène 1**
 
-* * *
+*INTÉRIEUR D'UNE CHAMBRE*
 
-@**UNE SALLE DE RENDEZ-VOUS**
-
-@**LE DUC**
-
-$(se tient devant les chefs du peuple)
-
-Peuple de France, je vous parle. Je sais que vous êtes en colère. Je sais que vous êtes mécontents de mon règne.
-
-@**LES CHEFS DU PEUPLE**
-
-$(murmures)
-
-@**LE DUC**
-
-Je vous ai entendu. Je sais que je n'ai pas été un bon roi. J'ai été arrogant et je n'ai pas pris soin de vous.
-
-@**LES CHEFS DU PEUPLE**
-
-$(murmures plus forts)
-
-@**LE DUC**
-
-Mais je veux changer. Je veux être un bon roi pour vous. Je veux que vous soyez heureux.
-
-@**LES CHEFS DU PEUPLE**
-
-$(silence)
-
-@**LE DUC**
-
-Je sais que je ne peux pas gagner votre confiance en un jour. Mais je promets de faire de mon mieux. Je promets de changer.
-
-@**LES CHEFS DU PEUPLE**
-
-$(murmures)
-
-@**LE DUC**
-
-Je vous demande de me donner une chance. Je vous demande de me laisser prouver que je peux être un bon roi pour vous.
-
-@**UN CHEF DU PEUPLE**
-
-$(se lève)
-
-Monseigneur, nous vous écoutons.
-
-@**LE DUC**
-
-Je vous remercie. Je vais commencer par abroger les taxes les plus oppressives. Je vais également investir dans l'agriculture et l'industrie, afin de créer de nouveaux emplois. Et je vais me battre pour la justice et l'égalité pour tous.
-
-@**LES CHEFS DU PEUPLE**
-
-$(applaudissements)
-
-@**LE DUC**
-
-Je sais que ce ne sera pas facile. Mais je suis déterminé à faire de la France un pays plus juste et plus prospère.
-
-@**LES CHEFS DU PEUPLE**
-
-$(applaudissements)
-
-@**LE DUC**
-
-Merci, peuple de France. Je ferai tout ce que je peux pour vous.
-
-$**(Les chefs du peuple applaudissent.)**
-
-* * *
-
-$**Le rideau tombe.**
+@**MARQUISE** (_assise sur un sofa, rêveuse_)
 
 
+Mon fils, mon pauvre fils...
+
+$(_La servante entre._)
+
+@**SERVANTE**
 
 
+Madame, un jeune homme est là pour vous voir.
 
-$**
-##Acte IV**
+@**MARQUISE**
 
-$**
+
+Un jeune homme ? Qui est-il ?
+
+@**SERVANTE**
+
+
+Il ne m'a pas dit son nom.
+
+@**MARQUISE**
+
+
+Faites-le entrer.
+
+$(_La servante sort._)
+
+@**MARQUISE**
+
+
+$(_seule_)
+
+Je me demande qui peut bien être ce jeune homme.
+
+$(_Le jeune homme entre._)
+
+@**JEUNE HOMME**
+
+
+Madame la marquise, je vous salue.
+
+@**MARQUISE**
+
+
+$(_se levant_)
+
+Monsieur, je vous en prie, asseyez-vous.
+
+@**JEUNE HOMME**
+
+
+Merci, madame.
+
+$(_Il s'assied._)
+
+@**MARQUISE**
+
+
+Comment puis-je vous aider ?
+
+@**JEUNE HOMME**
+
+
+Je suis le fils de la dame qui vous a rendu visite hier.
+
+@**MARQUISE**
+
+
+Ah, oui, je me souviens de vous.
+
+@**JEUNE HOMME**
+
+
+Ma mère m'a raconté votre conversation. Je voulais vous remercier pour votre gentillesse.
+
+@**MARQUISE**
+
+
+Ce n'est rien.
+
+@**JEUNE HOMME**
+
+
+Je voulais aussi vous dire que je suis parti à la guerre pour venger la mort de mon père.
+
+@**MARQUISE**
+
+
+Je comprends.
+
+@**JEUNE HOMME**
+
+
+Je suis allé au front, et j'ai combattu courageusement. J'ai tué de nombreux ennemis, mais j'ai aussi été blessé.
+
+@**MARQUISE**
+
+
+Je suis désolée.
+
+@**JEUNE HOMME**
+
+
+Mais je suis revenu vivant. Et je suis venu vous voir pour vous dire que je suis prêt à pardonner à l'homme qui a tué mon père.
+
+@**MARQUISE**
+
+
+Je suis surprise.
+
+@**JEUNE HOMME**
+
+
+Je sais. Mais j'ai compris que la vengeance ne résout rien. Je veux vivre en paix, et je ne veux pas que la mort de mon père me consume.
+
+@**MARQUISE**
+
+
+Je suis admirative de votre courage.
+
+@**JEUNE HOMME**
+
+
+Merci, madame.
+
+@**MARQUISE**
+
+
+Je suis heureuse que vous ayez pu pardonner.
+
+@**JEUNE HOMME**
+
+
+Moi aussi.
+
+$(_Ils se serrent la main._)
+
+@**JEUNE HOMME**
+
+
+Je vous remercie pour votre écoute, madame.
+
+@**MARQUISE**
+
+
+Je vous en prie.
+
+@**JEUNE HOMME**
+
+
+Je vous souhaite une bonne continuation.
+
+@**MARQUISE**
+
+
+Merci, monsieur.
+
+@**JEUNE HOMME**
+
+
+Au revoir, madame.
+
+@**MARQUISE**
+
+
+Au revoir, monsieur.
+
+$(_Le jeune homme sort._)
+
+@**MARQUISE**
+
+
+$(_seule_)
+
+Je suis contente pour ce jeune homme. Il a fait un grand pas vers la paix.
+
+$(_Elle se lève et va à la fenêtre._)
+
+Je regarde le soleil se coucher. Je pense à mon fils, et je sais qu'il serait fier de moi.
+
+$(_Elle se retourne et regarde le public._)
+
+La vie est difficile, mais il faut toujours garder espoir. La paix est possible, si nous sommes prêts à pardonner.
+
+$(_La pièce se termine._)
+
+**
+##ACTE IV**
+
+**
 ##Scène 1**
 
-* * *
+*INTÉRIEUR D'UNE CHAMBRE*
 
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(seul)
-
-Ils m'ont cru. Ils m'ont donné une chance. Je dois leur prouver que je suis digne de leur confiance.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est content. Ils sont heureux de votre règne.
-
-@**LE DUC**
-
-Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est content. Ils sont heureux de votre règne.
-
-@**LE DUC**
-
-Je suis content de l'entendre. J'ai fait de mon mieux pour être un bon roi pour eux.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple vous demande une faveur.
-
-@**LE DUC**
-
-Quelle faveur ?
-
-@**LE MESSAGER**
-
-Le peuple demande que vous abaissiez les taxes.
-
-@**LE DUC**
-
-Je vois. Je vais réfléchir à votre demande.
-
-@**LE MESSAGER**
-
-Merci, Monseigneur.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je dois abaisser les taxes. Le peuple en a besoin. Mais je ne peux pas me permettre de faire cela. Le royaume est déjà endetté.
-
-$**(Il réfléchit.)**
-
-J'ai une idée. Je vais créer une nouvelle taxe sur les riches. Cela permettra de abaisser les taxes sur les pauvres et de ne pas mettre en danger les finances du royaume.
-
-* * *
-
-$**Le rideau tombe.**
+@**MARQUISE** (_assise sur un sofa, rêveuse_)
 
 
+Mon fils, mon pauvre fils...
+
+$(_La servante entre._)
+
+@**SERVANTE**
 
 
+Madame, un ecclésiastique est là pour vous voir.
 
-$**
-##Acte V**
+@**MARQUISE**
 
-$**
+
+Un ecclésiastique ? Qui est-il ?
+
+@**SERVANTE**
+
+
+Il ne m'a pas dit son nom.
+
+@**MARQUISE**
+
+
+Faites-le entrer.
+
+$(_La servante sort._)
+
+@**MARQUISE**
+
+
+$(_seule_)
+
+Je me demande qui peut bien être cet ecclésiastique.
+
+$(_L'ecclésiastique entre._)
+
+@**ÉGLÉSIASTICIEN**
+
+
+Madame la marquise, je vous salue.
+
+@**MARQUISE**
+
+
+$(_se levant_)
+
+Monsieur, je vous en prie, asseyez-vous.
+
+@**ÉGLÉSIASTICIEN**
+
+
+Merci, madame.
+
+$(_Il s'assied._)
+
+@**MARQUISE**
+
+
+Comment puis-je vous aider ?
+
+@**ÉGLÉSIASTICIEN**
+
+
+Je suis venu vous parler de la paix.
+
+@**MARQUISE**
+
+
+De la paix ?
+
+@**ÉGLÉSIASTICIEN**
+
+
+Oui, madame. Je sais que vous avez perdu votre fils dans la guerre. Je sais que vous souffrez. Mais je suis venu vous dire que la paix est possible.
+
+@**MARQUISE**
+
+
+Comment ?
+
+@**ÉGLÉSIASTICIEN**
+
+
+En pardonnant. En oubliant les rancunes. En apprenant à vivre ensemble.
+
+@**MARQUISE**
+
+
+C'est facile à dire.
+
+@**ÉGLÉSIASTICIEN**
+
+
+Je sais que ce n'est pas facile. Mais c'est possible.
+
+@**MARQUISE**
+
+
+Je ne sais pas si je suis capable de pardonner.
+
+@**ÉGLÉSIASTICIEN**
+
+
+Je sais que c'est difficile. Mais je suis ici pour vous aider.
+
+@**MARQUISE**
+
+
+Comment ?
+
+@**ÉGLÉSIASTICIEN**
+
+
+Je peux vous accompagner dans votre chemin de pardon. Je peux vous aider à trouver la paix.
+
+@**MARQUISE**
+
+
+Je ne sais pas si je suis prête.
+
+@**ÉGLÉSIASTICIEN**
+
+
+Vous n'avez pas à être prête tout de suite. Vous pouvez prendre votre temps. Mais je suis là pour vous, quand vous serez prête.
+
+@**MARQUISE**
+
+
+Merci, monsieur.
+
+@**ÉGLÉSIASTICIEN**
+
+
+Je vous en prie, madame.
+
+$(_Il se lève._)
+
+Je vous laisse, madame. Je reviendrai quand vous le souhaiterez.
+
+@**MARQUISE**
+
+
+Merci, monsieur.
+
+$(_L'ecclésiastique sort._)
+
+@**MARQUISE**
+
+
+$(_seule_)
+
+Je ne sais pas si je suis capable de pardonner. Mais je vais essayer. Pour mon fils. Pour moi-même. Pour la paix.
+
+$(_La pièce se termine._)
+
+**
+##ACTE V**
+
+**
 ##Scène 1**
 
-* * *
+*INTÉRIEUR D'UNE CHAMBRE*
 
-@**UNE CHAMBRE DANS LE PALAIS ROYAL**
-
-@**LE DUC**
-
-$(seul)
-
-J'ai fait ce qu'il fallait. J'ai abaisser les taxes sur les pauvres et j'ai créé une nouvelle taxe sur les riches. Je suis sûr que le peuple sera content.
-
-@**UN LACAI**
-
-$(entre)
-
-Monseigneur, il y a un messager du peuple.
-
-@**LE DUC**
-
-Qu'il entre.
-
-$**(Le messager entre.)**
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple est ravi. Ils sont très reconnaissants pour ce que vous avez fait.
-
-@**LE DUC**
-
-Je suis content de l'entendre. Je suis heureux de pouvoir aider le peuple.
-
-@**LE MESSAGER**
-
-Monseigneur, le peuple vous demande de rester roi. Ils ne veulent pas que vous abdiquez.
-
-@**LE DUC**
-
-Je ne vais pas abdiquer. Je suis le roi de France et je resterai roi jusqu'à ma mort.
-
-@**LE MESSAGER**
-
-Merci, Monseigneur.
-
-$**(Le messager sort.)**
-
-* * *
-
-$**
-##Scène 2**
-
-* * *
-
-@**LE DUC**
-
-$(seul)
-
-Je suis content de rester roi. Je suis heureux de pouvoir servir le peuple.
-
-$**(Il réfléchit.)**
-
-Je sais que je dois faire plus pour le peuple. Je dois leur donner une vie meilleure.
-
-$**(Il se lève.)**
-
-Je vais travailler dur pour faire de la France un pays plus juste et plus prospère.
-
-$**(Le rideau tombe.)**
+@**MARQUISE** (_assise sur un sofa, rêveuse_)
 
 
+Mon fils, mon pauvre fils...
+
+$(_La servante entre._)
+
+@**SERVANTE**
+
+
+Madame, un groupe de personnes est là pour vous voir.
+
+@**MARQUISE**
+
+
+Un groupe de personnes ? Qui sont-ils ?
+
+@**SERVANTE**
+
+
+Ils ne m'ont pas dit leur nom.
+
+@**MARQUISE**
+
+
+Faites-les entrer.
+
+$(_La servante sort._)
+
+@**MARQUISE**
+
+
+$(_seule_)
+
+Je me demande qui peut bien être ce groupe de personnes.
+
+$(_Le groupe de personnes entre._)
+
+@**PRÉSIDENT**
+
+
+Madame la marquise, nous vous saluons.
+
+@**MARQUISE**
+
+
+$(_se levant_)
+
+Messieurs, je vous en prie, asseyez-vous.
+
+@**PRÉSIDENT**
+
+
+Merci, madame.
+
+$(_Ils s'assoient._)
+
+@**MARQUISE**
+
+
+Comment puis-je vous aider ?
+
+@**PRÉSIDENT**
+
+
+Nous sommes venus vous parler de la paix.
+
+@**MARQUISE**
+
+
+De la paix ?
+
+@**PRÉSIDENT**
+
+
+Oui, madame. Nous sommes un groupe de personnes qui militons pour la paix. Nous savons que vous avez perdu votre fils dans la guerre. Nous savons que vous souffrez. Mais nous sommes venus vous dire que nous sommes avec vous. Nous vous soutenons dans votre chemin de pardon.
+
+@**MARQUISE**
+
+
+Je vous remercie.
+
+@**PRÉSIDENT**
+
+
+Nous avons aussi une proposition à vous faire. Nous avons organisé une grande manifestation pour la paix. Nous aimerions que vous y participiez. Nous pensons que votre présence serait un symbole important pour la paix.
+
+@**MARQUISE**
+
+
+Je ne sais pas si je suis prête.
+
+@**PRÉSIDENT**
+
+
+Vous n'avez pas à être prête tout de suite. Vous pouvez prendre votre temps. Mais nous sommes là pour vous, quand vous serez prête.
+
+@**MARQUISE**
+
+
+Je vais y réfléchir.
+
+@**PRÉSIDENT**
+
+
+Merci, madame. Nous vous remercions de votre temps.
+
+$(_Ils se lèvent._)
+
+Nous reviendrons vous voir quand vous le souhaiterez.
+
+@**MARQUISE**
+
+
+Je vous en prie.
+
+$(_Le groupe de personnes sort._)
+
+@**MARQUISE**
+
+
+$(_seule_)
+
+Je ne sais pas si je suis capable de pardonner. Mais je vais essayer. Pour mon fils. Pour moi-même. Pour la paix.
+
+$(_Elle se lève et va à la fenêtre._)
+
+Je regarde le soleil se lever. Je pense à mon fils, et je sais qu'il serait fier de moi.
+
+$(_Elle se retourne et regarde le public._)
+
+La vie est difficile, mais il faut toujours garder espoir. La paix est possible, si nous sommes prêts à pardonner.
+
+$(_La pièce se termine._)
