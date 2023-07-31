@@ -1,524 +1,522 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
-  <ns0:teiHeader>
-    <ns0:fileDesc>
-      <ns0:titleStmt>
-        <ns0:title>bard-german-6</ns0:title>
-      </ns0:titleStmt>
-      <ns0:publicationStmt>
-        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
-        <ns0:idno type="URL">https://dracor.org</ns0:idno>
-        <ns0:availability>
-          <ns0:licence>
-            <ns0:ab>CC0 1.0</ns0:ab>
-            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
-          </ns0:licence>
-        </ns0:availability>
-      </ns0:publicationStmt>
-      <ns0:sourceDesc>
-        <ns0:bibl />
-      </ns0:sourceDesc>
-    </ns0:fileDesc>
-    <ns0:profileDesc>
-      <ns0:particDesc>
-        <ns0:listPerson>
-          <ns0:person sex="MALE" xml:id="einige stunden später">
-            <ns0:persName>**EINIGE STUNDEN SPÄTER**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="einige jahre später">
-            <ns0:persName>**EINIGE JAHRE SPÄTER**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der herzog geist">
-            <ns0:persName>**DER HERZOG GEIST**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="die soldaten">
-            <ns0:persName>**DIE SOLDATEN**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der herzog">
-            <ns0:persName>**DER HERZOG**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="die frau">
-            <ns0:persName>**DIE FRAU**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="ein friedhof">
-            <ns0:persName>**EIN FRIEDHOF**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="ein raum in einem schloss">
-            <ns0:persName>**EIN RAUM IN EINEM SCHLOSS**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der kameradier">
-            <ns0:persName>**DER KAMERADIER**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="ein raum im schloss">
-            <ns0:persName>**EIN RAUM IM SCHLOSS**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="die kinder">
-            <ns0:persName>**DIE KINDER**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="ein schlachtfeld">
-            <ns0:persName>**EIN SCHLACHTFELD**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der sohn">
-            <ns0:persName>**DER SOHN**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="eine weile später">
-            <ns0:persName>**EINE WEILE SPÄTER**</ns0:persName>
-          </ns0:person>
-        </ns0:listPerson>
-      </ns0:particDesc>
-    </ns0:profileDesc>
-  </ns0:teiHeader>
-  <ns0:text>
-    <ns0:body>Sure, here is a first act of a 19th-century German play in the style of German drama:<ns0:div type="act">
-        <ns0:head>**Erster Akt**</ns0:head>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * *<ns0:sp who="#ein raum in einem schloss">
-            <ns0:speaker>**EIN RAUM IN EINEM SCHLOSS**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich bin der Herzog von Bayern. Ich bin mächtig und reich. Ich habe alles, was ich mir wünschen kann. Aber ich bin auch einsam. Ich habe keine Freunde. Ich habe keine Familie. Ich bin ein Gefangener in meinem eigenen Schloss.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf einem Thron)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Euer Gnaden, es ist ein Bote von der Front gekommen.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(tritt ein)</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Was hat er zu berichten?</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Die Schlacht war verloren. Unsere Armee ist besiegt.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(fällt in Ohnmacht)</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 2**</ns0:head>* * *<ns0:sp who="#einige stunden später">
-            <ns0:speaker>**EINIGE STUNDEN SPÄTER**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Wo bin ich?</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(erwacht)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr seid in eurem Schlafgemach, Euer Gnaden.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Was ist geschehen?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr habt einen Schwächeanfall erlitten.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Die Schlacht. Was ist mit der Schlacht?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Sie ist verloren. Unsere Armee ist besiegt.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Das ist das Ende.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(weint)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Nein, Euer Gnaden. Es ist noch nicht zu spät. Ihr könnt noch alles zurückgewinnen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Wie?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr müsst kämpfen. Ihr müsst eure Armee neu aufstellen. Ihr müsst die Schlacht rächen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich kann es nicht. Ich bin zu schwach.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr müsst es. Ihr seid der Herzog von Bayern. Ihr seid der letzte Hoffnung eures Volkes.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Du hast recht. Ich werde kämpfen. Ich werde meine Armee neu aufstellen. Ich werde die Schlacht rächen.* * *Sure, here is another act of the same play in German:</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:stage>**(Der Herzog und der Kamerad gehen.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-      </ns0:div>
-      <ns0:div type="act">
-        <ns0:head>**Zweiter Akt**</ns0:head>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * *<ns0:sp who="#ein schlachtfeld">
-            <ns0:speaker>**EIN SCHLACHTFELD**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Wir haben gekämpft. Wir haben unsere Armee neu aufgestellt. Wir haben die Schlacht gerächt.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf dem Schlachtfeld, umringt von seinen Soldaten)</ns0:stage>
-          <ns0:sp who="#die soldaten">
-            <ns0:speaker>**DIE SOLDATEN**</ns0:speaker>
-            <ns0:p>Hurra! Hurra! Der Herzog ist ein Held!</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich bin kein Held. Ich bin nur ein Mann, der alles verloren hat und dann alles wiedergewonnen hat.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die soldaten">
-            <ns0:speaker>**DIE SOLDATEN**</ns0:speaker>
-            <ns0:p>Ihr seid der Herzog von Bayern. Ihr seid der neue Hoffnungsträger eures Volkes.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich werde mein Volk nicht enttäuschen.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog und seine Soldaten ziehen triumphierend ab.)**</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 2**</ns0:head>* * *<ns0:sp who="#ein raum im schloss">
-            <ns0:speaker>**EIN RAUM IM SCHLOSS**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich habe alles zurückgewonnen. Mein Reich. Mein Volk. Meine Ehre.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf seinem Thron, neben ihm seine Frau und sein Sohn)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin so stolz auf dich, mein Gemahl.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich will auch ein Held sein wie du, Vater.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Du wirst es sein, mein Sohn. Du wirst es sein.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich muss jetzt gehen. Es ist Zeit, mich zu verabschieden.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Wohin gehst du, mein Gemahl?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich gehe ins Jenseits. Meine Zeit ist gekommen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Aber wir brauchen dich doch.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ja, Vater. Wir wollen dich nicht loslassen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich werde immer bei euch sein. In eurem Herzen und in eurem Gedächtnis.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog geht.)**</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Mein Gemahl ist tot.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(weint)</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich weiß, Mutter. Aber er wird immer in unseren Herzen sein.* * *Sure, here is another act of the same play in German:**Dritter Akt**</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Die Frau und der Sohn umarmen sich.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * *<ns0:sp who="#einige jahre später">
-            <ns0:speaker>**EINIGE JAHRE SPÄTER**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#ein raum im schloss">
-            <ns0:speaker>**EIN RAUM IM SCHLOSS**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich habe die Herrschaft von meinem Vater übernommen. Ich habe mein Bestes getan, um sein Erbe zu bewahren. Mein Volk ist friedlich und wohlhabend. Ich bin stolz auf das, was ich erreicht habe.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf dem Thron, neben ihm seine Frau und seine Kinder)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin so stolz auf dich, mein Gemahl. Du bist ein guter und gerechter Herrscher.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die kinder">
-            <ns0:speaker>**DIE KINDER**</ns0:speaker>
-            <ns0:p>Wir lieben dich, Vater!</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich liebe euch auch, meine Kinder.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ich bin stolz auf dich, mein Sohn. Du hast mein Erbe würdig fortgeführt.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(erscheint im Raum)</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Vater!</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ich habe dich immer beobachtet. Du hast ein guter und gerechter Herrscher sein. Ich bin stolz auf dich.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Danke, Vater. Ich habe mein Bestes getan.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ich weiß, mein Sohn. Ich bin stolz auf dich.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog Geist verschwindet.)**</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich werde mein Bestes tun, um mein Vaters Erbe zu bewahren. Ich werde ein guter und gerechter Herrscher sein, wie er es war.Sure, here is another act of the same play in German:**Vierter Akt**</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Vorhang fällt.)**</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * *<ns0:sp who="#einige jahre später">
-            <ns0:speaker>**EINIGE JAHRE SPÄTER**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#ein raum im schloss">
-            <ns0:speaker>**EIN RAUM IM SCHLOSS**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich bin alt geworden. Ich habe mein Leben lang gekämpft und gestritten. Aber ich habe auch viel erreicht. Ich habe mein Reich aufgebaut und mein Volk geeint. Ich bin stolz auf das, was ich getan habe.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf dem Thron, neben ihm seine Frau und seine erwachsenen Kinder)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin auch stolz auf dich, mein Gemahl. Du hast ein großes Werk vollbracht.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich bin dankbar für alles, was du für mich getan hast, Vater. Ich werde dein Erbe weiterführen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich weiß, dass du es kannst, mein Sohn. Du bist ein guter und gerechter Mann. Ich bin stolz auf dich.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich muss jetzt gehen. Es ist Zeit, mich zu verabschieden.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Wohin gehst du, mein Gemahl?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich gehe ins Jenseits. Meine Zeit ist gekommen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Aber wir brauchen dich doch.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ja, Mutter. Wir wollen dich nicht loslassen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich werde immer bei euch sein. In eurem Herzen und in eurem Gedächtnis.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Sohn geht.)**</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Mein Gemahl ist tot.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(weint)</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich weiß, Mutter. Aber er wird immer in unseren Herzen sein.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Die Frau und der Sohn umarmen sich.)**</ns0:stage>
-        </ns0:div>
-      </ns0:div>
-      <ns0:div type="act">
-        <ns0:head>**Epilog**</ns0:head>* * *<ns0:sp who="#einige jahre später">
-          <ns0:speaker>**EINIGE JAHRE SPÄTER**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ein friedhof">
-          <ns0:speaker>**EIN FRIEDHOF**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#der sohn">
-          <ns0:speaker>**DER SOHN**</ns0:speaker>
-          <ns0:p>Es ist einige Jahre her, seit mein Vater gestorben ist. Aber ich denke immer noch an ihn. Er war ein großer Mann und ein guter Vater. Ich bin dankbar für alles, was er mir beigebracht hat.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(steht am Grab seines Vaters)</ns0:stage>
-        <ns0:stage>**(Der Sohn legt einen Blumenstrauß auf das Grab.)**</ns0:stage>
-        <ns0:sp who="#der sohn">
-          <ns0:speaker>**DER SOHN**</ns0:speaker>
-          <ns0:p>Ich weiß, dass du immer bei mir bist, Vater. In meinem Herzen und in meinem Gedächtnis. Ich werde dein Erbe weiterführen und ein guter Herrscher sein, wie du es warst.* * *Sure, here is another act of the same play in German:**Fünfter Akt**</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Der Sohn geht.)**</ns0:stage>
-        <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * *<ns0:sp who="#einige jahre später">
-            <ns0:speaker>**EINIGE JAHRE SPÄTER**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#ein raum im schloss">
-            <ns0:speaker>**EIN RAUM IM SCHLOSS**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich habe die Herrschaft von meinem Vater übernommen. Ich habe mein Bestes getan, um sein Erbe zu bewahren. Mein Volk ist friedlich und wohlhabend. Ich bin stolz auf das, was ich erreicht habe.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf dem Thron, neben ihm seine Frau und seine Kinder)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin so stolz auf dich, mein Gemahl. Du bist ein guter und gerechter Herrscher.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die kinder">
-            <ns0:speaker>**DIE KINDER**</ns0:speaker>
-            <ns0:p>Wir lieben dich, Vater!</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich liebe euch auch, meine Kinder.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ich bin stolz auf dich, mein Sohn. Du hast mein Erbe würdig fortgeführt.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(erscheint im Raum)</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Vater!</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ich habe dich immer beobachtet. Du hast ein guter und gerechter Herrscher sein. Ich bin stolz auf dich.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Danke, Vater. Ich habe mein Bestes getan.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ich weiß, mein Sohn. Ich bin stolz auf dich.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog Geist verschwindet.)**</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich werde mein Bestes tun, um mein Vaters Erbe zu bewahren. Ich werde ein guter und gerechter Herrscher sein, wie er es war.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Sohn schließt die Augen und schläft ein.)**</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 2**</ns0:head>* * *<ns0:sp who="#eine weile später">
-            <ns0:speaker>**EINE WEILE SPÄTER**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:stage>(schläft)</ns0:stage>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Du hast gut geschlafen, mein Sohn.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(erscheint im Raum)</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Vater?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ja, es bin ich. Ich bin gekommen, um dir zu sagen, dass du ein guter Sohn und ein guter Herrscher bist. Ich bin stolz auf dich.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Danke, Vater.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ich muss jetzt gehen. Aber ich werde immer bei dir sein. In deinem Herzen und in deinem Gedächtnis.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich weiß, Vater. Ich werde dich nie vergessen.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog Geist verschwindet.)**</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich habe geträumt, dass mein Vater zu mir kam. Er war stolz auf mich. Ich bin glücklich.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(öffnet die Augen)</ns0:stage>
-          <ns0:stage>**(Der Sohn steht auf und geht.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-      </ns0:div>
-    </ns0:body>
-  </ns0:text>
-</ns0:TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="FEMALE" xml:id="franziska">
+            <persName>**FRANZISKA**</persName>
+          </person>
+          <person sex="MALE" xml:id="karl">
+            <persName>**KARL**</persName>
+          </person>
+          <person sex="MALE" xml:id="ende des akts">
+            <persName>**ENDE DES AKTS</persName>
+          </person>
+          <person sex="MALE" xml:id="ein haus in der stad">
+            <persName>**EIN HAUS IN DER STAD**</persName>
+          </person>
+          <person sex="MALE" xml:id="ende der einheit">
+            <persName>**ENDE DER EINHEIT</persName>
+          </person>
+          <person sex="MALE" xml:id="einheit">
+            <persName>**EINHEIT</persName>
+          </person>
+          <person sex="MALE" xml:id="karoline">
+            <persName>**KAROLINE**</persName>
+          </person>
+          <person sex="MALE" xml:id="ein gemäldenischer raum in einem gut in der heimat">
+            <persName>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 1**</head>* * *<sp who="#ein gemäldenischer raum in einem gut in der heimat">
+          <speaker>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#einheit">
+          <speaker>**EINHEIT</speaker>
+          <p>1****</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>AKT 1**</head>
+        <sp who="#karl">
+          <speaker>**KARL** </speaker>
+          <stage>(_sitzt an einem Schreibtisch und schreibt_)</stage>
+          <p>* * ** * *</p>
+        </sp>
+        <stage>(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl* * ** * *</p>
+        </sp>
+        <stage>(_KARL faltet den Brief und steckt ihn in einen Umschlag. Er steht auf und geht zum Fenster. Er sieht auf das Gut, das vor ihm liegt. Er ist traurig, dass er es vielleicht verlieren könnte._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.* * *</p>
+        </sp>
+        <stage>(_zu sich selbst_)</stage>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 2**</head>* * *<sp who="#ein haus in der stad">
+          <speaker>**EIN HAUS IN DER STAD**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#einheit">
+          <speaker>**EINHEIT</speaker>
+          <p>2****</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>AKT 1**</head>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA** </speaker>
+          <stage>(_sitzt in einem Salon und liest einen Brief_)</stage>
+          <p>* * ** * *</p>
+        </sp>
+        <stage>(_FRANZISKA ist eine junge Frau, die in der Stadt lebt. Sie ist die Tochter eines wohlhabenden Kaufmanns. Sie ist mit KARL verlobt._)</stage>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Liebe Franziska,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Verlobter,Karl* * ** * *</p>
+        </sp>
+        <stage>(_liest den Brief_)</stage>
+        <stage>(_FRANZISKA legt den Brief weg. Sie ist besorgt über die Nachricht, die KARL ihr geschrieben hat. Sie weiß, dass das Gut für KARL sehr wichtig ist._)</stage>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Ich muss etwas tun, um Karl zu helfen. Ich muss einen Weg finden, das Gut zu retten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für Karl und für unsere gemeinsame Zukunft retten.* * *</p>
+        </sp>
+        <stage>(_zu sich selbst_)</stage>
+        <sp who="#ende der einheit">
+          <speaker>**ENDE DER EINHEIT</speaker>
+          <p>2**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 1**</head>* * *<sp who="#ein gemäldenischer raum in einem gut in der heimat">
+          <speaker>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#einheit">
+          <speaker>**EINHEIT</speaker>
+          <p>1****</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>AKT 2**</head>
+        <sp who="#karl">
+          <speaker>**KARL** </speaker>
+          <stage>(_sitzt an einem Schreibtisch und schreibt_)</stage>
+          <p>* * ** * *</p>
+        </sp>
+        <stage>(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl* * ** * *</p>
+        </sp>
+        <stage>(_KARL faltet den Brief und steckt ihn in einen Umschlag. Er steht auf und geht zum Fenster. Er sieht auf das Gut, das vor ihm liegt. Er ist traurig, dass er es vielleicht verlieren könnte._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.* * *</p>
+        </sp>
+        <stage>(_zu sich selbst_)</stage>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA** </speaker>
+          <stage>(_kommt herein_)</stage>
+          <p>Karl, ich habe eine Nachricht für dich.* * *</p>
+        </sp>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Was ist es?* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Dein Vater ist gestorben.* * ** * *</p>
+        </sp>
+        <stage>(_KARL ist geschockt. Er kann nicht glauben, was er gerade gehört hat._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Mein Vater? Er ist tot?* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Ja, er ist heute Morgen gestorben.* * ** * *</p>
+        </sp>
+        <stage>(_KARL ist still. Er kann nicht glauben, dass sein Vater weg ist._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Ich muss nach Hause gehen.* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Ich komme mit dir.* * ** * *</p>
+        </sp>
+        <stage>(_KARL und Franziska gehen._)</stage>
+        <sp who="#ende der einheit">
+          <speaker>**ENDE DER EINHEIT</speaker>
+          <p>1*** * *</p>
+        </sp>
+        <sp who="#einheit">
+          <speaker>**EINHEIT</speaker>
+          <p>2*** * *</p>
+        </sp>
+        <sp who="#ein haus in der stad">
+          <speaker>**EIN HAUS IN DER STAD**</speaker>
+          <p>* * *</p>
+        </sp>
+        <sp who="#karoline">
+          <speaker>**KAROLINE** </speaker>
+          <stage>(_sitzt in einem Salon und liest einen Brief_)</stage>
+          <p>* * ** * *</p>
+        </sp>
+        <stage>(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
+        <sp who="#karoline">
+          <speaker>**KAROLINE**</speaker>
+          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl* * ** * *</p>
+        </sp>
+        <stage>(_liest den Brief_)</stage>
+        <stage>(_KAROLINE legt den Brief weg. Sie ist traurig, dass ihr Vater gestorben ist, aber sie weiß, dass sie Karl helfen muss._)</stage>
+        <sp who="#karoline">
+          <speaker>**KAROLINE**</speaker>
+          <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.* * ** * *</p>
+        </sp>
+        <stage>(_zu sich selbst_)</stage>
+        <stage>(_KAROLINE geht._)</stage>
+        <sp who="#ende des akts">
+          <speaker>**ENDE DES AKTS</speaker>
+          <p>2**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 1**</head>* * *<sp who="#ein gemäldenischer raum in einem gut in der heimat">
+          <speaker>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#einheit">
+          <speaker>**EINHEIT</speaker>
+          <p>1****</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>AKT 3**</head>
+        <sp who="#karl">
+          <speaker>**KARL** </speaker>
+          <stage>(_sitzt an einem Schreibtisch und schreibt_)</stage>
+          <p>* * ** * *</p>
+        </sp>
+        <stage>(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl* * ** * *</p>
+        </sp>
+        <stage>(_KARL faltet den Brief und steckt ihn in einen Umschlag. Er steht auf und geht zum Fenster. Er sieht auf das Gut, das vor ihm liegt. Er ist traurig, dass er es vielleicht verlieren könnte._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.* * *</p>
+        </sp>
+        <stage>(_zu sich selbst_)</stage>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA** </speaker>
+          <stage>(_kommt herein_)</stage>
+          <p>Karl, ich habe eine Nachricht für dich.* * *</p>
+        </sp>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Was ist es?* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Dein Vater ist gestorben.* * ** * *</p>
+        </sp>
+        <stage>(_KARL ist geschockt. Er kann nicht glauben, was er gerade gehört hat._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Mein Vater? Er ist tot?* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Ja, er ist heute Morgen gestorben.* * ** * *</p>
+        </sp>
+        <stage>(_KARL ist still. Er kann nicht glauben, dass sein Vater weg ist._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Ich muss nach Hause gehen.* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Ich komme mit dir.* * ** * *</p>
+        </sp>
+        <stage>(_KARL und Franziska gehen._)</stage>
+        <sp who="#ende der einheit">
+          <speaker>**ENDE DER EINHEIT</speaker>
+          <p>1*** * *</p>
+        </sp>
+        <sp who="#einheit">
+          <speaker>**EINHEIT</speaker>
+          <p>2*** * *</p>
+        </sp>
+        <sp who="#ein haus in der stad">
+          <speaker>**EIN HAUS IN DER STAD**</speaker>
+          <p>* * *</p>
+        </sp>
+        <sp who="#karoline">
+          <speaker>**KAROLINE** </speaker>
+          <stage>(_sitzt in einem Salon und liest einen Brief_)</stage>
+          <p>* * ** * *</p>
+        </sp>
+        <stage>(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
+        <sp who="#karoline">
+          <speaker>**KAROLINE**</speaker>
+          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl* * ** * *</p>
+        </sp>
+        <stage>(_liest den Brief_)</stage>
+        <stage>(_KAROLINE legt den Brief weg. Sie ist traurig, dass ihr Vater gestorben ist, aber sie weiß, dass sie Karl helfen muss._)</stage>
+        <sp who="#karoline">
+          <speaker>**KAROLINE**</speaker>
+          <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.* * ** * *</p>
+        </sp>
+        <stage>(_zu sich selbst_)</stage>
+        <stage>(_KAROLINE geht._)</stage>
+        <sp who="#ende des akts">
+          <speaker>**ENDE DES AKTS</speaker>
+          <p>2**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 2**</head>* * ***</div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 2**</head>* * *<sp who="#ein gemäldenischer raum in einem gut in der heimat">
+          <speaker>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#einheit">
+          <speaker>**EINHEIT</speaker>
+          <p>1****</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>AKT 3**</head>
+        <sp who="#karl">
+          <speaker>**KARL** </speaker>
+          <stage>(_sitzt an einem Schreibtisch und schreibt_)</stage>
+          <p>* * ** * *</p>
+        </sp>
+        <stage>(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl* * ** * *</p>
+        </sp>
+        <stage>(_KARL faltet den Brief und steckt ihn in einen Umschlag. Er steht auf und geht zum Fenster. Er sieht auf das Gut, das vor ihm liegt. Er ist traurig, dass er es vielleicht verlieren könnte._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.* * *</p>
+        </sp>
+        <stage>(_zu sich selbst_)</stage>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA** </speaker>
+          <stage>(_kommt herein_)</stage>
+          <p>Karl, ich habe eine Nachricht für dich.* * *</p>
+        </sp>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Was ist es?* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Dein Vater ist gestorben.* * ** * *</p>
+        </sp>
+        <stage>(_KARL ist geschockt. Er kann nicht glauben, was er gerade gehört hat._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Mein Vater? Er ist tot?* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Ja, er ist heute Morgen gestorben.* * ** * *</p>
+        </sp>
+        <stage>(_KARL ist still. Er kann nicht glauben, dass sein Vater weg ist._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Ich muss nach Hause gehen.* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Ich komme mit dir.* * ** * *</p>
+        </sp>
+        <stage>(_KARL und Franziska gehen._)</stage>
+        <sp who="#ende der einheit">
+          <speaker>**ENDE DER EINHEIT</speaker>
+          <p>1*** * *</p>
+        </sp>
+        <sp who="#einheit">
+          <speaker>**EINHEIT</speaker>
+          <p>2*** * *</p>
+        </sp>
+        <sp who="#ein haus in der stad">
+          <speaker>**EIN HAUS IN DER STAD**</speaker>
+          <p>* * *</p>
+        </sp>
+        <sp who="#karoline">
+          <speaker>**KAROLINE** </speaker>
+          <stage>(_sitzt in einem Salon und liest einen Brief_)</stage>
+          <p>* * ** * *</p>
+        </sp>
+        <stage>(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
+        <sp who="#karoline">
+          <speaker>**KAROLINE**</speaker>
+          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl* * ** * *</p>
+        </sp>
+        <stage>(_liest den Brief_)</stage>
+        <stage>(_KAROLINE legt den Brief weg. Sie ist traurig, dass ihr Vater gestorben ist, aber sie weiß, dass sie Karl helfen muss._)</stage>
+        <sp who="#karoline">
+          <speaker>**KAROLINE**</speaker>
+          <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.* * ** * *</p>
+        </sp>
+        <stage>(_zu sich selbst_)</stage>
+        <stage>(_KAROLINE geht._)</stage>
+        <sp who="#ende des akts">
+          <speaker>**ENDE DES AKTS</speaker>
+          <p>2**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 3**</head>* * ***</div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 3**</head>* * *<sp who="#ein gemäldenischer raum in einem gut in der heimat">
+          <speaker>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#einheit">
+          <speaker>**EINHEIT</speaker>
+          <p>1****</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>AKT 3**</head>
+        <sp who="#karl">
+          <speaker>**KARL** </speaker>
+          <stage>(_sitzt an einem Schreibtisch und schreibt_)</stage>
+          <p>* * ** * *</p>
+        </sp>
+        <stage>(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl* * ** * *</p>
+        </sp>
+        <stage>(_KARL faltet den Brief und steckt ihn in einen Umschlag. Er steht auf und geht zum Fenster. Er sieht auf das Gut, das vor ihm liegt. Er ist traurig, dass er es vielleicht verlieren könnte._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.* * *</p>
+        </sp>
+        <stage>(_zu sich selbst_)</stage>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA** </speaker>
+          <stage>(_kommt herein_)</stage>
+          <p>Karl, ich habe eine Nachricht für dich.* * *</p>
+        </sp>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Was ist es?* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Dein Vater ist gestorben.* * ** * *</p>
+        </sp>
+        <stage>(_KARL ist geschockt. Er kann nicht glauben, was er gerade gehört hat._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Mein Vater? Er ist tot?* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Ja, er ist heute Morgen gestorben.* * ** * *</p>
+        </sp>
+        <stage>(_KARL ist still. Er kann nicht glauben, dass sein Vater weg ist._)</stage>
+        <sp who="#karl">
+          <speaker>**KARL**</speaker>
+          <p>Ich muss nach Hause gehen.* * *</p>
+        </sp>
+        <sp who="#franziska">
+          <speaker>**FRANZISKA**</speaker>
+          <p>Ich komme mit dir.* * ** * *</p>
+        </sp>
+        <stage>(_KARL und Franziska gehen._)</stage>
+        <sp who="#ende der einheit">
+          <speaker>**ENDE DER EINHEIT</speaker>
+          <p>1*** * *</p>
+        </sp>
+        <sp who="#einheit">
+          <speaker>**EINHEIT</speaker>
+          <p>2*** * *</p>
+        </sp>
+        <sp who="#ein haus in der stad">
+          <speaker>**EIN HAUS IN DER STAD**</speaker>
+          <p>* * *</p>
+        </sp>
+        <sp who="#karoline">
+          <speaker>**KAROLINE** </speaker>
+          <stage>(_sitzt in einem Salon und liest einen Brief_)</stage>
+          <p>* * ** * *</p>
+        </sp>
+        <stage>(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
+        <sp who="#karoline">
+          <speaker>**KAROLINE**</speaker>
+          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl* * ** * *</p>
+        </sp>
+        <stage>(_liest den Brief_)</stage>
+        <stage>(_KAROLINE legt den Brief weg. Sie ist traurig, dass ihr Vater gestorben ist, aber sie weiß, dass sie Karl helfen muss._)</stage>
+        <sp who="#karoline">
+          <speaker>**KAROLINE**</speaker>
+          <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.</p>
+        </sp>
+        <stage>(_zu sich selbst_)</stage>
+      </div>
+    </body>
+  </text>
+</TEI>

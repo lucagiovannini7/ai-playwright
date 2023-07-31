@@ -1,397 +1,1214 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
-  <ns0:teiHeader>
-    <ns0:fileDesc>
-      <ns0:titleStmt>
-        <ns0:title>bard-german-4</ns0:title>
-      </ns0:titleStmt>
-      <ns0:publicationStmt>
-        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
-        <ns0:idno type="URL">https://dracor.org</ns0:idno>
-        <ns0:availability>
-          <ns0:licence>
-            <ns0:ab>CC0 1.0</ns0:ab>
-            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
-          </ns0:licence>
-        </ns0:availability>
-      </ns0:publicationStmt>
-      <ns0:sourceDesc>
-        <ns0:bibl />
-      </ns0:sourceDesc>
-    </ns0:fileDesc>
-    <ns0:profileDesc>
-      <ns0:particDesc>
-        <ns0:listPerson>
-          <ns0:person sex="MALE" xml:id="einige jahre später">
-            <ns0:persName>**EINIGE JAHRE SPÄTER**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="die soldaten">
-            <ns0:persName>**DIE SOLDATEN**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der herzog">
-            <ns0:persName>**DER HERZOG**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="die frau">
-            <ns0:persName>**DIE FRAU**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="ein friedhof">
-            <ns0:persName>**EIN FRIEDHOF**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der kameradier">
-            <ns0:persName>**DER KAMERADIER**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="ein raum im schloss">
-            <ns0:persName>**EIN RAUM IM SCHLOSS**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="ein schlachtfeld">
-            <ns0:persName>**EIN SCHLACHTFELD**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="ein saal in einem schloss">
-            <ns0:persName>**EIN SAAL IN EINEM SCHLOSS**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der sohn">
-            <ns0:persName>**DER SOHN**</ns0:persName>
-          </ns0:person>
-        </ns0:listPerson>
-      </ns0:particDesc>
-    </ns0:profileDesc>
-  </ns0:teiHeader>
-  <ns0:text>
-    <ns0:body>Sure, here is a first act of a 19th-century German play in the style of German drama:<ns0:div type="act">
-        <ns0:head>**Erster Akt**</ns0:head>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * *<ns0:sp who="#ein saal in einem schloss">
-            <ns0:speaker>**EIN SAAL IN EINEM SCHLOSS**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich bin der Herzog von Bayern. Ich bin mächtig und reich. Ich habe alles, was ich mir wünschen kann. Aber ich bin auch einsam. Ich habe keine Freunde. Ich habe keine Familie. Ich bin ein Gefangener in meinem eigenen Schloss.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf einem Thron)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Euer Gnaden, es ist ein Bote von der Front gekommen.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(tritt ein)</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Was hat er zu berichten?</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Die Schlacht war verloren. Unsere Armee ist besiegt.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(fällt in Ohnmacht)</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 2**</ns0:head>* * *<ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Wo bin ich?</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(erwacht)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr seid in eurem Schlafgemach, Euer Gnaden.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Was ist geschehen?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr habt einen Schwächeanfall erlitten.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Die Schlacht. Was ist mit der Schlacht?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Sie ist verloren. Unsere Armee ist besiegt.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Das ist das Ende.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(weint)</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 3**</ns0:head>* * *<ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich habe alles verloren. Mein Reich. Mein Volk. Meine Ehre. Ich bin ein Gescheiterter.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf seinem Thron)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Euer Gnaden, es ist noch nicht zu spät. Ihr könnt noch alles zurückgewinnen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Wie?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr müsst kämpfen. Ihr müsst eure Armee neu aufstellen. Ihr müsst die Schlacht rächen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich kann es nicht. Ich bin zu schwach.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr müsst es. Ihr seid der Herzog von Bayern. Ihr seid der letzte Hoffnung eures Volkes.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Du hast recht. Ich werde kämpfen. Ich werde meine Armee neu aufstellen. Ich werde die Schlacht rächen.* * *I hope you like it!Sure, here is another act of the same play in German:</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-      </ns0:div>
-      <ns0:div type="act">
-        <ns0:head>**Zweiter Akt**</ns0:head>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * *<ns0:sp who="#ein schlachtfeld">
-            <ns0:speaker>**EIN SCHLACHTFELD**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Wir haben gekämpft. Wir haben unsere Armee neu aufgestellt. Wir haben die Schlacht gerächt.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf dem Schlachtfeld, umringt von seinen Soldaten)</ns0:stage>
-          <ns0:sp who="#die soldaten">
-            <ns0:speaker>**DIE SOLDATEN**</ns0:speaker>
-            <ns0:p>Hurra! Hurra! Der Herzog ist ein Held!</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich bin kein Held. Ich bin nur ein Mann, der alles verloren hat und dann alles wiedergewonnen hat.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die soldaten">
-            <ns0:speaker>**DIE SOLDATEN**</ns0:speaker>
-            <ns0:p>Ihr seid der Herzog von Bayern. Ihr seid der neue Hoffnungsträger eures Volkes.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich werde mein Volk nicht enttäuschen.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog und seine Soldaten ziehen triumphierend ab.)**</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 2**</ns0:head>* * *<ns0:sp who="#ein raum im schloss">
-            <ns0:speaker>**EIN RAUM IM SCHLOSS**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich habe alles zurückgewonnen. Mein Reich. Mein Volk. Meine Ehre.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf seinem Thron, neben ihm seine Frau und sein Sohn)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin so stolz auf dich, mein Gemahl.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich will auch ein Held sein wie du, Vater.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Du wirst es sein, mein Sohn. Du wirst es sein.* * *I hope you like it!Sure, here is another act of the same play in German:**Dritter Akt**</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * *<ns0:sp who="#einige jahre später">
-            <ns0:speaker>**EINIGE JAHRE SPÄTER**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#ein raum im schloss">
-            <ns0:speaker>**EIN RAUM IM SCHLOSS**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Es sind einige Jahre her, seit wir die Schlacht gerächt haben. In dieser Zeit habe ich mein Reich weiter aufgebaut und mein Volk noch weiter geeint. Ich bin stolz auf das, was wir erreicht haben.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf seinem Thron, neben ihm seine Frau und sein erwachsener Sohn)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin auch stolz auf dich, mein Gemahl. Du hast alles für uns getan.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich habe dich immer bewundert, Vater. Du bist ein wahrer Held.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Danke, mein Sohn. Ich bin froh, dass du so stolz auf mich bist.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich muss jetzt gehen. Es gibt noch viel zu tun.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Sei vorsichtig, mein Gemahl.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich werde es sein.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog geht.)**</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich will auch ein Held sein wie mein Vater.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(zu seiner Mutter)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Du wirst es sein, mein Sohn. Du wirst es sein.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Die Frau und der Sohn umarmen sich.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-      </ns0:div>
-      <ns0:div type="act">
-        <ns0:head>**Epilog**</ns0:head>* * *<ns0:sp who="#einige jahre später">
-          <ns0:speaker>**EINIGE JAHRE SPÄTER**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#ein friedhof">
-          <ns0:speaker>**EIN FRIEDHOF**</ns0:speaker>
-          <ns0:p />
-        </ns0:sp>
-        <ns0:sp who="#der sohn">
-          <ns0:speaker>**DER SOHN**</ns0:speaker>
-          <ns0:p>Ich habe dich immer bewundert, Vater. Du bist ein wahrer Held. Ich werde alles tun, um in deine Fußstapfen zu treten.* * *Sure, here is another act of the same play in German:**Vierter Akt**</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(steht am Grab seines Vaters)</ns0:stage>
-        <ns0:stage>**(Der Sohn geht.)**</ns0:stage>
-        <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * *<ns0:sp who="#einige jahre später">
-            <ns0:speaker>**EINIGE JAHRE SPÄTER**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#ein raum im schloss">
-            <ns0:speaker>**EIN RAUM IM SCHLOSS**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich bin alt geworden. Ich habe mein Leben lang gekämpft und gestritten. Aber ich habe auch viel erreicht. Ich habe mein Reich aufgebaut und mein Volk geeint. Ich bin stolz auf das, was ich getan habe.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf seinem Thron, neben ihm seine Frau und sein erwachsener Sohn)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin auch stolz auf dich, mein Gemahl. Du hast ein großes Werk vollbracht.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich bin dankbar für alles, was du für mich getan hast, Vater. Ich werde dein Erbe weiterführen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich weiß, dass du es kannst, mein Sohn. Du bist ein guter und gerechter Mann. Ich bin stolz auf dich.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich muss jetzt gehen. Es ist Zeit, mich zu verabschieden.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Wohin gehst du, mein Gemahl?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich gehe ins Jenseits. Meine Zeit ist gekommen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Aber wir brauchen dich doch.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ja, Vater. Wir wollen dich nicht loslassen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich werde immer bei euch sein. In eurem Herzen und in eurem Gedächtnis.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog geht.)**</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Mein Gemahl ist tot.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(weint)</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich weiß, Mutter. Aber er wird immer in unseren Herzen sein.* * *Sure, here is another act of the same play in German:**Fünfter Akt**</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Die Frau und der Sohn umarmen sich.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * *<ns0:sp who="#einige jahre später">
-            <ns0:speaker>**EINIGE JAHRE SPÄTER**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#ein friedhof">
-            <ns0:speaker>**EIN FRIEDHOF**</ns0:speaker>
-            <ns0:p />
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Es ist einige Jahre her, seit mein Vater gestorben ist. Aber ich denke immer noch an ihn. Er war ein großer Mann und ein guter Vater. Ich bin dankbar für alles, was er mir beigebracht hat.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht am Grab seines Vaters)</ns0:stage>
-          <ns0:stage>**(Der Sohn legt einen Blumenstrauß auf das Grab.)**</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich weiß, dass du immer bei mir bist, Vater. In meinem Herzen und in meinem Gedächtnis. Ich werde dein Erbe weiterführen und ein guter Herrscher sein, wie du es warst.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Sohn geht.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-      </ns0:div>
-    </ns0:body>
-  </ns0:text>
-</ns0:TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="ein raum in einem schloss">
+            <persName>**EIN RAUM IN EINEM SCHLOSS**</persName>
+          </person>
+          <person sex="MALE" xml:id="könig">
+            <persName>**KÖNIG:**</persName>
+          </person>
+          <person sex="MALE" xml:id="kommissar">
+            <persName>**KOMMISSAR:**</persName>
+          </person>
+          <person sex="MALE" xml:id="ein raum im schloss des herzogs">
+            <persName>**EIN RAUM IM SCHLOSS DES HERZOGS**</persName>
+          </person>
+          <person sex="MALE" xml:id="graf">
+            <persName>**GRAF:**</persName>
+          </person>
+          <person sex="MALE" xml:id="ein raum im schloss des königs">
+            <persName>**EIN RAUM IM SCHLOSS DES KÖNIGS**</persName>
+          </person>
+          <person sex="MALE" xml:id="baroness">
+            <persName>**BARONESS:**</persName>
+          </person>
+          <person sex="MALE" xml:id="herzog">
+            <persName>**HERZOG:**</persName>
+          </person>
+          <person sex="MALE" xml:id="baron">
+            <persName>**BARON:**</persName>
+          </person>
+          <person sex="MALE" xml:id="ein raum im schloss des barons">
+            <persName>**EIN RAUM IM SCHLOSS DES BARONS**</persName>
+          </person>
+          <person sex="MALE" xml:id="herzogin">
+            <persName>**HERZOGIN:**</persName>
+          </person>
+          <person sex="MALE" xml:id="kommissar">
+            <persName>**KOMMISSAR</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 1**</head>* * *<sp who="#ein raum in einem schloss">
+          <speaker>**EIN RAUM IN EINEM SCHLOSS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:** </speaker>
+          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Was ist es?</p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Mein Herr, es ist der Graf. Er will Sie sprechen.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Der Graf? Was will er von mir?</p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Er sagt, es ist dringend.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Schick ihn herein.* * *</p>
+        </sp>
+        <sp who="#graf">
+          <speaker>**GRAF:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Was ist es, Graf?</p>
+        </sp>
+        <sp who="#graf">
+          <speaker>**GRAF:**</speaker>
+          <p>Mein Herr, es ist ein Verrat.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Verrat? Von wem?</p>
+        </sp>
+        <sp who="#graf">
+          <speaker>**GRAF:**</speaker>
+          <p>Von dem Baron.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Dem Baron? Das ist unmöglich!</p>
+        </sp>
+        <sp who="#graf">
+          <speaker>**GRAF:**</speaker>
+          <p>Es ist wahr, mein Herr. Ich habe es mit eigenen Augen gesehen.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Was hast du gesehen?</p>
+        </sp>
+        <sp who="#graf">
+          <speaker>**GRAF:**</speaker>
+          <p>Ich habe gesehen, wie der Baron mit dem Feind zusammenarbeitet.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Das ist schwer zu glauben.</p>
+        </sp>
+        <sp who="#graf">
+          <speaker>**GRAF:**</speaker>
+          <p>Es ist wahr, mein Herr. Ich bitte Sie, mir zu glauben.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich werde es untersuchen.</p>
+        </sp>
+        <sp who="#graf">
+          <speaker>**GRAF:**</speaker>
+          <p>Ich danke Ihnen, mein Herr.* * *</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:** </speaker>
+          <stage>(zur Herzogin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Das ist ein schwerer Vorwurf, den der Graf dem Baron macht.</p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Ich weiß, mein Herr. Aber ich glaube ihm.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich werde es untersuchen.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 2**</head>* * *<sp who="#ein raum im schloss des barons">
+          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:** </speaker>
+          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
+          <p></p>
+        </sp>
+        <sp who="#baroness">
+          <speaker>**BARONESS:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#baroness">
+          <speaker>**BARONESS:**</speaker>
+          <p>Mein Herr, der Herzog will Sie sprechen.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Was will er von mir?</p>
+        </sp>
+        <sp who="#baroness">
+          <speaker>**BARONESS:**</speaker>
+          <p>Er sagt, es ist dringend.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Schick ihn herein.* * *</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Mein Herr, was kann ich für Sie tun?</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Baron, ich habe einen schweren Vorwurf gegen Sie.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Was ist es, mein Herr?</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich habe den Grafen gesehen, wie er mit dem Feind zusammenarbeitet.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Das ist unmöglich!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Es ist wahr, Baron. Ich habe es mit eigenen Augen gesehen.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ich weiß nicht, was Sie gesehen haben, mein Herr, aber es war nicht ich.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich glaube Ihnen nicht, Baron.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Das ist Ihr gutes Recht, mein Herr. Aber ich bin unschuldig.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Wir werden sehen.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 3**</head>* * *<sp who="#ein raum im schloss des herzogs">
+          <speaker>**EIN RAUM IM SCHLOSS DES HERZOGS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:** </speaker>
+          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Mein Herr, was ist mit dem Baron?</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich habe ihn verbannt.</p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Verbannt? Aber warum?</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Weil ich ihm nicht glauben kann.</p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Aber er ist unschuldig!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.</p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Aber das ist ein hartes Urteil!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich weiß. Aber es ist das, was ich tun muss.* * ***Das Stück endet hier.**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 1**</head>* * *<sp who="#ein raum im schloss des herzogs">
+          <speaker>**EIN RAUM IM SCHLOSS DES HERZOGS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:** </speaker>
+          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Mein Herr, es ist der König. Er will Sie sprechen.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Der König? Was will er von mir?</p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Er sagt, es ist dringend.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Schick ihn herein.* * *</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Mein König, was ist es?</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Mein Herzog, ich habe einen schweren Vorwurf gegen Sie.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Was ist es, mein König?</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich habe gehört, dass Sie den Baron verbannt haben.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ja, das ist richtig.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Aber warum?</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Weil ich ihm nicht glauben kann.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Aber er ist unschuldig!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Das ist ein hartes Urteil!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich weiß. Aber es ist das, was ich tun muss.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich verstehe, mein König.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich werde einen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich danke Ihnen, mein König.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 2**</head>* * *<sp who="#ein raum im schloss des barons">
+          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:** </speaker>
+          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
+          <p></p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Baron, ich bin der Kommissar des Untersuchungsausschusses. Ich möchte Sie ein paar Fragen stellen.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ich bin Ihnen gerne behilflich, Kommissar.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Was können Sie uns über den Vorwurf des Herzogs sagen, dass Sie mit dem Feind zusammenarbeiten?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Es ist eine Lüge! Ich habe mit dem Feind nie zusammengearbeitet.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Haben Sie den Grafen jemals gesehen, wie er mit dem Feind zusammenarbeitet?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Nein, ich habe ihn nie gesehen.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Haben Sie jemals mit dem Grafen über den Feind gesprochen?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Nein, ich habe nie mit ihm darüber gesprochen.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Was können Sie uns über die Beziehung zwischen dem Grafen und dem Herzog sagen?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Der Graf ist ein Verräter. Er ist ein Freund des Feindes.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Haben Sie jemals Beweise für diese Behauptung gesehen?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Nein, ich habe keine Beweise gesehen. Aber ich weiß, dass es wahr ist.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Ich danke Ihnen für Ihre Zeit, Baron.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Bitte.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 3**</head>* * *<sp who="#ein raum im schloss des herzogs">
+          <speaker>**EIN RAUM IM SCHLOSS DES HERZOGS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:** </speaker>
+          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Mein Herr, der Kommissar ist da.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Schick ihn herein.* * *</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Kommissar, was haben Sie herausgefunden?</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Mein Herr, wir haben keine Beweise gefunden, die die Behauptung des Grafen stützen, dass der Baron mit dem Feind zusammenarbeitet.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Das ist nicht möglich!</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Ich weiß, mein Herr. Aber es ist die Wahrheit.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Was soll ich jetzt tun?</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Mein Herr, ich glaube, Sie sollten den Baron freilassen.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich kann das nicht tun!**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 1**</head>* * *<sp who="#ein raum im schloss des königs">
+          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:** </speaker>
+          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Mein König, was ist es?</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Mein Herzog, ich habe einen neuen Vorwurf gegen Sie.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Was ist es, mein König?</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich habe gehört, dass Sie den Baron verbannt haben, obwohl der Untersuchungsausschuss keine Beweise für seine Schuld gefunden hat.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Das ist richtig.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Aber warum?</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Weil ich ihm nicht glauben kann.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Aber er ist unschuldig!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Das ist ein hartes Urteil!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich weiß. Aber es ist das, was ich tun muss.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich verstehe, mein König.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich werde einen neuen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich danke Ihnen, mein König.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 2**</head>* * *<sp who="#ein raum im schloss des barons">
+          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:** </speaker>
+          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
+          <p></p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Baron, ich bin der Kommissar des neuen Untersuchungsausschusses. Ich möchte Sie ein paar Fragen stellen.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ich bin Ihnen gerne behilflich, Kommissar.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Was können Sie uns über den Vorwurf des Herzogs sagen, dass Sie mit dem Feind zusammenarbeiten?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Es ist eine Lüge! Ich habe mit dem Feind nie zusammengearbeitet.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Haben Sie den Grafen jemals gesehen, wie er mit dem Feind zusammenarbeitet?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Nein, ich habe ihn nie gesehen.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Haben Sie jemals mit dem Grafen über den Feind gesprochen?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Nein, ich habe nie mit ihm darüber gesprochen.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Was können Sie uns über die Beziehung zwischen dem Grafen und dem Herzog sagen?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Der Graf ist ein Verräter. Er ist ein Freund des Feindes.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Haben Sie jemals Beweise für diese Behauptung gesehen?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Nein, ich habe keine Beweise gesehen. Aber ich weiß, dass es wahr ist.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Ich danke Ihnen für Ihre Zeit, Baron.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Bitte.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 3**</head>* * *<sp who="#ein raum im schloss des königs">
+          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:** </speaker>
+          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Mein Herr, der Kommissar ist da.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Schick ihn herein.* * *</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Kommissar, was haben Sie herausgefunden?</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Mein Herr, wir haben neue Beweise gefunden, die die Behauptung des Barons stützen, dass der Graf mit dem Feind zusammenarbeitet.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Das ist nicht möglich!</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Ich weiß, mein Herr. Aber es ist die Wahrheit.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Was soll ich jetzt tun?</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Mein Herr, ich glaube, Sie sollten den Baron freilassen.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich werde es tun.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Ich danke Ihnen, mein Herr.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 4**</head>* * *<sp who="#ein raum im schloss des barons">
+          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:** </speaker>
+          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 1**</head>* * *<sp who="#ein raum im schloss des königs">
+          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:** </speaker>
+          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Mein König, was ist es?</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Mein Herzog, ich habe einen neuen Vorwurf gegen Sie.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Was ist es, mein König?</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich habe gehört, dass Sie den Baron verbannt haben, obwohl der Untersuchungsausschuss keine Beweise für seine Schuld gefunden hat. Und nun habe ich erfahren, dass Sie den Grafen, der den Baron beschuldigt hat, mit dem Feind zusammenarbeitet.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Das ist richtig.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Aber warum?</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Weil ich dem Grafen nicht glauben kann.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Aber er ist unschuldig!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Das ist ein hartes Urteil!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich weiß. Aber es ist das, was ich tun muss.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich verstehe, mein König.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich werde einen neuen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich danke Ihnen, mein König.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 2**</head>* * *<sp who="#ein raum im schloss des barons">
+          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:** </speaker>
+          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
+          <p></p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Baron, ich bin der Kommissar des neuen Untersuchungsausschusses. Ich möchte Sie ein paar Fragen stellen.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ich bin Ihnen gerne behilflich, Kommissar.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Was können Sie uns über den Vorwurf des Herzogs sagen, dass Sie mit dem Feind zusammenarbeiten?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Es ist eine Lüge! Ich habe mit dem Feind nie zusammengearbeitet.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Haben Sie den Grafen jemals gesehen, wie er mit dem Feind zusammenarbeitet?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Nein, ich habe ihn nie gesehen.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Haben Sie jemals mit dem Grafen über den Feind gesprochen?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Nein, ich habe nie mit ihm darüber gesprochen.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Was können Sie uns über die Beziehung zwischen dem Grafen und dem Herzog sagen?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Der Graf ist ein Verräter. Er ist ein Freund des Feindes.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Haben Sie jemals Beweise für diese Behauptung gesehen?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ja, ich habe Beweise gesehen. Aber ich kann sie Ihnen nicht zeigen.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Warum nicht?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Weil ich sie nicht gefunden habe.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Was?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ich habe sie nicht gefunden. Ich habe sie nur gesehen.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Das verstehe ich nicht.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ich habe sie in einem Traum gesehen.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>In einem Traum?</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ja, in einem Traum. Ich habe gesehen, wie der Graf mit dem Feind zusammenarbeitet.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Das ist sehr interessant.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ja, es ist sehr interessant. Aber es ist auch wahr.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Ich glaube Ihnen, Baron.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Danke.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Ich werde das mit dem Herzog besprechen.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ich danke Ihnen, Kommissar.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 3**</head>* * *<sp who="#ein raum im schloss des königs">
+          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:** </speaker>
+          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Mein Herr, der Kommissar ist da.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Schick ihn herein.* * *</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR</speaker>
+          <p></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 1**</head>* * *<sp who="#ein raum im schloss des königs">
+          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:** </speaker>
+          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Mein König, was ist es?</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Mein Herzog, ich habe einen neuen Vorwurf gegen Sie.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Was ist es, mein König?</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich habe gehört, dass Sie den Baron verbannt haben, obwohl der Untersuchungsausschuss keine Beweise für seine Schuld gefunden hat. Und nun habe ich erfahren, dass Sie den Grafen, der den Baron beschuldigt hat, mit dem Feind zusammenarbeitet. Und außerdem habe ich erfahren, dass der Baron einen Traum hatte, in dem er den Grafen mit dem Feind zusammenarbeiten sah.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Das ist richtig.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Aber warum?</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Weil ich dem Grafen nicht glauben kann. Und ich glaube dem Baron, dass er in seinem Traum den Grafen mit dem Feind zusammenarbeiten sah.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Das ist ein hartes Urteil!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich weiß. Aber es ist das, was ich tun muss.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich verstehe, mein König.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich werde einen neuen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich danke Ihnen, mein König.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 2**</head>* * *<sp who="#ein raum im schloss des königs">
+          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:** </speaker>
+          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzogin">
+          <speaker>**HERZOGIN:**</speaker>
+          <p>Mein Herr, der Kommissar ist da.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Schick ihn herein.* * *</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Mein Herr, ich habe die Untersuchung abgeschlossen.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Und?</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Der Baron ist unschuldig.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Was?</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Der Baron ist unschuldig. Der Graf hat ihn beschuldigt, weil er mit dem Feind zusammenarbeitet. Aber der Baron hat in einem Traum gesehen, wie der Graf mit dem Feind zusammenarbeitet. Und der Baron hat mir gesagt, dass er dem Grafen nicht glauben kann.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Das ist unglaublich!</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Es ist wahr, mein Herr.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Was soll ich jetzt tun?</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Mein Herr, Sie sollten den Baron freilassen.</p>
+        </sp>
+        <sp who="#könig">
+          <speaker>**KÖNIG:**</speaker>
+          <p>Ich werde es tun.</p>
+        </sp>
+        <sp who="#kommissar">
+          <speaker>**KOMMISSAR:**</speaker>
+          <p>Ich danke Ihnen, mein Herr.* * *</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 3**</head>* * *<sp who="#ein raum im schloss des barons">
+          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
+          <p></p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:** </speaker>
+          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:** </speaker>
+          <stage>(tritt ein)</stage>
+          <p></p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Baron, ich habe eine Nachricht für Sie.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Was ist es, Herzog?</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Der König hat Sie begnadigt. Sie sind frei.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Das ist wunderbar!</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich weiß. Ich bin so froh für Sie.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Danke, Herzog.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Ich muss gehen. Aber ich werde Sie bald wiedersehen.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Ich freue mich darauf.</p>
+        </sp>
+        <sp who="#herzog">
+          <speaker>**HERZOG:**</speaker>
+          <p>Auf Wiedersehen, Baron.</p>
+        </sp>
+        <sp who="#baron">
+          <speaker>**BARON:**</speaker>
+          <p>Auf Wiedersehen, Herzog.* * ***Das Stück endet hier.**</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

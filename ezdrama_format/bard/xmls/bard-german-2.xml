@@ -1,606 +1,568 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
-  <ns0:teiHeader>
-    <ns0:fileDesc>
-      <ns0:titleStmt>
-        <ns0:title>bard-german-2</ns0:title>
-      </ns0:titleStmt>
-      <ns0:publicationStmt>
-        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
-        <ns0:idno type="URL">https://dracor.org</ns0:idno>
-        <ns0:availability>
-          <ns0:licence>
-            <ns0:ab>CC0 1.0</ns0:ab>
-            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
-          </ns0:licence>
-        </ns0:availability>
-      </ns0:publicationStmt>
-      <ns0:sourceDesc>
-        <ns0:bibl />
-      </ns0:sourceDesc>
-    </ns0:fileDesc>
-    <ns0:profileDesc>
-      <ns0:particDesc>
-        <ns0:listPerson>
-          <ns0:person sex="MALE" xml:id="mädchen">
-            <ns0:persName>MÄDCHEN</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="das">
-            <ns0:persName>DAS</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="friederich">
-            <ns0:persName>FRIEDERICH</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der">
-            <ns0:persName>DER</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="die">
-            <ns0:persName>DIE</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="elizabeth">
-            <ns0:persName>ELIZABETH</ns0:persName>
-          </ns0:person>
-        </ns0:listPerson>
-      </ns0:particDesc>
-    </ns0:profileDesc>
-  </ns0:teiHeader>
-  <ns0:text>
-    <ns0:body>
-      <ns0:div type="scene">
-        <ns0:head />
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>AKT I</ns0:head>
-        <ns0:stage>Szenenbild: Ein dunkles Zimmer in einem alten Schloss.</ns0:stage>
-        <ns0:castList>
-          <ns0:castItem>Personen:</ns0:castItem>
-          <ns0:castItem />
-          <ns0:castItem />
-        </ns0:castList>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Die junge Tochter des Schlossherrn.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ein junger Mann, der in Elizabeth verliebt ist.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Der Vater von Elizabeth.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#die">
-          <ns0:speaker>DIE</ns0:speaker>
-          <ns0:p>MUTTER: Die Mutter von Elizabeth.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Der Vorhang geht auf. Elizabeth sitzt am Fenster und starrt in die Dunkelheit.):</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH: </ns0:speaker>
-          <ns0:stage>(seufzend)</ns0:stage>
-          <ns0:p> Ich kann nicht schlafen. Ich denke immer an Friedrich.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Friedrich tritt ein.)</ns0:stage>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Elizabeth!</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich!</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie fallen sich in die Arme.)</ns0:stage>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ich habe dich so vermisst.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Ich habe dich auch vermisst.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie küssen sich.)</ns0:stage>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: <ns0:stage>(tritt herein)</ns0:stage> Was ist hier los?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Herr, ich habe Elizabeth.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Was? Was hast du gesagt?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ich habe Elizabeth. Ich liebe sie und ich will sie heiraten.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Das ist unmöglich! Elizabeth ist meine Tochter. Sie kann nicht mit dir heiraten.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Aber warum nicht?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Weil du nicht gut genug für sie bist.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Das ist nicht wahr! Ich liebe sie und ich werde sie heiraten, egal was du sagst.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Das werden wir sehen!</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Der Schlossherr geht.)</ns0:stage>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Elizabeth, ich werde dich nie aufgeben.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Ich weiß.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie küssen sich wieder.)</ns0:stage>
-        <ns0:stage>(Der Vorhang fällt.)</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head />
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>AKT II </ns0:head>Sure, here is another act of the same play in German: <ns0:stage>Szenenbild: Ein heller Raum in einem alten Schloss.</ns0:stage>
-        <ns0:castList>Personen:</ns0:castList>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Die junge Tochter des Schlossherrn.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ein junger Mann, der in Elizabeth verliebt ist.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Der Vater von Elizabeth.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#die">
-          <ns0:speaker>DIE</ns0:speaker>
-          <ns0:p>MUTTER: Die Mutter von Elizabeth.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Der Vorhang geht auf. Elizabeth und Friedrich sitzen auf einer Bank.):</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich, ich habe Angst.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Was ist los?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Mein Vater. Er wird uns nicht heiraten lassen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ich habe mir das schon gedacht. Aber wir werden uns nicht aufgeben.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Aber wie sollen wir das machen?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ich habe einen Plan.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Friedrich erzählt Elizabeth seinen Plan.)</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Das ist ein verrückter Plan. Aber ich bin dabei.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie küssen sich.)</ns0:stage>
-        <ns0:stage>(Der Schlossherr tritt herein.):</ns0:stage>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Was ist hier los?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Vater, wir wollen heiraten.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Das ist unmöglich!</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Aber wir lieben uns.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Das ist mir egal. Du bist nicht gut genug für sie.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ich bin gut genug für sie!</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Wir werden sehen!</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Der Schlossherr geht.)</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich, was ist jetzt?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Wir gehen.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie gehen.)</ns0:stage>
-        <ns0:stage>(Der Vorhang fällt.)</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>AKT III</ns0:head>
-        <ns0:stage>Szenenbild: Eine Waldlichtung.</ns0:stage>
-        <ns0:castList>Personen:</ns0:castList>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Die junge Tochter des Schlossherrn.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ein junger Mann, der in Elizabeth verliebt ist.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Der Vater von Elizabeth.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#die">
-          <ns0:speaker>DIE</ns0:speaker>
-          <ns0:p>MUTTER: Die Mutter von Elizabeth.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Der Vorhang geht auf. Elizabeth und Friedrich stehen auf einer Lichtung im Wald.):</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich, wir haben es geschafft.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ja, wir haben es geschafft.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie umarmen sich.)</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Ich kann es nicht glauben. Wir sind frei.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ja, wir sind frei.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie küssen sich.)</ns0:stage>
-        <ns0:stage>(Der Schlossherr tritt herein.):</ns0:stage>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Elizabeth! Friedrich!</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Elizabeth und Friedrich springen auseinander.)</ns0:stage>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Was macht ihr hier?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Wir sind weggelaufen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Weggelaufen? Was soll das heißen?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Wir haben geheiratet.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Geheiratet? Was?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ja, wir haben geheiratet. Wir sind jetzt Mann und Frau.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Das ist unmöglich!</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Es ist wahr. Wir haben es getan.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Ich werde euch finden und euch zurückbringen!</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Der Schlossherr geht.)</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich, was ist jetzt?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Wir werden hier bleiben. Wir werden ein neues Leben anfangen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Ja, wir werden ein neues Leben anfangen.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie küssen sich.)</ns0:stage>
-        <ns0:stage>(Der Vorhang fällt.):</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head />
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>AKT IV</ns0:head>
-        <ns0:stage>Szenenbild: Ein kleines Haus am Waldrand.</ns0:stage>
-        <ns0:castList>Personen:</ns0:castList>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Die junge Frau, die nun mit Friedrich verheiratet ist.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Der junge Mann, der nun mit Elizabeth verheiratet ist.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#das">
-          <ns0:speaker>DAS</ns0:speaker>
-          <ns0:p>MÄDCHEN: Ein kleines Mädchen, das bei Elizabeth und Friedrich wohnt.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Der Vorhang geht auf. Elizabeth und Friedrich sitzen am Tisch und essen. Das Mädchen spielt auf dem Boden.):</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich, ich bin so glücklich.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ich auch.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Wir haben ein schönes Leben hier.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ja, wir haben.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Das Mädchen kommt zu ihnen.):</ns0:stage>
-        <ns0:sp who="#mädchen">
-          <ns0:speaker>MÄDCHEN:</ns0:speaker>
-          <ns0:p>Mama, Papa, ich habe Hunger.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Komm, wir essen.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie essen alle zusammen.)</ns0:stage>
-        <ns0:stage>(Nach dem Essen.):</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich, ich habe etwas zu sagen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Was ist es?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Ich bin schwanger.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Was? Das ist wunderbar!</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Ja, es ist.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie umarmen sich.)</ns0:stage>
-        <ns0:stage>(Der Schlossherr tritt herein.):</ns0:stage>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Elizabeth! Friedrich!</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Elizabeth und Friedrich springen auseinander.)</ns0:stage>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Ich habe euch gefunden.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Vater!</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Was wollen Sie hier?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Ich habe euch zurückzubringen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Wir wollen nicht zurück.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Aber ihr könnt nicht hier bleiben.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Wir werden schon sehen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Ich werde euch nicht aufgeben.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Der Schlossherr geht.)</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich, was ist jetzt?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Wir werden hier bleiben. Wir werden eine Familie gründen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Ja, wir werden eine Familie gründen.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie küssen sich.)</ns0:stage>
-        <ns0:stage>(Das Vorhang fällt.)</ns0:stage>
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head />
-      </ns0:div>
-      <ns0:div type="scene">
-        <ns0:head>AKT V</ns0:head>
-        <ns0:stage>Szenenbild: Ein Jahr später. Das kleine Haus am Waldrand ist jetzt ein größeres Haus. Elizabeth und Friedrich haben ein zweites Kind bekommen, einen Jungen.</ns0:stage>
-        <ns0:castList>Personen:</ns0:castList>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Die junge Frau, die nun mit Friedrich verheiratet ist und zwei Kinder hat.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Der junge Mann, der nun mit Elizabeth verheiratet ist und zwei Kinder hat.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#das">
-          <ns0:speaker>DAS</ns0:speaker>
-          <ns0:p>MÄDCHEN: Das kleine Mädchen, das jetzt ein Jahr alt ist.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>JUNGE: Der kleine Junge, der gerade geboren ist.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Der Vorhang geht auf. Elizabeth und Friedrich sitzen am Tisch und essen. Das Mädchen spielt auf dem Boden. Der Junge liegt in der Wiege.):</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich, ich bin so glücklich.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ich auch.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Wir haben eine schöne Familie.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Ja, wir haben.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Das Mädchen kommt zu ihnen.):</ns0:stage>
-        <ns0:sp who="#mädchen">
-          <ns0:speaker>MÄDCHEN:</ns0:speaker>
-          <ns0:p>Mama, Papa, ich habe Hunger.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Komm, wir essen.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie essen alle zusammen.)</ns0:stage>
-        <ns0:stage>(Nach dem Essen.):</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich, ich habe etwas zu sagen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Was ist es?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Ich habe einen Brief von meinem Vater bekommen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Was steht in dem Brief?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Er schreibt, dass er uns endlich akzeptiert.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Was? Das ist wunderbar!</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Ja, es ist.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie umarmen sich.)</ns0:stage>
-        <ns0:stage>(Der Schlossherr tritt herein.):</ns0:stage>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Elizabeth! Friedrich!</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Elizabeth und Friedrich springen auseinander.)</ns0:stage>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Ich habe euch einen Brief geschrieben.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Vater!</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Was wollen Sie hier?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Ich habe euch um Verzeihung gebeten.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Wir haben Sie schon längst vergeben.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Ich möchte, dass ihr zu mir zurückkommt.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Wir wollen nicht zurück.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Aber ihr könnt hier nicht bleiben.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Wir werden schon sehen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#der">
-          <ns0:speaker>DER</ns0:speaker>
-          <ns0:p>SCHLOSSHERRN: Ich werde euch immer lieben.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Der Schlossherr geht.)</ns0:stage>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Friedrich, was ist jetzt?</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#friederich">
-          <ns0:speaker>FRIEDERICH:</ns0:speaker>
-          <ns0:p>Wir werden hier bleiben. Wir werden unsere Familie hier großziehen.</ns0:p>
-        </ns0:sp>
-        <ns0:sp who="#elizabeth">
-          <ns0:speaker>ELIZABETH:</ns0:speaker>
-          <ns0:p>Ja, wir werden unsere Familie hier großziehen.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(Sie küssen sich.)</ns0:stage>
-        <ns0:stage>(Das Vorhang fällt.):</ns0:stage>
-      </ns0:div>
-    </ns0:body>
-  </ns0:text>
-</ns0:TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="neue person">
+            <persName>**NEUE PERSON</persName>
+          </person>
+          <person sex="MALE" xml:id="einstein">
+            <persName>**Einstein:**</persName>
+          </person>
+          <person sex="FEMALE" xml:id="maria">
+            <persName>**Maria:**</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>**Szenenbild:** Ein dunkles, mittelalterliches Zimmer. Ein Kamin brennt in der Mitte des Raumes.</head>**Figuren:*** **EINSTEIN,** ein alter Mann, sitzt in einem Lehnstuhl vor dem Kamin.* **MARIA,** seine Tochter, sitzt auf einem Sofa.<sp who="#einstein">
+          <speaker>**Einstein:** </speaker>
+          <stage>(In Gedanken versunken.):</stage>
+          <p> Die Zeit vergeht so schnell. Es scheint, als wäre es erst gestern gewesen, als ich ein junger Mann war und die Welt vor mir lag.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** </speaker>
+          <stage>(Ihm zugewandt.):</stage>
+          <p> Vater, was ist los? Du siehst so nachdenklich aus.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ich habe nur an die Vergangenheit gedacht. An all die Dinge, die ich erlebt habe und die ich getan habe.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Und was hast du dabei gedacht?</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ich habe mich gefragt, ob ich alles richtig gemacht habe. Ob ich mein Leben so gelebt habe, wie ich es mir immer erträumt habe.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Ich bin sicher, dass du alles richtig gemacht hast. Du bist ein guter Mann, Vater.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Danke, Maria. Das ist lieb von dir zu sagen. Aber ich kann es mir nicht helfen, manchmal an die Zukunft zu denken. An all die Dinge, die noch kommen werden.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Die Zukunft ist ungewiss, Vater. Aber ich bin sicher, dass du auch sie meistern wirst.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ich hoffe es. <stage>(Er lächelt sie an.)</stage></p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** </speaker>
+          <stage>(Ihm antwortet mit einem Lächeln.):</stage>
+          <p>**Pause.**</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ich bin müde, Maria. Ich glaube, ich werde schlafen gehen.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Gute Nacht, Vater.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Gute Nacht, Maria.**Einstein steht auf und geht in sein Schlafzimmer. Maria bleibt auf dem Sofa sitzen und starrt ins Feuer.**</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** </speaker>
+          <stage>(In Gedanken.):</stage>
+          <p> Ich hoffe, dass die Zukunft gut zu uns sein wird.**Das Licht geht aus.**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**Szenenbild:** Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Tage später.</head>**Figuren:*** **EINSTEIN,** wie im ersten Akt.* **MARIA,** wie im ersten Akt.* **NEUE PERSON 1,** ein junger Mann, tritt ein.<sp who="#einstein">
+          <speaker>**Einstein:** </speaker>
+          <stage>(In Gedanken versunken.):</stage>
+          <p> Ich habe die ganze Nacht nicht geschlafen. Ich kann nicht aufhören an die Zukunft zu denken.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** </speaker>
+          <stage>(Ihm zugewandt.):</stage>
+          <p> Vater, was ist los? Du siehst so besorgt aus.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ich habe nur an die Zukunft gedacht. An all die Dinge, die noch kommen werden.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Die Zukunft ist ungewiss, Vater. Aber ich bin sicher, dass du auch sie meistern wirst.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ich hoffe es. <stage>(Er lächelt sie an.)</stage></p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ja? Was kann ich für Sie tun?</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** Ich bin ein Reporter von der Zeitung. Ich habe gehört, dass Sie ein neues wissenschaftliches Theorem entdeckt haben.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ja, das stimmt.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** Ich würde gerne mit Ihnen darüber sprechen.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist in Ordnung.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** </speaker>
+          <stage>(Ihr Vater zu.):</stage>
+          <p> Vater, ich glaube, ich sollte gehen.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ja, das ist wohl das Beste.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** </speaker>
+          <stage>(Sie geht.):</stage>
+          <p></p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrem Theorem. Es ist ein wahres Meisterwerk.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Danke, das ist sehr nett von Ihnen zu sagen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** Ich würde gerne mehr darüber erfahren.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Gerne.**Einstein und der Reporter sprechen über das Theorem.****Das Licht geht aus.****In der nächsten </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.**</head>
+        <sp who="#einstein">
+          <speaker>**Einstein:** </speaker>
+          <stage>(In Gedanken.):</stage>
+          <p> Ich habe es geschafft. Ich habe ein neues wissenschaftliches Theorem entdeckt. Das wird die Welt verändern.**Einstein lächelt.****Das Licht geht aus.**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**Szenenbild:** Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Monate später.</head>**Figuren:*** **EINSTEIN,** wie im ersten Akt.* **NEUE PERSON 1,** wie im ersten Akt.* **NEUE PERSON 2,** ein Wissenschaftler, tritt ein.<sp who="#einstein">
+          <speaker>**Einstein:** </speaker>
+          <stage>(In Gedanken versunken.):</stage>
+          <p> Ich habe so viel gearbeitet in den letzten Monaten. Ich habe mein Theorem verfeinert und es ist jetzt noch besser geworden.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** <stage>(Eintritt.)</stage> Herr Einstein, ich habe Neuigkeiten für Sie.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ja? Was ist es?</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** Ihr Theorem hat die Runde gemacht in der wissenschaftlichen Welt. Es ist ein wahrer Durchbruch.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist wunderbar!</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ja? Was kann ich für Sie tun?</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** Ich bin ein Wissenschaftler aus Berlin. Ich habe mich sehr für Ihr Theorem interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist in Ordnung.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** <stage>(Einstein zu.)</stage> Herr Einstein, ich muss gehen. Ich habe noch einen Termin.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Auf Wiedersehen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** Auf Wiedersehen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrem Theorem. Es ist ein wahres Meisterwerk.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Danke, das ist sehr nett von Ihnen zu sagen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** Ich würde gerne mehr darüber erfahren.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Gerne.**Einstein und der neue Wissenschaftler sprechen über das Theorem.**</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** </speaker>
+          <stage>(Eintritt.):</stage>
+          <p> Vater, ich habe etwas für dich.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Was ist es, Maria?</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Ich habe eine Zeitungsmeldung gefunden. Sie schreiben über dein Theorem.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Oh, das ist interessant.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Sie sagen, dass dein Theorem die Welt verändern wird.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist eine große Sache.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Ich bin so stolz auf dich, Vater.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Danke, Maria.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Ich muss gehen. Ich habe noch Hausaufgaben zu machen.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Auf Wiedersehen, Maria.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Auf Wiedersehen, Vater.**Einstein und der neue Wissenschaftler sprechen weiter über das Theorem.****Das Licht geht aus.****In der nächsten </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.**</head>
+        <sp who="#einstein">
+          <speaker>**Einstein:** </speaker>
+          <stage>(In Gedanken.):</stage>
+          <p> Ich habe es geschafft. Ich habe ein neues wissenschaftliches Theorem entdeckt. Das wird die Welt verändern.**Einstein lächelt.****Das Licht geht aus.**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**Szenenbild:** Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Jahre später.</head>**Figuren:*** **EINSTEIN,** wie im ersten Akt.* **NEUE PERSON 1,** wie im ersten Akt.* **NEUE PERSON 2,** wie im ersten Akt.* **NEUE PERSON 3,** ein Nobelpreisträger, tritt ein.<sp who="#einstein">
+          <speaker>**Einstein:** </speaker>
+          <stage>(In Gedanken versunken.):</stage>
+          <p> Ich habe so viel erreicht in den letzten Jahren. Mein Theorem hat die Welt verändert und ich bin ein Nobelpreisträger.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** <stage>(Eintritt.)</stage> Herr Einstein, ich habe Neuigkeiten für Sie.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ja? Was ist es?</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** Sie sind eingeladen, einen Vortrag auf dem nächsten internationalen Physikkongress zu halten.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist eine große Ehre!</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ja? Was kann ich für Sie tun?</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** Ich bin ein Physiker aus Amerika. Ich habe mich sehr für Ihr Theorem interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist in Ordnung.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>3:** <stage>(Eintritt.)</stage> Herr Einstein, ich bin ein Nobelpreisträger für Physik. Ich habe mich sehr für Ihre Arbeit interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist eine große Ehre!</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** <stage>(Einstein zu.)</stage> Herr Einstein, ich muss gehen. Ich habe noch einen Termin.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Auf Wiedersehen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** Auf Wiedersehen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrer Arbeit. Sie sind ein wahrer Meister.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Danke, das ist sehr nett von Ihnen zu sagen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** Ich würde gerne mehr darüber erfahren.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Gerne.**Einstein, die neue Person 2 und die neue Person 3 sprechen über die Arbeit von Einstein.**</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** </speaker>
+          <stage>(Eintritt.):</stage>
+          <p> Vater, ich habe etwas für dich.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Was ist es, Maria?</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Ich habe eine Zeitungsmeldung gefunden. Sie schreiben über deinen Nobelpreis.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Oh, das ist interessant.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Sie sagen, dass du der größte Physiker aller Zeiten bist.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist eine große Sache.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Ich bin so stolz auf dich, Vater.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Danke, Maria.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Ich muss gehen. Ich habe noch Hausaufgaben zu machen.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Auf Wiedersehen, Maria.</p>
+        </sp>
+        <sp who="#maria">
+          <speaker>**Maria:** :</speaker>
+          <p>Auf Wiedersehen, Vater.**Einstein, die neue Person 2 und die neue Person 3 sprechen weiter über die Arbeit von Einstein.****Das Licht geht aus.****In der nächsten </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.**</head>
+        <sp who="#einstein">
+          <speaker>**Einstein:** </speaker>
+          <stage>(In Gedanken.):</stage>
+          <p> Ich habe es geschafft. Ich habe ein neues wissenschaftliches Theorem entdeckt. Das hat die Welt verändert. Ich bin ein Nobelpreisträger und einer der größten Physiker aller Zeiten.**Einstein lächelt.****Das Licht geht aus.**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>**Szenenbild:** Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Jahrzehnte später.</head>**Figuren:*** **EINSTEIN,** wie im ersten Akt, ist jetzt ein alter Mann.* **NEUE PERSON 1,** wie im ersten Akt.* **NEUE PERSON 2,** wie im ersten Akt.* **NEUE PERSON 3,** wie im ersten Akt.* **NEUE PERSON 4,** ein junger Physiker, tritt ein.<sp who="#einstein">
+          <speaker>**Einstein:** </speaker>
+          <stage>(In Gedanken versunken.):</stage>
+          <p> Ich habe ein langes und erfülltes Leben geführt. Ich habe die Welt verändert und ich habe so viele großartige Menschen getroffen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** <stage>(Eintritt.)</stage> Herr Einstein, ich habe Neuigkeiten für Sie.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ja? Was ist es?</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** Sie sind eingeladen, eine Ehrendoktorwürde von der Universität von Berlin zu erhalten.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist eine große Ehre!</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ja? Was kann ich für Sie tun?</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** Ich bin ein Physiker aus Japan. Ich habe mich sehr für Ihre Arbeit interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist in Ordnung.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>3:** <stage>(Eintritt.)</stage> Herr Einstein, ich bin ein Nobelpreisträger für Physik. Ich habe mich sehr für Ihre Arbeit interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist eine große Ehre!</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** <stage>(Einstein zu.)</stage> Herr Einstein, ich muss gehen. Ich habe noch einen Termin.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Auf Wiedersehen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>1:** Auf Wiedersehen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrer Arbeit. Sie sind ein wahrer Meister.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Danke, das ist sehr nett von Ihnen zu sagen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>2:** Ich würde gerne mehr darüber erfahren.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Gerne.**Einstein, die neue Person 2 und die neue Person 3 sprechen über die Arbeit von Einstein.**</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>4:** <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich bin ein junger Physiker und ich bin ein großer Fan Ihrer Arbeit. Ich würde gerne mit Ihnen sprechen, wenn Sie Zeit haben.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Natürlich, ich habe Zeit.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>4:** Ich habe so viel von Ihnen gelernt und ich bin inspiriert von Ihrer Arbeit. Ich möchte ein Physiker wie Sie sein.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Das ist sehr schön zu hören. Ich bin froh, dass ich Sie inspirieren konnte.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>4:** Ich habe eine Frage zu Ihrer Arbeit.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Bitte, fragen Sie.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>4:** Ich habe gelesen, dass Sie gesagt haben, dass die Welt ein Rätsel ist. Was meinen Sie damit?</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ich meine, dass die Welt voller Geheimnisse ist. Wir wissen nur sehr wenig über die Welt und es gibt noch so viel zu lernen.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>4:** Das ist eine spannende Vorstellung. Ich kann es kaum erwarten, mehr zu lernen.</p>
+        </sp>
+        <sp who="#einstein">
+          <speaker>**Einstein:** :</speaker>
+          <p>Ich wünsche Ihnen viel Erfolg.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>4:** Danke, Herr Einstein.</p>
+        </sp>
+        <sp who="#neue person">
+          <speaker>**NEUE PERSON</speaker>
+          <p>4:** <stage>(Er geht.)</stage> **Einstein, die neue Person 2 und die neue Person 3 sprechen weiter über die Arbeit von Einstein.****Das Licht geht aus.****In der nächsten </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.**</head>
+        <sp who="#einstein">
+          <speaker>**Einstein:** </speaker>
+          <stage>(In Gedanken.):</stage>
+          <p> Ich habe ein langes und erfülltes Leben geführt. Ich habe die Welt verändert und ich habe so viele großartige Menschen getroffen. Ich bin dankbar für alles, was ich habe.**Einstein lächelt.****Das Licht geht aus.**</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

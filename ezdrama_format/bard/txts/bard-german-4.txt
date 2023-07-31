@@ -1,39 +1,87 @@
-Sure, here is a first act of a 19th-century German play in the style of German drama:
-
-#**Erster Akt**
 
 ##**
 ##Szene 1**
 
 * * *
 
-@**EIN SAAL IN EINEM SCHLOSS**
+@**EIN RAUM IN EINEM SCHLOSS**
 
-@**DER HERZOG**
 
-$(sitzt auf einem Thron)
+@**HERZOG:** (sitzt auf einem Thron und starrt vor sich hin)
 
-Ich bin der Herzog von Bayern. Ich bin mächtig und reich. Ich habe alles, was ich mir wünschen kann. Aber ich bin auch einsam. Ich habe keine Freunde. Ich habe keine Familie. Ich bin ein Gefangener in meinem eigenen Schloss.
 
-@**DER KAMERADIER**
+@**HERZOGIN:** (tritt ein)
 
-$(tritt ein)
 
-Euer Gnaden, es ist ein Bote von der Front gekommen.
+@**HERZOG:** 
+Was ist es?
 
-@**DER HERZOG**
+@**HERZOGIN:** 
+Mein Herr, es ist der Graf. Er will Sie sprechen.
 
-$(steht auf)
+@**HERZOG:** 
+Der Graf? Was will er von mir?
 
-Was hat er zu berichten?
+@**HERZOGIN:** 
+Er sagt, es ist dringend.
 
-@**DER KAMERADIER**
+@**HERZOG:** 
+Schick ihn herein.
 
-Die Schlacht war verloren. Unsere Armee ist besiegt.
+* * *
 
-@**DER HERZOG**
+@**GRAF:** (tritt ein)
 
-$(fällt in Ohnmacht)
+
+@**HERZOG:** 
+Was ist es, Graf?
+
+@**GRAF:** 
+Mein Herr, es ist ein Verrat.
+
+@**HERZOG:** 
+Verrat? Von wem?
+
+@**GRAF:** 
+Von dem Baron.
+
+@**HERZOG:** 
+Dem Baron? Das ist unmöglich!
+
+@**GRAF:** 
+Es ist wahr, mein Herr. Ich habe es mit eigenen Augen gesehen.
+
+@**HERZOG:** 
+Was hast du gesehen?
+
+@**GRAF:** 
+Ich habe gesehen, wie der Baron mit dem Feind zusammenarbeitet.
+
+@**HERZOG:** 
+Das ist schwer zu glauben.
+
+@**GRAF:** 
+Es ist wahr, mein Herr. Ich bitte Sie, mir zu glauben.
+
+@**HERZOG:** 
+Ich werde es untersuchen.
+
+@**GRAF:** 
+Ich danke Ihnen, mein Herr.
+
+* * *
+
+@**HERZOG:** (zur Herzogin)
+
+
+@**HERZOG:** 
+Das ist ein schwerer Vorwurf, den der Graf dem Baron macht.
+
+@**HERZOGIN:** 
+Ich weiß, mein Herr. Aber ich glaube ihm.
+
+@**HERZOG:** 
+Ich werde es untersuchen.
 
 * * *
 
@@ -42,37 +90,61 @@ $(fällt in Ohnmacht)
 
 * * *
 
-@**DER HERZOG**
+@**EIN RAUM IM SCHLOSS DES BARONS**
 
-$(erwacht)
 
-Wo bin ich?
+@**BARON:** (sitzt an einem Schreibtisch und schreibt)
 
-@**DER KAMERADIER**
 
-Ihr seid in eurem Schlafgemach, Euer Gnaden.
+@**BARONESS:** (tritt ein)
 
-@**DER HERZOG**
 
-Was ist geschehen?
+@**BARONESS:** 
+Mein Herr, der Herzog will Sie sprechen.
 
-@**DER KAMERADIER**
+@**BARON:** 
+Was will er von mir?
 
-Ihr habt einen Schwächeanfall erlitten.
+@**BARONESS:** 
+Er sagt, es ist dringend.
 
-@**DER HERZOG**
+@**BARON:** 
+Schick ihn herein.
 
-Die Schlacht. Was ist mit der Schlacht?
+* * *
 
-@**DER KAMERADIER**
+@**HERZOG:** (tritt ein)
 
-Sie ist verloren. Unsere Armee ist besiegt.
 
-@**DER HERZOG**
+@**BARON:** 
+Mein Herr, was kann ich für Sie tun?
 
-$(weint)
+@**HERZOG:** 
+Baron, ich habe einen schweren Vorwurf gegen Sie.
 
-Das ist das Ende.
+@**BARON:** 
+Was ist es, mein Herr?
+
+@**HERZOG:** 
+Ich habe den Grafen gesehen, wie er mit dem Feind zusammenarbeitet.
+
+@**BARON:** 
+Das ist unmöglich!
+
+@**HERZOG:** 
+Es ist wahr, Baron. Ich habe es mit eigenen Augen gesehen.
+
+@**BARON:** 
+Ich weiß nicht, was Sie gesehen haben, mein Herr, aber es war nicht ich.
+
+@**HERZOG:** 
+Ich glaube Ihnen nicht, Baron.
+
+@**BARON:** 
+Das ist Ihr gutes Recht, mein Herr. Aber ich bin unschuldig.
+
+@**HERZOG:** 
+Wir werden sehen.
 
 * * *
 
@@ -81,77 +153,118 @@ Das ist das Ende.
 
 * * *
 
-@**DER HERZOG**
+@**EIN RAUM IM SCHLOSS DES HERZOGS**
 
-$(sitzt auf seinem Thron)
 
-Ich habe alles verloren. Mein Reich. Mein Volk. Meine Ehre. Ich bin ein Gescheiterter.
+@**HERZOG:** (sitzt auf einem Thron und starrt vor sich hin)
 
-@**DER KAMERADIER**
 
-Euer Gnaden, es ist noch nicht zu spät. Ihr könnt noch alles zurückgewinnen.
+@**HERZOGIN:** (tritt ein)
 
-@**DER HERZOG**
 
-Wie?
+@**HERZOGIN:** 
+Mein Herr, was ist mit dem Baron?
 
-@**DER KAMERADIER**
+@**HERZOG:** 
+Ich habe ihn verbannt.
 
-Ihr müsst kämpfen. Ihr müsst eure Armee neu aufstellen. Ihr müsst die Schlacht rächen.
+@**HERZOGIN:** 
+Verbannt? Aber warum?
 
-@**DER HERZOG**
+@**HERZOG:** 
+Weil ich ihm nicht glauben kann.
 
-Ich kann es nicht. Ich bin zu schwach.
+@**HERZOGIN:** 
+Aber er ist unschuldig!
 
-@**DER KAMERADIER**
+@**HERZOG:** 
+Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.
 
-Ihr müsst es. Ihr seid der Herzog von Bayern. Ihr seid der letzte Hoffnung eures Volkes.
+@**HERZOGIN:** 
+Aber das ist ein hartes Urteil!
 
-@**DER HERZOG**
-
-$(steht auf)
-
-Du hast recht. Ich werde kämpfen. Ich werde meine Armee neu aufstellen. Ich werde die Schlacht rächen.
+@**HERZOG:** 
+Ich weiß. Aber es ist das, was ich tun muss.
 
 * * *
 
-$**Der Vorhang fällt.**
-
-I hope you like it!
-Sure, here is another act of the same play in German:
-
-#**Zweiter Akt**
+**Das Stück endet hier.**
 
 ##**
 ##Szene 1**
 
 * * *
 
-@**EIN SCHLACHTFELD**
+@**EIN RAUM IM SCHLOSS DES HERZOGS**
 
-@**DER HERZOG**
 
-$(steht auf dem Schlachtfeld, umringt von seinen Soldaten)
+@**HERZOG:** (sitzt auf einem Thron und starrt vor sich hin)
 
-Wir haben gekämpft. Wir haben unsere Armee neu aufgestellt. Wir haben die Schlacht gerächt.
 
-@**DIE SOLDATEN**
+@**HERZOGIN:** (tritt ein)
 
-Hurra! Hurra! Der Herzog ist ein Held!
 
-@**DER HERZOG**
+@**HERZOGIN:** 
+Mein Herr, es ist der König. Er will Sie sprechen.
 
-Ich bin kein Held. Ich bin nur ein Mann, der alles verloren hat und dann alles wiedergewonnen hat.
+@**HERZOG:** 
+Der König? Was will er von mir?
 
-@**DIE SOLDATEN**
+@**HERZOGIN:** 
+Er sagt, es ist dringend.
 
-Ihr seid der Herzog von Bayern. Ihr seid der neue Hoffnungsträger eures Volkes.
+@**HERZOG:** 
+Schick ihn herein.
 
-@**DER HERZOG**
+* * *
 
-Ich werde mein Volk nicht enttäuschen.
+@**KÖNIG:** (tritt ein)
 
-$**(Der Herzog und seine Soldaten ziehen triumphierend ab.)**
+
+@**HERZOG:** 
+Mein König, was ist es?
+
+@**KÖNIG:** 
+Mein Herzog, ich habe einen schweren Vorwurf gegen Sie.
+
+@**HERZOG:** 
+Was ist es, mein König?
+
+@**KÖNIG:** 
+Ich habe gehört, dass Sie den Baron verbannt haben.
+
+@**HERZOG:** 
+Ja, das ist richtig.
+
+@**KÖNIG:** 
+Aber warum?
+
+@**HERZOG:** 
+Weil ich ihm nicht glauben kann.
+
+@**KÖNIG:** 
+Aber er ist unschuldig!
+
+@**HERZOG:** 
+Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.
+
+@**KÖNIG:** 
+Das ist ein hartes Urteil!
+
+@**HERZOG:** 
+Ich weiß. Aber es ist das, was ich tun muss.
+
+@**KÖNIG:** 
+Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.
+
+@**HERZOG:** 
+Ich verstehe, mein König.
+
+@**KÖNIG:** 
+Ich werde einen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.
+
+@**HERZOG:** 
+Ich danke Ihnen, mein König.
 
 * * *
 
@@ -160,228 +273,627 @@ $**(Der Herzog und seine Soldaten ziehen triumphierend ab.)**
 
 * * *
 
-@**EIN RAUM IM SCHLOSS**
+@**EIN RAUM IM SCHLOSS DES BARONS**
 
-@**DER HERZOG**
 
-$(sitzt auf seinem Thron, neben ihm seine Frau und sein Sohn)
+@**BARON:** (sitzt an einem Schreibtisch und schreibt)
 
-Ich habe alles zurückgewonnen. Mein Reich. Mein Volk. Meine Ehre.
 
-@**DIE FRAU**
+@**KOMMISSAR:** (tritt ein)
 
-Ich bin so stolz auf dich, mein Gemahl.
 
-@**DER SOHN**
+@**KOMMISSAR:** 
+Baron, ich bin der Kommissar des Untersuchungsausschusses. Ich möchte Sie ein paar Fragen stellen.
 
-Ich will auch ein Held sein wie du, Vater.
+@**BARON:** 
+Ich bin Ihnen gerne behilflich, Kommissar.
 
-@**DER HERZOG**
+@**KOMMISSAR:** 
+Was können Sie uns über den Vorwurf des Herzogs sagen, dass Sie mit dem Feind zusammenarbeiten?
 
-Du wirst es sein, mein Sohn. Du wirst es sein.
+@**BARON:** 
+Es ist eine Lüge! Ich habe mit dem Feind nie zusammengearbeitet.
 
-$**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**
+@**KOMMISSAR:** 
+Haben Sie den Grafen jemals gesehen, wie er mit dem Feind zusammenarbeitet?
+
+@**BARON:** 
+Nein, ich habe ihn nie gesehen.
+
+@**KOMMISSAR:** 
+Haben Sie jemals mit dem Grafen über den Feind gesprochen?
+
+@**BARON:** 
+Nein, ich habe nie mit ihm darüber gesprochen.
+
+@**KOMMISSAR:** 
+Was können Sie uns über die Beziehung zwischen dem Grafen und dem Herzog sagen?
+
+@**BARON:** 
+Der Graf ist ein Verräter. Er ist ein Freund des Feindes.
+
+@**KOMMISSAR:** 
+Haben Sie jemals Beweise für diese Behauptung gesehen?
+
+@**BARON:** 
+Nein, ich habe keine Beweise gesehen. Aber ich weiß, dass es wahr ist.
+
+@**KOMMISSAR:** 
+Ich danke Ihnen für Ihre Zeit, Baron.
+
+@**BARON:** 
+Bitte.
 
 * * *
 
-$**Der Vorhang fällt.**
+##**
+##Szene 3**
 
-I hope you like it!
-Sure, here is another act of the same play in German:
+* * *
 
-**Dritter Akt**
+@**EIN RAUM IM SCHLOSS DES HERZOGS**
+
+
+@**HERZOG:** (sitzt auf einem Thron und starrt vor sich hin)
+
+
+@**HERZOGIN:** (tritt ein)
+
+
+@**HERZOGIN:** 
+Mein Herr, der Kommissar ist da.
+
+@**HERZOG:** 
+Schick ihn herein.
+
+* * *
+
+@**KOMMISSAR:** (tritt ein)
+
+
+@**HERZOG:** 
+Kommissar, was haben Sie herausgefunden?
+
+@**KOMMISSAR:** 
+Mein Herr, wir haben keine Beweise gefunden, die die Behauptung des Grafen stützen, dass der Baron mit dem Feind zusammenarbeitet.
+
+@**HERZOG:** 
+Das ist nicht möglich!
+
+@**KOMMISSAR:** 
+Ich weiß, mein Herr. Aber es ist die Wahrheit.
+
+@**HERZOG:** 
+Was soll ich jetzt tun?
+
+@**KOMMISSAR:** 
+Mein Herr, ich glaube, Sie sollten den Baron freilassen.
+
+@**HERZOG:** 
+Ich kann das nicht tun!
+
+**
 
 ##**
 ##Szene 1**
 
 * * *
 
-@**EINIGE JAHRE SPÄTER**
+@**EIN RAUM IM SCHLOSS DES KÖNIGS**
 
-@**EIN RAUM IM SCHLOSS**
 
-@**DER HERZOG**
+@**KÖNIG:** (sitzt auf einem Thron und starrt vor sich hin)
 
-$(sitzt auf seinem Thron, neben ihm seine Frau und sein erwachsener Sohn)
 
-Es sind einige Jahre her, seit wir die Schlacht gerächt haben. In dieser Zeit habe ich mein Reich weiter aufgebaut und mein Volk noch weiter geeint. Ich bin stolz auf das, was wir erreicht haben.
+@**HERZOG:** (tritt ein)
 
-@**DIE FRAU**
 
-Ich bin auch stolz auf dich, mein Gemahl. Du hast alles für uns getan.
+@**HERZOG:** 
+Mein König, was ist es?
 
-@**DER SOHN**
+@**KÖNIG:** 
+Mein Herzog, ich habe einen neuen Vorwurf gegen Sie.
 
-Ich habe dich immer bewundert, Vater. Du bist ein wahrer Held.
+@**HERZOG:** 
+Was ist es, mein König?
 
-@**DER HERZOG**
+@**KÖNIG:** 
+Ich habe gehört, dass Sie den Baron verbannt haben, obwohl der Untersuchungsausschuss keine Beweise für seine Schuld gefunden hat.
 
-Danke, mein Sohn. Ich bin froh, dass du so stolz auf mich bist.
+@**HERZOG:** 
+Das ist richtig.
 
-$**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**
+@**KÖNIG:** 
+Aber warum?
 
-* * *
+@**HERZOG:** 
+Weil ich ihm nicht glauben kann.
 
-@**DER HERZOG**
+@**KÖNIG:** 
+Aber er ist unschuldig!
 
-$(steht auf)
+@**HERZOG:** 
+Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.
 
-Ich muss jetzt gehen. Es gibt noch viel zu tun.
+@**KÖNIG:** 
+Das ist ein hartes Urteil!
 
-@**DIE FRAU**
+@**HERZOG:** 
+Ich weiß. Aber es ist das, was ich tun muss.
 
-Sei vorsichtig, mein Gemahl.
+@**KÖNIG:** 
+Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.
 
-@**DER HERZOG**
+@**HERZOG:** 
+Ich verstehe, mein König.
 
-Ich werde es sein.
+@**KÖNIG:** 
+Ich werde einen neuen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.
 
-$**(Der Herzog geht.)**
-
-* * *
-
-@**DER SOHN**
-
-$(zu seiner Mutter)
-
-Ich will auch ein Held sein wie mein Vater.
-
-@**DIE FRAU**
-
-Du wirst es sein, mein Sohn. Du wirst es sein.
-
-$**(Die Frau und der Sohn umarmen sich.)**
+@**HERZOG:** 
+Ich danke Ihnen, mein König.
 
 * * *
 
-$**Der Vorhang fällt.**
-
-#**Epilog**
-
-* * *
-
-@**EINIGE JAHRE SPÄTER**
-
-@**EIN FRIEDHOF**
-
-@**DER SOHN**
-
-$(steht am Grab seines Vaters)
-
-Ich habe dich immer bewundert, Vater. Du bist ein wahrer Held. Ich werde alles tun, um in deine Fußstapfen zu treten.
-
-$**(Der Sohn geht.)**
+##**
+##Szene 2**
 
 * * *
 
-$**Der Vorhang fällt.**
-Sure, here is another act of the same play in German:
+@**EIN RAUM IM SCHLOSS DES BARONS**
 
-**Vierter Akt**
+
+@**BARON:** (sitzt an einem Schreibtisch und schreibt)
+
+
+@**KOMMISSAR:** (tritt ein)
+
+
+@**KOMMISSAR:** 
+Baron, ich bin der Kommissar des neuen Untersuchungsausschusses. Ich möchte Sie ein paar Fragen stellen.
+
+@**BARON:** 
+Ich bin Ihnen gerne behilflich, Kommissar.
+
+@**KOMMISSAR:** 
+Was können Sie uns über den Vorwurf des Herzogs sagen, dass Sie mit dem Feind zusammenarbeiten?
+
+@**BARON:** 
+Es ist eine Lüge! Ich habe mit dem Feind nie zusammengearbeitet.
+
+@**KOMMISSAR:** 
+Haben Sie den Grafen jemals gesehen, wie er mit dem Feind zusammenarbeitet?
+
+@**BARON:** 
+Nein, ich habe ihn nie gesehen.
+
+@**KOMMISSAR:** 
+Haben Sie jemals mit dem Grafen über den Feind gesprochen?
+
+@**BARON:** 
+Nein, ich habe nie mit ihm darüber gesprochen.
+
+@**KOMMISSAR:** 
+Was können Sie uns über die Beziehung zwischen dem Grafen und dem Herzog sagen?
+
+@**BARON:** 
+Der Graf ist ein Verräter. Er ist ein Freund des Feindes.
+
+@**KOMMISSAR:** 
+Haben Sie jemals Beweise für diese Behauptung gesehen?
+
+@**BARON:** 
+Nein, ich habe keine Beweise gesehen. Aber ich weiß, dass es wahr ist.
+
+@**KOMMISSAR:** 
+Ich danke Ihnen für Ihre Zeit, Baron.
+
+@**BARON:** 
+Bitte.
+
+* * *
+
+##**
+##Szene 3**
+
+* * *
+
+@**EIN RAUM IM SCHLOSS DES KÖNIGS**
+
+
+@**KÖNIG:** (sitzt auf einem Thron und starrt vor sich hin)
+
+
+@**HERZOGIN:** (tritt ein)
+
+
+@**HERZOGIN:** 
+Mein Herr, der Kommissar ist da.
+
+@**KÖNIG:** 
+Schick ihn herein.
+
+* * *
+
+@**KOMMISSAR:** (tritt ein)
+
+
+@**KÖNIG:** 
+Kommissar, was haben Sie herausgefunden?
+
+@**KOMMISSAR:** 
+Mein Herr, wir haben neue Beweise gefunden, die die Behauptung des Barons stützen, dass der Graf mit dem Feind zusammenarbeitet.
+
+@**HERZOG:** 
+Das ist nicht möglich!
+
+@**KOMMISSAR:** 
+Ich weiß, mein Herr. Aber es ist die Wahrheit.
+
+@**HERZOG:** 
+Was soll ich jetzt tun?
+
+@**KOMMISSAR:** 
+Mein Herr, ich glaube, Sie sollten den Baron freilassen.
+
+@**KÖNIG:** 
+Ich werde es tun.
+
+@**KOMMISSAR:** 
+Ich danke Ihnen, mein Herr.
+
+* * *
+
+##**
+##Szene 4**
+
+* * *
+
+@**EIN RAUM IM SCHLOSS DES BARONS**
+
+
+@**BARON:** (sitzt an einem Schreibtisch und schreibt)
+
 
 ##**
 ##Szene 1**
 
 * * *
 
-@**EINIGE JAHRE SPÄTER**
+@**EIN RAUM IM SCHLOSS DES KÖNIGS**
 
-@**EIN RAUM IM SCHLOSS**
 
-@**DER HERZOG**
+@**KÖNIG:** (sitzt auf einem Thron und starrt vor sich hin)
 
-$(sitzt auf seinem Thron, neben ihm seine Frau und sein erwachsener Sohn)
 
-Ich bin alt geworden. Ich habe mein Leben lang gekämpft und gestritten. Aber ich habe auch viel erreicht. Ich habe mein Reich aufgebaut und mein Volk geeint. Ich bin stolz auf das, was ich getan habe.
+@**HERZOG:** (tritt ein)
 
-@**DIE FRAU**
 
-Ich bin auch stolz auf dich, mein Gemahl. Du hast ein großes Werk vollbracht.
+@**HERZOG:** 
+Mein König, was ist es?
 
-@**DER SOHN**
+@**KÖNIG:** 
+Mein Herzog, ich habe einen neuen Vorwurf gegen Sie.
 
-Ich bin dankbar für alles, was du für mich getan hast, Vater. Ich werde dein Erbe weiterführen.
+@**HERZOG:** 
+Was ist es, mein König?
 
-@**DER HERZOG**
+@**KÖNIG:** 
+Ich habe gehört, dass Sie den Baron verbannt haben, obwohl der Untersuchungsausschuss keine Beweise für seine Schuld gefunden hat. Und nun habe ich erfahren, dass Sie den Grafen, der den Baron beschuldigt hat, mit dem Feind zusammenarbeitet.
 
-Ich weiß, dass du es kannst, mein Sohn. Du bist ein guter und gerechter Mann. Ich bin stolz auf dich.
+@**HERZOG:** 
+Das ist richtig.
 
-$**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**
+@**KÖNIG:** 
+Aber warum?
 
-* * *
+@**HERZOG:** 
+Weil ich dem Grafen nicht glauben kann.
 
-@**DER HERZOG**
+@**KÖNIG:** 
+Aber er ist unschuldig!
 
-$(steht auf)
+@**HERZOG:** 
+Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.
 
-Ich muss jetzt gehen. Es ist Zeit, mich zu verabschieden.
+@**KÖNIG:** 
+Das ist ein hartes Urteil!
 
-@**DIE FRAU**
+@**HERZOG:** 
+Ich weiß. Aber es ist das, was ich tun muss.
 
-Wohin gehst du, mein Gemahl?
+@**KÖNIG:** 
+Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.
 
-@**DER HERZOG**
+@**HERZOG:** 
+Ich verstehe, mein König.
 
-Ich gehe ins Jenseits. Meine Zeit ist gekommen.
+@**KÖNIG:** 
+Ich werde einen neuen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.
 
-@**DIE FRAU**
-
-Aber wir brauchen dich doch.
-
-@**DER SOHN**
-
-Ja, Vater. Wir wollen dich nicht loslassen.
-
-@**DER HERZOG**
-
-Ich werde immer bei euch sein. In eurem Herzen und in eurem Gedächtnis.
-
-$**(Der Herzog geht.)**
-
-* * *
-
-@**DIE FRAU**
-
-$(weint)
-
-Mein Gemahl ist tot.
-
-@**DER SOHN**
-
-Ich weiß, Mutter. Aber er wird immer in unseren Herzen sein.
-
-$**(Die Frau und der Sohn umarmen sich.)**
+@**HERZOG:** 
+Ich danke Ihnen, mein König.
 
 * * *
 
-$**Der Vorhang fällt.**
-Sure, here is another act of the same play in German:
+##**
+##Szene 2**
 
-**Fünfter Akt**
+* * *
+
+@**EIN RAUM IM SCHLOSS DES BARONS**
+
+
+@**BARON:** (sitzt an einem Schreibtisch und schreibt)
+
+
+@**KOMMISSAR:** (tritt ein)
+
+
+@**KOMMISSAR:** 
+Baron, ich bin der Kommissar des neuen Untersuchungsausschusses. Ich möchte Sie ein paar Fragen stellen.
+
+@**BARON:** 
+Ich bin Ihnen gerne behilflich, Kommissar.
+
+@**KOMMISSAR:** 
+Was können Sie uns über den Vorwurf des Herzogs sagen, dass Sie mit dem Feind zusammenarbeiten?
+
+@**BARON:** 
+Es ist eine Lüge! Ich habe mit dem Feind nie zusammengearbeitet.
+
+@**KOMMISSAR:** 
+Haben Sie den Grafen jemals gesehen, wie er mit dem Feind zusammenarbeitet?
+
+@**BARON:** 
+Nein, ich habe ihn nie gesehen.
+
+@**KOMMISSAR:** 
+Haben Sie jemals mit dem Grafen über den Feind gesprochen?
+
+@**BARON:** 
+Nein, ich habe nie mit ihm darüber gesprochen.
+
+@**KOMMISSAR:** 
+Was können Sie uns über die Beziehung zwischen dem Grafen und dem Herzog sagen?
+
+@**BARON:** 
+Der Graf ist ein Verräter. Er ist ein Freund des Feindes.
+
+@**KOMMISSAR:** 
+Haben Sie jemals Beweise für diese Behauptung gesehen?
+
+@**BARON:** 
+Ja, ich habe Beweise gesehen. Aber ich kann sie Ihnen nicht zeigen.
+
+@**KOMMISSAR:** 
+Warum nicht?
+
+@**BARON:** 
+Weil ich sie nicht gefunden habe.
+
+@**KOMMISSAR:** 
+Was?
+
+@**BARON:** 
+Ich habe sie nicht gefunden. Ich habe sie nur gesehen.
+
+@**KOMMISSAR:** 
+Das verstehe ich nicht.
+
+@**BARON:** 
+Ich habe sie in einem Traum gesehen.
+
+@**KOMMISSAR:** 
+In einem Traum?
+
+@**BARON:** 
+Ja, in einem Traum. Ich habe gesehen, wie der Graf mit dem Feind zusammenarbeitet.
+
+@**KOMMISSAR:** 
+Das ist sehr interessant.
+
+@**BARON:** 
+Ja, es ist sehr interessant. Aber es ist auch wahr.
+
+@**KOMMISSAR:** 
+Ich glaube Ihnen, Baron.
+
+@**BARON:** 
+Danke.
+
+@**KOMMISSAR:** 
+Ich werde das mit dem Herzog besprechen.
+
+@**BARON:** 
+Ich danke Ihnen, Kommissar.
+
+* * *
+
+##**
+##Szene 3**
+
+* * *
+
+@**EIN RAUM IM SCHLOSS DES KÖNIGS**
+
+
+@**KÖNIG:** (sitzt auf einem Thron und starrt vor sich hin)
+
+
+@**HERZOGIN:** (tritt ein)
+
+
+@**HERZOGIN:** 
+Mein Herr, der Kommissar ist da.
+
+@**KÖNIG:** 
+Schick ihn herein.
+
+* * *
+
+@**KOMMISSAR
+
 
 ##**
 ##Szene 1**
 
 * * *
 
-@**EINIGE JAHRE SPÄTER**
+@**EIN RAUM IM SCHLOSS DES KÖNIGS**
 
-@**EIN FRIEDHOF**
 
-@**DER SOHN**
+@**KÖNIG:** (sitzt auf einem Thron und starrt vor sich hin)
 
-$(steht am Grab seines Vaters)
 
-Es ist einige Jahre her, seit mein Vater gestorben ist. Aber ich denke immer noch an ihn. Er war ein großer Mann und ein guter Vater. Ich bin dankbar für alles, was er mir beigebracht hat.
+@**HERZOG:** (tritt ein)
 
-$**(Der Sohn legt einen Blumenstrauß auf das Grab.)**
 
-@**DER SOHN**
+@**HERZOG:** 
+Mein König, was ist es?
 
-Ich weiß, dass du immer bei mir bist, Vater. In meinem Herzen und in meinem Gedächtnis. Ich werde dein Erbe weiterführen und ein guter Herrscher sein, wie du es warst.
+@**KÖNIG:** 
+Mein Herzog, ich habe einen neuen Vorwurf gegen Sie.
 
-$**(Der Sohn geht.)**
+@**HERZOG:** 
+Was ist es, mein König?
+
+@**KÖNIG:** 
+Ich habe gehört, dass Sie den Baron verbannt haben, obwohl der Untersuchungsausschuss keine Beweise für seine Schuld gefunden hat. Und nun habe ich erfahren, dass Sie den Grafen, der den Baron beschuldigt hat, mit dem Feind zusammenarbeitet. Und außerdem habe ich erfahren, dass der Baron einen Traum hatte, in dem er den Grafen mit dem Feind zusammenarbeiten sah.
+
+@**HERZOG:** 
+Das ist richtig.
+
+@**KÖNIG:** 
+Aber warum?
+
+@**HERZOG:** 
+Weil ich dem Grafen nicht glauben kann. Und ich glaube dem Baron, dass er in seinem Traum den Grafen mit dem Feind zusammenarbeiten sah.
+
+@**KÖNIG:** 
+Das ist ein hartes Urteil!
+
+@**HERZOG:** 
+Ich weiß. Aber es ist das, was ich tun muss.
+
+@**KÖNIG:** 
+Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.
+
+@**HERZOG:** 
+Ich verstehe, mein König.
+
+@**KÖNIG:** 
+Ich werde einen neuen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.
+
+@**HERZOG:** 
+Ich danke Ihnen, mein König.
 
 * * *
 
-$**Der Vorhang fällt.**
+##**
+##Szene 2**
+
+* * *
+
+@**EIN RAUM IM SCHLOSS DES KÖNIGS**
+
+
+@**KÖNIG:** (sitzt auf einem Thron und starrt vor sich hin)
+
+
+@**HERZOGIN:** (tritt ein)
+
+
+@**HERZOGIN:** 
+Mein Herr, der Kommissar ist da.
+
+@**KÖNIG:** 
+Schick ihn herein.
+
+* * *
+
+@**KOMMISSAR:** (tritt ein)
+
+
+@**KOMMISSAR:** 
+Mein Herr, ich habe die Untersuchung abgeschlossen.
+
+@**KÖNIG:** 
+Und?
+
+@**KOMMISSAR:** 
+Der Baron ist unschuldig.
+
+@**KÖNIG:** 
+Was?
+
+@**KOMMISSAR:** 
+Der Baron ist unschuldig. Der Graf hat ihn beschuldigt, weil er mit dem Feind zusammenarbeitet. Aber der Baron hat in einem Traum gesehen, wie der Graf mit dem Feind zusammenarbeitet. Und der Baron hat mir gesagt, dass er dem Grafen nicht glauben kann.
+
+@**KÖNIG:** 
+Das ist unglaublich!
+
+@**KOMMISSAR:** 
+Es ist wahr, mein Herr.
+
+@**KÖNIG:** 
+Was soll ich jetzt tun?
+
+@**KOMMISSAR:** 
+Mein Herr, Sie sollten den Baron freilassen.
+
+@**KÖNIG:** 
+Ich werde es tun.
+
+@**KOMMISSAR:** 
+Ich danke Ihnen, mein Herr.
+
+* * *
+
+##**
+##Szene 3**
+
+* * *
+
+@**EIN RAUM IM SCHLOSS DES BARONS**
+
+
+@**BARON:** (sitzt an einem Schreibtisch und schreibt)
+
+
+@**HERZOG:** (tritt ein)
+
+
+@**HERZOG:** 
+Baron, ich habe eine Nachricht für Sie.
+
+@**BARON:** 
+Was ist es, Herzog?
+
+@**HERZOG:** 
+Der König hat Sie begnadigt. Sie sind frei.
+
+@**BARON:** 
+Das ist wunderbar!
+
+@**HERZOG:** 
+Ich weiß. Ich bin so froh für Sie.
+
+@**BARON:** 
+Danke, Herzog.
+
+@**HERZOG:** 
+Ich muss gehen. Aber ich werde Sie bald wiedersehen.
+
+@**BARON:** 
+Ich freue mich darauf.
+
+@**HERZOG:** 
+Auf Wiedersehen, Baron.
+
+@**BARON:** 
+Auf Wiedersehen, Herzog.
+
+* * *
+
+**Das Stück endet hier.**

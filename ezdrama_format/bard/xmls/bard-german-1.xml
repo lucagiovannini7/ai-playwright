@@ -1,403 +1,636 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
-  <ns0:teiHeader>
-    <ns0:fileDesc>
-      <ns0:titleStmt>
-        <ns0:title>bard-german-1</ns0:title>
-      </ns0:titleStmt>
-      <ns0:publicationStmt>
-        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
-        <ns0:idno type="URL">https://dracor.org</ns0:idno>
-        <ns0:availability>
-          <ns0:licence>
-            <ns0:ab>CC0 1.0</ns0:ab>
-            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
-          </ns0:licence>
-        </ns0:availability>
-      </ns0:publicationStmt>
-      <ns0:sourceDesc>
-        <ns0:bibl />
-      </ns0:sourceDesc>
-    </ns0:fileDesc>
-    <ns0:profileDesc>
-      <ns0:particDesc>
-        <ns0:listPerson>
-          <ns0:person sex="MALE" xml:id="der herzog geist">
-            <ns0:persName>**DER HERZOG GEIST**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="die soldaten">
-            <ns0:persName>**DIE SOLDATEN**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der herzog">
-            <ns0:persName>**DER HERZOG**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="die frau">
-            <ns0:persName>**DIE FRAU**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der kameradier">
-            <ns0:persName>**DER KAMERADIER**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="die kinder">
-            <ns0:persName>**DIE KINDER**</ns0:persName>
-          </ns0:person>
-          <ns0:person sex="MALE" xml:id="der sohn">
-            <ns0:persName>**DER SOHN**</ns0:persName>
-          </ns0:person>
-        </ns0:listPerson>
-      </ns0:particDesc>
-    </ns0:profileDesc>
-  </ns0:teiHeader>
-  <ns0:text>
-    <ns0:body>Sure, here is a first act of a 19th-century German play in the style of German drama:<ns0:div type="act">
-        <ns0:head>**Erster Akt**</ns0:head>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * * <ns0:stage>**EIN SAAL IN EINEM SCHLOSS**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich bin der Herzog von Bayern. Ich bin mächtig und reich. Ich habe alles, was ich mir wünschen kann. Aber ich bin auch einsam. Ich habe keine Freunde. Ich habe keine Familie. Ich bin ein Gefangener in meinem eigenen Schloss.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf einem Thron)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Euer Gnaden, es ist ein Bote von der Front gekommen.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(tritt ein)</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Was hat er zu berichten?</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Die Schlacht war verloren. Unsere Armee ist besiegt.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(fällt in Ohnmacht)</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 2**</ns0:head>* * * <ns0:stage>**EINIGE STUNDEN SPÄTER**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Wo bin ich?</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(erwacht)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr seid in eurem Schlafgemach, Euer Gnaden.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Was ist geschehen?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr habt einen Schwächeanfall erlitten.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Die Schlacht. Was ist mit der Schlacht?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Sie ist verloren. Unsere Armee ist besiegt.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Das ist das Ende.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(weint)</ns0:stage>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Nein, Euer Gnaden. Es ist noch nicht zu spät. Ihr könnt noch alles zurückgewinnen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Wie?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr müsst kämpfen. Ihr müsst eure Armee neu aufstellen. Ihr müsst die Schlacht rächen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich kann es nicht. Ich bin zu schwach.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der kameradier">
-            <ns0:speaker>**DER KAMERADIER**</ns0:speaker>
-            <ns0:p>Ihr müsst es. Ihr seid der Herzog von Bayern. Ihr seid der letzte Hoffnung eures Volkes.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Du hast recht. Ich werde kämpfen. Ich werde meine Armee neu aufstellen. Ich werde die Schlacht rächen.* * *Sure, here is another act of the same play in German:</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:stage>**(Der Herzog und der Kamerad gehen.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-      </ns0:div>
-      <ns0:div type="act">
-        <ns0:head>**Zweiter Akt**</ns0:head>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * * <ns0:stage>**EIN SCHLACHTFELD**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Wir haben gekämpft. Wir haben unsere Armee neu aufgestellt. Wir haben die Schlacht gerächt.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf dem Schlachtfeld, umringt von seinen Soldaten)</ns0:stage>
-          <ns0:sp who="#die soldaten">
-            <ns0:speaker>**DIE SOLDATEN**</ns0:speaker>
-            <ns0:p>Hurra! Hurra! Der Herzog ist ein Held!</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich bin kein Held. Ich bin nur ein Mann, der alles verloren hat und dann alles wiedergewonnen hat.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die soldaten">
-            <ns0:speaker>**DIE SOLDATEN**</ns0:speaker>
-            <ns0:p>Ihr seid der Herzog von Bayern. Ihr seid der neue Hoffnungsträger eures Volkes.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich werde mein Volk nicht enttäuschen.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog und seine Soldaten ziehen triumphierend ab.)**</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 2**</ns0:head>* * * <ns0:stage>**EIN RAUM IM SCHLOSS**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich habe alles zurückgewonnen. Mein Reich. Mein Volk. Meine Ehre.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf seinem Thron, neben ihm seine Frau und sein Sohn)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin so stolz auf dich, mein Gemahl.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich will auch ein Held sein wie du, Vater.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Du wirst es sein, mein Sohn. Du wirst es sein.* * *Sure, here is another act of the same play in German:**Dritter Akt**</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * * <ns0:stage>**EINIGE JAHRE SPÄTER**</ns0:stage>
-          <ns0:stage>**EIN RAUM IM SCHLOSS**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Es sind einige Jahre her, seit wir die Schlacht gerächt haben. In dieser Zeit habe ich mein Reich weiter aufgebaut und mein Volk noch weiter geeint. Ich bin stolz auf das, was wir erreicht haben.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf seinem Thron, neben ihm seine Frau und sein erwachsener Sohn)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin auch stolz auf dich, mein Gemahl. Du hast alles für uns getan.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich habe dich immer bewundert, Vater. Du bist ein wahrer Held.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich bin kein Held. Ich bin nur ein Mann, der alles verloren hat und dann alles wiedergewonnen hat.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Du bist der Herzog von Bayern. Du bist der neue Hoffnungsträger eures Volkes.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich werde mein Volk nicht enttäuschen.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich muss jetzt gehen. Es gibt noch viel zu tun.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Sei vorsichtig, mein Gemahl.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich werde es sein.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog geht.)**</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich will auch ein Held sein wie mein Vater.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(zu seiner Mutter)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Du wirst es sein, mein Sohn. Du wirst es sein.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Die Frau und der Sohn umarmen sich.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-      </ns0:div>
-      <ns0:div type="act">
-        <ns0:head>**Epilog**</ns0:head>* * * <ns0:stage>**EINIGE JAHRE SPÄTER**</ns0:stage>
-        <ns0:stage>**EIN FRIEDHOF**</ns0:stage>
-        <ns0:sp who="#der sohn">
-          <ns0:speaker>**DER SOHN**</ns0:speaker>
-          <ns0:p>Ich habe dich immer bewundert, Vater. Du bist ein wahrer Held. Ich werde alles tun, um in deine Fußstapfen zu treten.* * *Sure, here is another act of the same play in German:**Vierter Akt**</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(steht am Grab seines Vaters)</ns0:stage>
-        <ns0:stage>**(Der Sohn geht.)**</ns0:stage>
-        <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * * <ns0:stage>**EINIGE JAHRE SPÄTER**</ns0:stage>
-          <ns0:stage>**EIN RAUM IM SCHLOSS**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich bin alt geworden. Ich habe mein Leben lang gekämpft und gestritten. Aber ich habe auch viel erreicht. Ich habe mein Reich aufgebaut und mein Volk geeint. Ich bin stolz auf das, was ich getan habe.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf seinem Thron, neben ihm seine Frau und sein erwachsener Sohn)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin auch stolz auf dich, mein Gemahl. Du hast ein großes Werk vollbracht.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich bin dankbar für alles, was du für mich getan hast, Vater. Ich werde dein Erbe weiterführen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich weiß, dass du es kannst, mein Sohn. Du bist ein guter und gerechter Mann. Ich bin stolz auf dich.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**</ns0:stage>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich muss jetzt gehen. Es ist Zeit, mich zu verabschieden.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(steht auf)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Wohin gehst du, mein Gemahl?</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich gehe ins Jenseits. Meine Zeit ist gekommen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Aber wir brauchen dich doch.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ja, Vater. Wir wollen dich nicht loslassen.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog">
-            <ns0:speaker>**DER HERZOG**</ns0:speaker>
-            <ns0:p>Ich werde immer bei euch sein. In eurem Herzen und in eurem Gedächtnis.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog geht.)**</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Mein Gemahl ist tot.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(weint)</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich weiß, Mutter. Aber er wird immer in unseren Herzen sein.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Die Frau und der Sohn umarmen sich.)**</ns0:stage>
-          <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        </ns0:div>
-      </ns0:div>
-      <ns0:div type="act">
-        <ns0:head>**Epilog**</ns0:head>* * * <ns0:stage>**EINIGE JAHRE SPÄTER**</ns0:stage>
-        <ns0:stage>**EIN FRIEDHOF**</ns0:stage>
-        <ns0:sp who="#der sohn">
-          <ns0:speaker>**DER SOHN**</ns0:speaker>
-          <ns0:p>Es ist einige Jahre her, seit mein Vater gestorben ist. Aber ich denke immer noch an ihn. Er war ein großer Mann und ein guter Vater. Ich bin dankbar für alles, was er mir beigebracht hat.</ns0:p>
-        </ns0:sp>
-        <ns0:stage>(steht am Grab seines Vaters)</ns0:stage>
-        <ns0:stage>**(Der Sohn legt einen Blumenstrauß auf das Grab.)**</ns0:stage>
-        <ns0:sp who="#der sohn">
-          <ns0:speaker>**DER SOHN**</ns0:speaker>
-          <ns0:p>Ich weiß, dass du immer bei mir bist, Vater. In meinem Herzen und in meinem Gedächtnis. Ich werde dein Erbe weiterführen und ein guter Herrscher sein, wie du es warst.* * *Sure, here is another act of the same play in German:**Fünfter Akt**</ns0:p>
-        </ns0:sp>
-        <ns0:stage>**(Der Sohn geht.)**</ns0:stage>
-        <ns0:stage>**Der Vorhang fällt.**</ns0:stage>
-        <ns0:div type="scene">
-          <ns0:head>**</ns0:head>
-        </ns0:div>
-        <ns0:div type="scene">
-          <ns0:head>Szene 1**</ns0:head>* * * <ns0:stage>**EINIGE JAHRE SPÄTER**</ns0:stage>
-          <ns0:stage>**EIN RAUM IM SCHLOSS**</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich habe die Herrschaft von meinem Vater übernommen. Ich habe mein Bestes getan, um sein Erbe zu bewahren. Mein Volk ist friedlich und wohlhabend. Ich bin stolz auf das, was ich erreicht habe.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(sitzt auf dem Thron, neben ihm seine Frau und seine Kinder)</ns0:stage>
-          <ns0:sp who="#die frau">
-            <ns0:speaker>**DIE FRAU**</ns0:speaker>
-            <ns0:p>Ich bin so stolz auf dich, mein Gemahl. Du bist ein guter und gerechter Herrscher.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#die kinder">
-            <ns0:speaker>**DIE KINDER**</ns0:speaker>
-            <ns0:p>Wir lieben dich, Vater!</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich liebe euch auch, meine Kinder.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ich bin stolz auf dich, mein Sohn. Du hast mein Erbe würdig fortgeführt.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>(erscheint im Raum)</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Vater!</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ich habe dich immer beobachtet. Du hast ein guter und gerechter Herrscher sein. Ich bin stolz auf dich.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Danke, Vater. Ich habe mein Bestes getan.</ns0:p>
-          </ns0:sp>
-          <ns0:sp who="#der herzog geist">
-            <ns0:speaker>**DER HERZOG GEIST**</ns0:speaker>
-            <ns0:p>Ich weiß, mein Sohn. Ich bin stolz auf dich.* * *</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Herzog Geist verschwindet.)**</ns0:stage>
-          <ns0:sp who="#der sohn">
-            <ns0:speaker>**DER SOHN**</ns0:speaker>
-            <ns0:p>Ich werde mein Bestes tun, um mein Vaters Erbe zu bewahren. Ich werde ein guter und gerechter Herrscher sein, wie er es war.</ns0:p>
-          </ns0:sp>
-          <ns0:stage>**(Der Vorhang fällt.)**</ns0:stage>
-        </ns0:div>
-      </ns0:div>
-    </ns0:body>
-  </ns0:text>
-</ns0:TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="fräulein schmidt">
+            <persName>**FRÄULEIN SCHMIDT:**</persName>
+          </person>
+          <person sex="MALE" xml:id="kind">
+            <persName>**KIND</persName>
+          </person>
+          <person sex="MALE" xml:id="emil">
+            <persName>**EMIL:**</persName>
+          </person>
+          <person sex="MALE" xml:id="fräulein schmid">
+            <persName>**FRÄULEIN SCHMID</persName>
+          </person>
+          <person sex="MALE" xml:id="vater">
+            <persName>**VATER:**</persName>
+          </person>
+          <person sex="FEMALE" xml:id="anna">
+            <persName>**ANNA:**</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 1**</head>
+        <stage>**(Ein Wohnzimmer in einem bürgerlichen Haus.)**</stage>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Vater, ich muss mit dir reden.</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Was ist denn los, mein Sohn?</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich habe mich in ein Mädchen verliebt.</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>In ein Mädchen? Wer ist sie denn?</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Sie heißt Anna, und sie ist die Tochter des Bäckers.</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Der Bäcker? Aber die Bäckerstochter ist doch nicht von unserem Stande.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Das weiß ich, Vater, aber ich liebe sie trotzdem.</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Ich verstehe. Aber ich kann dir nicht erlauben, mit ihr zusammenzukommen.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Warum nicht?</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Weil es nicht sein kann.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Aber ich liebe sie!</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Ich weiß, mein Sohn, aber du musst sie vergessen.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich kann sie nicht vergessen!</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Du musst!</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich will nicht!</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Dann musst du das Haus verlassen.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Was?</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Wenn du nicht aufhörst, mit der Bäckerstochter zu reden, musst du das Haus verlassen.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Das kannst du nicht tun!</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Ich kann es, und ich werde es tun.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Nein!</p>
+        </sp>
+        <stage>**(Emil rennt aus dem Zimmer.)**</stage>
+        <sp who="#vater">
+          <speaker>**VATER:** </speaker>
+          <stage>(Nachdenklich.)</stage>
+          <p> Ich habe es nicht anders gewollt.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <stage>**(Anna kommt ins Zimmer.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Herr, ich habe gehört, dass Ihr Sohn sich in mich verliebt hat.</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Ja, das stimmt.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich weiß, dass wir nicht von unserem Stande sind, aber ich liebe ihn trotzdem.</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Ich weiß, Anna. Und ich kann es verstehen.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Aber ich kann nicht einfach so aufgeben.</p>
+        </sp>
+        <sp who="#vater">
+          <speaker>**VATER:**</speaker>
+          <p>Ich weiß, Anna. Aber ich kann dir nicht helfen.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich verstehe. Aber ich werde nicht aufgeben.</p>
+        </sp>
+        <stage>**(Anna geht.)**</stage>
+        <sp who="#vater">
+          <speaker>**VATER:** </speaker>
+          <stage>(Nachdenklich.)</stage>
+          <p> Ich hoffe, dass sie es schafft.**Ende der ersten Szene.**</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <stage>**(Der Vorhang fällt.)**</stage>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 2**</head>
+        <stage>**(Ein Jahr später. Ein Café in der Stadt.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Sitzt an einem Tisch und trinkt einen Kaffee.)</stage>
+          <p> Ich kann es nicht glauben, dass es ein Jahr her ist, seit ich Emil das letzte Mal gesehen habe.</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:** </speaker>
+          <stage>(Kommt zu Annas Tisch.)</stage>
+          <p> Hallo, Anna. Wie geht es dir?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Es geht mir gut, danke.</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Ich habe gehört, dass du dich immer noch in Emil verliebt bist.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ja, das stimmt.</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Ich habe auch gehört, dass er das Haus verlassen hat und in der Stadt lebt.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ja, das stimmt auch.</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Hast du versucht, ihn zu finden?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ja, ich habe es versucht, aber ich habe ihn nicht gefunden.</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Ich bin mir sicher, dass du ihn finden wirst.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich hoffe es.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Ich habe einen Freund, der Emil kennt. Ich kann ihn fragen, ob er weiß, wo Emil ist.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Das wäre sehr nett von dir.</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Ich werde es tun.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Ich muss gehen. Ich habe noch etwas zu tun.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Okay. Danke für deine Hilfe.</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Kein Problem.</p>
+        </sp>
+        <stage>**(Franziska geht.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Nachdenklich.)</stage>
+          <p> Ich hoffe, dass ich Emil bald wiedersehen werde.**Ende der zweiten Szene.**In this act, we have introduced a new character, Franziska Schmidt, who is a friend of Anna's. Franziska offers to help Anna find Emil, and we leave the act with Anna hopeful that she will see Emil again soon.I have also removed the character of Emil's father from this act, as he is not essential to the plot. This allows us to focus more on Anna and her quest to find Emil.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <stage>**(Der Vorhang fällt.)**</stage>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 3**</head>
+        <stage>**(Einige Monate später. Ein Gasthaus in der Stadt.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Sitzt an einem Tisch und trinkt einen Wein.)</stage>
+          <p> Ich habe Franziska gefragt, ob sie Emil gefunden hat, aber sie hat noch nichts gehört.</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:** </speaker>
+          <stage>(Kommt zu Annas Tisch.)</stage>
+          <p> Hallo, Anna. Ich habe gute Nachrichten für dich.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Oh, was ist es?</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Ich habe von meinem Freund erfahren, dass Emil in der Stadt ist.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Das ist wunderbar! Wo ist er?</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Er arbeitet in einer Fabrik.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich muss ihn finden!</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Ich kann dich dorthin bringen.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Das wäre sehr nett von dir.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#fräulein schmid">
+          <speaker>**FRÄULEIN SCHMID</speaker>
+          <p>t:** Wir gehen jetzt.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Okay.</p>
+        </sp>
+        <stage>**(Anna und Franziska gehen.)**</stage>
+        <stage>**(Ein paar Minuten später. Die Fabrik.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Sieht Emil durch das Fenster.)</stage>
+          <p> Da ist er!</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Ja, das ist er.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich muss zu ihm gehen.</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Ich warte hier auf dich.</p>
+        </sp>
+        <stage>**(Anna geht zu Emil.)**</stage>
+        <sp who="#emil">
+          <speaker>**EMIL:** </speaker>
+          <stage>(Sieht Anna.)</stage>
+          <p> Anna?</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Emil!</p>
+        </sp>
+        <stage>**(Sie fallen sich in die Arme.)**</stage>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich habe dich so vermisst.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich habe dich auch vermisst.</p>
+        </sp>
+        <stage>**(Sie küssen sich.)**</stage>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:** </speaker>
+          <stage>(Sieht Anna und Emil.)</stage>
+          <p> Ich wusste, dass ihr euch wiederfinden würdet.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Danke, Franziska.</p>
+        </sp>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+          <p>Kein Problem.</p>
+        </sp>
+        <stage>**(Anna und Emil gehen.)**</stage>
+        <sp who="#fräulein schmidt">
+          <speaker>**FRÄULEIN SCHMIDT:** </speaker>
+          <stage>(Nachdenklich.)</stage>
+          <p> Ich bin so froh, dass sie sich wiedergefunden haben.**Ende der dritten Szene.**In this act, we have introduced a new character, Franziska Schmidt, who is a friend of Anna's. Franziska helps Anna find Emil, and we leave the act with Anna and Emil reunited.I have also removed the character of Emil's father from this act, as he is not essential to the plot. This allows us to focus more on Anna and Emil's love story.I have also added some new events to the act, such as the scene where Anna and Emil find each other at the factory. This helps to move the plot forward and gives the audience a sense of closure.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <stage>**(Der Vorhang fällt.)**</stage>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 4**</head>
+        <stage>**(Einige Jahre später. Ein kleines Haus am Stadtrand.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Sitzt am Fenster und näht.)</stage>
+          <p> Ich kann es kaum glauben, dass es schon so viele Jahre her ist, seit wir uns gefunden haben.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:** </speaker>
+          <stage>(Kommt ins Zimmer.)</stage>
+          <p> Ich weiß, Anna. Es ist wie ein Traum.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Es ist so schön, hier mit dir zu sein.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Mir auch.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich habe mir immer vorgestellt, wie es wäre, mit dir eine Familie zu haben.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Das ist auch mein Traum.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich denke, es ist Zeit, dass wir anfangen, daran zu arbeiten.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich bin einverstanden.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich liebe dich, Emil.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich liebe dich auch, Anna.</p>
+        </sp>
+        <stage>**(Sie küssen sich.)**</stage>
+        <stage>**(Ein paar Monate später. Anna und Emil haben ein Kind bekommen.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Haltet ihr Baby im Arm.)</stage>
+          <p> Oh, Emil, er ist so schön.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ja, er ist wunderschön.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich bin so glücklich.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich auch.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich möchte, dass er ein glückliches Leben hat.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Er wird ein glückliches Leben haben.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich weiß, dass er es wird.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich liebe dich, Emil.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich liebe dich auch, Anna.**Ende des Stücks.**In this act, we have introduced a new character, a baby, who is the child of Anna and Emil. This helps to bring the play to a natural conclusion and gives the audience a sense of hope for the future.I have also removed the character of Franziska Schmidt from this act, as she is not essential to the plot. This allows us to focus more on Anna and Emil's family.I have also added some new events to the act, such as the scene where Anna and Emil's baby is born. This helps to move the plot forward and gives the audience a sense of closure.The play ends with a scene of Anna and Emil kissing, which symbolizes their love and happiness. This is a hopeful ending that leaves the audience feeling satisfied.</p>
+        </sp>
+        <stage>**(Sie küssen sich.)**</stage>
+        <stage>**(Der Vorhang fällt.)**</stage>
+      </div>
+      <div type="scene">
+        <head>**</head>
+      </div>
+      <div type="scene">
+        <head>Szene 5**</head>
+        <stage>**(Einige Jahre später. Ein kleines Haus am Stadtrand.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Sitzt am Fenster und näht.)</stage>
+          <p> Ich kann es kaum glauben, dass es schon so viele Jahre her ist, seit wir uns gefunden haben.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:** </speaker>
+          <stage>(Kommt ins Zimmer.)</stage>
+          <p> Ich weiß, Anna. Es ist wie ein Traum.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Es ist so schön, hier mit dir zu sein.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Mir auch.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich habe mir immer vorgestellt, wie es wäre, mit dir eine Familie zu haben.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Das ist auch mein Traum.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich denke, es ist Zeit, dass wir anfangen, daran zu arbeiten.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich bin einverstanden.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich liebe dich, Emil.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich liebe dich auch, Anna.</p>
+        </sp>
+        <stage>**(Sie küssen sich.)**</stage>
+        <stage>**(Ein paar Monate später. Anna und Emil haben ein Kind bekommen.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Haltet ihr Baby im Arm.)</stage>
+          <p> Oh, Emil, er ist so schön.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ja, er ist wunderschön.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich bin so glücklich.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich auch.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich möchte, dass er ein glückliches Leben hat.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Er wird ein glückliches Leben haben.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich weiß, dass er es wird.</p>
+        </sp>
+        <stage>**(Pause.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Ich liebe dich, Emil.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich liebe dich auch, Anna.**Ende des Stücks.**</p>
+        </sp>
+        <stage>**(Sie küssen sich.)**</stage>
+        <stage>**(Der Vorhang fällt.)**</stage>
+        <stage>**(Ein paar Jahre später. Das Haus ist nun ein bisschen größer und geräumiger. Anna und Emil haben zwei weitere Kinder bekommen, einen Jungen und ein Mädchen. Die Kinder spielen im Garten, während Anna und Emil im Haus arbeiten.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Ruft nach den Kindern.)</stage>
+          <p> Kinder, es ist Zeit zum Essen!</p>
+        </sp>
+        <stage>**(Die Kinder rennen ins Haus.)**</stage>
+        <sp who="#emil">
+          <speaker>**EMIL:** </speaker>
+          <stage>(Kommt aus der Küche.)</stage>
+          <p> Das Essen ist fertig!</p>
+        </sp>
+        <stage>**(Die Familie sitzt am Tisch und isst.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:**</speaker>
+          <p>Es schmeckt so gut!</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich habe mich angestrengt.</p>
+        </sp>
+        <sp who="#kind">
+          <speaker>**KIND</speaker>
+          <p>1:** Papa, kannst du mir später noch ein Märchen vorlesen?</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Natürlich, mein Schatz.</p>
+        </sp>
+        <sp who="#kind">
+          <speaker>**KIND</speaker>
+          <p>2:** Und ich will, dass du mir ein Lied singst!</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Das kann ich auch.</p>
+        </sp>
+        <stage>**(Nach dem Essen.)**</stage>
+        <sp who="#emil">
+          <speaker>**EMIL:** </speaker>
+          <stage>(Singt ein Lied.)</stage>
+          <p>**</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Liest ein Märchen vor.)</stage>
+          <p>**</p>
+        </sp>
+        <stage>**(Die Kinder schlafen ein.)**</stage>
+        <sp who="#anna">
+          <speaker>**ANNA:** </speaker>
+          <stage>(Schaut Emil an.)</stage>
+          <p> Ich bin so glücklich, dass wir zusammen sind.</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>**EMIL:**</speaker>
+          <p>Ich auch, Anna.</p>
+        </sp>
+        <stage>**Ende des Stücks.**</stage>
+        <stage>**(Sie küssen sich.)**</stage>
+        <stage>**(Der Vorhang fällt.)**</stage>
+        <note>In this act, we have introduced two new characters, the children of Anna and Emil. This helps to bring the play to a natural conclusion and gives the audience a sense of hope for the future.I have also removed the character of Franziska Schmidt from this act, as she is not essential to the plot. This allows us to focus more on Anna and Emil's family.I have also added some new events to the act, such as the scene where Anna and Emil's children play in the garden. This helps to move the plot forward and gives the audience a sense of closure.The play ends with a scene of Anna and Emil kissing, which symbolizes their love and happiness. This is a hopeful ending that leaves the audience feeling satisfied.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

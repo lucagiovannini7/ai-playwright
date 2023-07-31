@@ -1,494 +1,892 @@
-Sure, here is another first act of a 19th-century German play in the style of German drama:
 
-##**
-##Szene 1**
+##Szene 1
 
-* * *
+@ERSTER AKT
 
-@**ERSTER AKT**
 
-@**EINS**
 
-@**EIN SAAL IN EINEM SCHLOSS**
+##Szene 1
 
-@**DER HERZOG**
+@EIN GESCHLOSSENER RAUM
 
-$(sitzt auf einem Thron)
 
-Ich bin der Herzog von Bayern. Ich bin mächtig und reich. Ich habe alles, was ich mir wünschen kann. Aber ich bin auch einsam. Ich habe keine Freunde. Ich habe keine Familie. Ich bin ein Gefangener in meinem eigenen Schloss.
+@EIN HERZOG
 
-@**DER KAMERADIER**
 
-$(tritt ein)
+@EIN SENAT
 
-Euer Gnaden, es ist ein Bote von der Front gekommen.
 
-@**DER HERZOG**
+Der Herzog sitzt auf einem Thron. Der Senat ist um ihn herum versammelt.
 
-$(steht auf)
+@HERZOG:
 
-Was hat er zu berichten?
 
-@**DER KAMERADIER**
+Meine Herren, wir sind hier versammelt, um über die Zukunft unseres Landes zu beraten.
 
-Die Schlacht war verloren. Unsere Armee ist besiegt.
+@SENAT:
 
-@**DER HERZOG**
 
-$(fällt in Ohnmacht)
+Wir hören, Euer Gnaden.
 
-* * *
+@HERZOG:
 
-##**
-##Szene 2**
 
-* * *
+Wie Sie wissen, ist unser Land in einer tiefen Krise. Die Wirtschaft ist am Boden, und das Volk ist unzufrieden.
 
-@**DER HERZOG**
+@SENAT:
 
-$(erwacht)
 
-Wo bin ich?
+Das ist wahr, Euer Gnaden.
 
-@**DER KAMERADIER**
+@HERZOG:
 
-Ihr seid in eurem Schlafgemach, Euer Gnaden.
 
-@**DER HERZOG**
+Wir müssen etwas tun, um das Land zu retten. Wir brauchen einen neuen Plan, eine neue Vision für die Zukunft.
 
-Was ist geschehen?
+@SENAT:
 
-@**DER KAMERADIER**
 
-Ihr habt einen Schwächeanfall erlitten.
+Wir sind bereit, Euer Gnaden, zu helfen, wie wir können.
 
-@**DER HERZOG**
+@HERZOG:
 
-Die Schlacht. Was ist mit der Schlacht?
 
-@**DER KAMERADIER**
+Gut. Dann lasst uns beginnen.
 
-Sie ist verloren. Unsere Armee ist besiegt.
+Der Herzog und der Senat diskutieren über die Zukunft des Landes. Sie sprechen über verschiedene Möglichkeiten, wie das Land gerettet werden kann.
 
-@**DER HERZOG**
 
-$(weint)
+##Szene 2
 
-Das ist das Ende.
+@EIN ANDERES ZIMMER
 
-* * *
 
-##**
-##Szene 3**
+@EIN JÜNGERER HERZOG
 
-* * *
 
-@**DER HERZOG**
+@EIN FREUND
 
-$(sitzt auf seinem Thron)
 
-Ich habe alles verloren. Mein Reich. Mein Volk. Meine Ehre. Ich bin ein Gescheiterter.
+Der junge Herzog sitzt an einem Schreibtisch. Sein Freund ist bei ihm.
 
-@**DER KAMERADIER**
+@JÜNGERER HERZOG:
 
-Euer Gnaden, es ist noch nicht zu spät. Ihr könnt noch alles zurückgewinnen.
 
-@**DER HERZOG**
+Ich kann es nicht glauben. Mein Vater ist tot.
 
-Wie?
+@FREUND:
 
-@**DER KAMERADIER**
 
-Ihr müsst kämpfen. Ihr müsst eure Armee neu aufstellen. Ihr müsst die Schlacht rächen.
+Ich weiß. Es ist ein Schock.
 
-@**DER HERZOG**
+@JÜNGERER HERZOG:
 
-Ich kann es nicht. Ich bin zu schwach.
 
-@**DER KAMERADIER**
+Und jetzt bin ich der Herzog.
 
-Ihr müsst es. Ihr seid der Herzog von Bayern. Ihr seid der letzte Hoffnung eures Volkes.
+@FREUND:
 
-@**DER HERZOG**
 
-$(steht auf)
+Ja. Du bist der neue Herzog.
 
-Du hast recht. Ich werde kämpfen. Ich werde meine Armee neu aufstellen. Ich werde die Schlacht rächen.
+@JÜNGERER HERZOG:
 
-* * *
 
-$**Der Vorhang fällt.**
+Ich weiß nicht, ob ich das schaffe.
 
-**Zusätzliche Szene**
+@FREUND:
 
-* * *
 
-##**
-##Szene 4**
+Du schaffst das schon. Du bist ein starker Mann.
 
-* * *
+@JÜNGERER HERZOG:
 
-@**DER HERZOG**
 
-$(steht auf dem Schlachtfeld)
+Ich hoffe es.
 
-Ich habe gekämpft. Ich habe meine Armee neu aufgestellt. Ich habe die Schlacht gerächt.
+Der junge Herzog und sein Freund sprechen über die Zukunft des Landes. Der junge Herzog ist besorgt, ob er der Aufgabe gewachsen ist, aber sein Freund beruhigt ihn.
 
-@**DER KAMERADIER**
 
-Euer Gnaden, ihr seid ein Held.
+##Szene 3
 
-@**DER HERZOG**
+@DER HOF
 
-Ich bin kein Held. Ich bin nur ein Mann, der alles verloren hat und dann alles wiedergewonnen hat.
 
-@**DER KAMERADIER**
+@DER JÜNGERE HERZOG
 
-Ihr seid der Herzog von Bayern. Ihr seid der neue Hoffnungsträger eures Volkes.
 
-@**DER HERZOG**
+@DER SENAT
 
-Ich werde mein Volk nicht enttäuschen.
 
-* * *
+Der junge Herzog steht vor dem Senat.
 
-$**Der Vorhang fällt.**
-Sure, here is another act of the same play in the style of a 19th-century play:
+@JÜNGERER HERZOG:
 
-##**
-##Szene 4**
 
-* * *
+Meine Herren, ich bin der neue Herzog.
 
-@**EIN SCHLACHTFELD**
+@SENAT:
 
-@**DER HERZOG**
 
-$(steht auf dem Schlachtfeld, umringt von seinen Soldaten)
+Wir begrüßen Euch, Euer Gnaden.
 
-Wir haben gekämpft. Wir haben unsere Armee neu aufgestellt. Wir haben die Schlacht gerächt.
+@JÜNGERER HERZOG:
 
-@**DIE SOLDATEN**
 
-Hurra! Hurra! Der Herzog ist ein Held!
+Ich weiß, dass ich große Fußstapfen zu füllen habe. Mein Vater war ein großer Herzog.
 
-@**DER HERZOG**
+@SENAT:
 
-Ich bin kein Held. Ich bin nur ein Mann, der alles verloren hat und dann alles wiedergewonnen hat.
 
-@**DIE SOLDATEN**
+Das ist wahr, Euer Gnaden.
 
-Ihr seid der Herzog von Bayern. Ihr seid der neue Hoffnungsträger eures Volkes.
+@JÜNGERER HERZOG:
 
-@**DER HERZOG**
 
-Ich werde mein Volk nicht enttäuschen.
+Aber ich werde mein Bestes tun, um das Land zu regieren.
 
-$**(Der Herzog und seine Soldaten ziehen triumphierend ab.)**
+@SENAT:
 
-* * *
 
-##**
-##Szene 5**
+Wir sind uns sicher, dass Ihr das tun werdet, Euer Gnaden.
 
-* * *
+@JÜNGERER HERZOG:
 
-@**EIN RAUM IM SCHLOSS**
 
-@**DER HERZOG**
+Ich danke Euch.
 
-$(sitzt auf seinem Thron, neben ihm seine Frau und sein Sohn)
+Der junge Herzog spricht vor dem Senat. Er verspricht, sein Bestes zu tun, um das Land zu regieren.
 
-Ich habe alles zurückgewonnen. Mein Reich. Mein Volk. Meine Ehre.
+$Der Vorhang fällt.
 
-@**DIE FRAU**
 
-Ich bin so stolz auf dich, mein Gemahl.
+@ZWEITER AKT
 
-@**DER SOHN**
 
-Ich will auch ein Held sein wie du, Vater.
 
-@**DER HERZOG**
+##Szene 1
 
-Du wirst es sein, mein Sohn. Du wirst es sein.
+@EIN RAUM IM PALAIS
 
-$**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**
 
-* * *
+@DER JÜNGERE HERZOG
 
-$**Der Vorhang fällt.**
-Sure, here is another act of the same play in the style of a 19th-century play:
 
-##**
-##Szene 6**
+@EIN BERATER
 
-* * *
 
-@**EIN JAHR SPÄTER**
+Der junge Herzog sitzt an einem Schreibtisch. Ein Berater steht vor ihm.
 
-@**EIN RAUM IM SCHLOSS**
+@BERATER:
 
-@**DER HERZOG**
 
-$(sitzt auf seinem Thron, neben ihm seine Frau und sein Sohn)
+Euer Gnaden, ich habe Neuigkeiten.
 
-Es ist ein Jahr her, seit wir die Schlacht gerächt haben. In dieser Zeit habe ich mein Reich wieder aufgebaut und mein Volk geeint. Ich bin stolz auf das, was wir erreicht haben.
+@JÜNGERER HERZOG:
 
-@**DIE FRAU**
 
-Ich bin auch stolz auf dich, mein Gemahl. Du hast alles für uns getan.
+Was ist es?
 
-@**DER SOHN**
+@BERATER:
 
-Ich will auch ein Held sein wie du, Vater.
 
-@**DER HERZOG**
+Die Bauern im Norden des Landes sind im Aufstand.
 
-Du wirst es sein, mein Sohn. Du wirst es sein.
+@JÜNGERER HERZOG:
 
-$**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**
 
-* * *
+Was? Warum?
 
-@**DER HERZOG**
+@BERATER:
 
-$(steht auf)
 
-Ich muss jetzt gehen. Es gibt noch viel zu tun.
+Sie sind unzufrieden mit der Regierung. Sie sagen, dass sie zu viel Steuern zahlen müssen.
 
-@**DIE FRAU**
+@JÜNGERER HERZOG:
 
-Sei vorsichtig, mein Gemahl.
 
-@**DER HERZOG**
+Das ist nicht gut. Wir müssen etwas tun, um sie zu beruhigen.
 
-Ich werde es sein.
+@BERATER:
 
-$**(Der Herzog geht.)**
 
-* * *
+Ich habe einen Vorschlag. Wir könnten ihnen die Steuern senken.
 
-@**DIE FRAU**
+@JÜNGERER HERZOG:
 
-$(zu ihrem Sohn)
 
-Schau dir deinen Vater an. Er ist ein Held.
+Das ist eine gute Idee. Ich werde es tun.
 
-@**DER SOHN**
+@BERATER:
 
-Ich will auch ein Held sein wie er.
 
-@**DIE FRAU**
+Ich danke Euch, Euer Gnaden.
 
-Du wirst es sein, mein Sohn. Du wirst es sein.
+@JÜNGERER HERZOG:
 
-$**(Die Frau und der Sohn umarmen sich.)**
 
-* * *
+Du bist willkommen.
 
-$**Der Vorhang fällt.**
-Sure, here is another act of the same play in the style of a 19th-century play:
+Der junge Herzog und der Berater sprechen über den Aufstand der Bauern. Der junge Herzog beschließt, die Steuern zu senken, um die Bauern zu beruhigen.
 
-##**
-##Szene 7**
 
-* * *
+##Szene 2
 
-@**EINIGE JAHRE SPÄTER**
+@EIN ANDERES ZIMMER
 
-@**EIN RAUM IM SCHLOSS**
 
-@**DER HERZOG**
+@DER JÜNGERE HERZOG
 
-$(sitzt auf seinem Thron, neben ihm seine Frau und sein erwachsener Sohn)
 
-Es sind einige Jahre her, seit wir die Schlacht gerächt haben. In dieser Zeit habe ich mein Reich weiter aufgebaut und mein Volk noch weiter geeint. Ich bin stolz auf das, was wir erreicht haben.
+@EINE FRAU
 
-@**DIE FRAU**
 
-Ich bin auch stolz auf dich, mein Gemahl. Du hast alles für uns getan.
+Der junge Herzog sitzt an einem Schreibtisch. Eine Frau steht vor ihm.
 
-@**DER SOHN**
+@FRAU:
 
-Ich habe dich immer bewundert, Vater. Du bist ein wahrer Held.
 
-@**DER HERZOG**
+Euer Gnaden, ich habe eine Bitte.
 
-Danke, mein Sohn. Ich bin froh, dass du so stolz auf mich bist.
+@JÜNGERER HERZOG:
 
-$**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**
 
-* * *
+Was ist es?
 
-@**DER HERZOG**
+@FRAU:
 
-$(steht auf)
 
-Ich muss jetzt gehen. Es gibt noch viel zu tun.
+Mein Mann ist im Gefängnis. Er wurde wegen Hochverrats angeklagt.
 
-@**DIE FRAU**
+@JÜNGERER HERZOG:
 
-Sei vorsichtig, mein Gemahl.
 
-@**DER HERZOG**
+Das ist sehr bedauerlich. Ich werde mich mit seinem Fall befassen.
 
-Ich werde es sein.
+@FRAU:
 
-$**(Der Herzog geht.)**
 
-* * *
+Vielen Dank, Euer Gnaden.
 
-@**DER SOHN**
+@JÜNGERER HERZOG:
 
-$(zu seiner Mutter)
 
-Ich will auch ein Held sein wie mein Vater.
+Du bist willkommen.
 
-@**DIE FRAU**
+Der junge Herzog und die Frau sprechen über den Fall des Mannes, der im Gefängnis sitzt. Der junge Herzog verspricht, sich mit dem Fall zu befassen.
 
-Du wirst es sein, mein Sohn. Du wirst es sein.
 
-$**(Die Frau und der Sohn umarmen sich.)**
+##Szene 3
 
-* * *
+@DER HOF
 
-$**Der Vorhang fällt.**
 
-#**Epilog**
+@DER JÜNGERE HERZOG
 
-* * *
 
-@**EINIGE JAHRE SPÄTER**
+@DER SENAT
 
-@**EIN FRIEDHOF**
 
-@**DER SOHN**
+Der junge Herzog steht vor dem Senat.
 
-$(steht am Grab seines Vaters)
+@JÜNGERER HERZOG:
 
-Ich habe dich immer bewundert, Vater. Du bist ein wahrer Held. Ich werde alles tun, um in deine Fußstapfen zu treten.
 
-$**(Der Sohn geht.)**
+Meine Herren, ich habe gute Nachrichten. Die Bauern im Norden des Landes sind beruhigt.
 
-* * *
+@SENAT:
 
-$**Der Vorhang fällt.**
-Sure, here is another act of the same play in German:
 
-##**
-##Szene 8**
+Das ist eine gute Nachricht, Euer Gnaden.
 
-* * *
+@JÜNGERER HERZOG:
 
-@**EINIGE JAHRE SPÄTER**
 
-@**EIN RAUM IM SCHLOSS**
+Ich habe auch gute Nachrichten für den Mann, der im Gefängnis sitzt. Er wurde freigelassen.
 
-@**DER HERZOG**
+@SENAT:
 
-$(sitzt auf seinem Thron, neben ihm seine Frau und sein erwachsener Sohn)
 
-Es sind einige Jahre her, seit wir die Schlacht gerächt haben. In dieser Zeit habe ich mein Reich weiter aufgebaut und mein Volk noch weiter geeint. Ich bin stolz auf das, was wir erreicht haben.
+Das ist eine gute Nachricht, Euer Gnaden.
 
-@**DIE FRAU**
+@JÜNGERER HERZOG:
 
-Ich bin auch stolz auf dich, mein Gemahl. Du hast alles für uns getan.
 
-@**DER SOHN**
+Ich danke Euch.
 
-Ich habe dich immer bewundert, Vater. Du bist ein wahrer Held.
+Der junge Herzog spricht vor dem Senat. Er verkündet die guten Nachrichten über die Bauern und den Mann, der im Gefängnis saß.
 
-@**DER HERZOG**
+$Der Vorhang fällt.
 
-Danke, mein Sohn. Ich bin froh, dass du so stolz auf mich bist.
 
-$**(Der Herzog, seine Frau und sein Sohn umarmen sich.)**
+@DRITTER AKT
 
-* * *
 
-@**DER HERZOG**
 
-$(steht auf)
+##Szene 1
 
-Ich muss jetzt gehen. Es gibt noch viel zu tun.
+@EIN RAUM IM PALAIS
 
-@**DIE FRAU**
 
-Sei vorsichtig, mein Gemahl.
+@DER JÜNGERE HERZOG
 
-@**DER HERZOG**
 
-Ich werde es sein.
+@EIN BERATER
 
-$**(Der Herzog geht.)**
 
-* * *
+@EINE FRAU
 
-@**DER SOHN**
 
-$(zu seiner Mutter)
+@EIN SOLDAT
 
-Ich will auch ein Held sein wie mein Vater.
 
-@**DIE FRAU**
+Der junge Herzog sitzt an einem Schreibtisch. Ein Berater steht vor ihm. Eine Frau steht neben dem Berater. Ein Soldat steht im Hintergrund.
 
-Du wirst es sein, mein Sohn. Du wirst es sein.
+@BERATER:
 
-$**(Die Frau und der Sohn umarmen sich.)**
 
-* * *
+Euer Gnaden, ich habe Neuigkeiten.
 
-$**Der Vorhang fällt.**
+@JÜNGERER HERZOG:
 
-#**Epilog**
 
-* * *
+Was ist es?
 
-@**EINIGE JAHRE SPÄTER**
+@BERATER:
 
-@**EIN FRIEDHOF**
 
-@**DER SOHN**
+Die Bauern im Norden des Landes sind beruhigt.
 
-$(steht am Grab seines Vaters)
+@JÜNGERER HERZOG:
 
-Ich habe dich immer bewundert, Vater. Du bist ein wahrer Held. Ich werde alles tun, um in deine Fußstapfen zu treten.
 
-$**(Der Sohn geht.)**
+Das ist eine gute Nachricht.
 
-* * *
+@FRAU:
 
-$**Der Vorhang fällt.**
 
-**Nachspiel**
+Euer Gnaden, ich habe eine Bitte.
 
-* * *
+@JÜNGERER HERZOG:
 
-@**EINIGE JAHRE SPÄTER**
 
-@**EIN RAUM IM SCHLOSS**
+Was ist es?
 
-@**DER SOHN**
+@FRAU:
 
-$(sitzt auf dem Thron, neben ihm seine Frau und seine Kinder)
 
-Ich habe alles erreicht, was ich mir vorgenommen habe. Ich habe mein Reich weiter aufgebaut und mein Volk noch weiter geeint. Ich bin stolz auf das, was wir erreicht haben.
+Mein Mann ist im Gefängnis. Er wurde wegen Hochverrats angeklagt.
 
-@**DIE FRAU**
+@JÜNGERER HERZOG:
 
-Ich bin auch stolz auf dich, mein Gemahl. Du hast alles für uns getan.
 
-@**DIE KINDER**
+Das ist sehr bedauerlich. Ich werde mich mit seinem Fall befassen.
 
-Wir sind stolz auf dich, Vater. Du bist ein wahrer Held.
+@SOLDAAT:
 
-@**DER SOHN**
 
-Danke, meine Lieben. Ich bin froh, dass ich euch habe.
+Euer Gnaden, es ist ein Aufstand im Süden des Landes.
 
-$**(Der Sohn, seine Frau und seine Kinder umarmen sich.)**
+@JÜNGERER HERZOG:
 
-* * *
 
-$**Der Vorhang fällt.**
+Was? Warum?
+
+@SOLDAAT:
+
+
+Die Bauern sind unzufrieden mit der Regierung. Sie sagen, dass sie zu wenig Land haben.
+
+@JÜNGERER HERZOG:
+
+
+Das ist nicht gut. Wir müssen etwas tun, um sie zu beruhigen.
+
+@BERATER:
+
+
+Ich habe einen Vorschlag. Wir könnten ihnen Land geben.
+
+@JÜNGERER HERZOG:
+
+
+Das ist eine gute Idee. Ich werde es tun.
+
+@FRAU:
+
+
+Vielen Dank, Euer Gnaden.
+
+@SOLDAAT:
+
+
+Ich werde die Bauern im Süden beruhigen.
+
+@JÜNGERER HERZOG:
+
+
+Gut. Ich danke Euch.
+
+Der junge Herzog, der Berater, die Frau und der Soldat sprechen über den Aufstand im Süden des Landes. Der junge Herzog beschließt, den Bauern Land zu geben, um sie zu beruhigen.
+
+
+##Szene 2
+
+@EIN ANDERES ZIMMER
+
+
+@DER JÜNGERE HERZOG
+
+
+@EINE JUNGE FRAU
+
+
+Der junge Herzog sitzt an einem Schreibtisch. Eine junge Frau steht vor ihm.
+
+@JÜNGERER HERZOG:
+
+
+Wer bist du?
+
+@JUNGE FRAU:
+
+
+Ich bin die Tochter des Mannes, der im Gefängnis sitzt.
+
+@JÜNGERER HERZOG:
+
+
+Ich weiß. Ich habe seinen Fall befasst. Er wird freigelassen.
+
+@JUNGE FRAU:
+
+
+Vielen Dank, Euer Gnaden.
+
+@JÜNGERER HERZOG:
+
+
+Du bist willkommen.
+
+Die junge Frau bedankt sich beim jungen Herzog für die Freilassung ihres Vaters.
+
+
+##Szene 3
+
+@DER HOF
+
+
+@DER JÜNGERE HERZOG
+
+
+@DER SENAT
+
+
+Der junge Herzog steht vor dem Senat.
+
+@JÜNGERER HERZOG:
+
+
+Meine Herren, ich habe gute Nachrichten. Die Bauern im Norden und im Süden des Landes sind beruhigt.
+
+@SENAT:
+
+
+Das sind gute Nachrichten, Euer Gnaden.
+
+@JÜNGERER HERZOG:
+
+
+Ich habe auch gute Nachrichten für den Mann, der im Gefängnis sitzt. Er wurde freigelassen.
+
+@SENAT:
+
+
+Das sind gute Nachrichten, Euer Gnaden.
+
+@JÜNGERER HERZOG:
+
+
+Ich danke Euch.
+
+Der junge Herzog spricht vor dem Senat. Er verkündet die guten Nachrichten über die Bauern und den Mann, der im Gefängnis saß.
+
+$Der Vorhang fällt.
+
+
+@DRITTER AKT
+
+
+
+##Szene 1
+
+@EIN RAUM IM PALAIS
+
+
+@DER JÜNGERE HERZOG
+
+
+@EINE JUNGE FRAU
+
+
+@EIN KÖNIG
+
+
+Der junge Herzog sitzt an einem Schreibtisch. Eine junge Frau steht vor ihm. Ein König steht im Hintergrund.
+
+@JÜNGERER HERZOG:
+
+
+Wer bist du?
+
+@JUNGE FRAU:
+
+
+Ich bin die Tochter des Mannes, der im Gefängnis sitzt.
+
+@JÜNGERER HERZOG:
+
+
+Ich weiß. Ich habe seinen Fall befasst. Er wird freigelassen.
+
+@JUNGE FRAU:
+
+
+Vielen Dank, Euer Gnaden.
+
+@JÜNGERER HERZOG:
+
+
+Du bist willkommen.
+
+@KÖNIG:
+
+
+Euer Gnaden, ich habe Neuigkeiten.
+
+@JÜNGERER HERZOG:
+
+
+Was ist es?
+
+@KÖNIG:
+
+
+Ein Nachbarland hat uns angegriffen.
+
+@JÜNGERER HERZOG:
+
+
+Was? Warum?
+
+@KÖNIG:
+
+
+Sie wollen unser Land an sich reißen.
+
+@JÜNGERER HERZOG:
+
+
+Das ist nicht gut. Wir müssen etwas tun, um sie zu besiegen.
+
+@JUNGE FRAU:
+
+
+Ich kann helfen. Ich bin eine gute Kämpferin.
+
+@JÜNGERER HERZOG:
+
+
+Das ist gut. Du wirst uns im Kampf gegen unsere Feinde helfen.
+
+@KÖNIG:
+
+
+Ich werde meine Armee schicken.
+
+@JÜNGERER HERZOG:
+
+
+Gut. Wir werden sie besiegen.
+
+Der junge Herzog, die junge Frau und der König sprechen über den bevorstehenden Krieg. Die junge Frau bietet ihre Hilfe an, und der König schickt seine Armee.
+
+
+##Szene 2
+
+@EIN KAMPFSTELLE
+
+
+@DER JÜNGERE HERZOG
+
+
+@DIE JUNGE FRAU
+
+
+@DIE ARMEE
+
+
+Die junge Frau und der junge Herzog kämpfen an der Spitze der Armee. Sie besiegen die feindlichen Truppen.
+
+Der junge Herzog und die junge Frau besiegen die feindlichen Truppen und retten das Land.
+
+
+##Szene 3
+
+@DER HOF
+
+
+@DER JÜNGERE HERZOG
+
+
+@DER SENAT
+
+
+@DER KÖNIG
+
+
+@DER JÜNGERE HERZOG
+
+
+Meine Herren, ich habe gute Nachrichten. Wir haben den Krieg gewonnen.
+
+@SENAT:
+
+
+Das sind gute Nachrichten, Euer Gnaden.
+
+@KÖNIG:
+
+
+Ich danke Euch für Eure Hilfe.
+
+@JÜNGERER HERZOG:
+
+
+Es war mir ein Vergnügen.
+
+Der junge Herzog spricht vor dem Senat und dem König. Er verkündet den Sieg im Krieg.
+
+$Der Vorhang fällt.
+
+
+@DRITTER AKT
+
+
+
+##Szene 1
+
+@EIN RAUM IM PALAIS
+
+
+@DER JÜNGERE HERZOG
+
+
+@EINE JUNGE FRAU
+
+
+@EIN KÖNIG
+
+
+@EIN GENERAL
+
+
+Der junge Herzog sitzt an einem Schreibtisch. Eine junge Frau steht vor ihm. Ein König und ein General stehen im Hintergrund.
+
+@JÜNGERER HERZOG:
+
+
+Wer bist du?
+
+@JUNGE FRAU:
+
+
+Ich bin die Tochter des Mannes, der im Gefängnis sitzt.
+
+@JÜNGERER HERZOG:
+
+
+Ich weiß. Ich habe seinen Fall befasst. Er wird freigelassen.
+
+@JUNGE FRAU:
+
+
+Vielen Dank, Euer Gnaden.
+
+@JÜNGERER HERZOG:
+
+
+Du bist willkommen.
+
+@KÖNIG:
+
+
+Euer Gnaden, ich habe Neuigkeiten.
+
+@JÜNGERER HERZOG:
+
+
+Was ist es?
+
+@KÖNIG:
+
+
+Ein Nachbarland hat uns angegriffen.
+
+@JÜNGERER HERZOG:
+
+
+Was? Warum?
+
+@KÖNIG:
+
+
+Sie wollen unser Land an sich reißen.
+
+@JÜNGERER HERZOG:
+
+
+Das ist nicht gut. Wir müssen etwas tun, um sie zu besiegen.
+
+@JUNGE FRAU:
+
+
+Ich kann helfen. Ich bin eine gute Kämpferin.
+
+@JÜNGERER HERZOG:
+
+
+Das ist gut. Du wirst uns im Kampf gegen unsere Feinde helfen.
+
+@KÖNIG:
+
+
+Ich werde meine Armee schicken.
+
+@JÜNGERER HERZOG:
+
+
+Gut. Wir werden sie besiegen.
+
+@GENERAL:
+
+
+Euer Gnaden, ich habe einen Plan.
+
+@JÜNGERER HERZOG:
+
+
+Was ist es?
+
+@GENERAL:
+
+
+Wir können einen Hinterhalt aufstellen.
+
+@JÜNGERER HERZOG:
+
+
+Das ist eine gute Idee.
+
+@GENERAL:
+
+
+Ich werde die Armee vorbereiten.
+
+@JÜNGERER HERZOG:
+
+
+Gut.
+
+Der junge Herzog, die junge Frau, der König und der General sprechen über den bevorstehenden Krieg. Der General schlägt einen Hinterhalt vor, und der junge Herzog stimmt zu.
+
+
+##Szene 2
+
+@EIN KAMPFSTELLE
+
+
+@DER JÜNGERE HERZOG
+
+
+@DIE JUNGE FRAU
+
+
+@DIE ARMEE
+
+
+@DER GENERAL
+
+
+Die junge Frau und der junge Herzog führen die Armee in die Schlacht. Sie stellen einen Hinterhalt auf und besiegen die feindlichen Truppen.
+
+Der junge Herzog, die junge Frau und die Armee besiegen die feindlichen Truppen und retten das Land.
+
+
+##Szene 3
+
+@DER HOF
+
+
+@DER JÜNGERE HERZOG
+
+
+@DER SENAT
+
+
+@DER KÖNIG
+
+
+@DER GENERAL
+
+
+@DER JÜNGERE HERZOG
+
+
+Meine Herren, ich habe gute Nachrichten. Wir haben den Krieg gewonnen.
+
+@SENAT:
+
+
+Das sind gute Nachrichten, Euer Gnaden.
+
+@KÖNIG:
+
+
+Ich danke Euch für Eure Hilfe.
+
+@JÜNGERER HERZOG:
+
+
+Es war mir ein Vergnügen.
+
+@GENERAL:
+
+
+Euer Gnaden, ich habe einen Vorschlag.
+
+@JÜNGERER HERZOG:
+
+
+Was ist es?
+
+@GENERAL:
+
+
+Ich möchte die junge Frau heiraten.
+
+@JÜNGERER HERZOG:
+
+
+Das ist eine gute Idee.
+
+@JUNGE FRAU:
+
+
+Ich will.
+
+Der junge Herzog, der König, der Senat und der General sprechen über den Sieg im Krieg. Der General schlägt vor, die junge Frau zu heiraten, und sie stimmt zu.
+
+$Der Vorhang fällt.
+
+
