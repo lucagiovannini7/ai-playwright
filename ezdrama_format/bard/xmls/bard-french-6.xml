@@ -21,679 +21,684 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="servante">
-            <persName>**SERVANTE**</persName>
+          <person sex="FEMALE" xml:id="servante">
+            <persName>SERVANTE</persName>
           </person>
-          <person sex="MALE" xml:id="dame">
-            <persName>**DAME**</persName>
+          <person sex="FEMALE" xml:id="dame">
+            <persName>DAME</persName>
           </person>
-          <person sex="MALE" xml:id="jeune homme">
-            <persName>**JEUNE HOMME**</persName>
+          <person sex="MALE" xml:id="jeune-homme">
+            <persName>JEUNE HOMME</persName>
           </person>
           <person sex="MALE" xml:id="églésiasticien">
-            <persName>**ÉGLÉSIASTICIEN**</persName>
+            <persName>ÉGLÉSIASTICIEN</persName>
           </person>
           <person sex="MALE" xml:id="président">
-            <persName>**PRÉSIDENT**</persName>
+            <persName>PRÉSIDENT</persName>
           </person>
           <person sex="MALE" xml:id="comte">
-            <persName>**COMTE**</persName>
+            <persName>COMTE</persName>
           </person>
-          <person sex="MALE" xml:id="fin de la scène">
-            <persName>**FIN DE LA SCÈNE**</persName>
-          </person>
-          <person sex="MALE" xml:id="marquise">
-            <persName>**MARQUISE**</persName>
+          <person sex="FEMALE" xml:id="marquise">
+            <persName>MARQUISE</persName>
           </person>
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>**<div type="scene">
-        <head>ACTE I**</head>**</div>
+    <body>
+      <div type="act">
+        <head>ACTE I</head></div>
       <div type="scene">
-        <head>Scène 1**</head>*INTÉRIEUR D'UNE CHAMBRE*<sp who="#marquise">
-          <speaker>**MARQUISE** </speaker>
+        <head>Scène 1</head>
+        <stage>INTÉRIEUR D'UNE CHAMBRE</stage>
+        <sp who="#marquise">
+          <speaker>MARQUISE </speaker>
           <stage>(_assise sur un sofa, rêveuse_)</stage>
           <p>Ah, si j'avais pu le sauver !</p>
         </sp>
         <sp who="#servante">
-          <speaker>**SERVANTE** </speaker>
+          <speaker>SERVANTE </speaker>
           <stage>(_entrant_)</stage>
           <p>Madame, le comte est arrivé.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE** </speaker>
+          <speaker>MARQUISE </speaker>
           <stage>(_se levant_)</stage>
           <p>Le comte ? Ah, oui, j'attendais sa visite.</p>
         </sp>
         <stage>(_La servante sort._)</stage>
         <sp who="#comte">
-          <speaker>**COMTE** </speaker>
+          <speaker>COMTE </speaker>
           <stage>(_entrant_)</stage>
           <p>Madame la marquise, je vous salue.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Comte, je suis si heureuse de vous voir.</p>
         </sp>
         <sp who="#comte">
-          <speaker>**COMTE**</speaker>
+          <speaker>COMTE</speaker>
           <p>Je suis venu vous apporter des nouvelles de votre fils.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Oh, dites-moi vite !</p>
         </sp>
         <sp who="#comte">
-          <speaker>**COMTE**</speaker>
+          <speaker>COMTE</speaker>
           <p>Il est mort au combat.</p>
         </sp>
         <stage>(_La marquise s'effondre sur le sofa._)</stage>
         <sp who="#comte">
-          <speaker>**COMTE**</speaker>
+          <speaker>COMTE</speaker>
           <p>Madame, je suis si peiné.</p>
         </sp>
         <stage>(_Il s'approche d'elle et lui prend la main._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Mon fils, mon pauvre fils...</p>
         </sp>
         <stage>(_Elle se met à pleurer._)</stage>
         <sp who="#comte">
-          <speaker>**COMTE**</speaker>
+          <speaker>COMTE</speaker>
           <p>Je sais que c'est une terrible épreuve, mais vous devez être forte.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Comment puis-je être forte ? Mon fils est mort !</p>
         </sp>
         <sp who="#comte">
-          <speaker>**COMTE**</speaker>
+          <speaker>COMTE</speaker>
           <p>Je sais, mais il faut que vous gardiez la tête haute.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je ne sais pas si je peux.</p>
         </sp>
         <sp who="#comte">
-          <speaker>**COMTE**</speaker>
+          <speaker>COMTE</speaker>
           <p>Vous devez essayer. Pour lui.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Vous avez raison. Je dois être forte.</p>
         </sp>
         <stage>(_essuyant ses larmes_)</stage>
         <sp who="#comte">
-          <speaker>**COMTE**</speaker>
+          <speaker>COMTE</speaker>
           <p>C'est bien. Je suis sûr que vous allez traverser cette épreuve.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Merci, comte.</p>
         </sp>
         <sp who="#comte">
-          <speaker>**COMTE**</speaker>
+          <speaker>COMTE</speaker>
           <p>Je vous laisse, madame. Je reviendrai demain pour prendre de vos nouvelles.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>D'accord. Merci, comte.</p>
         </sp>
         <stage>(_Le comte sort._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Mon fils... mon pauvre fils...</p>
         </sp>
         <stage>(_seule_)</stage>
         <stage>(_Elle s'effondre sur le sofa et pleure à nouveau._)</stage>
-        <sp who="#fin de la scène">
-          <speaker>**FIN DE LA SCÈNE**</speaker>
-          <p>**</p>
-        </sp>
+        <stage>FIN DE LA SCÈNE</stage>
       </div>
+      <div type="act">
+        <head>ACTE II</head></div>
       <div type="scene">
-        <head>ACTE II**</head>**</div>
-      <div type="scene">
-        <head>Scène 1**</head>*INTÉRIEUR D'UNE CHAMBRE*<sp who="#marquise">
-          <speaker>**MARQUISE** </speaker>
+        <head>Scène 1</head>
+        <stage>INTÉRIEUR D'UNE CHAMBRE</stage>
+        <sp who="#marquise">
+          <speaker>MARQUISE </speaker>
           <stage>(_assise sur un sofa, rêveuse_)</stage>
           <p>Mon fils, mon pauvre fils...</p>
         </sp>
         <stage>(_La servante entre._)</stage>
         <sp who="#servante">
-          <speaker>**SERVANTE**</speaker>
+          <speaker>SERVANTE</speaker>
           <p>Madame, une dame est là pour vous voir.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Une dame ? Qui est-elle ?</p>
         </sp>
         <sp who="#servante">
-          <speaker>**SERVANTE**</speaker>
+          <speaker>SERVANTE</speaker>
           <p>Elle ne m'a pas dit son nom.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Faites-la entrer.</p>
         </sp>
         <stage>(_La servante sort._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je me demande qui peut bien être cette dame.</p>
         </sp>
         <stage>(_seule_)</stage>
         <stage>(_La dame entre._)</stage>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Madame la marquise, je vous salue.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Madame, je vous en prie, asseyez-vous.</p>
         </sp>
         <stage>(_se levant_)</stage>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Merci, madame.</p>
         </sp>
         <stage>(_Elle s'assied._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Comment puis-je vous aider ?</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Je suis la mère du soldat qui a tué votre fils.</p>
         </sp>
         <stage>(_La marquise s'effondre sur le sofa._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Oh !</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Je sais que c'est une terrible épreuve pour vous, mais je voulais vous exprimer mes condoléances.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Merci, madame.</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Je sais que ce n'est pas grand-chose, mais je voudrais vous offrir ce médaillon. Il appartenait à mon fils.</p>
         </sp>
         <stage>(_Elle lui tend le médaillon._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Merci, madame. Je l'apprécie.</p>
         </sp>
         <stage>(_prenant le médaillon_)</stage>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Je vous en prie.</p>
         </sp>
         <stage>(_Il y a un silence._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Madame, je voudrais vous demander quelque chose.</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Oui, madame ?</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Pourriez-vous me raconter comment votre fils est mort ?</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Bien sûr, madame.</p>
         </sp>
         <stage>(_Elle raconte comment son fils est mort au combat._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Merci, madame.</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Je suis contente que cela vous ait aidé.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Oui, ça m'a fait du bien d'entendre votre histoire.</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Je suis contente de l'entendre.</p>
         </sp>
         <stage>(_Il y a un silence._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Madame, je voudrais vous proposer un marché.</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Un marché ?</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Oui. Je vous propose que nous nous échangions nos médaillons.</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Mais pourquoi ?</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Parce que je voudrais que vous gardiez le médaillon de mon fils.</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Mais je ne peux pas accepter ça !</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Si, je vous en prie. Je veux que vous gardiez ce médaillon comme un souvenir de mon fils.</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Merci, madame. Je l'apprécie.</p>
         </sp>
         <stage>(_prenant le médaillon_)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je suis contente que vous l'acceptiez.</p>
         </sp>
         <stage>(_Il y a un silence._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Madame, je voudrais vous remercier pour votre visite.</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Je vous en prie, madame. C'était un plaisir de vous rencontrer.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Au revoir, madame.</p>
         </sp>
         <sp who="#dame">
-          <speaker>**DAME**</speaker>
+          <speaker>DAME</speaker>
           <p>Au revoir, madame.</p>
         </sp>
         <stage>(_La dame sort._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
-          <p>Je suis contente d'avoir rencontré cette dame. Elle m'a fait du bien.**</p>
+          <speaker>MARQUISE</speaker>
+          <p>Je suis contente d'avoir rencontré cette dame. Elle m'a fait du bien.</p>
         </sp>
         <stage>(_seule_)</stage>
         <stage>(_</stage>
       </div>
+      <div type="act">
+        <head>ACTE III</head></div>
       <div type="scene">
-        <head>ACTE III**</head>**</div>
-      <div type="scene">
-        <head>Scène 1**</head>*INTÉRIEUR D'UNE CHAMBRE*<sp who="#marquise">
-          <speaker>**MARQUISE** </speaker>
+        <head>Scène 1</head>
+        <stage>INTÉRIEUR D'UNE CHAMBRE</stage>
+        <sp who="#marquise">
+          <speaker>MARQUISE </speaker>
           <stage>(_assise sur un sofa, rêveuse_)</stage>
           <p>Mon fils, mon pauvre fils...</p>
         </sp>
         <stage>(_La servante entre._)</stage>
         <sp who="#servante">
-          <speaker>**SERVANTE**</speaker>
+          <speaker>SERVANTE</speaker>
           <p>Madame, un jeune homme est là pour vous voir.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Un jeune homme ? Qui est-il ?</p>
         </sp>
         <sp who="#servante">
-          <speaker>**SERVANTE**</speaker>
+          <speaker>SERVANTE</speaker>
           <p>Il ne m'a pas dit son nom.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Faites-le entrer.</p>
         </sp>
         <stage>(_La servante sort._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je me demande qui peut bien être ce jeune homme.</p>
         </sp>
         <stage>(_seule_)</stage>
         <stage>(_Le jeune homme entre._)</stage>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Madame la marquise, je vous salue.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Monsieur, je vous en prie, asseyez-vous.</p>
         </sp>
         <stage>(_se levant_)</stage>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Merci, madame.</p>
         </sp>
         <stage>(_Il s'assied._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Comment puis-je vous aider ?</p>
         </sp>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Je suis le fils de la dame qui vous a rendu visite hier.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Ah, oui, je me souviens de vous.</p>
         </sp>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Ma mère m'a raconté votre conversation. Je voulais vous remercier pour votre gentillesse.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Ce n'est rien.</p>
         </sp>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Je voulais aussi vous dire que je suis parti à la guerre pour venger la mort de mon père.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je comprends.</p>
         </sp>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Je suis allé au front, et j'ai combattu courageusement. J'ai tué de nombreux ennemis, mais j'ai aussi été blessé.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je suis désolée.</p>
         </sp>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Mais je suis revenu vivant. Et je suis venu vous voir pour vous dire que je suis prêt à pardonner à l'homme qui a tué mon père.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je suis surprise.</p>
         </sp>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Je sais. Mais j'ai compris que la vengeance ne résout rien. Je veux vivre en paix, et je ne veux pas que la mort de mon père me consume.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je suis admirative de votre courage.</p>
         </sp>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Merci, madame.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je suis heureuse que vous ayez pu pardonner.</p>
         </sp>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Moi aussi.</p>
         </sp>
         <stage>(_Ils se serrent la main._)</stage>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Je vous remercie pour votre écoute, madame.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je vous en prie.</p>
         </sp>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Je vous souhaite une bonne continuation.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Merci, monsieur.</p>
         </sp>
-        <sp who="#jeune homme">
-          <speaker>**JEUNE HOMME**</speaker>
+        <sp who="#jeune-homme">
+          <speaker>JEUNE HOMME</speaker>
           <p>Au revoir, madame.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Au revoir, monsieur.</p>
         </sp>
         <stage>(_Le jeune homme sort._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
-          <p>Je suis contente pour ce jeune homme. Il a fait un grand pas vers la paix.Je regarde le soleil se coucher. Je pense à mon fils, et je sais qu'il serait fier de moi.La vie est difficile, mais il faut toujours garder espoir. La paix est possible, si nous sommes prêts à pardonner.**</p>
+          <speaker>MARQUISE</speaker>
+          <p>Je suis contente pour ce jeune homme. Il a fait un grand pas vers la paix.Je regarde le soleil se coucher. Je pense à mon fils, et je sais qu'il serait fier de moi.La vie est difficile, mais il faut toujours garder espoir. La paix est possible, si nous sommes prêts à pardonner.</p>
         </sp>
         <stage>(_seule_)</stage>
         <stage>(_Elle se lève et va à la fenêtre._)</stage>
         <stage>(_Elle se retourne et regarde le public._)</stage>
         <stage>(_La pièce se termine._)</stage>
       </div>
+      <div type="act">
+        <head>ACTE IV</head></div>
       <div type="scene">
-        <head>ACTE IV**</head>**</div>
-      <div type="scene">
-        <head>Scène 1**</head>*INTÉRIEUR D'UNE CHAMBRE*<sp who="#marquise">
-          <speaker>**MARQUISE** </speaker>
+        <head>Scène 1</head>
+        <stage>INTÉRIEUR D'UNE CHAMBRE</stage>
+        <sp who="#marquise">
+          <speaker>MARQUISE </speaker>
           <stage>(_assise sur un sofa, rêveuse_)</stage>
           <p>Mon fils, mon pauvre fils...</p>
         </sp>
         <stage>(_La servante entre._)</stage>
         <sp who="#servante">
-          <speaker>**SERVANTE**</speaker>
+          <speaker>SERVANTE</speaker>
           <p>Madame, un ecclésiastique est là pour vous voir.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Un ecclésiastique ? Qui est-il ?</p>
         </sp>
         <sp who="#servante">
-          <speaker>**SERVANTE**</speaker>
+          <speaker>SERVANTE</speaker>
           <p>Il ne m'a pas dit son nom.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Faites-le entrer.</p>
         </sp>
         <stage>(_La servante sort._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je me demande qui peut bien être cet ecclésiastique.</p>
         </sp>
         <stage>(_seule_)</stage>
         <stage>(_L'ecclésiastique entre._)</stage>
         <sp who="#églésiasticien">
-          <speaker>**ÉGLÉSIASTICIEN**</speaker>
+          <speaker>ÉGLÉSIASTICIEN</speaker>
           <p>Madame la marquise, je vous salue.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Monsieur, je vous en prie, asseyez-vous.</p>
         </sp>
         <stage>(_se levant_)</stage>
         <sp who="#églésiasticien">
-          <speaker>**ÉGLÉSIASTICIEN**</speaker>
+          <speaker>ÉGLÉSIASTICIEN</speaker>
           <p>Merci, madame.</p>
         </sp>
         <stage>(_Il s'assied._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Comment puis-je vous aider ?</p>
         </sp>
         <sp who="#églésiasticien">
-          <speaker>**ÉGLÉSIASTICIEN**</speaker>
+          <speaker>ÉGLÉSIASTICIEN</speaker>
           <p>Je suis venu vous parler de la paix.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>De la paix ?</p>
         </sp>
         <sp who="#églésiasticien">
-          <speaker>**ÉGLÉSIASTICIEN**</speaker>
+          <speaker>ÉGLÉSIASTICIEN</speaker>
           <p>Oui, madame. Je sais que vous avez perdu votre fils dans la guerre. Je sais que vous souffrez. Mais je suis venu vous dire que la paix est possible.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Comment ?</p>
         </sp>
         <sp who="#églésiasticien">
-          <speaker>**ÉGLÉSIASTICIEN**</speaker>
+          <speaker>ÉGLÉSIASTICIEN</speaker>
           <p>En pardonnant. En oubliant les rancunes. En apprenant à vivre ensemble.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>C'est facile à dire.</p>
         </sp>
         <sp who="#églésiasticien">
-          <speaker>**ÉGLÉSIASTICIEN**</speaker>
+          <speaker>ÉGLÉSIASTICIEN</speaker>
           <p>Je sais que ce n'est pas facile. Mais c'est possible.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je ne sais pas si je suis capable de pardonner.</p>
         </sp>
         <sp who="#églésiasticien">
-          <speaker>**ÉGLÉSIASTICIEN**</speaker>
+          <speaker>ÉGLÉSIASTICIEN</speaker>
           <p>Je sais que c'est difficile. Mais je suis ici pour vous aider.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Comment ?</p>
         </sp>
         <sp who="#églésiasticien">
-          <speaker>**ÉGLÉSIASTICIEN**</speaker>
+          <speaker>ÉGLÉSIASTICIEN</speaker>
           <p>Je peux vous accompagner dans votre chemin de pardon. Je peux vous aider à trouver la paix.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je ne sais pas si je suis prête.</p>
         </sp>
         <sp who="#églésiasticien">
-          <speaker>**ÉGLÉSIASTICIEN**</speaker>
+          <speaker>ÉGLÉSIASTICIEN</speaker>
           <p>Vous n'avez pas à être prête tout de suite. Vous pouvez prendre votre temps. Mais je suis là pour vous, quand vous serez prête.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Merci, monsieur.</p>
         </sp>
         <sp who="#églésiasticien">
-          <speaker>**ÉGLÉSIASTICIEN**</speaker>
+          <speaker>ÉGLÉSIASTICIEN</speaker>
           <p>Je vous en prie, madame.Je vous laisse, madame. Je reviendrai quand vous le souhaiterez.</p>
         </sp>
         <stage>(_Il se lève._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Merci, monsieur.</p>
         </sp>
         <stage>(_L'ecclésiastique sort._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
-          <p>Je ne sais pas si je suis capable de pardonner. Mais je vais essayer. Pour mon fils. Pour moi-même. Pour la paix.**</p>
+          <speaker>MARQUISE</speaker>
+          <p>Je ne sais pas si je suis capable de pardonner. Mais je vais essayer. Pour mon fils. Pour moi-même. Pour la paix.</p>
         </sp>
         <stage>(_seule_)</stage>
         <stage>(_La pièce se termine._)</stage>
       </div>
+      <div type="act">
+        <head>ACTE V</head></div>
       <div type="scene">
-        <head>ACTE V**</head>**</div>
-      <div type="scene">
-        <head>Scène 1**</head>*INTÉRIEUR D'UNE CHAMBRE*<sp who="#marquise">
-          <speaker>**MARQUISE** </speaker>
+        <head>Scène 1</head>
+        <stage>INTÉRIEUR D'UNE CHAMBRE</stage>
+        <sp who="#marquise">
+          <speaker>MARQUISE </speaker>
           <stage>(_assise sur un sofa, rêveuse_)</stage>
           <p>Mon fils, mon pauvre fils...</p>
         </sp>
         <stage>(_La servante entre._)</stage>
         <sp who="#servante">
-          <speaker>**SERVANTE**</speaker>
+          <speaker>SERVANTE</speaker>
           <p>Madame, un groupe de personnes est là pour vous voir.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Un groupe de personnes ? Qui sont-ils ?</p>
         </sp>
         <sp who="#servante">
-          <speaker>**SERVANTE**</speaker>
+          <speaker>SERVANTE</speaker>
           <p>Ils ne m'ont pas dit leur nom.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Faites-les entrer.</p>
         </sp>
         <stage>(_La servante sort._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je me demande qui peut bien être ce groupe de personnes.</p>
         </sp>
         <stage>(_seule_)</stage>
         <stage>(_Le groupe de personnes entre._)</stage>
         <sp who="#président">
-          <speaker>**PRÉSIDENT**</speaker>
+          <speaker>PRÉSIDENT</speaker>
           <p>Madame la marquise, nous vous saluons.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Messieurs, je vous en prie, asseyez-vous.</p>
         </sp>
         <stage>(_se levant_)</stage>
         <sp who="#président">
-          <speaker>**PRÉSIDENT**</speaker>
+          <speaker>PRÉSIDENT</speaker>
           <p>Merci, madame.</p>
         </sp>
         <stage>(_Ils s'assoient._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Comment puis-je vous aider ?</p>
         </sp>
         <sp who="#président">
-          <speaker>**PRÉSIDENT**</speaker>
+          <speaker>PRÉSIDENT</speaker>
           <p>Nous sommes venus vous parler de la paix.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>De la paix ?</p>
         </sp>
         <sp who="#président">
-          <speaker>**PRÉSIDENT**</speaker>
+          <speaker>PRÉSIDENT</speaker>
           <p>Oui, madame. Nous sommes un groupe de personnes qui militons pour la paix. Nous savons que vous avez perdu votre fils dans la guerre. Nous savons que vous souffrez. Mais nous sommes venus vous dire que nous sommes avec vous. Nous vous soutenons dans votre chemin de pardon.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je vous remercie.</p>
         </sp>
         <sp who="#président">
-          <speaker>**PRÉSIDENT**</speaker>
+          <speaker>PRÉSIDENT</speaker>
           <p>Nous avons aussi une proposition à vous faire. Nous avons organisé une grande manifestation pour la paix. Nous aimerions que vous y participiez. Nous pensons que votre présence serait un symbole important pour la paix.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je ne sais pas si je suis prête.</p>
         </sp>
         <sp who="#président">
-          <speaker>**PRÉSIDENT**</speaker>
+          <speaker>PRÉSIDENT</speaker>
           <p>Vous n'avez pas à être prête tout de suite. Vous pouvez prendre votre temps. Mais nous sommes là pour vous, quand vous serez prête.</p>
         </sp>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je vais y réfléchir.</p>
         </sp>
         <sp who="#président">
-          <speaker>**PRÉSIDENT**</speaker>
+          <speaker>PRÉSIDENT</speaker>
           <p>Merci, madame. Nous vous remercions de votre temps.Nous reviendrons vous voir quand vous le souhaiterez.</p>
         </sp>
         <stage>(_Ils se lèvent._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je vous en prie.</p>
         </sp>
         <stage>(_Le groupe de personnes sort._)</stage>
         <sp who="#marquise">
-          <speaker>**MARQUISE**</speaker>
+          <speaker>MARQUISE</speaker>
           <p>Je ne sais pas si je suis capable de pardonner. Mais je vais essayer. Pour mon fils. Pour moi-même. Pour la paix.Je regarde le soleil se lever. Je pense à mon fils, et je sais qu'il serait fier de moi.La vie est difficile, mais il faut toujours garder espoir. La paix est possible, si nous sommes prêts à pardonner.</p>
         </sp>
         <stage>(_seule_)</stage>

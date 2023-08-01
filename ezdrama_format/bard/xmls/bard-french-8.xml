@@ -21,13 +21,13 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="madame duval">
+          <person sex="FEMALE" xml:id="madame-duval">
             <persName>MADAME DUVAL</persName>
           </person>
-          <person sex="MALE" xml:id="cloé">
+          <person sex="FEMALE" xml:id="cloé">
             <persName>CLOÉ</persName>
           </person>
-          <person sex="MALE" xml:id="chloe">
+          <person sex="FEMALE" xml:id="chloe">
             <persName>CHLOE</persName>
           </person>
           <person sex="MALE" xml:id="jules">
@@ -39,13 +39,13 @@
   </teiHeader>
   <text>
     <body>
-      <div type="scene">
+      <div type="act">
         <head>ACTE I</head>
       </div>
       <div type="scene">
         <head>Scène 1</head>
         <stage>(Un salon bourgeois. Madame DUVAL, une femme d'âge moyen, est assise sur un canapé. Son fils, JULES, entre.)</stage>
-        <sp who="#madame duval">
+        <sp who="#madame-duval">
           <speaker>MADAME DUVAL :</speaker>
           <p>Jules, mon cher, je suis si contente de te voir.</p>
         </sp>
@@ -54,12 +54,12 @@
           <p>Merci, Maman. Je suis content de te revoir aussi.</p>
         </sp>
         <stage>(Ils s'embrassent.)</stage>
-        <sp who="#madame duval">
+        <sp who="#madame-duval">
           <speaker>MADAME DUVAL :</speaker>
           <p>Assieds-toi, mon chéri. Je veux te parler.</p>
         </sp>
         <stage>(Jules s'assied.)</stage>
-        <sp who="#madame duval">
+        <sp who="#madame-duval">
           <speaker>MADAME DUVAL :</speaker>
           <p>Tu sais, Jules, je suis un peu inquiète pour toi.</p>
         </sp>
@@ -67,7 +67,7 @@
           <speaker>JULES :</speaker>
           <p>Pourquoi, Maman ?</p>
         </sp>
-        <sp who="#madame duval">
+        <sp who="#madame-duval">
           <speaker>MADAME DUVAL :</speaker>
           <p>Tu ne sors plus beaucoup. Tu passes tout ton temps à la maison.</p>
         </sp>
@@ -75,7 +75,7 @@
           <speaker>JULES :</speaker>
           <p>C'est vrai, Maman. Mais je n'ai pas envie de sortir.</p>
         </sp>
-        <sp who="#madame duval">
+        <sp who="#madame-duval">
           <speaker>MADAME DUVAL :</speaker>
           <p>Mais pourquoi pas, mon chéri ? Tu es jeune, tu devrais profiter de la vie.</p>
         </sp>
@@ -83,7 +83,7 @@
           <speaker>JULES :</speaker>
           <p>Je n'ai pas envie de profiter de la vie, Maman. Je suis fatigué.</p>
         </sp>
-        <sp who="#madame duval">
+        <sp who="#madame-duval">
           <speaker>MADAME DUVAL :</speaker>
           <p>Fatigué ? De quoi es-tu fatigué ?</p>
         </sp>
@@ -92,13 +92,13 @@
           <p>Je ne sais pas, Maman. Je suis juste fatigué.</p>
         </sp>
         <stage>(Il se tait.)</stage>
-        <sp who="#madame duval">
+        <sp who="#madame-duval">
           <speaker>MADAME DUVAL : </speaker>
           <stage>(soupire)</stage>
           <p> Je vois.</p>
         </sp>
         <stage>(Ils se regardent en silence pendant un moment.)</stage>
-        <sp who="#madame duval">
+        <sp who="#madame-duval">
           <speaker>MADAME DUVAL :</speaker>
           <p>Jules, je veux que tu saches que je suis là pour toi, si tu as besoin de moi.</p>
         </sp>
@@ -128,7 +128,7 @@
         </sp>
         <stage>(Il sort du salon.)</stage>
       </div>
-      <div type="scene">
+      <div type="ACT">
         <head>ACTE II</head>
       </div>
       <div type="scene">
@@ -212,11 +212,11 @@
         <sp who="#jules">
           <speaker>JULES : </speaker>
           <stage>(à lui-même)</stage>
-          <p> Chère Maman,Je t'écris pour te dire que je suis parti. Je ne sais pas où je vais, mais je ne peux pas rester ici. Je dois faire quelque chose de ma vie.Je te remercie pour tout ce que tu as fait pour moi. Je t'aime.Ton fils,JulesI hope you like this act!</p>
+          <p> Chère Maman,Je t'écris pour te dire que je suis parti. Je ne sais pas où je vais, mais je ne peux pas rester ici. Je dois faire quelque chose de ma vie.Je te remercie pour tout ce que tu as fait pour moi. Je t'aime.Ton fils,Jules!</p>
         </sp>
         <stage>(Jules plie la lettre et la met dans une enveloppe. Il l'adresse à sa mère et la met dans sa poche. Il se lève et sort de sa chambre.)</stage>
       </div>
-      <div type="scene">
+      <div type="act">
         <head>ACTE III</head>
       </div>
       <div type="scene">
@@ -247,11 +247,11 @@
         <sp who="#jules">
           <speaker>JULES : </speaker>
           <stage>(à lui-même)</stage>
-          <p> Je ne sais pas ce que l'avenir me réserve, mais je suis prêt à le découvrir.I hope you like this act!</p>
+          <p> Je ne sais pas ce que l'avenir me réserve, mais je suis prêt à le découvrir.!</p>
         </sp>
         <stage>(Il se lève et commence à marcher. Il ne sait pas où il va, mais il sait qu'il est sur la bonne voie.)</stage>
       </div>
-      <div type="scene">
+      <div type="act">
         <head>ACTE IV</head>
       </div>
       <div type="scene">
@@ -342,11 +342,11 @@
         </sp>
         <sp who="#jules">
           <speaker>JULES :</speaker>
-          <p>Moi aussi, je voudrais que tu restes avec moi.I hope you like this act!</p>
+          <p>Moi aussi, je voudrais que tu restes avec moi.!</p>
         </sp>
         <stage>(Ils s'embrassent.)</stage>
       </div>
-      <div type="scene">
+      <div type="act">
         <head>ACTE V</head>
       </div>
       <div type="scene">
@@ -388,7 +388,7 @@
         </sp>
         <sp who="#chloe">
           <speaker>CHLOE :</speaker>
-          <p>Moi aussi, je suis excitée. Je sais que nous allons faire de grandes choses ensemble.The end.I hope you like this act!</p>
+          <p>Moi aussi, je suis excitée. Je sais que nous allons faire de grandes choses ensemble.!</p>
         </sp>
         <stage>(Ils se tiennent la main. Le train part.)</stage>
       </div>

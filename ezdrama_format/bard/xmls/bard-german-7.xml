@@ -22,52 +22,34 @@
       <particDesc>
         <listPerson>
           <person sex="MALE" xml:id="könig">
-            <persName>**KÖNIG:**</persName>
+            <persName>KÖNIG:</persName>
           </person>
-          <person sex="MALE" xml:id="fräulein">
-            <persName>**FRÄULEIN:**</persName>
+          <person sex="FEMALE" xml:id="fräulein">
+            <persName>FRÄULEIN:</persName>
           </person>
           <person sex="MALE" xml:id="diener">
-            <persName>**DIENER:**</persName>
-          </person>
-          <person sex="MALE" xml:id="fräulein">
-            <persName>FRÄULEIN:**</persName>
+            <persName>DIENER:</persName>
           </person>
           <person sex="MALE" xml:id="prinz">
-            <persName>**PRINZ:**</persName>
+            <persName>PRINZ:</persName>
           </person>
           <person sex="MALE" xml:id="hüter">
-            <persName>HÜTER:**</persName>
+            <persName>HÜTER:</persName>
           </person>
           <person sex="MALE" xml:id="graf">
-            <persName>**GRAF:**</persName>
+            <persName>GRAF:</persName>
           </person>
-          <person sex="MALE" xml:id="graf">
-            <persName>GRAF:**</persName>
-          </person>
-          <person sex="MALE" xml:id="diener">
-            <persName>DIENER:**</persName>
-          </person>
-          <person sex="MALE" xml:id="königin">
-            <persName>KÖNIGIN:**</persName>
-          </person>
-          <person sex="MALE" xml:id="prinz">
-            <persName>PRINZ:**</persName>
+          <person sex="FEMALE" xml:id="königin">
+            <persName>KÖNIGIN:</persName>
           </person>
           <person sex="MALE" xml:id="kaplan">
-            <persName>**KAPLAN:**</persName>
+            <persName>KAPLAN:</persName>
           </person>
           <person sex="MALE" xml:id="stein">
-            <persName>STEIN:**</persName>
+            <persName>STEIN:</persName>
           </person>
-          <person sex="MALE" xml:id="hüter">
-            <persName>**HÜTER:**</persName>
-          </person>
-          <person sex="MALE" xml:id="kaplan">
-            <persName>KAPLAN:**</persName>
-          </person>
-          <person sex="MALE" xml:id="könig">
-            <persName>KÖNIG:**</persName>
+          <person sex="MALE" xml:id="zauberer">
+            <persName>ZAUBERER:</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -76,473 +58,462 @@
   <text>
     <body>
       <div type="scene">
-        <head>**</head>
+        <head></head>
       </div>
       <div type="scene">
-        <head>Szene 1**</head>**Ort:** Ein Zimmer in einem alten Schloss.**Figuren:*** **GRAF:** Der alte Herr des Schlosses.* **FRÄULEIN:** Seine Tochter.* **DIENER:** Ein alter Diener des Grafen.<sp who="#graf">
-          <speaker>**GRAF:** </speaker>
-          <stage>(_Sitzt in einem Lehnstuhl und liest in einem Buch._)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 1</head>
+        <stage>Ort: Ein Zimmer in einem alten Schloss.Figuren: GRAF: Der alte Herr des Schlosses. FRÄULEIN: Seine Tochter. DIENER: Ein alter Diener des Grafen.</stage>
+         <stage>GRAF: (_Sitzt in einem Lehnstuhl und liest in einem Buch._)</stage>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:** </speaker>
+          <speaker>FRÄULEIN: </speaker>
           <stage>(_Betritt das Zimmer._)</stage>
           <p> Vater, was liest du da?</p>
         </sp>
         <sp who="#graf">
-          <speaker>GRAF:** </speaker>
+          <speaker>GRAF: </speaker>
           <stage>(_Schaut auf._)</stage>
           <p> Ach, mein Kind, das ist ein altes Buch, das ich vor vielen Jahren gefunden habe. Es handelt von einer alten Sage, die in diesem Schloss spielt.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Eine Sage? Was ist das denn?</p>
         </sp>
         <sp who="#graf">
-          <speaker>GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Eine Sage ist eine alte Geschichte, die sich im Volksmund erzählt wird. Sie ist oft voller Wunder und Magie.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Das klingt interessant. Kannst du mir die Geschichte erzählen?</p>
         </sp>
         <sp who="#graf">
-          <speaker>GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Ja, gerne. Es war einmal ein junger Mann, der in diesem Schloss lebte. Er war sehr arm, aber er war auch sehr gutmütig und freundlich. Eines Tages kam ein alter Mann zu ihm und bat ihn um Hilfe. Der junge Mann half dem alten Mann, und der alte Mann war so dankbar, dass er dem jungen Mann einen Zauberring schenkte.Der Zauberring hatte die Kraft, Wünsche zu erfüllen. Der junge Mann war sehr glücklich über den Ring, und er nutzte ihn, um anderen Menschen zu helfen. Er erfüllte die Wünsche von Armen und Kranken, und er machte die Welt ein wenig besser.Eines Tages kam ein böser Zauberer zu dem jungen Mann und bat ihn um den Ring. Der junge Mann weigerte sich, den Ring zu geben, und der böse Zauberer wurde sehr wütend. Er verfluchte den jungen Mann und verwandelte ihn in einen Stein.Der junge Mann blieb als Stein in diesem Schloss zurück. Er konnte sich nicht mehr bewegen, und er konnte nicht mehr sprechen. Aber er konnte immer noch hören und sehen. Er hörte, wie die Menschen über ihn sprachen, und er sah, wie sie an ihm vorbeigingen.Der junge Mann war sehr traurig, aber er hatte nicht aufgegeben. Er wusste, dass er den Fluch des bösen Zauberers irgendwann brechen würde.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>**FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Das ist eine traurige Geschichte, Vater. Aber ich bin froh, dass der junge Mann am Ende nicht aufgegeben hat.</p>
         </sp>
         <sp who="#graf">
-          <speaker>GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Ja, mein Kind, das ist auch die moral der Geschichte. Man darf nie aufgeben, egal wie schwer es auch ist.</p>
         </sp>
         <sp who="#diener">
-          <speaker>**DIENER:** </speaker>
+          <speaker>DIENER: </speaker>
           <stage>(_Betritt das Zimmer._)</stage>
           <p> Herr Graf, es ist Zeit zum Essen.</p>
         </sp>
         <sp who="#graf">
-          <speaker>GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Ja, ich komme.</p>
         </sp>
         <stage>(_Der Graf und das Fräulein gehen aus dem Zimmer._)</stage>
       </div>
       <div type="scene">
-        <head>**</head>
+        <head></head>
       </div>
       <div type="scene">
-        <head>Szene 2**</head>**Ort:** Der Speisesaal im Schloss.**Figuren:*** **GRAF:** Der alte Herr des Schlosses.* **FRÄULEIN:** Seine Tochter.* **DIENER:** Ein alter Diener des Grafen.<sp who="#graf">
-          <speaker>**GRAF:** </speaker>
+        <head>Szene 2</head>
+        <stage>Ort: Der Speisesaal im Schloss.Figuren: GRAF: Der alte Herr des Schlosses. FRÄULEIN: Seine Tochter. DIENER: Ein alter Diener des Grafen.</stage>
+        <sp who="#graf">
+          <speaker>GRAF: </speaker>
           <stage>(_Setzt sich an den Tisch._)</stage>
           <p> Das Essen sieht heute aber gut aus, mein Diener.</p>
         </sp>
         <sp who="#diener">
-          <speaker>DIENER:**</speaker>
+          <speaker>DIENER:</speaker>
           <p>Danke, Herr Graf. Ich habe mir extra Mühe gegeben.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ja, es riecht sehr lecker.</p>
         </sp>
         <stage>(_Der Diener serviert das Essen._)</stage>
         <sp who="#graf">
-          <speaker>GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Also, mein Kind, wie hat dir die Geschichte gefallen?</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Sie war sehr interessant, Vater. Ich habe mich gefreut, sie zu hören.</p>
         </sp>
         <sp who="#graf">
-          <speaker>GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Ich bin froh, dass es dir gefallen hat.</p>
         </sp>
         <stage>(_Sie essen._)</stage>
         <sp who="#graf">
-          <speaker>**GRAF:** </speaker>
+          <speaker>GRAF: </speaker>
           <stage>(_Nach dem Essen._)</stage>
           <p> Nun, mein Kind, ich denke, es ist Zeit für mich, ins Bett zu gehen.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ja, Vater. Ich gehe auch gleich.</p>
         </sp>
         <stage>(_Der Graf und das Fräulein gehen aus dem Speisesaal._)</stage>
         <sp who="#diener">
-          <speaker>**DIENER:** </speaker>
+          <speaker>DIENER: </speaker>
           <stage>(_Sitzt am Tisch und isst das übrig gebliebene Essen._)</stage>
-          <p> Das war aber ein leckeres Essen. Ich bin froh, dass ich es nicht verhungern muss.**The End**</p>
+          <p> Das war aber ein leckeres Essen. Ich bin froh, dass ich es nicht verhungern muss.</p>
         </sp>
         <stage>(_Der Diener geht aus dem Speisesaal._)</stage>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>**Ort:** Ein Zimmer im alten Schloss.**Figuren:*** **FRÄULEIN:** Die Tochter des Grafen.* **STEIN:** Der junge Mann, der in einen Stein verwandelt wurde.* **Zauberer:** Ein böser Zauberer.<sp who="#fräulein">
-          <speaker>**FRÄULEIN:** </speaker>
-          <stage>(_Sitzt im Zimmer und liest ein Buch._)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 1</head>
+        <stage>Ort: Ein Zimmer im alten Schloss.Figuren: FRÄULEIN: Die Tochter des Grafen. STEIN: Der junge Mann, der in einen Stein verwandelt wurde. Zauberer: Ein böser Zauberer.</stage>
+        <stage>FRÄULEIN: (_Sitzt im Zimmer und liest ein Buch._)</stage>
         <sp who="#stein">
-          <speaker>STEIN:** </speaker>
+          <speaker>STEIN: </speaker>
           <stage>(_Betritt das Zimmer._)</stage>
           <p> Fräulein, ich habe etwas zu dir zu sagen.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:** </speaker>
+          <speaker>FRÄULEIN: </speaker>
           <stage>(_Schaut auf._)</stage>
           <p> Was ist es, Stein?</p>
         </sp>
         <sp who="#stein">
-          <speaker>STEIN:**</speaker>
+          <speaker>STEIN:</speaker>
           <p>Ich habe den Fluch des bösen Zauberers gebrochen. Ich bin wieder ein Mensch.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Das ist wunderbar! Ich habe so lange auf diesen Moment gewartet.</p>
         </sp>
         <sp who="#stein">
-          <speaker>STEIN:**</speaker>
+          <speaker>STEIN:</speaker>
           <p>Ich auch. Ich habe so viel verpasst in den letzten Jahren.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
-          <p>Ich werde dir alles erzählen, was du verpasst hast.**Zauberer:** <stage>(_Betritt das Zimmer._)</stage> Was ist das? Was ist hier los?</p>
+          <speaker>FRÄULEIN:</speaker>
+          <p>Ich werde dir alles erzählen, was du verpasst hast.</p>
+        </sp>
+        <sp who="zauberer">
+          <speaker>Zauberer:</speaker>
+          <stage>(_Betritt das Zimmer._)</stage> 
+          <p>Was ist das? Was ist hier los?</p>
         </sp>
         <stage>(_Sie reden._)</stage>
         <sp who="#stein">
-          <speaker>STEIN:**</speaker>
-          <p>Ich habe den Fluch gebrochen, du böser Zauberer!Zauberer:** Das ist nicht möglich!</p>
+          <speaker>STEIN:</speaker>
+          <p>Ich habe den Fluch gebrochen, du böser Zauberer!</p>
+        </sp>
+        <sp who="zauberer">
+          <speaker>Zauberer:</speaker>
+          <p>Das ist nicht möglich!</p>
         </sp>
         <sp who="#stein">
-          <speaker>STEIN:**</speaker>
-          <p>Es ist aber wahr. Und jetzt wirst du mir für all das büßen, was du mir angetan hast.Zauberer:** Das wirst du bereuen!</p>
+          <speaker>STEIN:</speaker>
+          <p>Es ist aber wahr. Und jetzt wirst du mir für all das büßen, was du mir angetan hast.</p>
+        </sp>
+        <sp who="zauberer">
+          <speaker>Zauberer:</speaker>
+            <p>Das wirst du bereuen!</p>
         </sp>
         <stage>(_Der Zauberer verschwindet._)</stage>
         <sp who="#fräulein">
-          <speaker>**FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Das war knapp.</p>
         </sp>
         <sp who="#stein">
-          <speaker>STEIN:**</speaker>
+          <speaker>STEIN:</speaker>
           <p>Ja, aber ich bin froh, dass es vorbei ist.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ich auch. Und jetzt können wir endlich ein normales Leben führen.</p>
         </sp>
         <sp who="#stein">
-          <speaker>STEIN:**</speaker>
-          <p>Ja, das können wir.**The End**In this act, I have added the following characters:* **Zauberer:** A evil wizard who cursed the young man into a stone.I have also removed the following characters:* **Graf:** The old lord of the castle.* **Diener:** The old servant of the Graf.I have also added the following events:* The young man breaks the curse and is turned back into a human.* The evil wizard is defeated.* The young man and the Fräulein are reunited.I hope you enjoy this new act!</p>
+          <speaker>STEIN:</speaker>
+          <p>Ja, das können wir.</p>
         </sp>
         <stage>(_Sie umarmen sich._)</stage>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>**Ort:** Ein Waldstück in der Nähe des Schlosses.**Figuren:*** **FRÄULEIN:** Die Tochter des Grafen.* **STEIN:** Der junge Mann, der in einen Stein verwandelt wurde.* **PRINZ:** Ein junger Prinz, der sich in die Fräulein verliebt hat.* **HÜTER:** Ein alter Wächter, der den Wald bewacht.<sp who="#fräulein">
-          <speaker>**FRÄULEIN:** </speaker>
-          <stage>(_Sitzt im Wald und singt ein Lied._)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 1</head>
+        <stage>Ort: Ein Waldstück in der Nähe des Schlosses.Figuren: FRÄULEIN: Die Tochter des Grafen. STEIN: Der junge Mann, der in einen Stein verwandelt wurde. PRINZ: Ein junger Prinz, der sich in die Fräulein verliebt hat. HÜTER: Ein alter Wächter, der den Wald bewacht.</stage>
+        <stage>FRÄULEIN: (_Sitzt im Wald und singt ein Lied._)</stage>
         <sp who="#stein">
-          <speaker>STEIN:** </speaker>
+          <speaker>STEIN: </speaker>
           <stage>(_Betritt den Wald._)</stage>
           <p> Fräulein, ich habe etwas zu dir zu sagen.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:** </speaker>
+          <speaker>FRÄULEIN: </speaker>
           <stage>(_Schaut auf._)</stage>
           <p> Was ist es, Stein?</p>
         </sp>
         <sp who="#stein">
-          <speaker>STEIN:**</speaker>
+          <speaker>STEIN:</speaker>
           <p>Ich habe den Fluch des bösen Zauberers gebrochen. Ich bin wieder ein Mensch.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Das ist wunderbar! Ich habe so lange auf diesen Moment gewartet.</p>
         </sp>
         <sp who="#stein">
-          <speaker>STEIN:**</speaker>
+          <speaker>STEIN:</speaker>
           <p>Ich auch. Ich habe so viel verpasst in den letzten Jahren.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ich werde dir alles erzählen, was du verpasst hast.</p>
         </sp>
         <stage>(_Sie reden._)</stage>
         <sp who="#prinz">
-          <speaker>**PRINZ:** </speaker>
+          <speaker>PRINZ: </speaker>
           <stage>(_Betritt den Wald._)</stage>
           <p> Was ist das? Was ist hier los?</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Das ist Stein. Er war in einen Stein verwandelt worden, aber er hat den Fluch gebrochen.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Das ist ein Wunder!</p>
         </sp>
         <sp who="#stein">
-          <speaker>STEIN:**</speaker>
+          <speaker>STEIN:</speaker>
           <p>Ja, es ist ein Wunder. Und jetzt kann ich endlich ein normales Leben führen.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Ich freue mich für dich.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ich auch.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Und ich freue mich auch, dich kennengelernt zu haben, Fräulein.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ich mich auch, Prinz.</p>
         </sp>
         <stage>(_Der Prinz und die Fräulein sehen sich an._)</stage>
         <sp who="#hüter">
-          <speaker>**HÜTER:** </speaker>
+          <speaker>HÜTER: </speaker>
           <stage>(_Betritt den Wald._)</stage>
           <p> Was ist hier los?</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Alles in Ordnung, Wächter. Wir haben uns nur unterhalten.</p>
         </sp>
         <sp who="#hüter">
-          <speaker>HÜTER:**</speaker>
+          <speaker>HÜTER:</speaker>
           <p>Gut. Ich muss weiter. Ich habe noch viel zu tun.</p>
         </sp>
         <stage>(_Der Wächter geht._)</stage>
         <sp who="#prinz">
-          <speaker>**PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Fräulein, ich habe dich etwas zu fragen.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Was ist es, Prinz?</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Würdest du mich heiraten?</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ich würde mich sehr freuen, dich zu heiraten, Prinz.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
-          <p>Das ist wunderbar!**The End**In this act, I have added the following characters:* **Prinz:** A young prince who falls in love with the Fräulein.* **Wächter:** An old forest ranger who guards the forest.I have also removed the following characters:* **Zauberer:** The evil wizard who cursed the young man into a stone.I have also added the following events:* The young man and the Fräulein fall in love.* The prince asks the Fräulein to marry him.* The Fräulein accepts the prince's proposal.I hope you enjoy this new act!</p>
+          <speaker>PRINZ:</speaker>
+          <p>Das ist wunderbar!</p>
         </sp>
         <stage>(_Der Prinz und die Fräulein umarmen sich._)</stage>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>**Ort:** Der Schlosshof.**Figuren:*** **FRÄULEIN:** Die Tochter des Grafen.* **STEIN:** Der junge Mann, der in einen Stein verwandelt wurde.* **PRINZ:** Ein junger Prinz, der sich in die Fräulein verliebt hat.* **HÜTER:** Ein alter Wächter, der den Wald bewacht.* **KAPLAN:** Ein Kaplan, der die Hochzeit der Fräulein und des Prinzen vollziehen soll.<sp who="#fräulein">
-          <speaker>**FRÄULEIN:** </speaker>
-          <stage>(_Sitzt im Schlosshof und wartet auf den Prinzen._)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 1</head>
+        <stage>Ort: Der Schlosshof.Figuren: FRÄULEIN: Die Tochter des Grafen. STEIN: Der junge Mann, der in einen Stein verwandelt wurde. PRINZ: Ein junger Prinz, der sich in die Fräulein verliebt hat. HÜTER: Ein alter Wächter, der den Wald bewacht. KAPLAN: Ein Kaplan, der die Hochzeit der Fräulein und des Prinzen vollziehen soll.</stage>
+        <stage>FRÄULEIN: (_Sitzt im Schlosshof und wartet auf den Prinzen._)</stage>
         <sp who="#stein">
-          <speaker>STEIN:** </speaker>
+          <speaker>STEIN: </speaker>
           <stage>(_Betritt den Schlosshof._)</stage>
           <p> Fräulein, ich bin so aufgeregt!</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ich auch, Stein. Aber ich bin auch sehr glücklich.</p>
         </sp>
         <sp who="#stein">
-          <speaker>STEIN:**</speaker>
+          <speaker>STEIN:</speaker>
           <p>Ja, ich auch. Ich kann es kaum glauben, dass ich heute heiraten werde.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ich auch. Es ist wie ein Traum.</p>
         </sp>
         <stage>(_Der Prinz betritt den Schlosshof._)</stage>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Fräulein, ich bin hier.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Prinz, ich bin so froh, dass du da bist.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Ich bin auch froh, dass ich hier bin.</p>
         </sp>
         <stage>(_Der Prinz und die Fräulein umarmen sich._)</stage>
         <sp who="#kaplan">
-          <speaker>KAPLAN:**</speaker>
+          <speaker>KAPLAN:</speaker>
           <p>Liebe Fräulein, lieber Prinz, wir sind hier zusammengekommen, um euch zu eurer Hochzeit zu beglückwünschen.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Vielen Dank, Kaplan.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ja, vielen Dank.</p>
         </sp>
         <sp who="#kaplan">
-          <speaker>KAPLAN:**</speaker>
+          <speaker>KAPLAN:</speaker>
           <p>Wollt ihr euch nun vor mir das Ja-Wort geben?</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Ja, wir wollen.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Ja, wir wollen.</p>
         </sp>
         <sp who="#kaplan">
-          <speaker>KAPLAN:**</speaker>
+          <speaker>KAPLAN:</speaker>
           <p>Dann seid ihr nun Mann und Frau.</p>
         </sp>
         <stage>(_Der Kaplan segnet das Paar._)</stage>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Ich liebe dich, Fräulein.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
-          <p>Ich liebe dich auch, Prinz.**The End**In this act, I have added the following characters:* **Kaplan:** A priest who will perform the wedding ceremony.I have also removed the following characters:* **Wächter:** The old forest ranger who guards the forest.I have also added the following events:* The Fräulein and the Prinz get married.* The Kaplan performs the wedding ceremony.I hope you enjoy this new act!</p>
+          <speaker>FRÄULEIN:</speaker>
+          <p>Ich liebe dich auch, Prinz.</p>
         </sp>
         <stage>(_Der Prinz und die Fräulein küssen sich._)</stage>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>**Ort:** Der Thronsaal im Schloss.**Figuren:*** **KÖNIG:** Der Vater des Prinzen.* **KÖNIGIN:** Die Mutter des Prinzen.* **FRÄULEIN:** Die Tochter des Grafen.* **STEIN:** Der junge Mann, der in einen Stein verwandelt wurde.* **PRINZ:** Der junge Prinz, der sich in die Fräulein verliebt hat.* **HÜTER:** Ein alter Wächter, der den Wald bewacht.* **KAPLAN:** Ein Kaplan, der die Hochzeit der Fräulein und des Prinzen vollziehen soll.<sp who="#könig">
-          <speaker>**KÖNIG:** </speaker>
-          <stage>(_Sitzt auf dem Thron und wartet auf den Prinzen und die Fräulein._)</stage>
-          <p></p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:** </speaker>
-          <stage>(_Sitzt neben dem König und wartet._)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 1</head>
+        <stage>Ort: Der Thronsaal im Schloss.Figuren: KÖNIG: Der Vater des Prinzen. KÖNIGIN: Die Mutter des Prinzen. FRÄULEIN: Die Tochter des Grafen. STEIN: Der junge Mann, der in einen Stein verwandelt wurde. PRINZ: Der junge Prinz, der sich in die Fräulein verliebt hat. HÜTER: Ein alter Wächter, der den Wald bewacht. KAPLAN: Ein Kaplan, der die Hochzeit der Fräulein und des Prinzen vollziehen soll.</stage>
+        <stage>KÖNIG:(_Sitzt auf dem Thron und wartet auf den Prinzen und die Fräulein._)</stage>
+        <stage>KÖNIGIN: (_Sitzt neben dem König und wartet._)</stage>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:** </speaker>
+          <speaker>FRÄULEIN: </speaker>
           <stage>(_Betritt den Thronsaal._)</stage>
           <p> Majestät, Prinz, ich bin hier.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Fräulein, ich bin auch hier.</p>
         </sp>
         <sp who="#könig">
-          <speaker>KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Herzlich willkommen, Fräulein. Wir sind sehr froh, dich hier zu sehen.</p>
         </sp>
         <sp who="#königin">
-          <speaker>KÖNIGIN:**</speaker>
+          <speaker>KÖNIGIN:</speaker>
           <p>Ja, wir sind es auch.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Vielen Dank, Majestät.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Vielen Dank, Mutter.</p>
         </sp>
         <sp who="#könig">
-          <speaker>KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Wir haben uns heute hier versammelt, um die Hochzeit unseres Sohnes und der Fräulein zu feiern.</p>
         </sp>
         <sp who="#königin">
-          <speaker>KÖNIGIN:**</speaker>
+          <speaker>KÖNIGIN:</speaker>
           <p>Ja, wir wollen euch beiden zur Hochzeit gratulieren.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Vielen Dank, Majestät.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Vielen Dank, Mutter.</p>
         </sp>
         <sp who="#könig">
-          <speaker>KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Wir wünschen euch beiden alles Gute für eure gemeinsame Zukunft.</p>
         </sp>
         <sp who="#königin">
-          <speaker>KÖNIGIN:**</speaker>
+          <speaker>KÖNIGIN:</speaker>
           <p>Ja, wir wünschen euch viel Glück und Liebe.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Vielen Dank, Majestät.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Vielen Dank, Mutter.</p>
         </sp>
         <stage>(_Der Kaplan tritt ein._)</stage>
         <sp who="#kaplan">
-          <speaker>KAPLAN:**</speaker>
+          <speaker>KAPLAN:</speaker>
           <p>Majestät, Prinz, Fräulein, ich bin hier, um die Hochzeitszeremonie zu vollziehen.</p>
         </sp>
         <sp who="#könig">
-          <speaker>KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Sehr gut, Kaplan. Wir beginnen.</p>
         </sp>
         <stage>(_Die Hochzeitszeremonie findet statt._)</stage>
         <sp who="#kaplan">
-          <speaker>**KAPLAN:**</speaker>
+          <speaker>KAPLAN:</speaker>
           <p>Nun seid ihr Mann und Frau.</p>
         </sp>
         <stage>(_Der Kaplan segnet das Paar._)</stage>
         <sp who="#könig">
-          <speaker>KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich erkläre euch hiermit zu Mann und Frau. Möge eure Ehe lang und glücklich sein.</p>
         </sp>
         <sp who="#königin">
-          <speaker>KÖNIGIN:**</speaker>
+          <speaker>KÖNIGIN:</speaker>
           <p>Ja, möge eure Ehe lang und glücklich sein.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Vielen Dank, Majestät.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
+          <speaker>PRINZ:</speaker>
           <p>Vielen Dank, Mutter.</p>
         </sp>
         <stage>(_Der König und die Königin umarmen das Paar._)</stage>
         <sp who="#könig">
-          <speaker>KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Wir sind so glücklich für euch.</p>
         </sp>
         <sp who="#königin">
-          <speaker>KÖNIGIN:**</speaker>
+          <speaker>KÖNIGIN:</speaker>
           <p>Ja, wir sind es auch.</p>
         </sp>
         <sp who="#fräulein">
-          <speaker>FRÄULEIN:**</speaker>
+          <speaker>FRÄULEIN:</speaker>
           <p>Vielen Dank, Majestät.</p>
         </sp>
         <sp who="#prinz">
-          <speaker>PRINZ:**</speaker>
-          <p>Vielen Dank, Mutter.**The End**In this act, I have added the following characters:* **König:** The king, the father of the prince.* **Königin:** The queen, the mother of the prince.I have also removed the following characters:* **Wächter:** The old forest ranger who guards the forest.I have also added the following events:* The king and queen attend the wedding.* The Kaplan performs the wedding ceremony.* The king and queen give their blessing to the couple.I hope you enjoy this new act!</p>
+          <speaker>PRINZ:</speaker>
+          <p>Vielen Dank, Mutter.</p>
         </sp>
         <stage>(_Der Prinz und die Fräulein küssen sich._)</stage>
       </div>

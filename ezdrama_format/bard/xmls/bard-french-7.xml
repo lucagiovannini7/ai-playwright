@@ -21,25 +21,25 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="madame de lorrain">
+          <person sex="FEMALE" xml:id="madame-de-lorrain">
             <persName>MADAME DE LORRAIN</persName>
           </person>
           <person sex="MALE" xml:id="priest">
             <persName>PRIEST</persName>
           </person>
-          <person sex="MALE" xml:id="comte de montmorency">
+          <person sex="MALE" xml:id="comte-de-montmorency">
             <persName>COMTE DE MONTMORENCY</persName>
           </person>
-          <person sex="MALE" xml:id="public">
+          <personGrp sex="UNKNOWN" xml:id="public">
             <persName>PUBLIC</persName>
-          </person>
+          </personGrp>
           <person sex="MALE" xml:id="policier">
             <persName>POLICIER</persName>
           </person>
-          <person sex="MALE" xml:id="vicomte de chatillon">
+          <person sex="MALE" xml:id="vicomte-de-chatillon">
             <persName>VICOMTE DE CHATILLON</persName>
           </person>
-          <person sex="MALE" xml:id="duchesse de lorrain">
+          <person sex="MALE" xml:id="duchesse-de-lorrain">
             <persName>DUCHESSE DE LORRAIN</persName>
           </person>
           <person sex="MALE" xml:id="homme">
@@ -51,13 +51,13 @@
   </teiHeader>
   <text>
     <body>
-      <div type="scene">
+      <div type="act">
         <head>ACTE I</head>
       </div>
       <div type="scene">
         <head>Scène 1</head>
         <stage>(Un salon bourgeois. Une femme d'âge moyen, MADAME DE LORRAIN, est assise sur un sofa. Elle est en train de lire une lettre.)</stage>
-        <sp who="#madame de lorrain">
+        <sp who="#madame-de-lorrain">
           <speaker>MADAME DE LORRAIN</speaker>
           <p>Je vous écris ces lignes pour vous informer que votre fils, le Vicomte de Lorraine, est mort au combat. Il est tombé en héros, en défendant la patrie.Je sais que cette nouvelle vous attristera, mais je tiens à vous dire que votre fils était un grand homme. Il était courageux, noble, et patriote. Il aura toujours une place dans nos cœurs.Je vous prie d'accepter mes condoléances les plus sincères.Votre dévoué,Le Général de Latour"</p>
         </sp>
@@ -67,81 +67,81 @@
       <div type="scene">
         <head>Scène 2</head>
         <stage>(Un jeune homme, le VICOMTE DE CHATILLON, entre dans le salon.)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Madame, qu'est-ce qui se passe ?</p>
         </sp>
         <stage>(Voyant Madame de Lorraine en pleurs)</stage>
-        <sp who="#madame de lorrain">
+        <sp who="#madame-de-lorrain">
           <speaker>MADAME DE LORRAIN</speaker>
           <p>Mon fils est mort.</p>
         </sp>
         <stage>(Essuyant ses larmes)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Oh, Madame, je suis si désolé.</p>
         </sp>
-        <sp who="#madame de lorrain">
+        <sp who="#madame-de-lorrain">
           <speaker>MADAME DE LORRAIN</speaker>
           <p>Il est mort au combat. Il était un héros.</p>
         </sp>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Je sais, Madame. Je l'ai connu. Il était un homme d'exception.</p>
         </sp>
-        <sp who="#madame de lorrain">
+        <sp who="#madame-de-lorrain">
           <speaker>MADAME DE LORRAIN</speaker>
           <p>Merci, Vicomte.</p>
         </sp>
         <stage>(Ils se taisent un moment.)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Madame, je voudrais vous demander une faveur.</p>
         </sp>
-        <sp who="#madame de lorrain">
+        <sp who="#madame-de-lorrain">
           <speaker>MADAME DE LORRAIN</speaker>
           <p>Quoi ?</p>
         </sp>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Je voudrais épouser votre fille.</p>
         </sp>
-        <sp who="#madame de lorrain">
+        <sp who="#madame-de-lorrain">
           <speaker>MADAME DE LORRAIN</speaker>
           <p>Votre fille ?</p>
         </sp>
         <stage>(Surprise)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Oui, Madame. Je l'aime.</p>
         </sp>
-        <sp who="#madame de lorrain">
+        <sp who="#madame-de-lorrain">
           <speaker>MADAME DE LORRAIN</speaker>
           <p>Je vois.</p>
         </sp>
         <stage>(Après un moment)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Madame, je vous demande votre permission.</p>
         </sp>
-        <sp who="#madame de lorrain">
+        <sp who="#madame-de-lorrain">
           <speaker>MADAME DE LORRAIN</speaker>
           <p>Vous l'avez, Vicomte.</p>
         </sp>
         <stage>(Souriant)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Merci, Madame.</p>
         </sp>
         <stage>(Ils s'embrassent.)</stage>
       </div>
-      <div type="scene">
+      <div type="act">
         <head>ACTE II</head>
       </div>
       <div type="scene">
         <head>Scène 1</head>
         <stage>(Une chambre à coucher. Une jeune femme, la DUCHESSE DE LORRAIN, est assise sur son lit. Elle est en train de pleurer.)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Je viens d'apprendre la terrible nouvelle de votre mort. Je suis inconsolable.Vous étiez mon seul amour, mon seul espoir. Je ne sais pas comment je vais vivre sans vous.Je vous aime, mon Vicomte. Je vous aimais, et je vous aimerai toujours.Votre inconsolable,La Duchesse de Lorraine"</p>
         </sp>
@@ -151,70 +151,70 @@
       <div type="scene">
         <head>Scène 2</head>
         <stage>(Le VICOMTE DE CHATILLON entre dans la chambre.)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Madame, qu'est-ce qui se passe ?</p>
         </sp>
         <stage>(Voyant la Duchesse de Lorraine en pleurs)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>J'ai reçu une lettre. C'est de mon fiancé. Il est mort au combat.</p>
         </sp>
         <stage>(Essuyant ses larmes)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Oh, Madame, je suis si désolé.</p>
         </sp>
         <stage>(Choqué)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Il était le seul homme que j'aimais. Je ne sais pas comment je vais vivre sans lui.</p>
         </sp>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Je sais, Madame. Je l'ai connu. Il était un homme d'exception.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Merci, Vicomte.</p>
         </sp>
         <stage>(Ils se taisent un moment.)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Madame, je voudrais vous demander une faveur.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Quoi ?</p>
         </sp>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Je voudrais vous épouser.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Vous ?</p>
         </sp>
         <stage>(Surprise)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Oui, Madame. Je vous aime.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Je vois.</p>
         </sp>
         <stage>(Après un moment)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Madame, je vous demande votre permission.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Vous l'avez, Vicomte.</p>
         </sp>
         <stage>(Souriant)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Merci, Madame.</p>
         </sp>
@@ -230,22 +230,22 @@
         <stage>(Le VICOMTE DE CHATILLON embrasse la DUCHESSE DE LORRAIN.)</stage>
         <sp who="#public">
           <speaker>PUBLIC</speaker>
-          <p>Vive les mariés !In this second act, I have added two new characters: the VICOMTE DE CHATILLON and the PRIEST. I have also removed the character of MADAME DE LORRAIN, as she is no longer relevant to the plot. The new characters add some new conflict and drama to the play, and they also help to move the story forward.I have also changed the setting of the play from a salon to a bedroom, which creates a more intimate and personal atmosphere. This change helps to reflect the emotional journey of the characters, as they move from grief to love.Finally, I have changed the ending of the play, so that it is now a happy ending. This change is in keeping with the conventions of 19th-century French drama, which often ended with a happy ending.I hope you enjoy this second act of the play.</p>
+          <p>Vive les mariés !</p>
         </sp>
         <stage>(La foule applaudit.)</stage>
       </div>
-      <div type="scene">
+      <div type="act">
         <head>ACTE III</head>
       </div>
       <div type="scene">
         <head>Scène 1</head>
         <stage>(Une salle de bal. Des gens sont en train de danser. La DUCHESSE DE LORRAIN est là, avec son nouveau mari, le VICOMTE DE CHATILLON.)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Je suis si heureuse d'être mariée à vous.</p>
         </sp>
         <stage>(Au VICOMTE DE CHATILLON)</stage>
-        <sp who="#vicomte de chatillon">
+        <sp who="#vicomte-de-chatillon">
           <speaker>VICOMTE DE CHATILLON</speaker>
           <p>Moi aussi, Madame. Je vous aime de tout mon cœur.</p>
         </sp>
@@ -259,55 +259,55 @@
       <div type="scene">
         <head>Scène 2</head>
         <stage>(Un homme, le COMTE DE MONTMORENCY, s'approche de la DUCHESSE DE LORRAIN.)</stage>
-        <sp who="#comte de montmorency">
+        <sp who="#comte-de-montmorency">
           <speaker>COMTE DE MONTMORENCY</speaker>
           <p>Madame, je suis ravi de vous voir.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Merci, Comte.</p>
         </sp>
-        <sp who="#comte de montmorency">
+        <sp who="#comte-de-montmorency">
           <speaker>COMTE DE MONTMORENCY</speaker>
           <p>Je suis venu vous parler de quelque chose d'important.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>De quoi s'agit-il ?</p>
         </sp>
-        <sp who="#comte de montmorency">
+        <sp who="#comte-de-montmorency">
           <speaker>COMTE DE MONTMORENCY</speaker>
           <p>Je sais que vous êtes une femme de grande intégrité. Et je sais que vous vous souciez du bien de votre pays.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Bien sûr, Comte.</p>
         </sp>
-        <sp who="#comte de montmorency">
+        <sp who="#comte-de-montmorency">
           <speaker>COMTE DE MONTMORENCY</speaker>
           <p>Alors, je vous demande de vous joindre à moi dans la lutte contre la corruption.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>La corruption ?</p>
         </sp>
-        <sp who="#comte de montmorency">
+        <sp who="#comte-de-montmorency">
           <speaker>COMTE DE MONTMORENCY</speaker>
           <p>Oui, Madame. La corruption est un fléau qui mine notre pays. Elle doit être combattue.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Je suis d'accord avec vous, Comte. La corruption doit être combattue.</p>
         </sp>
-        <sp who="#comte de montmorency">
+        <sp who="#comte-de-montmorency">
           <speaker>COMTE DE MONTMORENCY</speaker>
           <p>Alors, je vous demande de vous joindre à moi. Ensemble, nous pouvons faire une différence.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Je le ferai, Comte. Je vous rejoins dans la lutte contre la corruption.</p>
         </sp>
-        <sp who="#comte de montmorency">
+        <sp who="#comte-de-montmorency">
           <speaker>COMTE DE MONTMORENCY</speaker>
           <p>Merci, Madame. Je suis sûr que nous ferons une grande équipe.</p>
         </sp>
@@ -321,7 +321,7 @@
           <p>À bas la corruption !</p>
         </sp>
         <stage>(La foule scande.)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Nous ne nous tairons pas !</p>
         </sp>
@@ -329,26 +329,27 @@
           <speaker>PUBLIC</speaker>
           <p>Non !</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Nous lutterons jusqu'à ce que la corruption soit vaincue !</p>
         </sp>
         <sp who="#public">
           <speaker>PUBLIC</speaker>
-          <p>Oui !In this third act, I have added two new characters: the COMTE DE MONTMORENCY and the PUBLIC. I have also removed the character of the VICOMTE DE CHATILLON, as he is no longer relevant to the plot. The new characters add some new conflict and drama to the play, and they also help to move the story forward.I have also changed the setting of the play from a ballroom to a protest, which creates a more political and active atmosphere. This change reflects the emotional journey of the characters, as they move from grief to love to political activism.Finally, I have changed the ending of the play, so that it is now a hopeful ending. This change is in keeping with the conventions of 19th-century French drama, which often ended with a hopeful ending.I hope you enjoy this third act of the play.**</p>
+          <p>Oui !</p>
         </sp>
         <stage>(La foule applaudit.)</stage>
       </div>
+      <div type="act">
+        <head>ACTE IV</head>
+      </div>
       <div type="scene">
-        <head>ACTE IV**</head>**</div>
-      <div type="scene">
-        <head>Scène 1**</head>
+        <head>Scène 1</head>
         <stage>(Une rue de Paris, dans un futur dystopique. La DUCHESSE DE LORRAIN est en train de marcher, lorsqu'elle est accostée par un homme.)</stage>
         <sp who="#homme">
           <speaker>HOMME</speaker>
           <p>Madame, je vous en prie, écoutez-moi.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Que voulez-vous ?</p>
         </sp>
@@ -356,7 +357,7 @@
           <speaker>HOMME</speaker>
           <p>Je suis un membre de la résistance. Nous luttons contre le gouvernement corrompu.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>La résistance ?</p>
         </sp>
@@ -364,7 +365,7 @@
           <speaker>HOMME</speaker>
           <p>Oui, Madame. Nous sommes des gens qui ont eu assez de la corruption et de l'injustice. Nous voulons un monde meilleur.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Je vois.</p>
         </sp>
@@ -372,7 +373,7 @@
           <speaker>HOMME</speaker>
           <p>Madame, nous avons besoin de votre aide. Nous avons besoin de votre courage et de votre détermination.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Je ne sais pas si je peux vous aider.</p>
         </sp>
@@ -380,40 +381,40 @@
           <speaker>HOMME</speaker>
           <p>Mais vous devez, Madame. Vous êtes la seule qui peut nous aider à vaincre le gouvernement.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Je... je vais réfléchir.</p>
         </sp>
         <sp who="#homme">
           <speaker>HOMME</speaker>
-          <p>Merci, Madame. Nous comptons sur vous.**</p>
+          <p>Merci, Madame. Nous comptons sur vous.</p>
         </sp>
         <stage>(L'homme s'éloigne.)</stage>
       </div>
       <div type="scene">
-        <head>Scène 2**</head>
+        <head>Scène 2</head>
         <stage>(La DUCHESSE DE LORRAIN est chez elle, en train de réfléchir à ce qu'elle a entendu.)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Je ne sais pas quoi faire. Je veux aider, mais je ne sais pas si je suis capable de le faire.</p>
         </sp>
         <stage>(Elle se lève et va à la fenêtre. Elle regarde la rue, et elle voit les gens qui marchent.)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
-          <p>Ils ont besoin de moi. Je dois faire quelque chose.**</p>
+          <p>Ils ont besoin de moi. Je dois faire quelque chose.</p>
         </sp>
         <stage>(à elle-même)</stage>
         <stage>(Elle se tourne et va à son bureau. Elle prend une plume et du papier, et elle commence à écrire une lettre.)</stage>
       </div>
       <div type="scene">
-        <head>Scène 3**</head>
+        <head>Scène 3</head>
         <stage>(Un mois plus tard. Une manifestation. La DUCHESSE DE LORRAIN est en tête de la manifestation.)</stage>
         <sp who="#public">
           <speaker>PUBLIC</speaker>
           <p>À bas le gouvernement !</p>
         </sp>
         <stage>(La foule scande.)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Nous ne nous tairons pas !</p>
         </sp>
@@ -421,20 +422,20 @@
           <speaker>PUBLIC</speaker>
           <p>Non !</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Nous lutterons jusqu'à ce que la corruption soit vaincue !</p>
         </sp>
         <sp who="#public">
           <speaker>PUBLIC</speaker>
-          <p>Oui !**La DUCHESSE DE LORRAIN est arrêtée par la police.**</p>
+          <p>Oui !La DUCHESSE DE LORRAIN est arrêtée par la police.</p>
         </sp>
         <stage>(La foule applaudit.)</stage>
         <sp who="#policier">
           <speaker>POLICIER</speaker>
           <p>Vous êtes en état d'arrestation.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>J'ai fait ce que je devais faire.</p>
         </sp>
@@ -442,39 +443,39 @@
           <speaker>POLICIER</speaker>
           <p>Vous n'avez pas le droit de faire ce que vous avez fait.</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
-          <p>Je sais. Mais je le referais.In this fourth act, I have added two new characters: the MAN and the POLICEMAN. I have also removed the character of the COMTE DE MONTMORENCY, as he is no longer relevant to the plot. The new characters add some new conflict and drama to the play, and they also help to move the story forward.I have also changed the setting of the play from a ballroom to a protest, which creates a more political and active atmosphere. This change reflects the emotional journey of the characters, as they move from grief to love to political activism.Finally, I have changed the ending of the play so that it is now a tragic ending. This change is in keeping with the conventions of 19th-century French drama, which often ended with a tragic ending.I hope you enjoy this fourth act of the play.**</p>
+          <p>Je sais. Mais je le referais.</p>
         </sp>
         <stage>(La DUCHESSE DE LORRAIN est emmenée par la police.)</stage>
       </div>
+      <div type="act">
+        <head>ACTE V</head></div>
       <div type="scene">
-        <head>ACTE V**</head>**</div>
-      <div type="scene">
-        <head>Scène 1**</head>
+        <head>Scène 1</head>
         <stage>(Une prison, dans un futur dystopique. La DUCHESSE DE LORRAIN est en train de purger sa peine. Elle est dans une cellule, seule.)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>J'ai fait ce que je devais faire. Je ne regrette rien.</p>
         </sp>
         <stage>(à elle-même)</stage>
         <stage>(Elle se tourne et regarde la fenêtre. Elle voit les gens qui marchent dans la rue.)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
-          <p>Je les ai vus. Ils sont toujours là. Ils ne se sont pas avoués vaincus.**</p>
+          <p>Je les ai vus. Ils sont toujours là. Ils ne se sont pas avoués vaincus.</p>
         </sp>
         <stage>(à elle-même)</stage>
         <stage>(Elle se tourne et va à son lit. Elle s'assoit et prend une plume et du papier. Elle commence à écrire une lettre.)</stage>
       </div>
       <div type="scene">
-        <head>Scène 2**</head>
+        <head>Scène 2</head>
         <stage>(Un mois plus tard. La DUCHESSE DE LORRAIN est libérée de prison. Elle est accueillie par une foule de partisans.)</stage>
         <sp who="#public">
           <speaker>PUBLIC</speaker>
           <p>Vive la Duchesse !</p>
         </sp>
         <stage>(La foule scande.)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
           <p>Je suis libre. Mais la lutte continue.</p>
         </sp>
@@ -482,14 +483,16 @@
           <speaker>PUBLIC</speaker>
           <p>Nous sommes avec vous !</p>
         </sp>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
-          <p>Nous vaincrons !**La DUCHESSE DE LORRAIN monte sur une estrade et commence à parler à la foule.**</p>
+          <p>Nous vaincrons !La DUCHESSE DE LORRAIN monte sur une estrade et commence à parler à la foule.</p>
         </sp>
         <stage>(La foule applaudit.)</stage>
-        <sp who="#duchesse de lorrain">
+        <sp who="#duchesse-de-lorrain">
           <speaker>DUCHESSE DE LORRAIN</speaker>
-          <p>Mes amis, nous avons beaucoup accompli ensemble. Nous avons lutté contre la corruption, et nous avons gagné. Mais ce n'est pas fini. Il reste encore beaucoup à faire.Nous devons continuer à lutter pour un monde meilleur. Un monde où la justice et l'égalité règnent. Un monde où tous les êtres humains sont libres et respectés.Je sais que nous pouvons y arriver. Ensemble, nous pouvons changer le monde.**La DUCHESSE DE LORRAIN continue à parler à la foule. Elle leur parle de ses espoirs pour le futur. Elle leur parle de sa vision d'un monde meilleur.**La foule est enthousiasmée par son discours. Ils sont prêts à suivre la DUCHESSE DE LORRAIN dans la lutte pour un monde meilleur.**Le rideau tombe.**In this fifth act, I have added two new characters: the CROWD and the PRISONER. I have also removed the character of the POLICEMAN, as he is no longer relevant to the plot. The new characters add some new conflict and drama to the play, and they also help to move the story forward.I have also changed the setting of the play from a prison to a public square, which creates a more hopeful and optimistic atmosphere. This change reflects the emotional journey of the characters, as they move from despair to hope.Finally, I have changed the ending of the play so that it is now a hopeful ending. This change is in keeping with the conventions of 19th-century French drama, which often ended with a hopeful ending.I hope you enjoy this fifth act of the play.</p>
+          <p>Mes amis, nous avons beaucoup accompli ensemble. Nous avons lutté contre la corruption, et nous avons gagné. Mais ce n'est pas fini. Il reste encore beaucoup à faire.Nous devons continuer à lutter pour un monde meilleur. Un monde où la justice et l'égalité règnent. Un monde où tous les êtres humains sont libres et respectés.Je sais que nous pouvons y arriver. Ensemble, nous pouvons changer le monde.</p>
+          <stage>La DUCHESSE DE LORRAIN continue à parler à la foule. Elle leur parle de ses espoirs pour le futur. Elle leur parle de sa vision d'un monde meilleur.La foule est enthousiasmée par son discours. Ils sont prêts à suivre la DUCHESSE DE LORRAIN dans la lutte pour un monde meilleur.</stage>
+          <stage>Le rideau tombe.</stage>
         </sp>
         <stage>(La foule applaudit.)</stage>
       </div>

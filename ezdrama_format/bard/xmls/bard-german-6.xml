@@ -22,28 +22,13 @@
       <particDesc>
         <listPerson>
           <person sex="FEMALE" xml:id="franziska">
-            <persName>**FRANZISKA**</persName>
+            <persName>FRANZISKA</persName>
           </person>
           <person sex="MALE" xml:id="karl">
-            <persName>**KARL**</persName>
+            <persName>KARL</persName>
           </person>
-          <person sex="MALE" xml:id="ende des akts">
-            <persName>**ENDE DES AKTS</persName>
-          </person>
-          <person sex="MALE" xml:id="ein haus in der stad">
-            <persName>**EIN HAUS IN DER STAD**</persName>
-          </person>
-          <person sex="MALE" xml:id="ende der einheit">
-            <persName>**ENDE DER EINHEIT</persName>
-          </person>
-          <person sex="MALE" xml:id="einheit">
-            <persName>**EINHEIT</persName>
-          </person>
-          <person sex="MALE" xml:id="karoline">
-            <persName>**KAROLINE**</persName>
-          </person>
-          <person sex="MALE" xml:id="ein gemäldenischer raum in einem gut in der heimat">
-            <persName>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</persName>
+          <person sex="FEMALE" xml:id="karoline">
+            <persName>KAROLINE</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -52,467 +37,314 @@
   <text>
     <body>
       <div type="scene">
-        <head>**</head>
+        <head></head>
       </div>
       <div type="scene">
-        <head>Szene 1**</head>* * *<sp who="#ein gemäldenischer raum in einem gut in der heimat">
-          <speaker>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#einheit">
-          <speaker>**EINHEIT</speaker>
-          <p>1****</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>AKT 1**</head>
+        <head>Szene 1</head>
+          <stage>EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT. EINHEIT  1</stage>
+        <head>AKT 1</head>
+        <stage> KARL(_sitzt an einem Schreibtisch und schreibt_)(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
         <sp who="#karl">
-          <speaker>**KARL** </speaker>
-          <stage>(_sitzt an einem Schreibtisch und schreibt_)</stage>
-          <p>* * ** * *</p>
-        </sp>
-        <stage>(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
-        <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl* * ** * *</p>
+          <speaker>KARL</speaker>
+          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl    </p>
         </sp>
         <stage>(_KARL faltet den Brief und steckt ihn in einen Umschlag. Er steht auf und geht zum Fenster. Er sieht auf das Gut, das vor ihm liegt. Er ist traurig, dass er es vielleicht verlieren könnte._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.* * *</p>
+          <speaker>KARL</speaker>
+          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.  </p>
         </sp>
         <stage>(_zu sich selbst_)</stage>
       </div>
       <div type="scene">
-        <head>**</head>
+        <head></head>
       </div>
       <div type="scene">
-        <head>Szene 2**</head>* * *<sp who="#ein haus in der stad">
-          <speaker>**EIN HAUS IN DER STAD**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#einheit">
-          <speaker>**EINHEIT</speaker>
-          <p>2****</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>AKT 1**</head>
+        <head>Szene 2</head> 
+          <stage>EIN HAUS IN DER STAD</stage>
+        <stage>EINHEIT  2</stage>
+        <head>AKT 1</head>
+        <stage>FRANZISKA(_sitzt in einem Salon und liest einen Brief_)(_FRANZISKA ist eine junge Frau, die in der Stadt lebt. Sie ist die Tochter eines wohlhabenden Kaufmanns. Sie ist mit KARL verlobt._)</stage>
         <sp who="#franziska">
-          <speaker>**FRANZISKA** </speaker>
-          <stage>(_sitzt in einem Salon und liest einen Brief_)</stage>
-          <p>* * ** * *</p>
-        </sp>
-        <stage>(_FRANZISKA ist eine junge Frau, die in der Stadt lebt. Sie ist die Tochter eines wohlhabenden Kaufmanns. Sie ist mit KARL verlobt._)</stage>
-        <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Liebe Franziska,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Verlobter,Karl* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Liebe Franziska,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Verlobter,Karl    </p>
         </sp>
         <stage>(_liest den Brief_)</stage>
         <stage>(_FRANZISKA legt den Brief weg. Sie ist besorgt über die Nachricht, die KARL ihr geschrieben hat. Sie weiß, dass das Gut für KARL sehr wichtig ist._)</stage>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Ich muss etwas tun, um Karl zu helfen. Ich muss einen Weg finden, das Gut zu retten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für Karl und für unsere gemeinsame Zukunft retten.* * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Ich muss etwas tun, um Karl zu helfen. Ich muss einen Weg finden, das Gut zu retten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für Karl und für unsere gemeinsame Zukunft retten.  </p>
         </sp>
         <stage>(_zu sich selbst_)</stage>
-        <sp who="#ende der einheit">
-          <speaker>**ENDE DER EINHEIT</speaker>
-          <p>2**</p>
-        </sp>
+        <stage>ENDE DER EINHEIT 2</stage>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>* * *<sp who="#ein gemäldenischer raum in einem gut in der heimat">
-          <speaker>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#einheit">
-          <speaker>**EINHEIT</speaker>
-          <p>1****</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>AKT 2**</head>
+        <head>Szene 1</head>  
+          <stage>EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT</stage>
+          <stage>EINHEIT  1</stage>
+        <head>AKT 2</head>
+        <stage>KARL zt an einem Schreibtisch und schreibt_)(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
         <sp who="#karl">
-          <speaker>**KARL** </speaker>
-          <stage>(_sitzt an einem Schreibtisch und schreibt_)</stage>
-          <p>* * ** * *</p>
-        </sp>
-        <stage>(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
-        <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl* * ** * *</p>
+          <speaker>KARL</speaker>
+          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl    </p>
         </sp>
         <stage>(_KARL faltet den Brief und steckt ihn in einen Umschlag. Er steht auf und geht zum Fenster. Er sieht auf das Gut, das vor ihm liegt. Er ist traurig, dass er es vielleicht verlieren könnte._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.* * *</p>
+          <speaker>KARL</speaker>
+          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.  </p>
         </sp>
         <stage>(_zu sich selbst_)</stage>
         <sp who="#franziska">
-          <speaker>**FRANZISKA** </speaker>
+          <speaker>FRANZISKA </speaker>
           <stage>(_kommt herein_)</stage>
-          <p>Karl, ich habe eine Nachricht für dich.* * *</p>
+          <p>Karl, ich habe eine Nachricht für dich.  </p>
         </sp>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Was ist es?* * *</p>
+          <speaker>KARL</speaker>
+          <p>Was ist es?  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Dein Vater ist gestorben.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Dein Vater ist gestorben.    </p>
         </sp>
         <stage>(_KARL ist geschockt. Er kann nicht glauben, was er gerade gehört hat._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Mein Vater? Er ist tot?* * *</p>
+          <speaker>KARL</speaker>
+          <p>Mein Vater? Er ist tot?  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Ja, er ist heute Morgen gestorben.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Ja, er ist heute Morgen gestorben.    </p>
         </sp>
         <stage>(_KARL ist still. Er kann nicht glauben, dass sein Vater weg ist._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Ich muss nach Hause gehen.* * *</p>
+          <speaker>KARL</speaker>
+          <p>Ich muss nach Hause gehen.  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Ich komme mit dir.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Ich komme mit dir.    </p>
         </sp>
         <stage>(_KARL und Franziska gehen._)</stage>
-        <sp who="#ende der einheit">
-          <speaker>**ENDE DER EINHEIT</speaker>
-          <p>1*** * *</p>
-        </sp>
-        <sp who="#einheit">
-          <speaker>**EINHEIT</speaker>
-          <p>2*** * *</p>
-        </sp>
-        <sp who="#ein haus in der stad">
-          <speaker>**EIN HAUS IN DER STAD**</speaker>
-          <p>* * *</p>
-        </sp>
+        <stage>ENDE DER EINHEIT 1  </stage>
+      </div>
+      <div type="scene">
+        <stage>EINHEIT 2  </stage>
+          <stage>EIN HAUS IN DER STAD</stage>       
+          <stage>KAROLINE zt in einem Salon und liest einen Brief_)(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
         <sp who="#karoline">
-          <speaker>**KAROLINE** </speaker>
-          <stage>(_sitzt in einem Salon und liest einen Brief_)</stage>
-          <p>* * ** * *</p>
-        </sp>
-        <stage>(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
-        <sp who="#karoline">
-          <speaker>**KAROLINE**</speaker>
-          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl* * ** * *</p>
+          <speaker>KAROLINE</speaker>
+          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl    </p>
         </sp>
         <stage>(_liest den Brief_)</stage>
         <stage>(_KAROLINE legt den Brief weg. Sie ist traurig, dass ihr Vater gestorben ist, aber sie weiß, dass sie Karl helfen muss._)</stage>
         <sp who="#karoline">
-          <speaker>**KAROLINE**</speaker>
-          <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.* * ** * *</p>
+          <speaker>KAROLINE</speaker>
+          <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.    </p>
         </sp>
         <stage>(_zu sich selbst_)</stage>
         <stage>(_KAROLINE geht._)</stage>
-        <sp who="#ende des akts">
-          <speaker>**ENDE DES AKTS</speaker>
-          <p>2**</p>
-        </sp>
+          <stage>ENDE DES AKTS 2</stage>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>* * *<sp who="#ein gemäldenischer raum in einem gut in der heimat">
-          <speaker>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#einheit">
-          <speaker>**EINHEIT</speaker>
-          <p>1****</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>AKT 3**</head>
+        <head>Szene 1</head>  
+          <stage>EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT</stage>
+          <stage>EINHEIT 1</stage>
+        <head>AKT 3</head>
+          <stage>KARL zt an einem Schreibtisch und schreibt_)(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
         <sp who="#karl">
-          <speaker>**KARL** </speaker>
-          <stage>(_sitzt an einem Schreibtisch und schreibt_)</stage>
-          <p>* * ** * *</p>
-        </sp>
-        <stage>(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
-        <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl* * ** * *</p>
+          <speaker>KARL</speaker>
+          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl    </p>
         </sp>
         <stage>(_KARL faltet den Brief und steckt ihn in einen Umschlag. Er steht auf und geht zum Fenster. Er sieht auf das Gut, das vor ihm liegt. Er ist traurig, dass er es vielleicht verlieren könnte._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.* * *</p>
+          <speaker>KARL</speaker>
+          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.  </p>
         </sp>
         <stage>(_zu sich selbst_)</stage>
         <sp who="#franziska">
-          <speaker>**FRANZISKA** </speaker>
+          <speaker>FRANZISKA </speaker>
           <stage>(_kommt herein_)</stage>
-          <p>Karl, ich habe eine Nachricht für dich.* * *</p>
+          <p>Karl, ich habe eine Nachricht für dich.  </p>
         </sp>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Was ist es?* * *</p>
+          <speaker>KARL</speaker>
+          <p>Was ist es?  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Dein Vater ist gestorben.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Dein Vater ist gestorben.    </p>
         </sp>
         <stage>(_KARL ist geschockt. Er kann nicht glauben, was er gerade gehört hat._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Mein Vater? Er ist tot?* * *</p>
+          <speaker>KARL</speaker>
+          <p>Mein Vater? Er ist tot?  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Ja, er ist heute Morgen gestorben.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Ja, er ist heute Morgen gestorben.    </p>
         </sp>
         <stage>(_KARL ist still. Er kann nicht glauben, dass sein Vater weg ist._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Ich muss nach Hause gehen.* * *</p>
+          <speaker>KARL</speaker>
+          <p>Ich muss nach Hause gehen.  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Ich komme mit dir.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Ich komme mit dir.    </p>
         </sp>
         <stage>(_KARL und Franziska gehen._)</stage>
-        <sp who="#ende der einheit">
-          <speaker>**ENDE DER EINHEIT</speaker>
-          <p>1*** * *</p>
-        </sp>
-        <sp who="#einheit">
-          <speaker>**EINHEIT</speaker>
-          <p>2*** * *</p>
-        </sp>
-        <sp who="#ein haus in der stad">
-          <speaker>**EIN HAUS IN DER STAD**</speaker>
-          <p>* * *</p>
-        </sp>
+        <stage>ENDE DER EINHEIT 1  </stage>
+        <stage>EINHEIT 2  </stage>
+      </div>
+      <div type="scene">
+        <stage>EIN HAUS IN DER STAD</stage>
+          <stage>KAROLINE zt in einem Salon und liest einen Brief_)(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
         <sp who="#karoline">
-          <speaker>**KAROLINE** </speaker>
-          <stage>(_sitzt in einem Salon und liest einen Brief_)</stage>
-          <p>* * ** * *</p>
-        </sp>
-        <stage>(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
-        <sp who="#karoline">
-          <speaker>**KAROLINE**</speaker>
-          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl* * ** * *</p>
+          <speaker>KAROLINE</speaker>
+          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl    </p>
         </sp>
         <stage>(_liest den Brief_)</stage>
         <stage>(_KAROLINE legt den Brief weg. Sie ist traurig, dass ihr Vater gestorben ist, aber sie weiß, dass sie Karl helfen muss._)</stage>
         <sp who="#karoline">
-          <speaker>**KAROLINE**</speaker>
-          <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.* * ** * *</p>
+          <speaker>KAROLINE</speaker>
+          <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.    </p>
         </sp>
         <stage>(_zu sich selbst_)</stage>
         <stage>(_KAROLINE geht._)</stage>
-        <sp who="#ende des akts">
-          <speaker>**ENDE DES AKTS</speaker>
-          <p>2**</p>
-        </sp>
+          <stage>ENDE DES AKTS>2</stage>
       </div>
       <div type="scene">
-        <head>**</head>
+        <head>Szene 2</head>  
+          <stage>EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT</stage>
+        <stage>EINHEIT 1</stage>
       </div>
       <div type="scene">
-        <head>Szene 2**</head>* * ***</div>
-      <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 2**</head>* * *<sp who="#ein gemäldenischer raum in einem gut in der heimat">
-          <speaker>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#einheit">
-          <speaker>**EINHEIT</speaker>
-          <p>1****</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>AKT 3**</head>
+        <head>AKT 3</head>
+          <stage>KARL zt an einem Schreibtisch und schreibt_)(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
         <sp who="#karl">
-          <speaker>**KARL** </speaker>
-          <stage>(_sitzt an einem Schreibtisch und schreibt_)</stage>
-          <p>* * ** * *</p>
-        </sp>
-        <stage>(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
-        <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl* * ** * *</p>
+          <speaker>KARL</speaker>
+          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl    </p>
         </sp>
         <stage>(_KARL faltet den Brief und steckt ihn in einen Umschlag. Er steht auf und geht zum Fenster. Er sieht auf das Gut, das vor ihm liegt. Er ist traurig, dass er es vielleicht verlieren könnte._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.* * *</p>
+          <speaker>KARL</speaker>
+          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.  </p>
         </sp>
         <stage>(_zu sich selbst_)</stage>
         <sp who="#franziska">
-          <speaker>**FRANZISKA** </speaker>
+          <speaker>FRANZISKA </speaker>
           <stage>(_kommt herein_)</stage>
-          <p>Karl, ich habe eine Nachricht für dich.* * *</p>
+          <p>Karl, ich habe eine Nachricht für dich.  </p>
         </sp>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Was ist es?* * *</p>
+          <speaker>KARL</speaker>
+          <p>Was ist es?  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Dein Vater ist gestorben.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Dein Vater ist gestorben.    </p>
         </sp>
         <stage>(_KARL ist geschockt. Er kann nicht glauben, was er gerade gehört hat._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Mein Vater? Er ist tot?* * *</p>
+          <speaker>KARL</speaker>
+          <p>Mein Vater? Er ist tot?  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Ja, er ist heute Morgen gestorben.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Ja, er ist heute Morgen gestorben.    </p>
         </sp>
         <stage>(_KARL ist still. Er kann nicht glauben, dass sein Vater weg ist._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Ich muss nach Hause gehen.* * *</p>
+          <speaker>KARL</speaker>
+          <p>Ich muss nach Hause gehen.  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Ich komme mit dir.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Ich komme mit dir.    </p>
         </sp>
         <stage>(_KARL und Franziska gehen._)</stage>
-        <sp who="#ende der einheit">
-          <speaker>**ENDE DER EINHEIT</speaker>
-          <p>1*** * *</p>
-        </sp>
-        <sp who="#einheit">
-          <speaker>**EINHEIT</speaker>
-          <p>2*** * *</p>
-        </sp>
-        <sp who="#ein haus in der stad">
-          <speaker>**EIN HAUS IN DER STAD**</speaker>
-          <p>* * *</p>
-        </sp>
+        <stage>ENDE DER EINHEIT 1  </stage>
+      </div>
+      <div type="scene">
+        <stage>EINHEIT 2  </stage>
+        <stage>EIN HAUS IN DER STAD</stage>
+          <stage>KAROLINE zt in einem Salon und liest einen Brief_)(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
         <sp who="#karoline">
-          <speaker>**KAROLINE** </speaker>
-          <stage>(_sitzt in einem Salon und liest einen Brief_)</stage>
-          <p>* * ** * *</p>
-        </sp>
-        <stage>(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
-        <sp who="#karoline">
-          <speaker>**KAROLINE**</speaker>
-          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl* * ** * *</p>
+          <speaker>KAROLINE</speaker>
+          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl    </p>
         </sp>
         <stage>(_liest den Brief_)</stage>
         <stage>(_KAROLINE legt den Brief weg. Sie ist traurig, dass ihr Vater gestorben ist, aber sie weiß, dass sie Karl helfen muss._)</stage>
         <sp who="#karoline">
-          <speaker>**KAROLINE**</speaker>
-          <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.* * ** * *</p>
+          <speaker>KAROLINE</speaker>
+          <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.    </p>
         </sp>
         <stage>(_zu sich selbst_)</stage>
         <stage>(_KAROLINE geht._)</stage>
-        <sp who="#ende des akts">
-          <speaker>**ENDE DES AKTS</speaker>
-          <p>2**</p>
-        </sp>
+        <stage>ENDE DES AKTS 2</stage>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 3**</head>* * ***</div>
-      <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 3**</head>* * *<sp who="#ein gemäldenischer raum in einem gut in der heimat">
-          <speaker>**EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#einheit">
-          <speaker>**EINHEIT</speaker>
-          <p>1****</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>AKT 3**</head>
+        <head>Szene 3</head>  
+          <stage>EIN GEMÄLDENISCHER RAUM IN EINEM GUT IN DER HEIMAT</stage>
+        <stage>EINHEIT 1</stage>
+        <head>AKT 3</head>
+          <stage>KARL zt an einem Schreibtisch und schreibt_)(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
         <sp who="#karl">
-          <speaker>**KARL** </speaker>
-          <stage>(_sitzt an einem Schreibtisch und schreibt_)</stage>
-          <p>* * ** * *</p>
-        </sp>
-        <stage>(_KARL schreibt einen Brief. Er ist ein junger Mann, der in der Heimat aufgewachsen ist, aber nach dem Studium in der Stadt lebt. Er ist besorgt über die Zukunft des Guts, das er von seinem Vater geerbt hat._)</stage>
-        <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl* * ** * *</p>
+          <speaker>KARL</speaker>
+          <p>Lieber Vater,Ich schreibe dir, um dir zu sagen, dass ich mir Sorgen um das Gut mache. Die Ernte war in diesem Jahr schlecht, und die Preise für die landwirtschaftlichen Produkte sind im Keller. Ich habe Angst, dass ich das Gut nicht mehr halten kann.Ich habe versucht, neue Einnahmequellen zu finden, aber es war bisher nicht erfolgreich. Ich habe auch versucht, mit den Bauern zu sprechen, aber sie sind nicht sehr hilfsbereit. Sie sagen, dass sie selbst genug Probleme haben.Ich weiß nicht, was ich tun soll. Ich habe Angst, dass ich das Gut verlieren werde.Hoffentlich kannst du mir einen Rat geben.Dein Sohn,Karl    </p>
         </sp>
         <stage>(_KARL faltet den Brief und steckt ihn in einen Umschlag. Er steht auf und geht zum Fenster. Er sieht auf das Gut, das vor ihm liegt. Er ist traurig, dass er es vielleicht verlieren könnte._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.* * *</p>
+          <speaker>KARL</speaker>
+          <p>Ich muss etwas tun, um das Gut zu retten. Ich muss einen Weg finden, die Ernte zu verbessern und die Preise für die landwirtschaftlichen Produkte zu erhöhen. Ich muss auch mit den Bauern zusammenarbeiten.Ich weiß, dass es nicht einfach sein wird, aber ich werde alles versuchen. Ich muss das Gut für meine Familie und für die Zukunft des Dorfes retten.  </p>
         </sp>
         <stage>(_zu sich selbst_)</stage>
         <sp who="#franziska">
-          <speaker>**FRANZISKA** </speaker>
+          <speaker>FRANZISKA </speaker>
           <stage>(_kommt herein_)</stage>
-          <p>Karl, ich habe eine Nachricht für dich.* * *</p>
+          <p>Karl, ich habe eine Nachricht für dich.  </p>
         </sp>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Was ist es?* * *</p>
+          <speaker>KARL</speaker>
+          <p>Was ist es?  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Dein Vater ist gestorben.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Dein Vater ist gestorben.    </p>
         </sp>
         <stage>(_KARL ist geschockt. Er kann nicht glauben, was er gerade gehört hat._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Mein Vater? Er ist tot?* * *</p>
+          <speaker>KARL</speaker>
+          <p>Mein Vater? Er ist tot?  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Ja, er ist heute Morgen gestorben.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Ja, er ist heute Morgen gestorben.    </p>
         </sp>
         <stage>(_KARL ist still. Er kann nicht glauben, dass sein Vater weg ist._)</stage>
         <sp who="#karl">
-          <speaker>**KARL**</speaker>
-          <p>Ich muss nach Hause gehen.* * *</p>
+          <speaker>KARL</speaker>
+          <p>Ich muss nach Hause gehen.  </p>
         </sp>
         <sp who="#franziska">
-          <speaker>**FRANZISKA**</speaker>
-          <p>Ich komme mit dir.* * ** * *</p>
+          <speaker>FRANZISKA</speaker>
+          <p>Ich komme mit dir.    </p>
         </sp>
         <stage>(_KARL und Franziska gehen._)</stage>
-        <sp who="#ende der einheit">
-          <speaker>**ENDE DER EINHEIT</speaker>
-          <p>1*** * *</p>
-        </sp>
-        <sp who="#einheit">
-          <speaker>**EINHEIT</speaker>
-          <p>2*** * *</p>
-        </sp>
-        <sp who="#ein haus in der stad">
-          <speaker>**EIN HAUS IN DER STAD**</speaker>
-          <p>* * *</p>
-        </sp>
+        <stage>ENDE DER EINHEIT </stage>
+        </div>
+        <div type="scene">
+        <stage>EINHEIT 2  </stage>
+        <stage>EIN HAUS IN DER STAD</stage>
+        <stage>KAROLINE zt in einem Salon und liest einen Brief_)(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
         <sp who="#karoline">
-          <speaker>**KAROLINE** </speaker>
-          <stage>(_sitzt in einem Salon und liest einen Brief_)</stage>
-          <p>* * ** * *</p>
-        </sp>
-        <stage>(_KAROLINE ist eine junge Frau, die in der Stadt lebt. Sie ist die Schwester von KARL._)</stage>
-        <sp who="#karoline">
-          <speaker>**KAROLINE**</speaker>
-          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl* * ** * *</p>
+          <speaker>KAROLINE</speaker>
+          <p>Liebe Caroline,Ich schreibe dir, um dir zu sagen, dass ich Vater gestorben ist. Ich bin sehr traurig, aber ich weiß, dass er jetzt in Frieden ist.Ich muss nach Hause gehen, um mich um das Gut zu kümmern. Ich weiß, dass du mir helfen wirst.Ich liebe dich,Karl    </p>
         </sp>
         <stage>(_liest den Brief_)</stage>
         <stage>(_KAROLINE legt den Brief weg. Sie ist traurig, dass ihr Vater gestorben ist, aber sie weiß, dass sie Karl helfen muss._)</stage>
         <sp who="#karoline">
-          <speaker>**KAROLINE**</speaker>
+          <speaker>KAROLINE</speaker>
           <p>Ich muss nach Hause gehen und Karl helfen. Ich muss das Gut für die Familie retten.</p>
         </sp>
         <stage>(_zu sich selbst_)</stage>

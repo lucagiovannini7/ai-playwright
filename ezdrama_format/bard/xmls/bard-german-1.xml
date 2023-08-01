@@ -21,23 +21,23 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="fräulein schmidt">
-            <persName>**FRÄULEIN SCHMIDT:**</persName>
+          <person sex="MALE" xml:id="fräulein-schmidt">
+            <persName>FRÄULEIN SCHMIDT:</persName>
           </person>
           <person sex="MALE" xml:id="kind">
-            <persName>**KIND</persName>
+            <persName>KIND</persName>
           </person>
           <person sex="MALE" xml:id="emil">
-            <persName>**EMIL:**</persName>
+            <persName>EMIL:</persName>
           </person>
-          <person sex="MALE" xml:id="fräulein schmid">
-            <persName>**FRÄULEIN SCHMID</persName>
+          <person sex="FEMALE" xml:id="fräulein-schmid">
+            <persName>FRÄULEIN SCHMID</persName>
           </person>
           <person sex="MALE" xml:id="vater">
-            <persName>**VATER:**</persName>
+            <persName>VATER:</persName>
           </person>
           <person sex="FEMALE" xml:id="anna">
-            <persName>**ANNA:**</persName>
+            <persName>ANNA:</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -46,590 +46,579 @@
   <text>
     <body>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>
-        <stage>**(Ein Wohnzimmer in einem bürgerlichen Haus.)**</stage>
+        <head>Szene 1</head>
+        <stage>(Ein Wohnzimmer in einem bürgerlichen Haus.)</stage>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Vater, ich muss mit dir reden.</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Was ist denn los, mein Sohn?</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich habe mich in ein Mädchen verliebt.</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>In ein Mädchen? Wer ist sie denn?</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Sie heißt Anna, und sie ist die Tochter des Bäckers.</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Der Bäcker? Aber die Bäckerstochter ist doch nicht von unserem Stande.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Das weiß ich, Vater, aber ich liebe sie trotzdem.</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Ich verstehe. Aber ich kann dir nicht erlauben, mit ihr zusammenzukommen.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Warum nicht?</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Weil es nicht sein kann.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Aber ich liebe sie!</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Ich weiß, mein Sohn, aber du musst sie vergessen.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich kann sie nicht vergessen!</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Du musst!</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich will nicht!</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Dann musst du das Haus verlassen.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Was?</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Wenn du nicht aufhörst, mit der Bäckerstochter zu reden, musst du das Haus verlassen.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Das kannst du nicht tun!</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Ich kann es, und ich werde es tun.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Nein!</p>
         </sp>
-        <stage>**(Emil rennt aus dem Zimmer.)**</stage>
+        <stage>(Emil rennt aus dem Zimmer.)</stage>
         <sp who="#vater">
-          <speaker>**VATER:** </speaker>
+          <speaker>VATER: </speaker>
           <stage>(Nachdenklich.)</stage>
           <p> Ich habe es nicht anders gewollt.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
-        <stage>**(Anna kommt ins Zimmer.)**</stage>
+        <stage>(Pause.)</stage>
+        <stage>(Anna kommt ins Zimmer.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Herr, ich habe gehört, dass Ihr Sohn sich in mich verliebt hat.</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Ja, das stimmt.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich weiß, dass wir nicht von unserem Stande sind, aber ich liebe ihn trotzdem.</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Ich weiß, Anna. Und ich kann es verstehen.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Aber ich kann nicht einfach so aufgeben.</p>
         </sp>
         <sp who="#vater">
-          <speaker>**VATER:**</speaker>
+          <speaker>VATER:</speaker>
           <p>Ich weiß, Anna. Aber ich kann dir nicht helfen.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich verstehe. Aber ich werde nicht aufgeben.</p>
         </sp>
-        <stage>**(Anna geht.)**</stage>
+        <stage>(Anna geht.)</stage>
         <sp who="#vater">
-          <speaker>**VATER:** </speaker>
+          <speaker>VATER: </speaker>
           <stage>(Nachdenklich.)</stage>
-          <p> Ich hoffe, dass sie es schafft.**Ende der ersten Szene.**</p>
+          <p> Ich hoffe, dass sie es schafft.Ende der ersten Szene.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
-        <stage>**(Der Vorhang fällt.)**</stage>
+        <stage>(Pause.)</stage>
+        <stage>(Der Vorhang fällt.)</stage>
       </div>
+
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 2**</head>
-        <stage>**(Ein Jahr später. Ein Café in der Stadt.)**</stage>
+        <head>Szene 2</head>
+        <stage>(Ein Jahr später. Ein Café in der Stadt.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Sitzt an einem Tisch und trinkt einen Kaffee.)</stage>
           <p> Ich kann es nicht glauben, dass es ein Jahr her ist, seit ich Emil das letzte Mal gesehen habe.</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:** </speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT: </speaker>
           <stage>(Kommt zu Annas Tisch.)</stage>
           <p> Hallo, Anna. Wie geht es dir?</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Es geht mir gut, danke.</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Ich habe gehört, dass du dich immer noch in Emil verliebt bist.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ja, das stimmt.</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Ich habe auch gehört, dass er das Haus verlassen hat und in der Stadt lebt.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ja, das stimmt auch.</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Hast du versucht, ihn zu finden?</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ja, ich habe es versucht, aber ich habe ihn nicht gefunden.</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Ich bin mir sicher, dass du ihn finden wirst.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich hoffe es.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <stage>(Pause.)</stage>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Ich habe einen Freund, der Emil kennt. Ich kann ihn fragen, ob er weiß, wo Emil ist.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Das wäre sehr nett von dir.</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Ich werde es tun.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <stage>(Pause.)</stage>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Ich muss gehen. Ich habe noch etwas zu tun.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Okay. Danke für deine Hilfe.</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Kein Problem.</p>
         </sp>
-        <stage>**(Franziska geht.)**</stage>
+        <stage>(Franziska geht.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Nachdenklich.)</stage>
-          <p> Ich hoffe, dass ich Emil bald wiedersehen werde.**Ende der zweiten Szene.**In this act, we have introduced a new character, Franziska Schmidt, who is a friend of Anna's. Franziska offers to help Anna find Emil, and we leave the act with Anna hopeful that she will see Emil again soon.I have also removed the character of Emil's father from this act, as he is not essential to the plot. This allows us to focus more on Anna and her quest to find Emil.</p>
+          <p> Ich hoffe, dass ich Emil bald wiedersehen werde.Ende der zweiten Szene.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
-        <stage>**(Der Vorhang fällt.)**</stage>
+        <stage>(Pause.)</stage>
+        <stage>(Der Vorhang fällt.)</stage>
       </div>
+
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 3**</head>
-        <stage>**(Einige Monate später. Ein Gasthaus in der Stadt.)**</stage>
+        <head>Szene 3</head>
+        <stage>(Einige Monate später. Ein Gasthaus in der Stadt.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Sitzt an einem Tisch und trinkt einen Wein.)</stage>
           <p> Ich habe Franziska gefragt, ob sie Emil gefunden hat, aber sie hat noch nichts gehört.</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:** </speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT: </speaker>
           <stage>(Kommt zu Annas Tisch.)</stage>
           <p> Hallo, Anna. Ich habe gute Nachrichten für dich.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Oh, was ist es?</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Ich habe von meinem Freund erfahren, dass Emil in der Stadt ist.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Das ist wunderbar! Wo ist er?</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Er arbeitet in einer Fabrik.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich muss ihn finden!</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Ich kann dich dorthin bringen.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Das wäre sehr nett von dir.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
-        <sp who="#fräulein schmid">
-          <speaker>**FRÄULEIN SCHMID</speaker>
-          <p>t:** Wir gehen jetzt.</p>
+        <stage>(Pause.)</stage>
+        <sp who="#fräulein-schmid">
+          <speaker>FRÄULEIN SCHMID</speaker>
+          <p>t: Wir gehen jetzt.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Okay.</p>
         </sp>
-        <stage>**(Anna und Franziska gehen.)**</stage>
-        <stage>**(Ein paar Minuten später. Die Fabrik.)**</stage>
+        <stage>(Anna und Franziska gehen.)</stage>
+        <stage>(Ein paar Minuten später. Die Fabrik.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Sieht Emil durch das Fenster.)</stage>
           <p> Da ist er!</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Ja, das ist er.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich muss zu ihm gehen.</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Ich warte hier auf dich.</p>
         </sp>
-        <stage>**(Anna geht zu Emil.)**</stage>
+        <stage>(Anna geht zu Emil.)</stage>
         <sp who="#emil">
-          <speaker>**EMIL:** </speaker>
+          <speaker>EMIL: </speaker>
           <stage>(Sieht Anna.)</stage>
           <p> Anna?</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Emil!</p>
         </sp>
-        <stage>**(Sie fallen sich in die Arme.)**</stage>
+        <stage>(Sie fallen sich in die Arme.)</stage>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich habe dich so vermisst.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich habe dich auch vermisst.</p>
         </sp>
-        <stage>**(Sie küssen sich.)**</stage>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:** </speaker>
+        <stage>(Sie küssen sich.)</stage>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT: </speaker>
           <stage>(Sieht Anna und Emil.)</stage>
           <p> Ich wusste, dass ihr euch wiederfinden würdet.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Danke, Franziska.</p>
         </sp>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:**</speaker>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT:</speaker>
           <p>Kein Problem.</p>
         </sp>
-        <stage>**(Anna und Emil gehen.)**</stage>
-        <sp who="#fräulein schmidt">
-          <speaker>**FRÄULEIN SCHMIDT:** </speaker>
+        <stage>(Anna und Emil gehen.)</stage>
+        <sp who="#fräulein-schmidt">
+          <speaker>FRÄULEIN SCHMIDT: </speaker>
           <stage>(Nachdenklich.)</stage>
-          <p> Ich bin so froh, dass sie sich wiedergefunden haben.**Ende der dritten Szene.**In this act, we have introduced a new character, Franziska Schmidt, who is a friend of Anna's. Franziska helps Anna find Emil, and we leave the act with Anna and Emil reunited.I have also removed the character of Emil's father from this act, as he is not essential to the plot. This allows us to focus more on Anna and Emil's love story.I have also added some new events to the act, such as the scene where Anna and Emil find each other at the factory. This helps to move the plot forward and gives the audience a sense of closure.</p>
+          <p> Ich bin so froh, dass sie sich wiedergefunden haben.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
-        <stage>**(Der Vorhang fällt.)**</stage>
+        <stage>Ende der dritten Szene.</stage>
+        <stage>(Pause.)</stage>
+        <stage>(Der Vorhang fällt.)</stage>
       </div>
+
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 4**</head>
-        <stage>**(Einige Jahre später. Ein kleines Haus am Stadtrand.)**</stage>
+        <head>Szene 4</head>
+        <stage>(Einige Jahre später. Ein kleines Haus am Stadtrand.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Sitzt am Fenster und näht.)</stage>
           <p> Ich kann es kaum glauben, dass es schon so viele Jahre her ist, seit wir uns gefunden haben.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:** </speaker>
+          <speaker>EMIL: </speaker>
           <stage>(Kommt ins Zimmer.)</stage>
           <p> Ich weiß, Anna. Es ist wie ein Traum.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Es ist so schön, hier mit dir zu sein.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Mir auch.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
+        <stage>(Pause.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich habe mir immer vorgestellt, wie es wäre, mit dir eine Familie zu haben.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Das ist auch mein Traum.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich denke, es ist Zeit, dass wir anfangen, daran zu arbeiten.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich bin einverstanden.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
+        <stage>(Pause.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich liebe dich, Emil.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich liebe dich auch, Anna.</p>
         </sp>
-        <stage>**(Sie küssen sich.)**</stage>
-        <stage>**(Ein paar Monate später. Anna und Emil haben ein Kind bekommen.)**</stage>
+        <stage>(Sie küssen sich.)</stage>
+        <stage>(Ein paar Monate später. Anna und Emil haben ein Kind bekommen.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Haltet ihr Baby im Arm.)</stage>
           <p> Oh, Emil, er ist so schön.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ja, er ist wunderschön.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich bin so glücklich.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich auch.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
+        <stage>(Pause.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich möchte, dass er ein glückliches Leben hat.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Er wird ein glückliches Leben haben.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich weiß, dass er es wird.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
+        <stage>(Pause.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich liebe dich, Emil.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
-          <p>Ich liebe dich auch, Anna.**Ende des Stücks.**In this act, we have introduced a new character, a baby, who is the child of Anna and Emil. This helps to bring the play to a natural conclusion and gives the audience a sense of hope for the future.I have also removed the character of Franziska Schmidt from this act, as she is not essential to the plot. This allows us to focus more on Anna and Emil's family.I have also added some new events to the act, such as the scene where Anna and Emil's baby is born. This helps to move the plot forward and gives the audience a sense of closure.The play ends with a scene of Anna and Emil kissing, which symbolizes their love and happiness. This is a hopeful ending that leaves the audience feeling satisfied.</p>
+          <speaker>EMIL:</speaker>
+          <p>Ich liebe dich auch, Anna.Ende des Stücks.</p>
         </sp>
-        <stage>**(Sie küssen sich.)**</stage>
-        <stage>**(Der Vorhang fällt.)**</stage>
+        <stage>(Sie küssen sich.)</stage>
+        <stage>(Der Vorhang fällt.)</stage>
       </div>
+
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 5**</head>
-        <stage>**(Einige Jahre später. Ein kleines Haus am Stadtrand.)**</stage>
+        <head>Szene 5</head>
+        <stage>(Einige Jahre später. Ein kleines Haus am Stadtrand.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Sitzt am Fenster und näht.)</stage>
           <p> Ich kann es kaum glauben, dass es schon so viele Jahre her ist, seit wir uns gefunden haben.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:** </speaker>
+          <speaker>EMIL: </speaker>
           <stage>(Kommt ins Zimmer.)</stage>
           <p> Ich weiß, Anna. Es ist wie ein Traum.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Es ist so schön, hier mit dir zu sein.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Mir auch.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
+        <stage>(Pause.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich habe mir immer vorgestellt, wie es wäre, mit dir eine Familie zu haben.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Das ist auch mein Traum.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich denke, es ist Zeit, dass wir anfangen, daran zu arbeiten.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich bin einverstanden.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
+        <stage>(Pause.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich liebe dich, Emil.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich liebe dich auch, Anna.</p>
         </sp>
-        <stage>**(Sie küssen sich.)**</stage>
-        <stage>**(Ein paar Monate später. Anna und Emil haben ein Kind bekommen.)**</stage>
+        <stage>(Sie küssen sich.)</stage>
+        <stage>(Ein paar Monate später. Anna und Emil haben ein Kind bekommen.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Haltet ihr Baby im Arm.)</stage>
           <p> Oh, Emil, er ist so schön.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ja, er ist wunderschön.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich bin so glücklich.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich auch.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
+        <stage>(Pause.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich möchte, dass er ein glückliches Leben hat.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Er wird ein glückliches Leben haben.</p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich weiß, dass er es wird.</p>
         </sp>
-        <stage>**(Pause.)**</stage>
+        <stage>(Pause.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Ich liebe dich, Emil.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
-          <p>Ich liebe dich auch, Anna.**Ende des Stücks.**</p>
+          <speaker>EMIL:</speaker>
+          <p>Ich liebe dich auch, Anna.Ende des Stücks.</p>
         </sp>
-        <stage>**(Sie küssen sich.)**</stage>
-        <stage>**(Der Vorhang fällt.)**</stage>
-        <stage>**(Ein paar Jahre später. Das Haus ist nun ein bisschen größer und geräumiger. Anna und Emil haben zwei weitere Kinder bekommen, einen Jungen und ein Mädchen. Die Kinder spielen im Garten, während Anna und Emil im Haus arbeiten.)**</stage>
+        <stage>(Sie küssen sich.)</stage>
+        <stage>(Der Vorhang fällt.)</stage>
+        <stage>(Ein paar Jahre später. Das Haus ist nun ein bisschen größer und geräumiger. Anna und Emil haben zwei weitere Kinder bekommen, einen Jungen und ein Mädchen. Die Kinder spielen im Garten, während Anna und Emil im Haus arbeiten.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Ruft nach den Kindern.)</stage>
           <p> Kinder, es ist Zeit zum Essen!</p>
         </sp>
-        <stage>**(Die Kinder rennen ins Haus.)**</stage>
+        <stage>(Die Kinder rennen ins Haus.)</stage>
         <sp who="#emil">
-          <speaker>**EMIL:** </speaker>
+          <speaker>EMIL: </speaker>
           <stage>(Kommt aus der Küche.)</stage>
           <p> Das Essen ist fertig!</p>
         </sp>
-        <stage>**(Die Familie sitzt am Tisch und isst.)**</stage>
+        <stage>(Die Familie sitzt am Tisch und isst.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:**</speaker>
+          <speaker>ANNA:</speaker>
           <p>Es schmeckt so gut!</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich habe mich angestrengt.</p>
         </sp>
         <sp who="#kind">
-          <speaker>**KIND</speaker>
-          <p>1:** Papa, kannst du mir später noch ein Märchen vorlesen?</p>
+          <speaker>KIND</speaker>
+          <p>1: Papa, kannst du mir später noch ein Märchen vorlesen?</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Natürlich, mein Schatz.</p>
         </sp>
         <sp who="#kind">
-          <speaker>**KIND</speaker>
-          <p>2:** Und ich will, dass du mir ein Lied singst!</p>
+          <speaker>KIND</speaker>
+          <p>2: Und ich will, dass du mir ein Lied singst!</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Das kann ich auch.</p>
         </sp>
-        <stage>**(Nach dem Essen.)**</stage>
+        <stage>(Nach dem Essen.)</stage>
         <sp who="#emil">
-          <speaker>**EMIL:** </speaker>
+          <speaker>EMIL: </speaker>
           <stage>(Singt ein Lied.)</stage>
-          <p>**</p>
+          <p></p>
         </sp>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Liest ein Märchen vor.)</stage>
-          <p>**</p>
+          <p></p>
         </sp>
-        <stage>**(Die Kinder schlafen ein.)**</stage>
+        <stage>(Die Kinder schlafen ein.)</stage>
         <sp who="#anna">
-          <speaker>**ANNA:** </speaker>
+          <speaker>ANNA: </speaker>
           <stage>(Schaut Emil an.)</stage>
           <p> Ich bin so glücklich, dass wir zusammen sind.</p>
         </sp>
         <sp who="#emil">
-          <speaker>**EMIL:**</speaker>
+          <speaker>EMIL:</speaker>
           <p>Ich auch, Anna.</p>
         </sp>
-        <stage>**Ende des Stücks.**</stage>
-        <stage>**(Sie küssen sich.)**</stage>
-        <stage>**(Der Vorhang fällt.)**</stage>
-        <note>In this act, we have introduced two new characters, the children of Anna and Emil. This helps to bring the play to a natural conclusion and gives the audience a sense of hope for the future.I have also removed the character of Franziska Schmidt from this act, as she is not essential to the plot. This allows us to focus more on Anna and Emil's family.I have also added some new events to the act, such as the scene where Anna and Emil's children play in the garden. This helps to move the plot forward and gives the audience a sense of closure.The play ends with a scene of Anna and Emil kissing, which symbolizes their love and happiness. This is a hopeful ending that leaves the audience feeling satisfied.</note>
+        <stage>Ende des Stücks.</stage>
+        <stage>(Sie küssen sich.)</stage>
+        <stage>(Der Vorhang fällt.)</stage>
       </div>
     </body>
   </text>

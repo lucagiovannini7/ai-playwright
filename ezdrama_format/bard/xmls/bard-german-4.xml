@@ -21,41 +21,26 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="ein raum in einem schloss">
-            <persName>**EIN RAUM IN EINEM SCHLOSS**</persName>
-          </person>
           <person sex="MALE" xml:id="könig">
-            <persName>**KÖNIG:**</persName>
-          </person>
-          <person sex="MALE" xml:id="kommissar">
-            <persName>**KOMMISSAR:**</persName>
-          </person>
-          <person sex="MALE" xml:id="ein raum im schloss des herzogs">
-            <persName>**EIN RAUM IM SCHLOSS DES HERZOGS**</persName>
+            <persName>KÖNIG:</persName>
           </person>
           <person sex="MALE" xml:id="graf">
-            <persName>**GRAF:**</persName>
+            <persName>GRAF:</persName>
           </person>
-          <person sex="MALE" xml:id="ein raum im schloss des königs">
-            <persName>**EIN RAUM IM SCHLOSS DES KÖNIGS**</persName>
-          </person>
-          <person sex="MALE" xml:id="baroness">
-            <persName>**BARONESS:**</persName>
+          <person sex="FEMALE" xml:id="baroness">
+            <persName>BARONESS:</persName>
           </person>
           <person sex="MALE" xml:id="herzog">
-            <persName>**HERZOG:**</persName>
+            <persName>HERZOG:</persName>
           </person>
           <person sex="MALE" xml:id="baron">
-            <persName>**BARON:**</persName>
+            <persName>BARON:</persName>
           </person>
-          <person sex="MALE" xml:id="ein raum im schloss des barons">
-            <persName>**EIN RAUM IM SCHLOSS DES BARONS**</persName>
-          </person>
-          <person sex="MALE" xml:id="herzogin">
-            <persName>**HERZOGIN:**</persName>
+          <person sex="FEMALE" xml:id="herzogin">
+            <persName>HERZOGIN:</persName>
           </person>
           <person sex="MALE" xml:id="kommissar">
-            <persName>**KOMMISSAR</persName>
+            <persName>KOMMISSAR</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -64,1149 +49,913 @@
   <text>
     <body>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>* * *<sp who="#ein raum in einem schloss">
-          <speaker>**EIN RAUM IN EINEM SCHLOSS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:** </speaker>
-          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+        <head>Szene 1</head>  
+        <stage>EIN RAUM IN EINEM SCHLOSS</stage>
+        <stage>HERZOG: (sitzt auf einem Thron und starrt vor sich hin)</stage>
+        <stage>HERZOGIN: (tritt ein)</stage>
+        <sp who="herzog">
+          <speaker>HERZOG:</speaker>
           <p>Was ist es?</p>
         </sp>
         <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+          <speaker>HERZOGIN:</speaker>
           <p>Mein Herr, es ist der Graf. Er will Sie sprechen.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Der Graf? Was will er von mir?</p>
         </sp>
         <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+          <speaker>HERZOGIN:</speaker>
           <p>Er sagt, es ist dringend.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Schick ihn herein.* * *</p>
+          <speaker>HERZOG:</speaker>
+          <p>Schick ihn herein.  </p>
         </sp>
-        <sp who="#graf">
-          <speaker>**GRAF:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <stage>GRAF: (tritt ein)</stage>
+        <sp who="herzog">
+          <speaker>HERZOG:</speaker>
           <p>Was ist es, Graf?</p>
         </sp>
         <sp who="#graf">
-          <speaker>**GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Mein Herr, es ist ein Verrat.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Verrat? Von wem?</p>
         </sp>
         <sp who="#graf">
-          <speaker>**GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Von dem Baron.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Dem Baron? Das ist unmöglich!</p>
         </sp>
         <sp who="#graf">
-          <speaker>**GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Es ist wahr, mein Herr. Ich habe es mit eigenen Augen gesehen.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Was hast du gesehen?</p>
         </sp>
         <sp who="#graf">
-          <speaker>**GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Ich habe gesehen, wie der Baron mit dem Feind zusammenarbeitet.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Das ist schwer zu glauben.</p>
         </sp>
         <sp who="#graf">
-          <speaker>**GRAF:**</speaker>
+          <speaker>GRAF:</speaker>
           <p>Es ist wahr, mein Herr. Ich bitte Sie, mir zu glauben.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich werde es untersuchen.</p>
         </sp>
         <sp who="#graf">
-          <speaker>**GRAF:**</speaker>
-          <p>Ich danke Ihnen, mein Herr.* * *</p>
+          <speaker>GRAF:</speaker>
+          <p>Ich danke Ihnen, mein Herr.  </p>
         </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:** </speaker>
-          <stage>(zur Herzogin)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <stage>HERZOG: (zur Herzogin)</stage>
+        <sp who="herzog">
+        <speaker>HERZOG:</speaker>
           <p>Das ist ein schwerer Vorwurf, den der Graf dem Baron macht.</p>
         </sp>
         <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+          <speaker>HERZOGIN:</speaker>
           <p>Ich weiß, mein Herr. Aber ich glaube ihm.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Ich werde es untersuchen.* * *</p>
+          <speaker>HERZOG:</speaker>
+          <p>Ich werde es untersuchen.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 2**</head>* * *<sp who="#ein raum im schloss des barons">
-          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#baron">
-          <speaker>**BARON:** </speaker>
-          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 2</head>
+          <stage>EIN RAUM IM SCHLOSS DES BARONS</stage>
+        <stage>BARON: (sitzt an einem Schreibtisch und schreibt)</stage>
+        <stage>BARONESS: (tritt ein)</stage>
         <sp who="#baroness">
-          <speaker>**BARONESS:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#baroness">
-          <speaker>**BARONESS:**</speaker>
+        <speaker>BARONESS:</speaker>
           <p>Mein Herr, der Herzog will Sie sprechen.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Was will er von mir?</p>
         </sp>
         <sp who="#baroness">
-          <speaker>**BARONESS:**</speaker>
+          <speaker>BARONESS:</speaker>
           <p>Er sagt, es ist dringend.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
-          <p>Schick ihn herein.* * *</p>
+          <speaker>BARON:</speaker>
+          <p>Schick ihn herein.  </p>
         </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
+          <stage>HERZOG: (tritt ein)</stage>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Mein Herr, was kann ich für Sie tun?</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Baron, ich habe einen schweren Vorwurf gegen Sie.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Was ist es, mein Herr?</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich habe den Grafen gesehen, wie er mit dem Feind zusammenarbeitet.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Das ist unmöglich!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Es ist wahr, Baron. Ich habe es mit eigenen Augen gesehen.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Ich weiß nicht, was Sie gesehen haben, mein Herr, aber es war nicht ich.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich glaube Ihnen nicht, Baron.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Das ist Ihr gutes Recht, mein Herr. Aber ich bin unschuldig.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Wir werden sehen.* * *</p>
+          <speaker>HERZOG:</speaker>
+          <p>Wir werden sehen.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 3**</head>* * *<sp who="#ein raum im schloss des herzogs">
-          <speaker>**EIN RAUM IM SCHLOSS DES HERZOGS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:** </speaker>
-          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+        <head>Szene 3</head>  
+        <stage>EIN RAUM IM SCHLOSS DES HERZOGS</stage>
+        <stage>HERZOG: (sitzt auf einem Thron und starrt vor sich hin)</stage>
+          <stage>HERZOGIN: (tritt ein)</stage>
+        <sp who="herzogin">
+          <speaker>HERZOGIN:</speaker>
           <p>Mein Herr, was ist mit dem Baron?</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich habe ihn verbannt.</p>
         </sp>
         <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+          <speaker>HERZOGIN:</speaker>
           <p>Verbannt? Aber warum?</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Weil ich ihm nicht glauben kann.</p>
         </sp>
         <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+          <speaker>HERZOGIN:</speaker>
           <p>Aber er ist unschuldig!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.</p>
         </sp>
         <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+          <speaker>HERZOGIN:</speaker>
           <p>Aber das ist ein hartes Urteil!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Ich weiß. Aber es ist das, was ich tun muss.* * ***Das Stück endet hier.**</p>
+          <speaker>HERZOG:</speaker>
+          <p>Ich weiß. Aber es ist das, was ich tun muss.  Das Stück endet hier.</p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>* * *<sp who="#ein raum im schloss des herzogs">
-          <speaker>**EIN RAUM IM SCHLOSS DES HERZOGS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:** </speaker>
-          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+        <head>Szene 1</head> 
+        <stage>EIN RAUM IM SCHLOSS DES HERZOGS</stage>
+        <stage>HERZOG: (sitzt auf einem Thron und starrt vor sich hin)</stage>
+        <stage>HERZOGIN: (tritt ein)</stage>
+        <sp who="herzogin">
+          <speaker>HERZOGIN:</speaker>
           <p>Mein Herr, es ist der König. Er will Sie sprechen.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Der König? Was will er von mir?</p>
         </sp>
         <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+          <speaker>HERZOGIN:</speaker>
           <p>Er sagt, es ist dringend.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Schick ihn herein.* * *</p>
+          <speaker>HERZOG:</speaker>
+          <p>Schick ihn herein.  </p>
         </sp>
-        <sp who="#könig">
-          <speaker>**KÖNIG:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
+          <stage>KÖNIG: (tritt ein)</stage>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Mein König, was ist es?</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Mein Herzog, ich habe einen schweren Vorwurf gegen Sie.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Was ist es, mein König?</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich habe gehört, dass Sie den Baron verbannt haben.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ja, das ist richtig.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Aber warum?</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Weil ich ihm nicht glauben kann.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Aber er ist unschuldig!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Das ist ein hartes Urteil!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich weiß. Aber es ist das, was ich tun muss.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich verstehe, mein König.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich werde einen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Ich danke Ihnen, mein König.* * *</p>
+          <speaker>HERZOG:</speaker>
+          <p>Ich danke Ihnen, mein König.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 2**</head>* * *<sp who="#ein raum im schloss des barons">
-          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#baron">
-          <speaker>**BARON:** </speaker>
-          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
-          <p></p>
-        </sp>
-        <sp who="#kommissar">
-          <speaker>**KOMMISSAR:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+        <head>Szene 2</head>  
+          <stage>EIN RAUM IM SCHLOSS DES BARONS</stage>
+        <stage>BARON: (sitzt an einem Schreibtisch und schreibt)</stage>
+        <stage>KOMMISSAR: (tritt ein)</stage>
+        <sp who="kommissar">
+        <speaker>KOMMISSAR:</speaker>
           <p>Baron, ich bin der Kommissar des Untersuchungsausschusses. Ich möchte Sie ein paar Fragen stellen.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Ich bin Ihnen gerne behilflich, Kommissar.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Was können Sie uns über den Vorwurf des Herzogs sagen, dass Sie mit dem Feind zusammenarbeiten?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Es ist eine Lüge! Ich habe mit dem Feind nie zusammengearbeitet.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Haben Sie den Grafen jemals gesehen, wie er mit dem Feind zusammenarbeitet?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Nein, ich habe ihn nie gesehen.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Haben Sie jemals mit dem Grafen über den Feind gesprochen?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Nein, ich habe nie mit ihm darüber gesprochen.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Was können Sie uns über die Beziehung zwischen dem Grafen und dem Herzog sagen?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Der Graf ist ein Verräter. Er ist ein Freund des Feindes.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Haben Sie jemals Beweise für diese Behauptung gesehen?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Nein, ich habe keine Beweise gesehen. Aber ich weiß, dass es wahr ist.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Ich danke Ihnen für Ihre Zeit, Baron.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
-          <p>Bitte.* * *</p>
+          <speaker>BARON:</speaker>
+          <p>Bitte.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 3**</head>* * *<sp who="#ein raum im schloss des herzogs">
-          <speaker>**EIN RAUM IM SCHLOSS DES HERZOGS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:** </speaker>
-          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 3</head>  
+          <stage>EIN RAUM IM SCHLOSS DES HERZOGS</stage>
+        <stage>HERZOG: (sitzt auf einem Thron und starrt vor sich hin)</stage>
+        <stage>HERZOGIN: (tritt ein)</stage>
         <sp who="#herzogin">
-          <speaker>**HERZOGIN:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+          <speaker>HERZOGIN:</speaker>
           <p>Mein Herr, der Kommissar ist da.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Schick ihn herein.* * *</p>
+          <speaker>HERZOG:</speaker>
+          <p>Schick ihn herein.  </p>
         </sp>
-        <sp who="#kommissar">
-          <speaker>**KOMMISSAR:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
+          <stage>KOMMISSAR: (tritt ein)</stage>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Kommissar, was haben Sie herausgefunden?</p>
-        </sp>
+        </sp>  
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Mein Herr, wir haben keine Beweise gefunden, die die Behauptung des Grafen stützen, dass der Baron mit dem Feind zusammenarbeitet.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Das ist nicht möglich!</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Ich weiß, mein Herr. Aber es ist die Wahrheit.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Was soll ich jetzt tun?</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Mein Herr, ich glaube, Sie sollten den Baron freilassen.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Ich kann das nicht tun!**</p>
+          <speaker>HERZOG:</speaker>
+          <p>Ich kann das nicht tun!</p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>* * *<sp who="#ein raum im schloss des königs">
-          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#könig">
-          <speaker>**KÖNIG:** </speaker>
-          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+        <head>Szene 1</head>  
+          <stage>EIN RAUM IM SCHLOSS DES KÖNIGS</stage>
+          <stage>KÖNIG: (sitzt auf einem Thron und starrt vor sich hin)</stage>
+        <stage>HERZOG: (tritt ein)</stage>
+        <sp who="herzog">
+        <speaker>HERZOG:</speaker>
           <p>Mein König, was ist es?</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Mein Herzog, ich habe einen neuen Vorwurf gegen Sie.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Was ist es, mein König?</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich habe gehört, dass Sie den Baron verbannt haben, obwohl der Untersuchungsausschuss keine Beweise für seine Schuld gefunden hat.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Das ist richtig.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Aber warum?</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Weil ich ihm nicht glauben kann.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Aber er ist unschuldig!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Das ist ein hartes Urteil!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich weiß. Aber es ist das, was ich tun muss.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich verstehe, mein König.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich werde einen neuen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Ich danke Ihnen, mein König.* * *</p>
+          <speaker>HERZOG:</speaker>
+          <p>Ich danke Ihnen, mein König.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 2**</head>* * *<sp who="#ein raum im schloss des barons">
-          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#baron">
-          <speaker>**BARON:** </speaker>
-          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 2</head>  
+          <stage>EIN RAUM IM SCHLOSS DES BARONS</stage>
+          <stage>BARON: (sitzt an einem Schreibtisch und schreibt)</stage>
+        <stage>KOMMISSAR: (tritt ein)</stage>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+        <speaker>KOMMISSAR:</speaker>
           <p>Baron, ich bin der Kommissar des neuen Untersuchungsausschusses. Ich möchte Sie ein paar Fragen stellen.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Ich bin Ihnen gerne behilflich, Kommissar.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Was können Sie uns über den Vorwurf des Herzogs sagen, dass Sie mit dem Feind zusammenarbeiten?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Es ist eine Lüge! Ich habe mit dem Feind nie zusammengearbeitet.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Haben Sie den Grafen jemals gesehen, wie er mit dem Feind zusammenarbeitet?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Nein, ich habe ihn nie gesehen.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Haben Sie jemals mit dem Grafen über den Feind gesprochen?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Nein, ich habe nie mit ihm darüber gesprochen.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Was können Sie uns über die Beziehung zwischen dem Grafen und dem Herzog sagen?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Der Graf ist ein Verräter. Er ist ein Freund des Feindes.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Haben Sie jemals Beweise für diese Behauptung gesehen?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Nein, ich habe keine Beweise gesehen. Aber ich weiß, dass es wahr ist.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Ich danke Ihnen für Ihre Zeit, Baron.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
-          <p>Bitte.* * *</p>
+          <speaker>BARON:</speaker>
+          <p>Bitte.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 3**</head>* * *<sp who="#ein raum im schloss des königs">
-          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#könig">
-          <speaker>**KÖNIG:** </speaker>
-          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+        <head>Szene 3</head>  
+          <stage>EIN RAUM IM SCHLOSS DES KÖNIGS</stage>
+          <stage>KÖNIG: (sitzt auf einem Thron und starrt vor sich hin)</stage>
+        <stage>HERZOGIN: (tritt ein)</stage>
+        <sp who="herzogin">
+          <speaker>HERZOGIN:</speaker>
           <p>Mein Herr, der Kommissar ist da.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
-          <p>Schick ihn herein.* * *</p>
+          <speaker>KÖNIG:</speaker>
+          <p>Schick ihn herein.  </p>
         </sp>
-        <sp who="#kommissar">
-          <speaker>**KOMMISSAR:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <stage>KOMMISSAR: (tritt ein)</stage>
+        <sp who="könig">
+          <speaker>KÖNIG:</speaker>
           <p>Kommissar, was haben Sie herausgefunden?</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Mein Herr, wir haben neue Beweise gefunden, die die Behauptung des Barons stützen, dass der Graf mit dem Feind zusammenarbeitet.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Das ist nicht möglich!</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Ich weiß, mein Herr. Aber es ist die Wahrheit.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Was soll ich jetzt tun?</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Mein Herr, ich glaube, Sie sollten den Baron freilassen.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich werde es tun.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
-          <p>Ich danke Ihnen, mein Herr.* * *</p>
+          <speaker>KOMMISSAR:</speaker>
+          <p>Ich danke Ihnen, mein Herr.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
+        <head>Szene 4</head>  
+          <stage>EIN RAUM IM SCHLOSS DES BARONS</stage>
+          <stage>BARON: (sitzt an einem Schreibtisch und schreibt)</stage>
       </div>
       <div type="scene">
-        <head>Szene 4**</head>* * *<sp who="#ein raum im schloss des barons">
-          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#baron">
-          <speaker>**BARON:** </speaker>
-          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
-          <p></p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>* * *<sp who="#ein raum im schloss des königs">
-          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#könig">
-          <speaker>**KÖNIG:** </speaker>
-          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+        <head>Szene 1</head>  
+          <stage>EIN RAUM IM SCHLOSS DES KÖNIGS</stage>
+        <stage>KÖNIG: (sitzt auf einem Thron und starrt vor sich hin)</stage>
+        <stage>HERZOG: (tritt ein)</stage>
+        <sp who="herzog">
+          <speaker>HERZOG:</speaker>
           <p>Mein König, was ist es?</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Mein Herzog, ich habe einen neuen Vorwurf gegen Sie.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Was ist es, mein König?</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich habe gehört, dass Sie den Baron verbannt haben, obwohl der Untersuchungsausschuss keine Beweise für seine Schuld gefunden hat. Und nun habe ich erfahren, dass Sie den Grafen, der den Baron beschuldigt hat, mit dem Feind zusammenarbeitet.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Das ist richtig.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Aber warum?</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Weil ich dem Grafen nicht glauben kann.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Aber er ist unschuldig!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich weiß nicht, ob er unschuldig ist. Aber ich kann es nicht riskieren, dass er mit dem Feind zusammenarbeitet.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Das ist ein hartes Urteil!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich weiß. Aber es ist das, was ich tun muss.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich verstehe, mein König.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich werde einen neuen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Ich danke Ihnen, mein König.* * *</p>
+          <speaker>HERZOG:</speaker>
+          <p>Ich danke Ihnen, mein König.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 2**</head>* * *<sp who="#ein raum im schloss des barons">
-          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#baron">
-          <speaker>**BARON:** </speaker>
-          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 2</head>  
+          <stage>EIN RAUM IM SCHLOSS DES BARONS</stage>
+          <stage>BARON: (sitzt an einem Schreibtisch und schreibt)</stage>
+        <stage>KOMMISSAR: (tritt ein)</stage>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+        <speaker>KOMMISSAR:</speaker>
           <p>Baron, ich bin der Kommissar des neuen Untersuchungsausschusses. Ich möchte Sie ein paar Fragen stellen.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Ich bin Ihnen gerne behilflich, Kommissar.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Was können Sie uns über den Vorwurf des Herzogs sagen, dass Sie mit dem Feind zusammenarbeiten?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Es ist eine Lüge! Ich habe mit dem Feind nie zusammengearbeitet.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Haben Sie den Grafen jemals gesehen, wie er mit dem Feind zusammenarbeitet?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Nein, ich habe ihn nie gesehen.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Haben Sie jemals mit dem Grafen über den Feind gesprochen?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Nein, ich habe nie mit ihm darüber gesprochen.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Was können Sie uns über die Beziehung zwischen dem Grafen und dem Herzog sagen?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Der Graf ist ein Verräter. Er ist ein Freund des Feindes.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Haben Sie jemals Beweise für diese Behauptung gesehen?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Ja, ich habe Beweise gesehen. Aber ich kann sie Ihnen nicht zeigen.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Warum nicht?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Weil ich sie nicht gefunden habe.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Was?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Ich habe sie nicht gefunden. Ich habe sie nur gesehen.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Das verstehe ich nicht.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Ich habe sie in einem Traum gesehen.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>In einem Traum?</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Ja, in einem Traum. Ich habe gesehen, wie der Graf mit dem Feind zusammenarbeitet.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Das ist sehr interessant.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Ja, es ist sehr interessant. Aber es ist auch wahr.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Ich glaube Ihnen, Baron.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Danke.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Ich werde das mit dem Herzog besprechen.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
-          <p>Ich danke Ihnen, Kommissar.* * *</p>
+          <speaker>BARON:</speaker>
+          <p>Ich danke Ihnen, Kommissar.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 3**</head>* * *<sp who="#ein raum im schloss des königs">
-          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#könig">
-          <speaker>**KÖNIG:** </speaker>
-          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 3</head>  
+          <stage>EIN RAUM IM SCHLOSS DES KÖNIGS</stage>
+          <stage>KÖNIG: (sitzt auf einem Thron und starrt vor sich hin)</stage>
+        <stage>HERZOGIN: (tritt ein)</stage>
         <sp who="#herzogin">
-          <speaker>**HERZOGIN:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+        <speaker>HERZOGIN:</speaker>
           <p>Mein Herr, der Kommissar ist da.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
-          <p>Schick ihn herein.* * *</p>
-        </sp>
-        <sp who="#kommissar">
-          <speaker>**KOMMISSAR</speaker>
-          <p></p>
+          <speaker>KÖNIG:</speaker>
+          <p>Schick ihn herein.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 1**</head>* * *<sp who="#ein raum im schloss des königs">
-          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#könig">
-          <speaker>**KÖNIG:** </speaker>
-          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+        <head>Szene 1</head>  
+          <stage>EIN RAUM IM SCHLOSS DES KÖNIGS</stage>
+          <stage>KÖNIG: (sitzt auf einem Thron und starrt vor sich hin)</stage>
+        <stage>HERZOG: (tritt ein)</stage>
+        <sp who="herzog">
+        <stage>HERZOG:</stage>
           <p>Mein König, was ist es?</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Mein Herzog, ich habe einen neuen Vorwurf gegen Sie.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Was ist es, mein König?</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich habe gehört, dass Sie den Baron verbannt haben, obwohl der Untersuchungsausschuss keine Beweise für seine Schuld gefunden hat. Und nun habe ich erfahren, dass Sie den Grafen, der den Baron beschuldigt hat, mit dem Feind zusammenarbeitet. Und außerdem habe ich erfahren, dass der Baron einen Traum hatte, in dem er den Grafen mit dem Feind zusammenarbeiten sah.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Das ist richtig.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Aber warum?</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Weil ich dem Grafen nicht glauben kann. Und ich glaube dem Baron, dass er in seinem Traum den Grafen mit dem Feind zusammenarbeiten sah.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Das ist ein hartes Urteil!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich weiß. Aber es ist das, was ich tun muss.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich kann es nicht zulassen, dass Sie einen unschuldigen Mann verbannt haben. Ich muss die Wahrheit herausfinden.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich verstehe, mein König.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich werde einen neuen Untersuchungsausschuss einrichten. Sie werden die Wahrheit herausfinden.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
-          <p>Ich danke Ihnen, mein König.* * *</p>
+          <speaker>HERZOG:</speaker>
+          <p>Ich danke Ihnen, mein König.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 2**</head>* * *<sp who="#ein raum im schloss des königs">
-          <speaker>**EIN RAUM IM SCHLOSS DES KÖNIGS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#könig">
-          <speaker>**KÖNIG:** </speaker>
-          <stage>(sitzt auf einem Thron und starrt vor sich hin)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzogin">
-          <speaker>**HERZOGIN:**</speaker>
+        <head>Szene 2</head>  
+          <stage>EIN RAUM IM SCHLOSS DES KÖNIGS</stage>
+          <stage>KÖNIG: (sitzt auf einem Thron und starrt vor sich hin)</stage>
+        <stage>HERZOGIN: (tritt ein)</stage>
+        <sp who="herzogin">
+        <speaker>HERZOGIN:</speaker>
           <p>Mein Herr, der Kommissar ist da.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
-          <p>Schick ihn herein.* * *</p>
+          <speaker>KÖNIG:</speaker>
+          <p>Schick ihn herein.  </p>
         </sp>
+          <stage>KOMMISSAR: (tritt ein)</stage>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+        <speaker>KOMMISSAR:</speaker>
           <p>Mein Herr, ich habe die Untersuchung abgeschlossen.</p>
-        </sp>
+        </sp>        
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Und?</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Der Baron ist unschuldig.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Was?</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Der Baron ist unschuldig. Der Graf hat ihn beschuldigt, weil er mit dem Feind zusammenarbeitet. Aber der Baron hat in einem Traum gesehen, wie der Graf mit dem Feind zusammenarbeitet. Und der Baron hat mir gesagt, dass er dem Grafen nicht glauben kann.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Das ist unglaublich!</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Es ist wahr, mein Herr.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Was soll ich jetzt tun?</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
+          <speaker>KOMMISSAR:</speaker>
           <p>Mein Herr, Sie sollten den Baron freilassen.</p>
         </sp>
         <sp who="#könig">
-          <speaker>**KÖNIG:**</speaker>
+          <speaker>KÖNIG:</speaker>
           <p>Ich werde es tun.</p>
         </sp>
         <sp who="#kommissar">
-          <speaker>**KOMMISSAR:**</speaker>
-          <p>Ich danke Ihnen, mein Herr.* * *</p>
+          <speaker>KOMMISSAR:</speaker>
+          <p>Ich danke Ihnen, mein Herr.  </p>
         </sp>
       </div>
       <div type="scene">
-        <head>**</head>
-      </div>
-      <div type="scene">
-        <head>Szene 3**</head>* * *<sp who="#ein raum im schloss des barons">
-          <speaker>**EIN RAUM IM SCHLOSS DES BARONS**</speaker>
-          <p></p>
-        </sp>
-        <sp who="#baron">
-          <speaker>**BARON:** </speaker>
-          <stage>(sitzt an einem Schreibtisch und schreibt)</stage>
-          <p></p>
-        </sp>
+        <head>Szene 3</head>  
+          <stage>EIN RAUM IM SCHLOSS DES BARONS</stage>
+          <stage>BARON: (sitzt an einem Schreibtisch und schreibt)</stage>
+        <stage>HERZOG: (tritt ein)</stage>
         <sp who="#herzog">
-          <speaker>**HERZOG:** </speaker>
-          <stage>(tritt ein)</stage>
-          <p></p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Baron, ich habe eine Nachricht für Sie.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Was ist es, Herzog?</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Der König hat Sie begnadigt. Sie sind frei.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Das ist wunderbar!</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich weiß. Ich bin so froh für Sie.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Danke, Herzog.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Ich muss gehen. Aber ich werde Sie bald wiedersehen.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
+          <speaker>BARON:</speaker>
           <p>Ich freue mich darauf.</p>
         </sp>
         <sp who="#herzog">
-          <speaker>**HERZOG:**</speaker>
+          <speaker>HERZOG:</speaker>
           <p>Auf Wiedersehen, Baron.</p>
         </sp>
         <sp who="#baron">
-          <speaker>**BARON:**</speaker>
-          <p>Auf Wiedersehen, Herzog.* * ***Das Stück endet hier.**</p>
+          <speaker>BARON:</speaker>
+          <p>Auf Wiedersehen, Herzog.  Das Stück endet hier.</p>
         </sp>
       </div>
     </body>

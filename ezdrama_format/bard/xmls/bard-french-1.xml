@@ -21,531 +21,508 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="servante">
-            <persName>**SERVANTE**</persName>
+          <person sex="FEMALE" xml:id="servante">
+            <persName>SERVANTE</persName>
           </person>
           <person sex="MALE" xml:id="jules">
-            <persName>**JULES**</persName>
+            <persName>JULES</persName>
           </person>
           <person sex="MALE" xml:id="madeleine">
-            <persName>**MADELEINE**</persName>
+            <persName>MADELEINE</persName>
           </person>
           <person sex="MALE" xml:id="tous">
-            <persName>**TOUS**</persName>
+            <persName>TOUS</persName>
           </person>
-          <person sex="MALE" xml:id="mme de maupassant">
-            <persName>**MME DE MAUPASSANT**</persName>
+          <person sex="FEMALE" xml:id="mme-de-maupassant">
+            <persName>MME DE MAUPASSANT</persName>
           </person>
-          <person sex="MALE" xml:id="un ami">
-            <persName>**UN AMI**</persName>
-          </person>
-          <person sex="MALE" xml:id="fin de la pièce">
-            <persName>**FIN DE LA PIÈCE**</persName>
-          </person>
-          <person sex="MALE" xml:id="fin de la scène">
-            <persName>**FIN DE LA SCÈNE**</persName>
+          <person sex="MALE" xml:id="un-ami">
+            <persName>UN AMI</persName>
           </person>
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>**<div type="scene">
-        <head>ACTE I**</head>**</div>
+    <body><div type="scene">
+        <head>ACTE I</head></div>
       <div type="scene">
-        <head>Scène 1**</head>* INTÉRIEUR D'UN SALON ** Un salon bourgeois du milieu du XIXe siècle. Les murs sont décorés de tableaux et de tapisseries. Un piano se trouve dans un coin de la pièce. ** ENTREnt MME DE MAUPASSANT et sa fille, MADELEINE. *<sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <head>Scène 1</head> 
+          <stage>INTÉRIEUR D'UN SALON  Un salon bourgeois du milieu du XIXe siècle. Les murs sont décorés de tableaux et de tapisseries. Un piano se trouve dans un coin de la pièce.  ENTREnt MME DE MAUPASSANT et sa fille, MADELEINE. </stage>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Madeleine, je voudrais te parler.</p>
         </sp>
         <stage>(_s'adressant à sa fille_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Oui, maman.</p>
         </sp>
         <stage>(_s'asseyant_)</stage>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Tu sais que ton père et moi avons reçu une proposition de mariage pour toi.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Une proposition de mariage ? De qui ?</p>
         </sp>
         <stage>(_surprise_)</stage>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Du fils du comte de Saint-Germain.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je ne le connais pas.</p>
         </sp>
         <stage>(_après un silence_)</stage>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>C'est un jeune homme très bien, de bonne famille. Il est riche et il a un beau titre.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Mais je ne l'aime pas.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Tu ne l'as pas encore rencontré.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je sais, mais je ne veux pas me marier avec quelqu'un que je n'aime pas.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Madeleine, tu es une jeune fille bien élevée. Tu dois respecter les décisions de tes parents.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je sais, maman, mais je ne peux pas me forcer à aimer quelqu'un.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Nous verrons, Madeleine. Nous verrons.Sophie, apporte-nous du thé.</p>
         </sp>
-        <stage>**(_S'adressant à la servante qui entre_)</stage>
-        <stage>**(_La servante sort_)</stage>
+        <stage>(_S'adressant à la servante qui entre_)</stage>
+        <stage>(_La servante sort_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je vais me promener un peu.</p>
         </sp>
         <stage>(_se levant_)</stage>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>D'accord, ma fille.</p>
         </sp>
-        <stage>**(_Madeleine sort_)</stage>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <stage>(_Madeleine sort_)</stage>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Je ne sais pas quoi faire. Je voudrais que Madeleine soit heureuse, mais je ne veux pas la forcer à se marier avec quelqu'un qu'elle n'aime pas.</p>
         </sp>
         <stage>(_à elle-même_)</stage>
-        <stage>**(_La servante entre avec le thé_)</stage>
+        <stage>(_La servante entre avec le thé_)</stage>
         <sp who="#servante">
-          <speaker>**SERVANTE**</speaker>
+          <speaker>SERVANTE</speaker>
           <p>Voici le thé, madame.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Merci, Sophie.</p>
         </sp>
-        <stage>**(_La servante sort_)</stage>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <stage>(_La servante sort_)</stage>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Je vais réfléchir à tout ça.</p>
         </sp>
         <stage>(_prenant une tasse de thé_)</stage>
-        <stage>**(_Elle se met à boire son thé_)</stage>
-        <sp who="#fin de la scène">
-          <speaker>**FIN DE LA SCÈNE**</speaker>
-          <p>**</p>
-        </sp>
+        <stage>(_Elle se met à boire son thé_)</stage>
+        
+          <stage>FIN DE LA SCÈNE</stage>
+          <p></p>
       </div>
       <div type="scene">
-        <head>ACTE II**</head>**</div>
+        <head>ACTE II</head></div>
       <div type="scene">
-        <head>Scène 1**</head>* INTÉRIEUR D'UN JARDIN ** Un jardin à la française du milieu du XIXe siècle. Des arbres et des fleurs sont plantés dans des parterres réguliers. Une fontaine se trouve au centre de la pièce. ** ENTREnt MADELEINE et JULES. *<sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+        <head>Scène 1</head> INTÉRIEUR D'UN JARDIN  Un jardin à la française du milieu du XIXe siècle. Des arbres et des fleurs sont plantés dans des parterres réguliers. Une fontaine se trouve au centre de la pièce.  ENTREnt MADELEINE et JULES. <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
           <p>Je suis contente de te voir, Jules.</p>
         </sp>
         <stage>(_s'asseyant sur un banc_)</stage>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Moi aussi, Madeleine. Je suis venu te parler.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>De quoi ?</p>
         </sp>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>De toi. De nous.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>De nous ?</p>
         </sp>
         <stage>(_inquiete_)</stage>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Oui. Je t'aime, Madeleine.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Tu m'aimes ?</p>
         </sp>
         <stage>(_surprise_)</stage>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Oui. Je t'aime depuis longtemps.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je t'aime aussi, Jules.</p>
         </sp>
         <stage>(_après un silence_)</stage>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Alors, nous allons nous marier ?</p>
         </sp>
         <stage>(_se levant_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Oui, Jules. Nous allons nous marier.</p>
         </sp>
         <stage>(_se levant_)</stage>
-        <stage>**(_Ils s'embrassent_)</stage>
-        <sp who="#fin de la scène">
-          <speaker>**FIN DE LA SCÈNE**</speaker>
-          <p>**</p>
-        </sp>
+        <stage>(_Ils s'embrassent_)</stage>
+        <stage>FIN DE LA SCÈNE</stage>
       </div>
       <div type="scene">
-        <head>Scène 2**</head>* INTÉRIEUR DU SALON ** Le salon de la scène 1. MME DE MAUPASSANT est assise sur un canapé. MADELEINE entre. *<sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+        <head>Scène 2</head> INTÉRIEUR DU SALON  Le salon de la scène 1. MME DE MAUPASSANT est assise sur un canapé. MADELEINE entre. <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
           <p>Maman, j'ai une nouvelle à te dire.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Oui, ma fille ?</p>
         </sp>
         <stage>(_se tournant vers sa fille_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je vais me marier.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Te marier ? Mais avec qui ?</p>
         </sp>
         <stage>(_surprise_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Avec Jules.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Jules ? Le fils du jardinier ?</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Oui, maman.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Mais il n'est pas de notre monde.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je sais, maman. Mais je l'aime.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Je ne sais pas quoi dire.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>S'il te plaît, maman, dis-moi que tu es contente pour moi.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Je suis contente pour toi, ma fille. Je veux que tu sois heureuse.</p>
         </sp>
         <stage>(_après un silence_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Merci, maman.</p>
         </sp>
-        <stage>**(_Elle embrasse sa mère_)</stage>
-        <sp who="#fin de la scène">
-          <speaker>**FIN DE LA SCÈNE**</speaker>
-          <p>**</p>
-        </sp>
+        <stage>(_Elle embrasse sa mère_)</stage>
+        
+          <stage>FIN DE LA SCÈNE</stage>
+          <p></p>
       </div>
       <div type="scene">
-        <head>Scène 3**</head>* EXTÉRIEUR D'UN CHÊNE ** Un chêne centenaire au milieu d'un champ. MADELEINE et JULES sont assis à l'ombre du chêne. *<sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+        <head>Scène 3</head> EXTÉRIEUR D'UN CHÊNE  Un chêne centenaire au milieu d'un champ. MADELEINE et JULES sont assis à l'ombre du chêne. <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
           <p>Je suis si contente d'être avec toi, Jules.</p>
         </sp>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Moi aussi, Madeleine. Je suis le plus heureux des hommes.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je n'ai jamais été aussi heureuse.</p>
         </sp>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Moi non plus.</p>
         </sp>
-        <stage>**(_Ils s'embrassent_)</stage>
-        <sp who="#fin de la scène">
-          <speaker>**FIN DE LA SCÈNE**</speaker>
-          <p>In this second act, I have added two new characters, Jules and Mme de Maupassant. I have also removed the character of the servant. The events in this act are more focused on the relationship between Madeleine and Jules, and their plans to get married. The tone of this act is more hopeful and optimistic than the tone of the first act.**</p>
-        </sp>
+        <stage>(_Ils s'embrassent_)</stage>
+        <stage>FIN DE LA SCÈNE</stage>
       </div>
       <div type="scene">
-        <head>ACTE III**</head>**</div>
+        <head>ACTE III</head></div>
       <div type="scene">
-        <head>Scène 1**</head>* INTÉRIEUR DU SALON ** Le salon de la scène 1. MME DE MAUPASSANT est assise sur un canapé. MADELEINE entre. *<sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+        <head>Scène 1</head> INTÉRIEUR DU SALON  Le salon de la scène 1. MME DE MAUPASSANT est assise sur un canapé. MADELEINE entre. <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
           <p>Maman, j'ai une nouvelle à te dire.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Oui, ma fille ?</p>
         </sp>
         <stage>(_se tournant vers sa fille_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Jules et moi, nous nous sommes mariés.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Vous vous êtes mariés ? Mais quand ?</p>
         </sp>
         <stage>(_surprise_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Hier.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Mais je n'ai rien su !</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Nous avons voulu faire une petite cérémonie, juste entre nous.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Je comprends. Mais je suis contente pour toi, ma fille.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Merci, maman.</p>
         </sp>
-        <stage>**(_Elle embrasse sa mère_)</stage>
-        <sp who="#fin de la scène">
-          <speaker>**FIN DE LA SCÈNE**</speaker>
-          <p>**</p>
-        </sp>
+        <stage>(_Elle embrasse sa mère_)</stage>
+        
+          <stage>FIN DE LA SCÈNE</stage>
+          <p></p>
       </div>
       <div type="scene">
-        <head>Scène 2**</head>* EXTÉRIEUR DU CHÊNE ** Le chêne centenaire de la scène 3. MADELEINE et JULES sont assis à l'ombre du chêne. Ils sont accompagnés de leur nouveau-né, un petit garçon. *<sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+        <head>Scène 2</head> EXTÉRIEUR DU CHÊNE  Le chêne centenaire de la scène 3. MADELEINE et JULES sont assis à l'ombre du chêne. Ils sont accompagnés de leur nouveau-né, un petit garçon. <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
           <p>Regarde, Jules, notre petit garçon. Il est si beau.</p>
         </sp>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Oui, il est magnifique. Il est notre petit miracle.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je suis si heureuse.</p>
         </sp>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Moi aussi. Je suis l'homme le plus heureux du monde.</p>
         </sp>
-        <stage>**(_Ils s'embrassent_)</stage>
-        <stage>**(_Le petit garçon pleure_)</stage>
+        <stage>(_Ils s'embrassent_)</stage>
+        <stage>(_Le petit garçon pleure_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Oh, il a faim.</p>
         </sp>
-        <stage>**(_Elle se lève et va chercher le biberon_)</stage>
+        <stage>(_Elle se lève et va chercher le biberon_)</stage>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Je t'aime, Madeleine.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je t'aime aussi, Jules.</p>
         </sp>
-        <stage>**(_Elle lui tend le biberon_)</stage>
-        <sp who="#fin de la scène">
-          <speaker>**FIN DE LA SCÈNE**</speaker>
-          <p>In this third act, I have added two new characters, the baby and the servant. I have also removed the character of Mme de Maupassant. The events in this act focus on the new life of Madeleine and Jules, as they start a family together. The tone of this act is happy and hopeful, and it reflects the theme of love and family that runs throughout the play.**</p>
-        </sp>
+        <stage>(_Elle lui tend le biberon_)</stage>        
+        <stage>FIN DE LA SCÈNE</stage>
       </div>
       <div type="scene">
-        <head>ACTE IV**</head>**</div>
+        <head>ACTE IV</head></div>
       <div type="scene">
-        <head>Scène 1**</head>* INTÉRIEUR DU SALON ** Le salon de la scène 1. MME DE MAUPASSANT est assise sur un canapé. MADELEINE et JULES sont assis à ses côtés. Ils sont accompagnés de leur nouveau-né, un petit garçon de 1 an. *<sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+        <head>Scène 1</head> INTÉRIEUR DU SALON  Le salon de la scène 1. MME DE MAUPASSANT est assise sur un canapé. MADELEINE et JULES sont assis à ses côtés. Ils sont accompagnés de leur nouveau-né, un petit garçon de 1 an. <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
           <p>Maman, nous avons une nouvelle à te dire.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Oui, ma fille ?</p>
         </sp>
         <stage>(_se tournant vers sa fille_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Jules et moi, nous avons décidé de quitter Paris.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Quitter Paris ? Mais pourquoi ?</p>
         </sp>
         <stage>(_surprise_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Nous voulons vivre à la campagne, avec notre fils.</p>
         </sp>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Nous avons trouvé une petite ferme à vendre, dans la région de Normandie.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Je vois.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Nous pensons que ce serait mieux pour notre fils, de grandir à la campagne.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Je comprends.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Nous espérons que tu nous rejoindras bientôt.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Je ne sais pas. Je ne suis pas sûre de pouvoir quitter Paris.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>S'il te plaît, maman. Nous t'en serions si heureux.</p>
         </sp>
-        <sp who="#mme de maupassant">
-          <speaker>**MME DE MAUPASSANT**</speaker>
+        <sp who="#mme-de-maupassant">
+          <speaker>MME DE MAUPASSANT</speaker>
           <p>Je vais y réfléchir.</p>
         </sp>
         <stage>(_après un silence_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Merci, maman.</p>
         </sp>
-        <stage>**(_Elle embrasse sa mère_)</stage>
-        <sp who="#fin de la scène">
-          <speaker>**FIN DE LA SCÈNE**</speaker>
-          <p>**</p>
-        </sp>
+        <stage>(_Elle embrasse sa mère_)</stage>
+          <stage>FIN DE LA SCÈNE</stage>
+          <p></p>
       </div>
       <div type="scene">
-        <head>Scène 2**</head>* EXTÉRIEUR DU CHÊNE ** Le chêne centenaire de la scène 3. MADELEINE, JULES et leur fils sont assis à l'ombre du chêne. Ils sont entourés de leurs amis et de leur famille. *<sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+        <head>Scène 2</head> EXTÉRIEUR DU CHÊNE  Le chêne centenaire de la scène 3. MADELEINE, JULES et leur fils sont assis à l'ombre du chêne. Ils sont entourés de leurs amis et de leur famille. <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
           <p>Je suis si heureuse d'être ici, avec vous tous.</p>
         </sp>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Moi aussi. C'est le plus beau jour de ma vie.</p>
         </sp>
-        <stage>**(_Ils s'embrassent_)</stage>
-        <stage>**(_Le petit garçon pleure_)</stage>
+        <stage>(_Ils s'embrassent_)</stage>
+        <stage>(_Le petit garçon pleure_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Oh, il a faim.</p>
         </sp>
-        <stage>**(_Elle se lève et va chercher le biberon_)</stage>
-        <sp who="#un ami">
-          <speaker>**UN AMI**</speaker>
+        <stage>(_Elle se lève et va chercher le biberon_)</stage>
+        <sp who="#un-ami">
+          <speaker>UN AMI</speaker>
           <p>À votre santé !</p>
         </sp>
         <sp who="#tous">
-          <speaker>**TOUS**</speaker>
+          <speaker>TOUS</speaker>
           <p>À votre santé !</p>
         </sp>
-        <stage>**(_Ils trinquent_)</stage>
-        <sp who="#fin de la scène">
-          <speaker>**FIN DE LA SCÈNE**</speaker>
-          <p>In this fourth and final act, I have added two new characters, the friend and the family. I have also removed the character of the servant. The events in this act focus on the happiness of Madeleine and Jules, as they start a new life in the countryside with their son. The tone of this act is hopeful and optimistic, and it reflects the theme of love and family that runs throughout the play.**</p>
-        </sp>
+        <stage>(_Ils trinquent_)</stage>
+        
+          <stage>FIN DE LA SCÈNE</stage>
       </div>
       <div type="scene">
-        <head>ACTE V**</head>**</div>
+        <head>ACTE V</head></div>
       <div type="scene">
-        <head>Scène 1**</head>* INTÉRIEUR DU CHÊNE ** Le chêne centenaire de la scène 3. MADELEINE, JULES et leur fils sont assis à l'ombre du chêne. Ils sont entourés de leurs amis et de leur famille. *<sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+        <head>Scène 1</head> INTÉRIEUR DU CHÊNE  Le chêne centenaire de la scène 3. MADELEINE, JULES et leur fils sont assis à l'ombre du chêne. Ils sont entourés de leurs amis et de leur famille. <sp who="#madeleine">
+          <speaker>MADELEINE</speaker>
           <p>À notre bonheur !</p>
         </sp>
         <stage>(_levant son verre_)</stage>
         <sp who="#tous">
-          <speaker>**TOUS**</speaker>
+          <speaker>TOUS</speaker>
           <p>À notre bonheur !</p>
         </sp>
-        <stage>**(_Ils trinquent_)</stage>
-        <sp who="#un ami">
-          <speaker>**UN AMI**</speaker>
+        <stage>(_Ils trinquent_)</stage>
+        <sp who="#un-ami">
+          <speaker>UN AMI</speaker>
           <p>Et à la santé de notre petit garçon !</p>
         </sp>
         <sp who="#tous">
-          <speaker>**TOUS**</speaker>
+          <speaker>TOUS</speaker>
           <p>À la santé de notre petit garçon !</p>
         </sp>
-        <stage>**(_Ils trinquent à nouveau_)</stage>
+        <stage>(_Ils trinquent à nouveau_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Je suis si heureuse.</p>
         </sp>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Moi aussi. Je suis l'homme le plus heureux du monde.</p>
         </sp>
-        <stage>**(_Ils s'embrassent_)</stage>
-        <stage>**(_Le petit garçon pleure_)</stage>
+        <stage>(_Ils s'embrassent_)</stage>
+        <stage>(_Le petit garçon pleure_)</stage>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Oh, il a faim.</p>
         </sp>
-        <stage>**(_Elle se lève et va chercher le biberon_)</stage>
-        <sp who="#un ami">
-          <speaker>**UN AMI**</speaker>
+        <stage>(_Elle se lève et va chercher le biberon_)</stage>
+        <sp who="#un-ami">
+          <speaker>UN AMI</speaker>
           <p>Madeleine, tu as vu ? Le petit a les yeux de Jules.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Oui, je l'ai vu. Il est le portrait de son père.</p>
         </sp>
         <sp who="#jules">
-          <speaker>**JULES**</speaker>
+          <speaker>JULES</speaker>
           <p>Je suis si fier de lui.</p>
         </sp>
-        <stage>**(_Il caresse le front du petit garçon_)</stage>
-        <sp who="#un ami">
-          <speaker>**UN AMI**</speaker>
+        <stage>(_Il caresse le front du petit garçon_)</stage>
+        <sp who="#un-ami">
+          <speaker>UN AMI</speaker>
           <p>Et Madeleine, tu as vu ? Il a le sourire de sa mère.</p>
         </sp>
         <sp who="#madeleine">
-          <speaker>**MADELEINE**</speaker>
+          <speaker>MADELEINE</speaker>
           <p>Oui, je l'ai vu. Il est le portrait de moi.</p>
         </sp>
-        <stage>**(_Elle sourit au petit garçon_)</stage>
-        <sp who="#un ami">
-          <speaker>**UN AMI**</speaker>
+        <stage>(_Elle sourit au petit garçon_)</stage>
+        <sp who="#un-ami">
+          <speaker>UN AMI</speaker>
           <p>Il est parfait.</p>
         </sp>
         <sp who="#tous">
-          <speaker>**TOUS**</speaker>
+          <speaker>TOUS</speaker>
           <p>Il est parfait !</p>
         </sp>
-        <stage>**(_Ils applaudissent_)</stage>
-        <sp who="#fin de la pièce">
-          <speaker>**FIN DE LA PIÈCE**</speaker>
-          <p>In this fifth and final act, I have added two new characters, the friend and the family. I have also removed the character of the servant. The events in this act focus on the happiness of Madeleine and Jules, as they celebrate the birth of their son. The tone of this act is hopeful and optimistic, and it reflects the theme of love and family that runs throughout the play.</p>
-        </sp>
+        <stage>(_Ils applaudissent_)</stage>
+        <stage>FIN DE LA PIÈCE</stage>
       </div>
     </body>
   </text>

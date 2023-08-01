@@ -21,14 +21,29 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="neue person">
-            <persName>**NEUE PERSON</persName>
-          </person>
           <person sex="MALE" xml:id="einstein">
-            <persName>**Einstein:**</persName>
+            <persName>Einstein:</persName>
           </person>
           <person sex="FEMALE" xml:id="maria">
-            <persName>**Maria:**</persName>
+            <persName>Maria:</persName>
+          </person>
+          <person sex="MALE" xml:id="reporter">
+            <persName>Reporter:</persName>
+          </person>
+          <person sex="MALE" xml:id="wissenschaftler">
+            <persName>WISSENSCHAFTLER:</persName>
+          </person>
+          <person sex="MALE" xml:id="physiker-amerika">
+            <persName>PHYSIKER AUS AMERIKA:</persName>
+          </person>
+          <person sex="MALE" xml:id="physiker-japan">
+            <persName>PHYSIKER AUS JAPAN:</persName>
+          </person>
+          <person sex="MALE" xml:id="nobel-physiker">
+            <persName>NOBEL-PHYSIKER AUS AMERIKA:</persName>
+          </person>
+          <person sex="MALE" xml:id="junger-physiker">
+            <persName>JUNGER PHYSIKER:</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -37,530 +52,534 @@
   <text>
     <body>
       <div type="scene">
-        <head>**Szenenbild:** Ein dunkles, mittelalterliches Zimmer. Ein Kamin brennt in der Mitte des Raumes.</head>**Figuren:*** **EINSTEIN,** ein alter Mann, sitzt in einem Lehnstuhl vor dem Kamin.* **MARIA,** seine Tochter, sitzt auf einem Sofa.<sp who="#einstein">
-          <speaker>**Einstein:** </speaker>
+        <head>Szenenbild: Ein dunkles, mittelalterliches Zimmer. Ein Kamin brennt in der Mitte des Raumes.</head>
+        <stage>Figuren: EINSTEIN, ein alter Mann, sitzt in einem Lehnstuhl vor dem Kamin. MARIA, seine Tochter, sitzt auf einem Sofa.</stage>
+        <sp who="#einstein">
+          <speaker>Einstein: </speaker>
           <stage>(In Gedanken versunken.):</stage>
           <p> Die Zeit vergeht so schnell. Es scheint, als wäre es erst gestern gewesen, als ich ein junger Mann war und die Welt vor mir lag.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** </speaker>
+          <speaker>Maria: </speaker>
           <stage>(Ihm zugewandt.):</stage>
           <p> Vater, was ist los? Du siehst so nachdenklich aus.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ich habe nur an die Vergangenheit gedacht. An all die Dinge, die ich erlebt habe und die ich getan habe.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Und was hast du dabei gedacht?</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ich habe mich gefragt, ob ich alles richtig gemacht habe. Ob ich mein Leben so gelebt habe, wie ich es mir immer erträumt habe.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Ich bin sicher, dass du alles richtig gemacht hast. Du bist ein guter Mann, Vater.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Danke, Maria. Das ist lieb von dir zu sagen. Aber ich kann es mir nicht helfen, manchmal an die Zukunft zu denken. An all die Dinge, die noch kommen werden.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Die Zukunft ist ungewiss, Vater. Aber ich bin sicher, dass du auch sie meistern wirst.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ich hoffe es. <stage>(Er lächelt sie an.)</stage></p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** </speaker>
+          <speaker>Maria: </speaker>
           <stage>(Ihm antwortet mit einem Lächeln.):</stage>
-          <p>**Pause.**</p>
+          <p>Pause.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ich bin müde, Maria. Ich glaube, ich werde schlafen gehen.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Gute Nacht, Vater.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
-          <p>Gute Nacht, Maria.**Einstein steht auf und geht in sein Schlafzimmer. Maria bleibt auf dem Sofa sitzen und starrt ins Feuer.**</p>
+          <speaker>Einstein: :</speaker>
+          <p>Gute Nacht, Maria.Einstein steht auf und geht in sein Schlafzimmer. Maria bleibt auf dem Sofa sitzen und starrt ins Feuer.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** </speaker>
+          <speaker>Maria: </speaker>
           <stage>(In Gedanken.):</stage>
-          <p> Ich hoffe, dass die Zukunft gut zu uns sein wird.**Das Licht geht aus.**</p>
+          <p> Ich hoffe, dass die Zukunft gut zu uns sein wird.Das Licht geht aus.</p>
         </sp>
       </div>
       <div type="scene">
-        <head>**Szenenbild:** Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Tage später.</head>**Figuren:*** **EINSTEIN,** wie im ersten Akt.* **MARIA,** wie im ersten Akt.* **NEUE PERSON 1,** ein junger Mann, tritt ein.<sp who="#einstein">
-          <speaker>**Einstein:** </speaker>
+        <head>Szenenbild: Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Tage später.</head>Figuren: EINSTEIN, wie im ersten Akt. MARIA, wie im ersten Akt. NEUE PERSON 1, ein junger Mann, tritt ein.<sp who="#einstein">
+          <speaker>Einstein: </speaker>
           <stage>(In Gedanken versunken.):</stage>
           <p> Ich habe die ganze Nacht nicht geschlafen. Ich kann nicht aufhören an die Zukunft zu denken.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** </speaker>
+          <speaker>Maria: </speaker>
           <stage>(Ihm zugewandt.):</stage>
           <p> Vater, was ist los? Du siehst so besorgt aus.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ich habe nur an die Zukunft gedacht. An all die Dinge, die noch kommen werden.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Die Zukunft ist ungewiss, Vater. Aber ich bin sicher, dass du auch sie meistern wirst.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ich hoffe es. <stage>(Er lächelt sie an.)</stage></p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ja? Was kann ich für Sie tun?</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** Ich bin ein Reporter von der Zeitung. Ich habe gehört, dass Sie ein neues wissenschaftliches Theorem entdeckt haben.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: Ich bin ein Reporter von der Zeitung. Ich habe gehört, dass Sie ein neues wissenschaftliches Theorem entdeckt haben.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ja, das stimmt.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** Ich würde gerne mit Ihnen darüber sprechen.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: Ich würde gerne mit Ihnen darüber sprechen.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist in Ordnung.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** </speaker>
+          <speaker>Maria: </speaker>
           <stage>(Ihr Vater zu.):</stage>
           <p> Vater, ich glaube, ich sollte gehen.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ja, das ist wohl das Beste.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** </speaker>
+          <speaker>Maria: </speaker>
           <stage>(Sie geht.):</stage>
           <p></p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrem Theorem. Es ist ein wahres Meisterwerk.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrem Theorem. Es ist ein wahres Meisterwerk.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Danke, das ist sehr nett von Ihnen zu sagen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** Ich würde gerne mehr darüber erfahren.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: Ich würde gerne mehr darüber erfahren.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
-          <p>Gerne.**Einstein und der Reporter sprechen über das Theorem.****Das Licht geht aus.****In der nächsten </p>
+          <speaker>Einstein: :</speaker>
+          <p>Gerne.</p>
+          <stage>Einstein und der Reporter sprechen über das Theorem.Das Licht geht aus.In der nächsten Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.</stage>
         </sp>
-      </div>
-      <div type="scene">
-        <head>Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.**</head>
         <sp who="#einstein">
-          <speaker>**Einstein:** </speaker>
+          <speaker>Einstein: </speaker>
           <stage>(In Gedanken.):</stage>
-          <p> Ich habe es geschafft. Ich habe ein neues wissenschaftliches Theorem entdeckt. Das wird die Welt verändern.**Einstein lächelt.****Das Licht geht aus.**</p>
+          <p> Ich habe es geschafft. Ich habe ein neues wissenschaftliches Theorem entdeckt. Das wird die Welt verändern.</p>
+            <stage>Einstein lächelt.Das Licht geht aus.</stage>
         </sp>
       </div>
       <div type="scene">
-        <head>**Szenenbild:** Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Monate später.</head>**Figuren:*** **EINSTEIN,** wie im ersten Akt.* **NEUE PERSON 1,** wie im ersten Akt.* **NEUE PERSON 2,** ein Wissenschaftler, tritt ein.<sp who="#einstein">
-          <speaker>**Einstein:** </speaker>
+        <head>Szenenbild: Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Monate später.</head>
+        <stage>Figuren: EINSTEIN, wie im ersten Akt. NEUE PERSON 1, wie im ersten Akt. NEUE PERSON 2, ein Wissenschaftler, tritt ein.</stage>
+        <sp who="#einstein">
+          <speaker>Einstein: </speaker>
           <stage>(In Gedanken versunken.):</stage>
           <p> Ich habe so viel gearbeitet in den letzten Monaten. Ich habe mein Theorem verfeinert und es ist jetzt noch besser geworden.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** <stage>(Eintritt.)</stage> Herr Einstein, ich habe Neuigkeiten für Sie.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: <stage>(Eintritt.)</stage> Herr Einstein, ich habe Neuigkeiten für Sie.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ja? Was ist es?</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** Ihr Theorem hat die Runde gemacht in der wissenschaftlichen Welt. Es ist ein wahrer Durchbruch.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: Ihr Theorem hat die Runde gemacht in der wissenschaftlichen Welt. Es ist ein wahrer Durchbruch.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist wunderbar!</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
+        <sp who="#wissenschaftler">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ja? Was kann ich für Sie tun?</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** Ich bin ein Wissenschaftler aus Berlin. Ich habe mich sehr für Ihr Theorem interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
+        <sp who="#wissenschaftler">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: Ich bin ein Wissenschaftler aus Berlin. Ich habe mich sehr für Ihr Theorem interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist in Ordnung.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** <stage>(Einstein zu.)</stage> Herr Einstein, ich muss gehen. Ich habe noch einen Termin.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: <stage>(Einstein zu.)</stage> Herr Einstein, ich muss gehen. Ich habe noch einen Termin.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Auf Wiedersehen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** Auf Wiedersehen.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: Auf Wiedersehen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrem Theorem. Es ist ein wahres Meisterwerk.</p>
+        <sp who="#wissenschaftler">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrem Theorem. Es ist ein wahres Meisterwerk.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Danke, das ist sehr nett von Ihnen zu sagen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** Ich würde gerne mehr darüber erfahren.</p>
+        <sp who="#wissenschaftler">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: Ich würde gerne mehr darüber erfahren.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
-          <p>Gerne.**Einstein und der neue Wissenschaftler sprechen über das Theorem.**</p>
+          <speaker>Einstein: :</speaker>
+          <p>Gerne.</p>
+            <stage>Einstein und der neue Wissenschaftler sprechen über das Theorem.</stage>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** </speaker>
+          <speaker>Maria: </speaker>
           <stage>(Eintritt.):</stage>
           <p> Vater, ich habe etwas für dich.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Was ist es, Maria?</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Ich habe eine Zeitungsmeldung gefunden. Sie schreiben über dein Theorem.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Oh, das ist interessant.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Sie sagen, dass dein Theorem die Welt verändern wird.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist eine große Sache.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Ich bin so stolz auf dich, Vater.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Danke, Maria.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Ich muss gehen. Ich habe noch Hausaufgaben zu machen.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Auf Wiedersehen, Maria.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
-          <p>Auf Wiedersehen, Vater.**Einstein und der neue Wissenschaftler sprechen weiter über das Theorem.****Das Licht geht aus.****In der nächsten </p>
+          <speaker>Maria: :</speaker>
+          <p>Auf Wiedersehen, Vater.</p>
         </sp>
-      </div>
-      <div type="scene">
-        <head>Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.**</head>
+            <stage>Einstein und der neue Wissenschaftler sprechen weiter über das Theorem.Das Licht geht aus.In der nächsten Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.</stage>
         <sp who="#einstein">
-          <speaker>**Einstein:** </speaker>
+          <speaker>Einstein: </speaker>
           <stage>(In Gedanken.):</stage>
-          <p> Ich habe es geschafft. Ich habe ein neues wissenschaftliches Theorem entdeckt. Das wird die Welt verändern.**Einstein lächelt.****Das Licht geht aus.**</p>
+          <p> Ich habe es geschafft. Ich habe ein neues wissenschaftliches Theorem entdeckt. Das wird die Welt verändern.</p>
+            <stage>Einstein lächelt.Das Licht geht aus.</stage>
         </sp>
       </div>
       <div type="scene">
-        <head>**Szenenbild:** Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Jahre später.</head>**Figuren:*** **EINSTEIN,** wie im ersten Akt.* **NEUE PERSON 1,** wie im ersten Akt.* **NEUE PERSON 2,** wie im ersten Akt.* **NEUE PERSON 3,** ein Nobelpreisträger, tritt ein.<sp who="#einstein">
-          <speaker>**Einstein:** </speaker>
+        <head>Szenenbild: Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Jahre später.</head>
+        <stage>Figuren: EINSTEIN, wie im ersten Akt. NEUE PERSON 1, wie im ersten Akt. NEUE PERSON 2, wie im ersten Akt. NEUE PERSON 3, ein Nobelpreisträger, tritt ein.</stage>
+        <sp who="#einstein">
+          <speaker>Einstein: </speaker>
           <stage>(In Gedanken versunken.):</stage>
           <p> Ich habe so viel erreicht in den letzten Jahren. Mein Theorem hat die Welt verändert und ich bin ein Nobelpreisträger.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** <stage>(Eintritt.)</stage> Herr Einstein, ich habe Neuigkeiten für Sie.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: <stage>(Eintritt.)</stage> Herr Einstein, ich habe Neuigkeiten für Sie.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ja? Was ist es?</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** Sie sind eingeladen, einen Vortrag auf dem nächsten internationalen Physikkongress zu halten.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: Sie sind eingeladen, einen Vortrag auf dem nächsten internationalen Physikkongress zu halten.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist eine große Ehre!</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
+        <sp who="#physiker-amerika">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ja? Was kann ich für Sie tun?</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** Ich bin ein Physiker aus Amerika. Ich habe mich sehr für Ihr Theorem interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
+        <sp who="#physiker-amerika">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: Ich bin ein Physiker aus Amerika. Ich habe mich sehr für Ihr Theorem interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist in Ordnung.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>3:** <stage>(Eintritt.)</stage> Herr Einstein, ich bin ein Nobelpreisträger für Physik. Ich habe mich sehr für Ihre Arbeit interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
+        <sp who="#nobel-physiker">
+          <speaker>NEUE PERSON</speaker>
+          <p>3: <stage>(Eintritt.)</stage> Herr Einstein, ich bin ein Nobelpreisträger für Physik. Ich habe mich sehr für Ihre Arbeit interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist eine große Ehre!</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** <stage>(Einstein zu.)</stage> Herr Einstein, ich muss gehen. Ich habe noch einen Termin.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: <stage>(Einstein zu.)</stage> Herr Einstein, ich muss gehen. Ich habe noch einen Termin.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Auf Wiedersehen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** Auf Wiedersehen.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: Auf Wiedersehen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrer Arbeit. Sie sind ein wahrer Meister.</p>
+        <sp who="#physiker-amerika">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrer Arbeit. Sie sind ein wahrer Meister.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Danke, das ist sehr nett von Ihnen zu sagen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** Ich würde gerne mehr darüber erfahren.</p>
+        <sp who="#physiker-amerika">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: Ich würde gerne mehr darüber erfahren.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
-          <p>Gerne.**Einstein, die neue Person 2 und die neue Person 3 sprechen über die Arbeit von Einstein.**</p>
+          <speaker>Einstein: :</speaker>
+          <p>Gerne.</p>
+          <stage>Einstein, die neue Person 2 und die neue Person 3 sprechen über die Arbeit von Einstein.</stage>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** </speaker>
+          <speaker>Maria: </speaker>
           <stage>(Eintritt.):</stage>
           <p> Vater, ich habe etwas für dich.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Was ist es, Maria?</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Ich habe eine Zeitungsmeldung gefunden. Sie schreiben über deinen Nobelpreis.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Oh, das ist interessant.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Sie sagen, dass du der größte Physiker aller Zeiten bist.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist eine große Sache.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Ich bin so stolz auf dich, Vater.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Danke, Maria.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
+          <speaker>Maria: :</speaker>
           <p>Ich muss gehen. Ich habe noch Hausaufgaben zu machen.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Auf Wiedersehen, Maria.</p>
         </sp>
         <sp who="#maria">
-          <speaker>**Maria:** :</speaker>
-          <p>Auf Wiedersehen, Vater.**Einstein, die neue Person 2 und die neue Person 3 sprechen weiter über die Arbeit von Einstein.****Das Licht geht aus.****In der nächsten </p>
+          <speaker>Maria: :</speaker>
+          <p>Auf Wiedersehen, Vater.</p>
         </sp>
-      </div>
-      <div type="scene">
-        <head>Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.**</head>
+          <stage>Einstein, die neue Person 2 und die neue Person 3 sprechen weiter über die Arbeit von Einstein.Das Licht geht aus.In der nächsten Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.</stage>
         <sp who="#einstein">
-          <speaker>**Einstein:** </speaker>
+          <speaker>Einstein: </speaker>
           <stage>(In Gedanken.):</stage>
-          <p> Ich habe es geschafft. Ich habe ein neues wissenschaftliches Theorem entdeckt. Das hat die Welt verändert. Ich bin ein Nobelpreisträger und einer der größten Physiker aller Zeiten.**Einstein lächelt.****Das Licht geht aus.**</p>
+          <p> Ich habe es geschafft. Ich habe ein neues wissenschaftliches Theorem entdeckt. Das hat die Welt verändert. Ich bin ein Nobelpreisträger und einer der größten Physiker aller Zeiten.</p>
+          <stage>Einstein lächelt.Das Licht geht aus.</stage>
         </sp>
       </div>
       <div type="scene">
-        <head>**Szenenbild:** Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Jahrzehnte später.</head>**Figuren:*** **EINSTEIN,** wie im ersten Akt, ist jetzt ein alter Mann.* **NEUE PERSON 1,** wie im ersten Akt.* **NEUE PERSON 2,** wie im ersten Akt.* **NEUE PERSON 3,** wie im ersten Akt.* **NEUE PERSON 4,** ein junger Physiker, tritt ein.<sp who="#einstein">
-          <speaker>**Einstein:** </speaker>
+        <head>Szenenbild: Das gleiche Zimmer wie im ersten Akt. Es ist ein paar Jahrzehnte später.</head>
+        <stage>Figuren: EINSTEIN, wie im ersten Akt, ist jetzt ein alter Mann. NEUE PERSON 1, wie im ersten Akt. NEUE PERSON 2, wie im ersten Akt. NEUE PERSON 3, wie im ersten Akt. NEUE PERSON 4, ein junger Physiker, tritt ein.</stage>
+        <sp who="#einstein">
+          <speaker>Einstein: </speaker>
           <stage>(In Gedanken versunken.):</stage>
           <p> Ich habe ein langes und erfülltes Leben geführt. Ich habe die Welt verändert und ich habe so viele großartige Menschen getroffen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** <stage>(Eintritt.)</stage> Herr Einstein, ich habe Neuigkeiten für Sie.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: <stage>(Eintritt.)</stage> Herr Einstein, ich habe Neuigkeiten für Sie.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ja? Was ist es?</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** Sie sind eingeladen, eine Ehrendoktorwürde von der Universität von Berlin zu erhalten.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: Sie sind eingeladen, eine Ehrendoktorwürde von der Universität von Berlin zu erhalten.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist eine große Ehre!</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
+        <sp who="#physiker-japan">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich habe Sie gesucht.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ja? Was kann ich für Sie tun?</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** Ich bin ein Physiker aus Japan. Ich habe mich sehr für Ihre Arbeit interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
+        <sp who="#physiker-japan">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: Ich bin ein Physiker aus Japan. Ich habe mich sehr für Ihre Arbeit interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist in Ordnung.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>3:** <stage>(Eintritt.)</stage> Herr Einstein, ich bin ein Nobelpreisträger für Physik. Ich habe mich sehr für Ihre Arbeit interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
+        <sp who="#nobel-physiker">
+          <speaker>NEUE PERSON</speaker>
+          <p>3: <stage>(Eintritt.)</stage> Herr Einstein, ich bin ein Nobelpreisträger für Physik. Ich habe mich sehr für Ihre Arbeit interessiert und ich würde gerne mit Ihnen darüber sprechen.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist eine große Ehre!</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** <stage>(Einstein zu.)</stage> Herr Einstein, ich muss gehen. Ich habe noch einen Termin.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: <stage>(Einstein zu.)</stage> Herr Einstein, ich muss gehen. Ich habe noch einen Termin.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Auf Wiedersehen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>1:** Auf Wiedersehen.</p>
+        <sp who="#reporter">
+          <speaker>NEUE PERSON</speaker>
+          <p>1: Auf Wiedersehen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrer Arbeit. Sie sind ein wahrer Meister.</p>
+        <sp who="#physiker-japan">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: <stage>(Einstein zu.)</stage> Herr Einstein, ich bin sehr beeindruckt von Ihrer Arbeit. Sie sind ein wahrer Meister.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Danke, das ist sehr nett von Ihnen zu sagen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>2:** Ich würde gerne mehr darüber erfahren.</p>
+        <sp who="#physiker-japan">
+          <speaker>NEUE PERSON</speaker>
+          <p>2: Ich würde gerne mehr darüber erfahren.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
-          <p>Gerne.**Einstein, die neue Person 2 und die neue Person 3 sprechen über die Arbeit von Einstein.**</p>
+          <speaker>Einstein: :</speaker>
+          <p>Gerne.</p>
+          <stage>Einstein, die neue Person 2 und die neue Person 3 sprechen über die Arbeit von Einstein.</stage>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>4:** <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich bin ein junger Physiker und ich bin ein großer Fan Ihrer Arbeit. Ich würde gerne mit Ihnen sprechen, wenn Sie Zeit haben.</p>
+        <sp who="#junger-physiker">
+          <speaker>NEUE PERSON</speaker>
+          <p>4: <stage>(Eintritt.)</stage> Entschuldigung, Herr Einstein. Ich bin ein junger Physiker und ich bin ein großer Fan Ihrer Arbeit. Ich würde gerne mit Ihnen sprechen, wenn Sie Zeit haben.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Natürlich, ich habe Zeit.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>4:** Ich habe so viel von Ihnen gelernt und ich bin inspiriert von Ihrer Arbeit. Ich möchte ein Physiker wie Sie sein.</p>
+        <sp who="#junger-physiker">
+          <speaker>NEUE PERSON</speaker>
+          <p>4: Ich habe so viel von Ihnen gelernt und ich bin inspiriert von Ihrer Arbeit. Ich möchte ein Physiker wie Sie sein.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Das ist sehr schön zu hören. Ich bin froh, dass ich Sie inspirieren konnte.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>4:** Ich habe eine Frage zu Ihrer Arbeit.</p>
+        <sp who="#junger-physiker">
+          <speaker>NEUE PERSON</speaker>
+          <p>4: Ich habe eine Frage zu Ihrer Arbeit.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Bitte, fragen Sie.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>4:** Ich habe gelesen, dass Sie gesagt haben, dass die Welt ein Rätsel ist. Was meinen Sie damit?</p>
+        <sp who="#junger-physiker">
+          <speaker>NEUE PERSON</speaker>
+          <p>4: Ich habe gelesen, dass Sie gesagt haben, dass die Welt ein Rätsel ist. Was meinen Sie damit?</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ich meine, dass die Welt voller Geheimnisse ist. Wir wissen nur sehr wenig über die Welt und es gibt noch so viel zu lernen.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>4:** Das ist eine spannende Vorstellung. Ich kann es kaum erwarten, mehr zu lernen.</p>
+        <sp who="#junger-physiker">
+          <speaker>NEUE PERSON</speaker>
+          <p>4: Das ist eine spannende Vorstellung. Ich kann es kaum erwarten, mehr zu lernen.</p>
         </sp>
         <sp who="#einstein">
-          <speaker>**Einstein:** :</speaker>
+          <speaker>Einstein: :</speaker>
           <p>Ich wünsche Ihnen viel Erfolg.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>4:** Danke, Herr Einstein.</p>
+        <sp who="#junger-physiker">
+          <speaker>NEUE PERSON</speaker>
+          <p>4: Danke, Herr Einstein.</p>
         </sp>
-        <sp who="#neue person">
-          <speaker>**NEUE PERSON</speaker>
-          <p>4:** <stage>(Er geht.)</stage> **Einstein, die neue Person 2 und die neue Person 3 sprechen weiter über die Arbeit von Einstein.****Das Licht geht aus.****In der nächsten </p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.**</head>
+        <stage>JUNGER PHYSIKER Er geht.)</stage>
+        <stage> Einstein, die neue Person 2 und die neue Person 3 sprechen weiter über die Arbeit von Einstein.Das Licht geht aus.In der nächstenSzene ist Einstein allein im Zimmer. Er ist in Gedanken versunken.</stage>
         <sp who="#einstein">
-          <speaker>**Einstein:** </speaker>
+          <speaker>Einstein: </speaker>
           <stage>(In Gedanken.):</stage>
-          <p> Ich habe ein langes und erfülltes Leben geführt. Ich habe die Welt verändert und ich habe so viele großartige Menschen getroffen. Ich bin dankbar für alles, was ich habe.**Einstein lächelt.****Das Licht geht aus.**</p>
+          <p> Ich habe ein langes und erfülltes Leben geführt. Ich habe die Welt verändert und ich habe so viele großartige Menschen getroffen. Ich bin dankbar für alles, was ich habe.</p>
+          <stage>Einstein lächelt.Das Licht geht aus.</stage>
         </sp>
       </div>
     </body>
