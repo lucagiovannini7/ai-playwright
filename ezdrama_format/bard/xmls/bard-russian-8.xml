@@ -47,7 +47,7 @@
     <body>
       <div type="scene">
         <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
-        <stage>(Картина первая. Комната в доме помещика.)</stage> Входят ГЛУБОВ и САМСОНОВ.<sp who="#hlubov">
+        <stage>(Картина первая. Комната в доме помещика.)</stage><stage> Входят ГЛУБОВ и САМСОНОВ.</stage><sp who="#hlubov">
           <speaker>ГЛУБОВ </speaker>
           <stage>(садится в кресло)</stage>
           <p>. Ну, что, Самсонов, как дела?</p>
@@ -129,7 +129,7 @@
       </div>
       <div type="scene">
         <head>ДЕЙСТВИЕ ВТОРОЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage> Входят ГЛУБОВ, САМСОНОВ и НОВЫЙ ПОКУПАТЕЛЬ.<sp who="#novыj_pokupatel">
+        <stage>(Картина первая. Та же комната.)</stage><stage> Входят ГЛУБОВ, САМСОНОВ и НОВЫЙ ПОКУПАТЕЛЬ.</stage><sp who="#novыj_pokupatel">
           <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
           <p>. Здравствуйте, барин!</p>
         </sp>
@@ -219,13 +219,15 @@
         <sp who="#samsonov">
           <speaker>САМСОНОВ </speaker>
           <stage>(один)</stage>
-          <p>. Вот и все. Новый хозяин у наших земель. Не знаю, что будет дальше. Но я надеюсь, что все будет хорошо.In this act, I have added a new character, a new buyer for the land. I have also removed the character of Распутин. I think this makes the play more interesting, as it introduces a new dynamic between the characters. I have also added some new events, such as the signing of the documents for the sale of the land. I think this makes the play more realistic and engaging.</p>
+          <p>. Вот и все. Новый хозяин у наших земель. Не знаю, что будет дальше. Но я надеюсь, что все будет хорошо.<!-- GPT metacomment: In this act, I have added a new character, a new buyer for the land. I have also removed the character of Распутин. I think this makes the play more interesting, as it introduces a new dynamic between the characters. I have also added some new events, such as the signing of the documents for the sale of the land. I think this makes the play more realistic and engaging. --></p>
         </sp>
         <stage>(САМСОНОВ встает и выходит из комнаты.)</stage>
       </div>
       <div type="scene">
         <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage> Входят ГЛУБОВ, САМСОНОВ и КРЕСТЬЯНИН.<sp who="#krestjanyn">
+        <stage>(Картина первая. Та же комната.)</stage>
+        <stage> Входят ГЛУБОВ, САМСОНОВ и КРЕСТЬЯНИН.</stage>
+        <sp who="#krestjanyn">
           <speaker>КРЕСТЬЯНИН</speaker>
           <p>. Здравствуйте, барин!</p>
         </sp>
@@ -295,13 +297,15 @@
         <sp who="#samsonov">
           <speaker>САМСОНОВ </speaker>
           <stage>(один)</stage>
-          <p>. Вот и все. Мы потеряли все. Не знаю, что будет дальше. Но я не сдамся.In this act, I have added a new character, a peasant who is struggling to pay his rent. I have also removed the character of НОВЫЙ ПОКУПАТЕЛЬ. I think this makes the play more realistic, as it shows the impact of the sale of the land on the people who live there. I have also added some new events, such as the peasant's request for help from the barin. I think this makes the play more engaging and suspenseful.</p>
+          <p>. Вот и все. Мы потеряли все. Не знаю, что будет дальше. Но я не сдамся.<!-- GPT metacomment: In this act, I have added a new character, a peasant who is struggling to pay his rent. I have also removed the character of НОВЫЙ ПОКУПАТЕЛЬ. I think this makes the play more realistic, as it shows the impact of the sale of the land on the people who live there. I have also added some new events, such as the peasant's request for help from the barin. I think this makes the play more engaging and suspenseful. --></p>
         </sp>
         <stage>(САМСОНОВ встает и выходит из комнаты.)</stage>
       </div>
       <div type="scene">
         <head>ДЕЙСТВИЕ ЧЕТВЁRTEЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage> Входят ГЛУБОВ, САМСОНОВ, КРЕСТЬЯНИН и НОВЫЙ ПОКУПАТЕЛЬ.<sp who="#krestjanyn">
+        <stage>(Картина первая. Та же комната.)</stage>
+        <stage> Входят ГЛУБОВ, САМСОНОВ, КРЕСТЬЯНИН и НОВЫЙ ПОКУПАТЕЛЬ.</stage>
+        <sp who="#krestjanyn">
           <speaker>КРЕСТЬЯНИН</speaker>
           <p>. Здравствуйте, барин!</p>
         </sp>
@@ -412,13 +416,15 @@
         <sp who="#samsonov">
           <speaker>САМСОНОВ </speaker>
           <stage>(один)</stage>
-          <p>. Вот и все. Мы снова хозяева на своей земле. Спасибо новому барину.In this act, I have added a new character, a new buyer who is willing to buy the land back from Глуbow. I have also removed the character of КРЕСТЬЯНИН. I think this makes the play more optimistic, as it shows that there is still hope for the peasants. I have also added some new events, such as the sale of the land back to Глуbow. I think this makes the play more satisfying and hopeful.</p>
+          <p>. Вот и все. Мы снова хозяева на своей земле. Спасибо новому барину.<!-- GPT metacomment: In this act, I have added a new character, a new buyer who is willing to buy the land back from Глуbow. I have also removed the character of КРЕСТЬЯНИН. I think this makes the play more optimistic, as it shows that there is still hope for the peasants. I have also added some new events, such as the sale of the land back to Глуbow. I think this makes the play more satisfying and hopeful. --></p>
         </sp>
         <stage>(САМСОНОВ встает и выходит из комнаты.)</stage>
       </div>
       <div type="scene">
         <head>ДЕЙСТВИЕ ПЯТОЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage> Входят ГЛУБОВ, САМСОНОВ, КРЕСТЬЯНЕ, НОВЫЙ ПОКУПАТЕЛЬ и КРЕСТЬЯНИН.<sp who="#krestjane">
+        <stage>(Картина первая. Та же комната.)</stage>
+        <stage> Входят ГЛУБОВ, САМСОНОВ, КРЕСТЬЯНЕ, НОВЫЙ ПОКУПАТЕЛЬ и КРЕСТЬЯНИН.</stage>
+        <sp who="#krestjane">
           <speaker>КРЕСТЬЯНЕ</speaker>
           <p>. Здравствуйте, барин!</p>
         </sp>
@@ -506,7 +512,7 @@
         <sp who="#samsonov">
           <speaker>САМСОНОВ </speaker>
           <stage>(один)</stage>
-          <p>. Вот и все. Мы снова хозяева на своей земле. Спасибо новому барину и спасибо крестьянам.In this act, I have added a new character, a group of крестьяне who come to thank the новый покупатель for buying the land back. I have also removed the character of НОВЫЙ ПОКУПАТЕЛЬ. I think this makes the play more hopeful and optimistic, as it shows that the peasants are grateful for the opportunity to work their land again. I have also added some new events, such as the крестьяне's promise to work hard for the новый покупатель. I think this makes the play more satisfying and hopeful.</p>
+          <p>. Вот и все. Мы снова хозяева на своей земле. Спасибо новому барину и спасибо крестьянам.<!-- GPT metacomment: In this act, I have added a new character, a group of крестьяне who come to thank the новый покупатель for buying the land back. I have also removed the character of НОВЫЙ ПОКУПАТЕЛЬ. I think this makes the play more hopeful and optimistic, as it shows that the peasants are grateful for the opportunity to work their land again. I have also added some new events, such as the крестьяне's promise to work hard for the новый покупатель. I think this makes the play more satisfying and hopeful. --></p>
         </sp>
         <stage>(САМСОНОВ встает и выходит из комнаты.)</stage>
       </div>
