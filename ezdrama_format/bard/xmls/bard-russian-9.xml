@@ -30,9 +30,6 @@
           <person sex="MALE" xml:id="khudozhnyk">
             <persName>ХУДОЖНИК</persName>
           </person>
-          <person sex="MALE" xml:id="khudozhnyk">
-            <persName>**ХУДОЖНИК:**</persName>
-          </person>
           <person sex="MALE" xml:id="hraf_orlov">
             <persName>**ГРАФ ОРЛОВ:**</persName>
           </person>
