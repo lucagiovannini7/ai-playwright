@@ -1,438 +1,439 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="FEMALE" xml:id="starejshaja_krestjanka">
-            <persName>СТАРЕЙШАЯ КРЕСТЬЯНКА</persName>
-          </person>
-          <person sex="MALE" xml:id="novыj_krestjanyn">
-            <persName>НОВЫЙ КРЕСТЬЯНИН</persName>
-          </person>
-          <person sex="FEMALE" xml:id="zhena">
-            <persName>ЖЕНА</persName>
-          </person>
-          <person sex="FEMALE" xml:id="doch">
-            <persName>ДОЧЬ</persName>
-          </person>
-          <person sex="MALE" xml:id="strannыj_chelovek">
-            <persName>СТРАННЫЙ ЧЕЛОВЕК</persName>
-          </person>
-          <person sex="MALE" xml:id="hlava_khozjajstva">
-            <persName>ГЛАВА ХОЗЯЙСТВА</persName>
-          </person>
-          <person sex="MALE" xml:id="krestjanyn">
-            <persName>КРЕСТЬЯНИН</persName>
-          </person>
-          <person sex="MALE" xml:id="sыn">
-            <persName>СЫН</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
-        <stage>(На сцене гостиная в доме помещика. В гостиной сидят ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН и ДОЧЬ.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Что-то неладно в нашем имении.</p>
-        </sp>
-        <sp who="#zhena">
-          <speaker>ЖЕНА: </speaker>
-          <stage>(Обеспокоенно.)</stage>
-          <p> Что ты имеешь в виду?</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(Потирая лоб.)</stage>
-          <p> Не знаю. Просто что-то не так.</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН: </speaker>
-          <stage>(Насмешливо.)</stage>
-          <p> Может быть, ты просто стареешь, батюшка?</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С досадой.)</stage>
-          <p> Не смей так говорить, сынок! Я еще не старый!</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ: </speaker>
-          <stage>(Обеспокоенно.)</stage>
-          <p> Может быть, батюшка, вам нужно отдохнуть?</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(Успокоившись.)</stage>
-          <p> Да, может быть, ты права, дочь. Я просто немного устал.</p>
-        </sp>
-        <stage>(В это время в гостиную входит КРЕСТЬЯНИН.)</stage>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН: </speaker>
-          <stage>(С поклоном.)</stage>
-          <p> Батюшка, к вам из деревни.</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(Взволнованно.)</stage>
-          <p> Что такое? Что случилось?</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Неладно в деревне, батюшка.</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающей тревогой.)</stage>
-          <p> Что ты имеешь в виду?</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН: </speaker>
-          <stage>(Боясь взглянуть на ГЛАВУ ХОЗЯЙСТВА.)</stage>
-          <p> Не знаю, батюшка. Просто что-то не так.</p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА встает и начинает ходить по гостиной.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(Взволнованным голосом.)</stage>
-          <p> Что это значит? Что происходит?</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН: </speaker>
-          <stage>(Не зная, что сказать.)</stage>
-          <p> Не знаю, батюшка.</p>
-        </sp>
-        <stage>(ЖЕНА, СЫН и ДОЧЬ смотрят на ГЛАВУ ХОЗЯЙСТВА с тревогой.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим отчаянием.)</stage>
-          <p> Что же это такое? Что происходит с моим имением?</p>
-        </sp>
-        <stage>(Занавес.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
-        <stage>(На сцене гостиная в доме помещика. В гостиной сидят ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН и ДОЧЬ. Входят КРЕСТЬЯНИН и СТАРЕЙШАЯ КРЕСТЬЯНКА.)</stage>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН: </speaker>
-          <stage>(С поклоном.)</stage>
-          <p> Батюшка, к вам из деревни.</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(Взволнованно.)</stage>
-          <p> Что такое? Что случилось?</p>
-        </sp>
-        <sp who="#starejshaja_krestjanka">
-          <speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Неладно в деревне, батюшка.</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающей тревогой.)</stage>
-          <p> Что ты имеешь в виду?</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН: </speaker>
-          <stage>(Боясь взглянуть на ГЛАВУ ХОЗЯЙСТВА.)</stage>
-          <p> Не знаю, батюшка. Просто что-то не так.</p>
-        </sp>
-        <sp who="#starejshaja_krestjanka">
-          <speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </speaker>
-          <stage>(С нарастающим отчаянием.)</stage>
-          <p> Батюшка, наши дети пропали!</p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА вздрагивает.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим ужасом.)</stage>
-          <p> Что? Что вы говорите?</p>
-        </sp>
-        <sp who="#starejshaja_krestjanka">
-          <speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </speaker>
-          <stage>(Со слезами на глазах.)</stage>
-          <p> Да, батюшка. Наши дети пропали. Мы не знаем, где они.</p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА встает и начинает ходить по гостиной, не в силах поверить в то, что он слышит.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим отчаянием.)</stage>
-          <p> Этого не может быть! Этого не может быть!</p>
-        </sp>
-        <sp who="#zhena">
-          <speaker>ЖЕНА: </speaker>
-          <stage>(С ужасом.)</stage>
-          <p> Что же это такое? Что происходит?</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Где наши дети?</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ: </speaker>
-          <stage>(Со слезами на глазах.)</stage>
-          <p> Я хочу их найти!</p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА останавливается и смотрит на крестьян.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим отчаянием.)</stage>
-          <p> Кто это сделал? Кто взял наших детей?</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН: </speaker>
-          <stage>(Не зная, что сказать.)</stage>
-          <p> Не знаем, батюшка.</p>
-        </sp>
-        <sp who="#starejshaja_krestjanka">
-          <speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </speaker>
-          <stage>(С нарастающим гневом.)</stage>
-          <p> Мы должны найти наших детей! Мы должны найти тех, кто это сделал!</p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА смотрит на крестьян, а затем на свою семью.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим отчаянием.)</stage>
-          <p> Мы найдем наших детей. Мы найдем тех, кто это сделал.<!-- GPT metacomment: In this act, I have added two new characters, the КРЕСТЬЯНИН and the СТАРЕЙШАЯ КРЕСТЬЯНКА. I have also removed the character of the ДОЧЬ, as I felt that her presence was not necessary in this act.I have also added some new events, such as the disappearance of the children and the anger of the крестьяне. I have also changed the tone of the act, making it more urgent and suspenseful.I hope you like this new act. --></p>
-        </sp>
-        <stage>(Занавес.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
-        <stage>(На сцене гостиная в доме помещика. В гостиной сидят ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН и КРЕСТЬЯНИН. Входят СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН.)</stage>
-        <sp who="#starejshaja_krestjanka">
-          <speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Батюшка, наши дети все еще не найдены.</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим отчаянием.)</stage>
-          <p> Я знаю, старушка. Мы делаем все, что можем, чтобы их найти.</p>
-        </sp>
-        <sp who="#novыj_krestjanyn">
-          <speaker>НОВЫЙ КРЕСТЬЯНИН: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Батюшка, я слышал, что в лесу видели странного человека.</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим интересом.)</stage>
-          <p> Что за человек?</p>
-        </sp>
-        <sp who="#novыj_krestjanyn">
-          <speaker>НОВЫЙ КРЕСТЬЯНИН: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Не знаю, батюшка. Говорят, что он высокий и худой, с длинными черными волосами и бородой.</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим подозрением.)</stage>
-          <p> Это может быть он!</p>
-        </sp>
-        <sp who="#zhena">
-          <speaker>ЖЕНА: </speaker>
-          <stage>(С ужасом.)</stage>
-          <p> Кто он?</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим подозрением.)</stage>
-          <p> Не знаю, жена. Но я думаю, что мы должны найти его и выяснить, что он знает о наших детях.</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Я пойду с вами, батюшка.</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим подозрением.)</stage>
-          <p> Хорошо, сын. Мы найдем наших детей.</p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА, его СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН уходят.)</stage>
-        <stage>(В гостиной остаются ЖЕНА и КРЕСТЬЯНИН.)</stage>
-        <sp who="#zhena">
-          <speaker>ЖЕНА: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Я боюсь, что с нашими детьми что-то случилось.</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Я тоже боюсь, матушка. Но мы должны верить, что они живы.</p>
-        </sp>
-        <sp who="#zhena">
-          <speaker>ЖЕНА: </speaker>
-          <stage>(С надеждой.)</stage>
-          <p> Да, мы должны верить.<!-- GPT metacomment: In this act, I have added two new characters, the НОВЫЙ КРЕСТЬЯНИН and the СТАРЕЙШАЯ КРЕСТЬЯНКА. I have also removed the character of the ДОЧЬ, as I felt that her presence was not necessary in this act.I have also added some new events, such as the sighting of a strange man in the forest. I have also changed the tone of the act, making it more suspenseful and mysterious.I hope you like this new act. --></p>
-        </sp>
-        <stage>(ЖЕНА и КРЕСТЬЯНИН обнимаются.)</stage>
-        <stage>(Занавес.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ЧЕТВЕРТое</head>
-        <stage>(На сцене лес. В лесу ГЛАВА ХОЗЯЙСТВА, его СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН. Они идут по тропинке.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим отчаянием.)</stage>
-          <p> Мы уже так долго ищем, а детей все еще нет.</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Не отчаивайтесь, батюшка. Мы их еще найдем.</p>
-        </sp>
-        <sp who="#starejshaja_krestjanka">
-          <speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Я боюсь, что они уже мертвы.</p>
-        </sp>
-        <sp who="#novыj_krestjanyn">
-          <speaker>НОВЫЙ КРЕСТЬЯНИН: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Не говорите так, старушка. Они еще живы.</p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА останавливается и прислушивается.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим подозрением.)</stage>
-          <p> Слышите?</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Что-то?</p>
-        </sp>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим подозрением.)</stage>
-          <p> Да, похоже, что кто-то идет.</p>
-        </sp>
-        <stage>(Все прислушиваются.)</stage>
-        <sp who="#starejshaja_krestjanka">
-          <speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </speaker>
-          <stage>(С тревогой.)</stage>
-          <p> Это он!</p>
-        </sp>
-        <stage>(Все в ужасе смотрят в ту сторону, откуда доносятся звуки.)</stage>
-        <stage>(Входит СТРАННЫЙ ЧЕЛОВЕК. Он высокий и худой, с длинными черными волосами и бородой.)</stage>
-        <sp who="#strannыj_chelovek">
-          <speaker>СТРАННЫЙ ЧЕЛОВЕК: </speaker>
-          <stage>(Смеется.)</stage>
-          <p> А вы меня искали?</p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА, его СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН в ужасе смотрят на СТРАННОГО ЧЕЛОВЕКА.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим подозрением.)</stage>
-          <p> Кто вы?</p>
-        </sp>
-        <sp who="#strannыj_chelovek">
-          <speaker>СТРАННЫЙ ЧЕЛОВЕК: </speaker>
-          <stage>(Смеется.)</stage>
-          <p> Я тот, кто похитил ваших детей.<!-- GPT metacomment: In this act, I have added one new character, the СТРАННЫЙ ЧЕЛОВЕК. I have also removed the character of the ДОЧЬ, as I felt that her presence was not necessary in this act.I have also added some new events, such as the appearance of the СТРАННЫЙ ЧЕЛОВЕК and the kidnapping of the children. I have also changed the tone of the act, making it more suspenseful and horrifying.I hope you like this new act. --></p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА, его СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН в ужасе кричат.)</stage>
-        <stage>(СТРАННЫЙ ЧЕЛОВЕК исчезает в лесу.)</stage>
-        <stage>(ГЛАВА ХОЗЯЙСТВА, его СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН остаются в ужасе на месте.)</stage>
-        <stage>(Занавес.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЯТОЕ</head>
-        <stage>(На сцене гостиная в доме помещика. В гостиной сидят ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН. Входят СТРАННЫЙ ЧЕЛОВЕК и ДВОЕ ДЕТЕЙ.)</stage>
-        <sp who="#strannыj_chelovek">
-          <speaker>СТРАННЫЙ ЧЕЛОВЕК: </speaker>
-          <stage>(Смеется.)</stage>
-          <p> Вот и они, ваши дети.</p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН в ужасе смотрят на СТРАННОГО ЧЕЛОВЕКА и детей.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим подозрением.)</stage>
-          <p> Где вы их взяли?</p>
-        </sp>
-        <sp who="#strannыj_chelovek">
-          <speaker>СТРАННЫЙ ЧЕЛОВЕК: </speaker>
-          <stage>(Смеется.)</stage>
-          <p> Этого вам не нужно знать.</p>
-        </sp>
-        <sp who="#zhena">
-          <speaker>ЖЕНА: </speaker>
-          <stage>(С ужасом.)</stage>
-          <p> Что вы с ними сделали?</p>
-        </sp>
-        <sp who="#strannыj_chelovek">
-          <speaker>СТРАННЫЙ ЧЕЛОВЕК: </speaker>
-          <stage>(Смеется.)</stage>
-          <p> Ничего. Я просто их похитил.</p>
-        </sp>
-        <sp who="#starejshaja_krestjanka">
-          <speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </speaker>
-          <stage>(С ужасом.)</stage>
-          <p> Почему?</p>
-        </sp>
-        <sp who="#strannыj_chelovek">
-          <speaker>СТРАННЫЙ ЧЕЛОВЕК: </speaker>
-          <stage>(Смеется.)</stage>
-          <p> Потому что мне так захотелось.</p>
-        </sp>
-        <sp who="#novыj_krestjanyn">
-          <speaker>НОВЫЙ КРЕСТЬЯНИН: </speaker>
-          <stage>(С нарастающим гневом.)</stage>
-          <p> Вы отпустите их сейчас же!</p>
-        </sp>
-        <sp who="#strannыj_chelovek">
-          <speaker>СТРАННЫЙ ЧЕЛОВЕК: </speaker>
-          <stage>(Смеется.)</stage>
-          <p> И не подумаю.</p>
-        </sp>
-        <stage>(СТРАННЫЙ ЧЕЛОВЕК уходит.)</stage>
-        <stage>(ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН остаются в ужасе на месте.)</stage>
-        <stage>(ДЕТИ плачут.)</stage>
-        <stage>(ЖЕНА подходит к детям и обнимает их.)</stage>
-        <sp who="#zhena">
-          <speaker>ЖЕНА: </speaker>
-          <stage>(С нежностью.)</stage>
-          <p> Не плачьте, мои милые. Мы все равно найдем способ спасти вас.</p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА подходит к СТРАННОМУ ЧЕЛОВЕКУ.)</stage>
-        <sp who="#hlava_khozjajstva">
-          <speaker>ГЛАВА ХОЗЯЙСТВА: </speaker>
-          <stage>(С нарастающим гневом.)</stage>
-          <p> Я вам не позволю делать с ними что-либо!<!-- GPT metacomment: In this act, I have added two new characters, the ДВОЕ ДЕТЕЙ. I have also removed the character of the НОВЫЙ КРЕСТЬЯНИН, as I felt that his presence was not necessary in this act.I have also added some new events, such as the return of the children and the confrontation between the ГЛАВА ХОЗЯЙСТВА and the СТРАННЫЙ ЧЕЛОВЕК. I have also changed the tone of the act, making it more suspenseful and action-packed.I hope you like this new act. --></p>
-        </sp>
-        <stage>(ГЛАВА ХОЗЯЙСТВА бросается на СТРАННОГО ЧЕЛОВЕКА, но тот успевает убежать.)</stage>
-        <stage>(ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН остаются в ужасе на месте.)</stage>
-        <stage>(ДЕТИ продолжают плакать.)</stage>
-        <stage>(Занавес.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-russian-5</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="FEMALE" xml:id="starejshaja_krestjanka">
+            <ns0:persName>СТАРЕЙШАЯ КРЕСТЬЯНКА</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="novыj_krestjanyn">
+            <ns0:persName>НОВЫЙ КРЕСТЬЯНИН</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="zhena">
+            <ns0:persName>ЖЕНА</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="doch">
+            <ns0:persName>ДОЧЬ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="strannыj_chelovek">
+            <ns0:persName>СТРАННЫЙ ЧЕЛОВЕК</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="hlava_khozjajstva">
+            <ns0:persName>ГЛАВА ХОЗЯЙСТВА</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="krestjanyn">
+            <ns0:persName>КРЕСТЬЯНИН</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="sыn">
+            <ns0:persName>СЫН</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЕРВОЕ</ns0:head>
+        <ns0:stage>(На сцене гостиная в доме помещика. В гостиной сидят ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН и ДОЧЬ.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Что-то неладно в нашем имении.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#zhena">
+          <ns0:speaker>ЖЕНА: </ns0:speaker>
+          <ns0:stage>(Обеспокоенно.)</ns0:stage>
+          <ns0:p> Что ты имеешь в виду?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(Потирая лоб.)</ns0:stage>
+          <ns0:p> Не знаю. Просто что-то не так.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН: </ns0:speaker>
+          <ns0:stage>(Насмешливо.)</ns0:stage>
+          <ns0:p> Может быть, ты просто стареешь, батюшка?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С досадой.)</ns0:stage>
+          <ns0:p> Не смей так говорить, сынок! Я еще не старый!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ: </ns0:speaker>
+          <ns0:stage>(Обеспокоенно.)</ns0:stage>
+          <ns0:p> Может быть, батюшка, вам нужно отдохнуть?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(Успокоившись.)</ns0:stage>
+          <ns0:p> Да, может быть, ты права, дочь. Я просто немного устал.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(В это время в гостиную входит КРЕСТЬЯНИН.)</ns0:stage>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(С поклоном.)</ns0:stage>
+          <ns0:p> Батюшка, к вам из деревни.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(Взволнованно.)</ns0:stage>
+          <ns0:p> Что такое? Что случилось?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Неладно в деревне, батюшка.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающей тревогой.)</ns0:stage>
+          <ns0:p> Что ты имеешь в виду?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(Боясь взглянуть на ГЛАВУ ХОЗЯЙСТВА.)</ns0:stage>
+          <ns0:p> Не знаю, батюшка. Просто что-то не так.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА встает и начинает ходить по гостиной.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(Взволнованным голосом.)</ns0:stage>
+          <ns0:p> Что это значит? Что происходит?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(Не зная, что сказать.)</ns0:stage>
+          <ns0:p> Не знаю, батюшка.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ЖЕНА, СЫН и ДОЧЬ смотрят на ГЛАВУ ХОЗЯЙСТВА с тревогой.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим отчаянием.)</ns0:stage>
+          <ns0:p> Что же это такое? Что происходит с моим имением?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Занавес.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ВТОРОЕ</ns0:head>
+        <ns0:stage>(На сцене гостиная в доме помещика. В гостиной сидят ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН и ДОЧЬ. Входят КРЕСТЬЯНИН и СТАРЕЙШАЯ КРЕСТЬЯНКА.)</ns0:stage>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(С поклоном.)</ns0:stage>
+          <ns0:p> Батюшка, к вам из деревни.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(Взволнованно.)</ns0:stage>
+          <ns0:p> Что такое? Что случилось?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#starejshaja_krestjanka">
+          <ns0:speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Неладно в деревне, батюшка.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающей тревогой.)</ns0:stage>
+          <ns0:p> Что ты имеешь в виду?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(Боясь взглянуть на ГЛАВУ ХОЗЯЙСТВА.)</ns0:stage>
+          <ns0:p> Не знаю, батюшка. Просто что-то не так.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#starejshaja_krestjanka">
+          <ns0:speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </ns0:speaker>
+          <ns0:stage>(С нарастающим отчаянием.)</ns0:stage>
+          <ns0:p> Батюшка, наши дети пропали!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА вздрагивает.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим ужасом.)</ns0:stage>
+          <ns0:p> Что? Что вы говорите?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#starejshaja_krestjanka">
+          <ns0:speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </ns0:speaker>
+          <ns0:stage>(Со слезами на глазах.)</ns0:stage>
+          <ns0:p> Да, батюшка. Наши дети пропали. Мы не знаем, где они.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА встает и начинает ходить по гостиной, не в силах поверить в то, что он слышит.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим отчаянием.)</ns0:stage>
+          <ns0:p> Этого не может быть! Этого не может быть!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#zhena">
+          <ns0:speaker>ЖЕНА: </ns0:speaker>
+          <ns0:stage>(С ужасом.)</ns0:stage>
+          <ns0:p> Что же это такое? Что происходит?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Где наши дети?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ: </ns0:speaker>
+          <ns0:stage>(Со слезами на глазах.)</ns0:stage>
+          <ns0:p> Я хочу их найти!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА останавливается и смотрит на крестьян.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим отчаянием.)</ns0:stage>
+          <ns0:p> Кто это сделал? Кто взял наших детей?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(Не зная, что сказать.)</ns0:stage>
+          <ns0:p> Не знаем, батюшка.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#starejshaja_krestjanka">
+          <ns0:speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </ns0:speaker>
+          <ns0:stage>(С нарастающим гневом.)</ns0:stage>
+          <ns0:p> Мы должны найти наших детей! Мы должны найти тех, кто это сделал!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА смотрит на крестьян, а затем на свою семью.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим отчаянием.)</ns0:stage>
+          <ns0:p> Мы найдем наших детей. Мы найдем тех, кто это сделал.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Занавес.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ТРЕТЬЕ</ns0:head>
+        <ns0:stage>(На сцене гостиная в доме помещика. В гостиной сидят ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН и КРЕСТЬЯНИН. Входят СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН.)</ns0:stage>
+        <ns0:sp who="#starejshaja_krestjanka">
+          <ns0:speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Батюшка, наши дети все еще не найдены.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим отчаянием.)</ns0:stage>
+          <ns0:p> Я знаю, старушка. Мы делаем все, что можем, чтобы их найти.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_krestjanyn">
+          <ns0:speaker>НОВЫЙ КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Батюшка, я слышал, что в лесу видели странного человека.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим интересом.)</ns0:stage>
+          <ns0:p> Что за человек?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_krestjanyn">
+          <ns0:speaker>НОВЫЙ КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Не знаю, батюшка. Говорят, что он высокий и худой, с длинными черными волосами и бородой.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим подозрением.)</ns0:stage>
+          <ns0:p> Это может быть он!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#zhena">
+          <ns0:speaker>ЖЕНА: </ns0:speaker>
+          <ns0:stage>(С ужасом.)</ns0:stage>
+          <ns0:p> Кто он?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим подозрением.)</ns0:stage>
+          <ns0:p> Не знаю, жена. Но я думаю, что мы должны найти его и выяснить, что он знает о наших детях.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Я пойду с вами, батюшка.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим подозрением.)</ns0:stage>
+          <ns0:p> Хорошо, сын. Мы найдем наших детей.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА, его СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН уходят.)</ns0:stage>
+        <ns0:stage>(В гостиной остаются ЖЕНА и КРЕСТЬЯНИН.)</ns0:stage>
+        <ns0:sp who="#zhena">
+          <ns0:speaker>ЖЕНА: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Я боюсь, что с нашими детьми что-то случилось.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Я тоже боюсь, матушка. Но мы должны верить, что они живы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#zhena">
+          <ns0:speaker>ЖЕНА: </ns0:speaker>
+          <ns0:stage>(С надеждой.)</ns0:stage>
+          <ns0:p> Да, мы должны верить.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ЖЕНА и КРЕСТЬЯНИН обнимаются.)</ns0:stage>
+        <ns0:stage>(Занавес.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ЧЕТВЕРТое</ns0:head>
+        <ns0:stage>(На сцене лес. В лесу ГЛАВА ХОЗЯЙСТВА, его СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН. Они идут по тропинке.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим отчаянием.)</ns0:stage>
+          <ns0:p> Мы уже так долго ищем, а детей все еще нет.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Не отчаивайтесь, батюшка. Мы их еще найдем.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#starejshaja_krestjanka">
+          <ns0:speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Я боюсь, что они уже мертвы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_krestjanyn">
+          <ns0:speaker>НОВЫЙ КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Не говорите так, старушка. Они еще живы.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА останавливается и прислушивается.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим подозрением.)</ns0:stage>
+          <ns0:p> Слышите?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Что-то?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим подозрением.)</ns0:stage>
+          <ns0:p> Да, похоже, что кто-то идет.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Все прислушиваются.)</ns0:stage>
+        <ns0:sp who="#starejshaja_krestjanka">
+          <ns0:speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </ns0:speaker>
+          <ns0:stage>(С тревогой.)</ns0:stage>
+          <ns0:p> Это он!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Все в ужасе смотрят в ту сторону, откуда доносятся звуки.)</ns0:stage>
+        <ns0:stage>(Входит СТРАННЫЙ ЧЕЛОВЕК. Он высокий и худой, с длинными черными волосами и бородой.)</ns0:stage>
+        <ns0:sp who="#strannыj_chelovek">
+          <ns0:speaker>СТРАННЫЙ ЧЕЛОВЕК: </ns0:speaker>
+          <ns0:stage>(Смеется.)</ns0:stage>
+          <ns0:p> А вы меня искали?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА, его СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН в ужасе смотрят на СТРАННОГО ЧЕЛОВЕКА.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим подозрением.)</ns0:stage>
+          <ns0:p> Кто вы?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#strannыj_chelovek">
+          <ns0:speaker>СТРАННЫЙ ЧЕЛОВЕК: </ns0:speaker>
+          <ns0:stage>(Смеется.)</ns0:stage>
+          <ns0:p> Я тот, кто похитил ваших детей.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА, его СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН в ужасе кричат.)</ns0:stage>
+        <ns0:stage>(СТРАННЫЙ ЧЕЛОВЕК исчезает в лесу.)</ns0:stage>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА, его СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН остаются в ужасе на месте.)</ns0:stage>
+        <ns0:stage>(Занавес.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЯТОЕ</ns0:head>
+        <ns0:stage>(На сцене гостиная в доме помещика. В гостиной сидят ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН. Входят СТРАННЫЙ ЧЕЛОВЕК и ДВОЕ ДЕТЕЙ.)</ns0:stage>
+        <ns0:sp who="#strannыj_chelovek">
+          <ns0:speaker>СТРАННЫЙ ЧЕЛОВЕК: </ns0:speaker>
+          <ns0:stage>(Смеется.)</ns0:stage>
+          <ns0:p> Вот и они, ваши дети.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН в ужасе смотрят на СТРАННОГО ЧЕЛОВЕКА и детей.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим подозрением.)</ns0:stage>
+          <ns0:p> Где вы их взяли?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#strannыj_chelovek">
+          <ns0:speaker>СТРАННЫЙ ЧЕЛОВЕК: </ns0:speaker>
+          <ns0:stage>(Смеется.)</ns0:stage>
+          <ns0:p> Этого вам не нужно знать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#zhena">
+          <ns0:speaker>ЖЕНА: </ns0:speaker>
+          <ns0:stage>(С ужасом.)</ns0:stage>
+          <ns0:p> Что вы с ними сделали?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#strannыj_chelovek">
+          <ns0:speaker>СТРАННЫЙ ЧЕЛОВЕК: </ns0:speaker>
+          <ns0:stage>(Смеется.)</ns0:stage>
+          <ns0:p> Ничего. Я просто их похитил.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#starejshaja_krestjanka">
+          <ns0:speaker>СТАРЕЙШАЯ КРЕСТЬЯНКА: </ns0:speaker>
+          <ns0:stage>(С ужасом.)</ns0:stage>
+          <ns0:p> Почему?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#strannыj_chelovek">
+          <ns0:speaker>СТРАННЫЙ ЧЕЛОВЕК: </ns0:speaker>
+          <ns0:stage>(Смеется.)</ns0:stage>
+          <ns0:p> Потому что мне так захотелось.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_krestjanyn">
+          <ns0:speaker>НОВЫЙ КРЕСТЬЯНИН: </ns0:speaker>
+          <ns0:stage>(С нарастающим гневом.)</ns0:stage>
+          <ns0:p> Вы отпустите их сейчас же!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#strannыj_chelovek">
+          <ns0:speaker>СТРАННЫЙ ЧЕЛОВЕК: </ns0:speaker>
+          <ns0:stage>(Смеется.)</ns0:stage>
+          <ns0:p> И не подумаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(СТРАННЫЙ ЧЕЛОВЕК уходит.)</ns0:stage>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН остаются в ужасе на месте.)</ns0:stage>
+        <ns0:stage>(ДЕТИ плачут.)</ns0:stage>
+        <ns0:stage>(ЖЕНА подходит к детям и обнимает их.)</ns0:stage>
+        <ns0:sp who="#zhena">
+          <ns0:speaker>ЖЕНА: </ns0:speaker>
+          <ns0:stage>(С нежностью.)</ns0:stage>
+          <ns0:p> Не плачьте, мои милые. Мы все равно найдем способ спасти вас.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА подходит к СТРАННОМУ ЧЕЛОВЕКУ.)</ns0:stage>
+        <ns0:sp who="#hlava_khozjajstva">
+          <ns0:speaker>ГЛАВА ХОЗЯЙСТВА: </ns0:speaker>
+          <ns0:stage>(С нарастающим гневом.)</ns0:stage>
+          <ns0:p> Я вам не позволю делать с ними что-либо!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА бросается на СТРАННОГО ЧЕЛОВЕКА, но тот успевает убежать.)</ns0:stage>
+        <ns0:stage>(ГЛАВА ХОЗЯЙСТВА, его ЖЕНА, их СЫН, СТАРЕЙШАЯ КРЕСТЬЯНКА и НОВЫЙ КРЕСТЬЯНИН остаются в ужасе на месте.)</ns0:stage>
+        <ns0:stage>(ДЕТИ продолжают плакать.)</ns0:stage>
+        <ns0:stage>(Занавес.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

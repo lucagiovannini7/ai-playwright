@@ -1,509 +1,510 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="FEMALE" xml:id="claire">
-            <persName>CLAIRE</persName>
-          </person>
-          <person sex="MALE" xml:id="un-homme">
-            <persName>UN HOMME</persName>
-          </person>
-          <person sex="FEMALE" xml:id="marie">
-            <persName>MARIE</persName>
-          </person>
-          <person sex="MALE" xml:id="une-femme">
-            <persName>UNE FEMME</persName>
-          </person>
-          <person sex="MALE" xml:id="le-marié">
-            <persName>LE MARIÉ</persName>
-          </person>
-          <person sex="MALE" xml:id="jean">
-            <persName>JEAN</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="act">
-        <head>Acte I</head></div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>INTÉRIEUR D'UN SALON</stage>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>, une jeune femme de la haute société, est assise sur un canapé. Elle est en proie à la tristesse.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Ah, si seulement je pouvais oublier... Mais comment oublier un amour impossible ?Entre</p>
-        </sp>
-        <stage>(seul)</stage>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>, sa confidente.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Claire, que se passe-t-il ? Tu as l'air si triste.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Oh, Marie, je ne sais pas quoi faire. Je suis amoureuse d'un homme que je ne peux pas avoir.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Qui est cet homme ?</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>C'est un homme marié. Il ne peut pas quitter sa femme.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Je comprends ta peine, Claire. Mais tu ne dois pas désespérer. Il y a d'autres hommes dans le monde.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je sais, Marie. Mais je ne peux pas m'empêcher de penser à lui.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Je sais que c'est difficile, Claire. Mais tu dois essayer d'oublier.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>J'essaie, Marie. Mais c'est plus facile à dire qu'à faire.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Je sais. Mais tu dois t'accrocher. Il y a une vie qui t'attend.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Merci, Marie. Tu es une amie formidable.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Je suis là pour toi, Claire.Claire et Marie s'embrassent.Fin de la scène</p>
-        </sp>
-      </div>
-      <div type="act">
-        <head>Acte II</head></div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>INTÉRIEUR D'UN JARDIN</stage>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>est assise sur un banc, en train de lire un livre. Elle est pensive.Entre</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>, un jeune homme.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Bonjour, Claire.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Bonjour, Jean.</p>
-        </sp>
-        <stage>(sursaute)</stage>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Tu as l'air préoccupée.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je suis un peu.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Peux-tu me parler de ce qui te trouble ?</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je suis amoureuse d'un homme que je ne peux pas avoir.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Je comprends. C'est une situation difficile.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Oui, c'est vrai.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Mais tu ne dois pas désespérer. Il y a d'autres hommes dans le monde.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je sais, Jean. Mais je ne peux pas m'empêcher de penser à lui.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Je sais que c'est difficile, Claire. Mais tu dois essayer d'oublier.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>J'essaie, Jean. Mais c'est plus facile à dire qu'à faire.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Je sais. Mais tu dois t'accrocher. Il y a une vie qui t'attend.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Merci, Jean. Tu es un ami formidable.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Je suis là pour toi, Claire.Claire et Jean s'embrassent.Entre</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>, la confidente de Claire.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Claire ! Je te cherchais partout.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Marie ! Je suis contente de te voir.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Qu'est-ce qui se passe ? Tu as l'air si heureuse.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je suis heureuse parce que je viens de m'embrasser avec Jean.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Jean ? Le jeune homme que tu as rencontré au bal ?</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Oui, c'est lui.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Je suis ravie pour toi, Claire.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Merci, Marie.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Je vois que tu as oublié ton amour impossible.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Oui, je crois que j'ai enfin oublié.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE</speaker>
-          <p>Je suis contente pour toi.Claire, Jean et Marie s'embrassent.Fin de la scèneIn this second act, I have added the character of Jean, a young man who Claire meets at a ball. Jean is kind and understanding, and he helps Claire to forget her love for the married man. I have also removed the character of Marie, as she is no longer necessary to the plot. The tone of the second act is more hopeful than the first act, as Claire finally seems to be moving on with her life.</p>
-        </sp>
-      </div>
-      <div type="act">
-        <head>Acte III</head></div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>INTÉRIEUR D'UNE SALLE DE BAL</stage>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>est au bal avec JEAN. Ils sont heureux ensemble.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je suis si heureuse d'être avec toi, Jean.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Moi aussi, Claire. Je t'aime.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je t'aime aussi, Jean.</p>
-        </sp>
-        <stage>Ils s'embrassent.Entre LE MARIÉ, l'homme que Claire aime.</stage>
-        <sp who="#le-marié">
-          <speaker>LE MARIÉ</speaker>
-          <p>Claire ! Qu'est-ce que tu fais ici ?</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je suis avec Jean.</p>
-        </sp>
-        <sp who="#le-marié">
-          <speaker>LE MARIÉ</speaker>
-          <p>Jean ? Mais tu es ma femme !</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je ne suis plus ta femme. Je suis libre.</p>
-        </sp>
-        <sp who="#le-marié">
-          <speaker>LE MARIÉ</speaker>
-          <p>Tu ne peux pas me quitter ! Je t'aime !</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je ne t'aime plus. Je t'ai oublié.</p>
-        </sp>
-        <sp who="#le-marié">
-          <speaker>LE MARIÉ</speaker>
-          <p>Tu ne peux pas me faire ça !</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je peux, et je le fais.</p>
-        </sp>
-        <sp who="#le-marié">
-          <speaker>LE MARIÉ</speaker>
-          <p>Tu vas le payer cher !</p>
-        </sp>
-        <stage>LE MARIÉ sort de la salle de bal en furie.</stage>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Il est parti.</p>
-        </sp>
-        <stage>(à Jean)</stage>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Je suis content pour toi, Claire.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Moi aussi. Je suis enfin libre.Ils s'embrassent à nouveau.Fin de la scèneIn this third act, I have added the character of the married man, who comes to the ball to confront Claire. The married man is angry and threatening, but Claire stands up to him and tells him that she is no longer his wife. The married man leaves, and Claire and Jean are finally free to be together. The tone of the third act is triumphant, as Claire finally achieves her happy ending.</p>
-        </sp>
-      </div>
-      <div type="act">
-        <head>Acte IV</head></div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>INTÉRIEUR D'UN APPARTEMENT</stage>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>et JEAN sont assis sur un canapé. Ils sont mariés depuis quelques mois, et ils sont très heureux ensemble.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je suis si heureuse, Jean. Je n'aurais jamais cru que je pourrais être aussi heureuse.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Moi non plus. Je t'aime tellement, Claire.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Moi aussi, Jean. Je t'aime plus que tout au monde.</p>
-        </sp>            
-        <stage> Ils s'embrassent. Entre UN HOMME, un ami de Jean.</stage>
-        <sp who="#un-homme">
-          <speaker>HOMME</speaker>
-          <p>Bonjour, Claire. Bonjour, Jean.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Bonjour, ami.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Bonjour, ami.</p>
-        </sp>
-        <sp who="#un-homme">
-          <speaker>HOMME</speaker>
-          <p>Je suis venu vous annoncer une bonne nouvelle.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Quelle bonne nouvelle ?</p>
-        </sp>
-        <sp who="#un-homme">
-          <speaker>HOMME</speaker>
-          <p>J'ai reçu une lettre de mon père. Il me dit qu'il a trouvé un emploi pour moi à Paris.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Paris ? C'est merveilleux !</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Oui, c'est une grande chance.</p>
-        </sp>
-        <sp who="#un-homme">
-          <speaker>HOMME</speaker>
-          <p>Je sais. Je suis très heureux.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Et nous, Jean ? On va aller à Paris ?</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Bien sûr, Claire. Nous irons à Paris ensemble.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je suis si contente !Ils s'embrassent.</p>
-        </sp>
-        <sp who="#un-homme">
-          <speaker>HOMME</speaker>
-          <p>Je suis content pour vous.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Merci, ami.</p>
-        </sp>
-        <sp who="#un-homme">
-          <speaker>HOMME</speaker>
-          <p>Je dois partir maintenant. Je vais faire mes valises.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>D'accord, ami. Bon voyage.</p>
-        </sp>
-        <sp who="#un-homme">
-          <speaker>HOMME</speaker>
-          <p>Merci, Jean. A bientôt.</p>
-        </sp>
-        <stage>L'homme sort.</stage>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Paris ! Je suis si contente !</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Moi aussi, Claire. Nous allons faire de grandes choses à Paris.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je sais, Jean. Je sais.Ils s'embrassent.Fin de la scèneIn this fourth act, I have added the character of the friend, who brings good news that Jean has found a job in Paris. Claire and Jean are excited to move to Paris together, and they are confident that they will make a success of their new life together. The tone of the fourth act is hopeful and optimistic, as Claire and Jean look forward to their new future in Paris.</p>
-        </sp>
-      </div>
-      <div type="act">
-        <head>Acte V</head></div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>INTÉRIEUR D'UN APPARTEMENT À PARIS</stage>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>et JEAN sont assis sur un canapé. Ils sont mariés depuis quelques années, et ils ont une petite fille. Ils sont heureux ensemble, mais ils sont aussi un peu nostalgiques de leur vie d'avant.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je me demande comment on a fait pour arriver là.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Je ne sais pas. Mais je suis content d'être ici, avec toi et notre fille.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Moi aussi. Je ne sais pas ce que je ferais sans toi.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Je ne sais pas non plus.Ils s'embrassent.</p>
-        </sp>
-        <stage>Entre UNE FEMME, une amie de Claire.</stage>
-        <sp who="#une-femme">
-          <speaker>FEMME</speaker>
-          <p>Bonjour, Claire. Bonjour, Jean.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Bonjour, Marie.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Bonjour, Marie.</p>
-        </sp>
-        <sp who="#une-femme">
-          <speaker>FEMME</speaker>
-          <p>Je suis venue vous voir pour vous inviter à une fête.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Une fête ?</p>
-        </sp>
-        <sp who="#une-femme">
-          <speaker>FEMME</speaker>
-          <p>Oui, une fête pour célébrer votre anniversaire de mariage.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Oh, c'est gentil de ta part.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Merci, Marie.</p>
-        </sp>
-        <sp who="#une-femme">
-          <speaker>FEMME</speaker>
-          <p>Je sais que vous êtes tous les deux très occupés, mais j'espère que vous pourrez venir.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Bien sûr que nous viendrons.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Oui, nous serons là.</p>
-        </sp>
-        <sp who="#une-femme">
-          <speaker>FEMME</speaker>
-          <p>C'est parfait. Je vous enverrai les détails plus tard.</p>
-        </sp>
-        <stage>FEMME sort.</stage>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Une fête pour notre anniversaire de mariage ?</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>Oui, c'est une bonne idée.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Je ne sais pas si nous avons le temps.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN</speaker>
-          <p>On trouvera le temps. C'est important pour nous.</p>
-        </sp>
-        <sp who="#claire">
-          <speaker>CLAIRE</speaker>
-          <p>Tu as raison. On ira à la fête.Ils s'embrassent.Fin de la scèneIn this fifth and final act, I have added the character of Marie, who invites Claire and Jean to a party to celebrate their anniversary. Claire and Jean are initially hesitant to go, but they eventually agree to attend. The tone of the fifth act is bittersweet, as Claire and Jean reflect on their past and look forward to their future together.</p>
-        </sp>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-french-3</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="FEMALE" xml:id="claire">
+            <ns0:persName>CLAIRE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="un-homme">
+            <ns0:persName>UN HOMME</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="marie">
+            <ns0:persName>MARIE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="une-femme">
+            <ns0:persName>UNE FEMME</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="le-marié">
+            <ns0:persName>LE MARIÉ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="jean">
+            <ns0:persName>JEAN</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="act">
+        <ns0:head>Acte I</ns0:head></ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>INTÉRIEUR D'UN SALON</ns0:stage>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>, une jeune femme de la haute société, est assise sur un canapé. Elle est en proie à la tristesse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Ah, si seulement je pouvais oublier... Mais comment oublier un amour impossible ?Entre</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(seul)</ns0:stage>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>, sa confidente.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Claire, que se passe-t-il ? Tu as l'air si triste.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Oh, Marie, je ne sais pas quoi faire. Je suis amoureuse d'un homme que je ne peux pas avoir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Qui est cet homme ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>C'est un homme marié. Il ne peut pas quitter sa femme.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Je comprends ta peine, Claire. Mais tu ne dois pas désespérer. Il y a d'autres hommes dans le monde.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je sais, Marie. Mais je ne peux pas m'empêcher de penser à lui.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Je sais que c'est difficile, Claire. Mais tu dois essayer d'oublier.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>J'essaie, Marie. Mais c'est plus facile à dire qu'à faire.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Je sais. Mais tu dois t'accrocher. Il y a une vie qui t'attend.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Merci, Marie. Tu es une amie formidable.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Je suis là pour toi, Claire.Claire et Marie s'embrassent.Fin de la scène</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>Acte II</ns0:head></ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>INTÉRIEUR D'UN JARDIN</ns0:stage>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>est assise sur un banc, en train de lire un livre. Elle est pensive.Entre</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>, un jeune homme.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Bonjour, Claire.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Bonjour, Jean.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(sursaute)</ns0:stage>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Tu as l'air préoccupée.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je suis un peu.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Peux-tu me parler de ce qui te trouble ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je suis amoureuse d'un homme que je ne peux pas avoir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Je comprends. C'est une situation difficile.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Oui, c'est vrai.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Mais tu ne dois pas désespérer. Il y a d'autres hommes dans le monde.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je sais, Jean. Mais je ne peux pas m'empêcher de penser à lui.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Je sais que c'est difficile, Claire. Mais tu dois essayer d'oublier.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>J'essaie, Jean. Mais c'est plus facile à dire qu'à faire.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Je sais. Mais tu dois t'accrocher. Il y a une vie qui t'attend.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Merci, Jean. Tu es un ami formidable.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Je suis là pour toi, Claire.Claire et Jean s'embrassent.Entre</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>, la confidente de Claire.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Claire ! Je te cherchais partout.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Marie ! Je suis contente de te voir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Qu'est-ce qui se passe ? Tu as l'air si heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je suis heureuse parce que je viens de m'embrasser avec Jean.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Jean ? Le jeune homme que tu as rencontré au bal ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Oui, c'est lui.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Je suis ravie pour toi, Claire.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Merci, Marie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Je vois que tu as oublié ton amour impossible.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Oui, je crois que j'ai enfin oublié.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE</ns0:speaker>
+          <ns0:p>Je suis contente pour toi.Claire, Jean et Marie s'embrassent.Fin de la scèneIn this second act, I have added the character of Jean, a young man who Claire meets at a ball. Jean is kind and understanding, and he helps Claire to forget her love for the married man. I have also removed the character of Marie, as she is no longer necessary to the plot. The tone of the second act is more hopeful than the first act, as Claire finally seems to be moving on with her life.</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>Acte III</ns0:head></ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>INTÉRIEUR D'UNE SALLE DE BAL</ns0:stage>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>est au bal avec JEAN. Ils sont heureux ensemble.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je suis si heureuse d'être avec toi, Jean.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Moi aussi, Claire. Je t'aime.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je t'aime aussi, Jean.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>Ils s'embrassent.Entre LE MARIÉ, l'homme que Claire aime.</ns0:stage>
+        <ns0:sp who="#le-marié">
+          <ns0:speaker>LE MARIÉ</ns0:speaker>
+          <ns0:p>Claire ! Qu'est-ce que tu fais ici ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je suis avec Jean.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-marié">
+          <ns0:speaker>LE MARIÉ</ns0:speaker>
+          <ns0:p>Jean ? Mais tu es ma femme !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je ne suis plus ta femme. Je suis libre.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-marié">
+          <ns0:speaker>LE MARIÉ</ns0:speaker>
+          <ns0:p>Tu ne peux pas me quitter ! Je t'aime !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je ne t'aime plus. Je t'ai oublié.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-marié">
+          <ns0:speaker>LE MARIÉ</ns0:speaker>
+          <ns0:p>Tu ne peux pas me faire ça !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je peux, et je le fais.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-marié">
+          <ns0:speaker>LE MARIÉ</ns0:speaker>
+          <ns0:p>Tu vas le payer cher !</ns0:p>
+        </ns0:sp>
+        <ns0:stage>LE MARIÉ sort de la salle de bal en furie.</ns0:stage>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Il est parti.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(à Jean)</ns0:stage>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Je suis content pour toi, Claire.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Moi aussi. Je suis enfin libre.Ils s'embrassent à nouveau.Fin de la scèneIn this third act, I have added the character of the married man, who comes to the ball to confront Claire. The married man is angry and threatening, but Claire stands up to him and tells him that she is no longer his wife. The married man leaves, and Claire and Jean are finally free to be together. The tone of the third act is triumphant, as Claire finally achieves her happy ending.</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>Acte IV</ns0:head></ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>INTÉRIEUR D'UN APPARTEMENT</ns0:stage>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>et JEAN sont assis sur un canapé. Ils sont mariés depuis quelques mois, et ils sont très heureux ensemble.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je suis si heureuse, Jean. Je n'aurais jamais cru que je pourrais être aussi heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Moi non plus. Je t'aime tellement, Claire.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Moi aussi, Jean. Je t'aime plus que tout au monde.</ns0:p>
+        </ns0:sp>            
+        <ns0:stage> Ils s'embrassent. Entre UN HOMME, un ami de Jean.</ns0:stage>
+        <ns0:sp who="#un-homme">
+          <ns0:speaker>HOMME</ns0:speaker>
+          <ns0:p>Bonjour, Claire. Bonjour, Jean.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Bonjour, ami.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Bonjour, ami.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#un-homme">
+          <ns0:speaker>HOMME</ns0:speaker>
+          <ns0:p>Je suis venu vous annoncer une bonne nouvelle.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Quelle bonne nouvelle ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#un-homme">
+          <ns0:speaker>HOMME</ns0:speaker>
+          <ns0:p>J'ai reçu une lettre de mon père. Il me dit qu'il a trouvé un emploi pour moi à Paris.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Paris ? C'est merveilleux !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Oui, c'est une grande chance.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#un-homme">
+          <ns0:speaker>HOMME</ns0:speaker>
+          <ns0:p>Je sais. Je suis très heureux.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Et nous, Jean ? On va aller à Paris ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Bien sûr, Claire. Nous irons à Paris ensemble.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je suis si contente !Ils s'embrassent.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#un-homme">
+          <ns0:speaker>HOMME</ns0:speaker>
+          <ns0:p>Je suis content pour vous.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Merci, ami.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#un-homme">
+          <ns0:speaker>HOMME</ns0:speaker>
+          <ns0:p>Je dois partir maintenant. Je vais faire mes valises.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>D'accord, ami. Bon voyage.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#un-homme">
+          <ns0:speaker>HOMME</ns0:speaker>
+          <ns0:p>Merci, Jean. A bientôt.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>L'homme sort.</ns0:stage>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Paris ! Je suis si contente !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Moi aussi, Claire. Nous allons faire de grandes choses à Paris.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je sais, Jean. Je sais.Ils s'embrassent.Fin de la scèneIn this fourth act, I have added the character of the friend, who brings good news that Jean has found a job in Paris. Claire and Jean are excited to move to Paris together, and they are confident that they will make a success of their new life together. The tone of the fourth act is hopeful and optimistic, as Claire and Jean look forward to their new future in Paris.</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>Acte V</ns0:head></ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>INTÉRIEUR D'UN APPARTEMENT À PARIS</ns0:stage>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>et JEAN sont assis sur un canapé. Ils sont mariés depuis quelques années, et ils ont une petite fille. Ils sont heureux ensemble, mais ils sont aussi un peu nostalgiques de leur vie d'avant.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je me demande comment on a fait pour arriver là.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Je ne sais pas. Mais je suis content d'être ici, avec toi et notre fille.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Moi aussi. Je ne sais pas ce que je ferais sans toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Je ne sais pas non plus.Ils s'embrassent.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>Entre UNE FEMME, une amie de Claire.</ns0:stage>
+        <ns0:sp who="#une-femme">
+          <ns0:speaker>FEMME</ns0:speaker>
+          <ns0:p>Bonjour, Claire. Bonjour, Jean.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Bonjour, Marie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Bonjour, Marie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#une-femme">
+          <ns0:speaker>FEMME</ns0:speaker>
+          <ns0:p>Je suis venue vous voir pour vous inviter à une fête.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Une fête ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#une-femme">
+          <ns0:speaker>FEMME</ns0:speaker>
+          <ns0:p>Oui, une fête pour célébrer votre anniversaire de mariage.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Oh, c'est gentil de ta part.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Merci, Marie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#une-femme">
+          <ns0:speaker>FEMME</ns0:speaker>
+          <ns0:p>Je sais que vous êtes tous les deux très occupés, mais j'espère que vous pourrez venir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Bien sûr que nous viendrons.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Oui, nous serons là.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#une-femme">
+          <ns0:speaker>FEMME</ns0:speaker>
+          <ns0:p>C'est parfait. Je vous enverrai les détails plus tard.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>FEMME sort.</ns0:stage>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Une fête pour notre anniversaire de mariage ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>Oui, c'est une bonne idée.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Je ne sais pas si nous avons le temps.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN</ns0:speaker>
+          <ns0:p>On trouvera le temps. C'est important pour nous.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#claire">
+          <ns0:speaker>CLAIRE</ns0:speaker>
+          <ns0:p>Tu as raison. On ira à la fête.Ils s'embrassent.Fin de la scèneIn this fifth and final act, I have added the character of Marie, who invites Claire and Jean to a party to celebrate their anniversary. Claire and Jean are initially hesitant to go, but they eventually agree to attend. The tone of the fifth act is bittersweet, as Claire and Jean reflect on their past and look forward to their future together.</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

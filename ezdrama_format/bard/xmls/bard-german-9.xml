@@ -1,603 +1,604 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="herzog">
-            <persName>HERZOG:</persName>
-          </person>
-          <person sex="MALE" xml:id="hüter">
-            <persName>HÜTER:</persName>
-          </person>
-          <person sex="MALE" xml:id="kronprinz">
-            <persName>KRONPRINZ:</persName>
-          </person>
-          <person sex="MALE" xml:id="bauerstochter">
-            <persName>BAUERSTOCHTER:</persName>
-          </person>
-          <person sex="FEMALE" xml:id="königin">
-            <persName>KÖNIGIN:</persName>
-          </person>
-          <person sex="MALE" xml:id="könig">
-            <persName>KÖNIG:</persName>
-          </person>
-          <person sex="MALE" xml:id="dorfbewohner-1">
-            <persName>DORFBEWOHNER 1:</persName>
-          </person>
-          <person sex="MALE" xml:id="dorfbewohner-2">
-            <persName>DORFBEWOHNER 2:</persName>
-          </person>        
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>Szene 1</head>  
-          <stage>EINZIGER BILD</stage>
-          <stage>Ein mittelalterliches Zimmer in einem Schloss.</stage>
-          <stage>EIN HERZOG >sitzt in einem Lehnstuhl und liest einen Brief.</stage>
-        <sp who="#herzog">
-          <speaker>HERZOG: </speaker>
-          <stage>(liest den Brief)</stage>
-          <p> "Mein lieber Herzog,Ich schreibe Ihnen, um Sie über einen dringenden Angelegenheit zu informieren. Mein Sohn, der Kronprinz, hat sich in eine Bauerstochter verliebt. Ich weiß, dass dies für Sie ein Schock sein wird, aber ich bitte Sie, mir zu glauben, dass ich alles getan habe, um ihn davon abzubringen. Ich habe ihm die Vorzüge einer standesgemäßen Ehe dargelegt, aber er bleibt unerbittlich.Ich weiß, dass Sie ein gerechter und verständiger Mann sind. Bitte helfen Sie mir, meinen Sohn zu überreden, diese impulsive Entscheidung zu überdenken.Mit freundlichen Grüßen,Ihr ergebener,Graf"</p>
-          <stage>Der HERZOG legt den Brief weg und starrt ins Leere.</stage>
-        </sp>
-        <sp who="#herzog">
-          <speaker>HERZOG: </speaker>
-          <stage>(zu sich selbst)</stage>
-          <p> Was soll ich tun? Mein Sohn ist mein Erbe, und ich kann es nicht zulassen, dass er eine Bauernstochter heiratet. Aber ich möchte auch nicht, dass er unglücklich wird.  </p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>  
-        <stage>EIN KRONPRINZ tritt in das Zimmer.</stage>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Vater, ich habe etwas zu sagen.</p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>Was ist es, mein Sohn?</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich habe mich in eine Frau verliebt.</p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>In eine Frau? Wer ist sie?</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Sie ist eine Bauerstochter.</p>
-          <stage>Der HERZOG ist fassungslos.</stage>
-        </sp>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>Was hast du gesagt? Du hast dich in eine Bauerstochter verliebt?</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ja, Vater. Ich weiß, dass es für Sie ein Schock ist, aber ich kann es nicht ändern. Ich liebe sie.</p>
-        </sp>
-        <stage>Der HERZOG steht auf und geht auf den KRONPRINZ zu.</stage>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>Mein Sohn, du musst mir zuhören. Du kannst nicht mit einer Bauerstochter zusammen sein. Es ist nicht standesgemäß.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich weiß, dass es nicht standesgemäß ist. Aber ich liebe sie. Und ich möchte mit ihr zusammen sein.</p>
-        </sp>
-        <stage>Der HERZOG ist wütend.</stage>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>Du bist mein Sohn, und ich befehle dir, diese Beziehung zu beenden.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich kann es nicht beenden. Ich liebe sie.</p>
-          <stage>Der HERZOG schlägt dem KRONPRINZ ins Gesicht.</stage>
-        </sp>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>Du gehorchst mir nicht, dann wirst du es lernen!</p>
-          <stage>Der KRONPRINZ bricht zusammen.</stage>
-        </sp>
-        <sp who="#herzog">
-          <speaker>HERZOG: </speaker>
-          <stage>(zu sich selbst)</stage>
-          <p> Was habe ich getan?  </p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>  
-        <stage>Der HERZOG ist allein im Zimmer. Er geht zu dem Lehnstuhl und setzt sich hin. Er ist verzweifelt.</stage>
-        <sp who="#herzog">
-          <speaker>HERZOG: </speaker>
-          <stage>(zu sich selbst)</stage>
-          <p> Was habe ich getan? Ich habe meinen Sohn geschlagen. Ich habe ihn verletzt.</p>
-          <stage>Er holt ein Taschentuch heraus und trocknet sich die Augen.</stage>
-        </sp>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>Ich muss ihn finden. Ich muss mich entschuldigen.</p>
-          <stage>Er steht auf und geht aus dem Zimmer. </stage>
-          <stage>The end of the first act.</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 1</head>  
-          <stage>ZWEITER BILD</stage>
-          <stage>Ein Wald.</stage>
-          <stage>DER KRONPRINZ sitzt auf einem Baumstamm und starrt ins Leere. Er ist verzweifelt.</stage>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ: </speaker>
-          <stage>(zu sich selbst)</stage>
-          <p> Was soll ich tun? Ich kann nicht zu Hause zurückgehen. Mein Vater wird mich nicht mehr akzeptieren.</p>
-          <stage>Er holt ein Taschentuch heraus und trocknet sich die Augen.</stage>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich muss weg. Ich muss sie finden.  </p>
-          <stage>Er steht auf und geht in den Wald.</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head> 
-        <stage>EINE BAUERSTOCHTER kommt aus dem Wald. Sie ist verzweifelt.</stage>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER: </speaker>
-          <stage>(zu sich selbst)</stage>
-          <p> Was soll ich tun? Ich kann nicht zu Hause zurückgehen. Mein Vater wird mich nicht mehr akzeptieren.</p>
-          <stage>Sie holt ein Taschentuch heraus und trocknet sich die Augen.</stage>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich muss weg. Ich muss ihn finden.  </p>
-          <stage>Sie geht in die andere Richtung.</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>  
-          <stage>DER KRONPRINZ und DIE BAUERSTOCHTER treffen sich im Wald. Sie sind beide verzweifelt.</stage>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Du bist hier?</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ja, ich bin hier.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich habe dich gesucht.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich habe dich auch gesucht.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich kann nicht zu Hause zurückgehen.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich kann nicht zu Hause zurückgehen.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Was sollen wir tun?</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich weiß nicht.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Wir müssen weg. Wir müssen uns ein neues Leben suchen.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ja, wir müssen</p>
-          <stage>Sie umarmen sich.</stage>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich liebe dich.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich liebe dich auch.  </p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 4</head> 
-          <stage>DER KRONPRINZ und DIE BAUERSTOCHTER wandern durch den Wald. Sie sind glücklich.</stage>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich bin so froh, dass ich dich gefunden habe.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich bin auch froh, dass ich dich gefunden habe.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Wir werden ein neues Leben zusammen beginnen.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ja, wir werden.Sie gehen weiter.</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 1</head>  
-          <stage>DRITTER BILD</stage>
-          <stage>Ein Dorf.</stage>
-          <stage>DER KRONPRINZ und DIE BAUERSTOCHTER kommen in das Dorf. Sie sind verzweifelt.</stage>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich weiß nicht, was wir tun sollen. Wir können hier nicht bleiben.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich weiß auch nicht.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Wir müssen weiterziehen. Wir müssen uns ein neues Leben suchen.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ja, wir müssen.Sie gehen weiter.  </p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>  
-          <stage>EIN HÜTER sitzt vor seiner Hütte. Er ist überrascht, als er den Kronprinzen und die Bauerstochter sieht.</stage>
-        <sp who="#hüter">
-          <speaker>HÜTER:</speaker>
-          <p>Was macht ihr hier?</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Wir suchen nach einem neuen Leben.</p>
-        </sp>
-        <sp who="#hüter">
-          <speaker>HÜTER:</speaker>
-          <p>Ein neues Leben? Wo findet man das?</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Wir wissen es nicht. Aber wir müssen weitersuchen.</p>
-        </sp>
-        <sp who="#hüter">
-          <speaker>HÜTER:</speaker>
-          <p>Ich kann euch helfen. Ich kenne einen Ort, wo ihr ein neues Leben beginnen könnt.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Wo ist das?</p>
-        </sp>
-        <sp who="#hüter">
-          <speaker>HÜ</speaker>
-          <p>ter: Es ist ein kleines Dorf in den Bergen. Es ist ein abgelegener Ort, und niemand wird euch dort finden.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Das ist perfekt. Wir wollen weg von hier.</p>
-        </sp>
-        <sp who="#hüter">
-          <speaker>HÜTER:</speaker>
-          <p>Dann kommt mit. Ich zeige euch den Weg.</p>
-        </sp>
-        <sp who="#kronprinz #bauerstochter">
-          <speaker>KRONPRINZ und DIE BAUERSTOCHTER: </speaker>
-          <p>Danke.</p>
-          <stage>Sie folgen dem Hüter.</stage>  
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>  
-          <stage>DAS DORF IN DEN BERGEN</stage>
-          <stage>DER KRONPRINZ und DIE BAUERSTOCHTER kommen in das Dorf. Sie sind glücklich.</stage>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Wir haben es geschafft. Wir haben ein neues Leben gefunden.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ja, wir haben es geschafft.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich liebe dich.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich liebe dich auch.Sie umarmen sich.  </p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 4</head>  
-          <stage>EIN JAHR SPÄTER</stage>
-          <stage>DER KRONPRINZ und DIE BAUERSTOCHTER sind glücklich verheiratet und haben ein Kind. Sie leben in dem Dorf in den Bergen und sind zufrieden mit ihrem neuen Leben.</stage>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich bin so froh, dass wir hierher gekommen sind.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich auch. Ich bin so glücklich mit dir.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich liebe dich.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich liebe dich auch</p>
-          <stage>Sie umarmen sich.</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Vierter Akt</head>
-        <stage>Ein Jahr später. Ein großes Fest im Dorf in den Bergen.</stage>
-        <stage>DER KRONPRINZ und DIE BAUERSTOCHTER sind glücklich verheiratet und haben ein Kind. Sie sind die Mittelpunkte des Festes.</stage>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich kann es nicht glauben, dass es ein Jahr her ist, seit wir hierher gekommen sind.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich auch nicht. Es fühlt sich an, als wäre es gestern gewesen.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich bin so glücklich hier.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich auch.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich liebe dich.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich liebe dich auch.</p>
-          <stage>Sie umarmen sich.</stage>
-        </sp>
-        <sp who="dorfbewohner-1">
-          <speaker>Dorfbewohner:</speaker> 
-            <p>Glückwunsch, Kronprinz und Bauerstochter!</p>
-        </sp>
-        <sp who="dorfbewohner-2">
-          <speaker>AndereDorfbewohner:</speaker>               
-               <p>Auf das neue Jahr!</p>
-        </sp>
-          <sp who="#kronprinz #bauerstochter">
-            <speaker>Der Kronprinz und die Bauerstochter:</speaker> 
-              <p>Danke!</p>
-            <stage>Sie trinken auf das neue Jahr.</stage>
-          </sp>
-            <stage>Ein paar Tage später. Der Kronprinz und die Bauerstochter sind zu Hause.</stage>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich bin so froh, dass wir hier sind.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich auch. Ich liebe es hier.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich liebe dich.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich liebe dich auch</p>
-          <stage>Sie umarmen sich.</stage>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich habe eine Überraschung für dich.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich habe ein Stück Land gekauft.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Was? Wo?</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>In der Nähe des Dorfes. Ich möchte, dass wir dort ein Haus bauen.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Das ist wunderbar!</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich weiß. Ich habe es schon geplant.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich kann es kaum erwarten.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich auch.</p>
-        </sp>
-        <stage>Sie umarmen sich.  Ein Jahr später. Das neue Haus ist fertiggestellt.Der Kronprinz und die Bauerstochter ziehen in ihr neues Haus.</stage>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Das ist es. Das ist unser neues Zuhause.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Es ist wunderschön.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich habe es für dich gebaut.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich liebe es.</p>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Ich liebe dich.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ich liebe dich auch</p>
-          <stage>Sie umarmen sich.</stage>
-        </sp>
-        <sp who="#kronprinz">
-          <speaker>KRONPRINZ:</speaker>
-          <p>Wir haben es geschafft. Wir haben ein neues Leben gefunden.</p>
-        </sp>
-        <sp who="#bauerstochter">
-          <speaker>BAUERSTOCHTER:</speaker>
-          <p>Ja, wir haben es geschafft.</p>
-        </sp>
-          <stage>Sie leben glücklich bis ans Ende ihrer Tage.</stage>          
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich kann es nicht glauben, dass wir hier sind.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Ich auch nicht. Es fühlt sich an, als wäre es gestern gewesen, als wir hierher kamen.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich bin so glücklich hier.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Ich auch.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich liebe dich.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Ich liebe dich auch</p>
-          <stage>Sie umarmen sich.</stage>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich habe ein großes Glück, dich als meine Königin zu haben.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Ich habe auch ein großes Glück, dich als meinen König zu haben.</p>
-          <stage>Sie trinken auf ihre Liebe.  Ein paar Tage später. Der König und die Königin sind im Thronsaal.</stage>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich habe eine Überraschung für dich.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich habe ein Stück Land gekauft.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Was? Wo?</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>In der Nähe des Dorfes. Ich möchte, dass wir dort ein neues Schloss bauen.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Das ist wunderbar!</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich weiß. Ich habe es schon geplant.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Ich kann es kaum erwarten.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich auch.</p>
-            <stage>Sie umarmen sich.  Ein Jahr später. Das neue Schloss ist fertiggestellt.Der König und die Königin ziehen in ihr neues Schloss.</stage>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Das ist es. Das ist unser neues Zuhause.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Es ist wunderschön.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich habe es für dich gebaut.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Ich liebe es.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich liebe dich.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Ich liebe dich auch</p>
-          <stage>Sie umarmen sich.</stage>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Wir haben es geschafft. Wir haben ein neues Leben gefunden.</p>
-        </sp>
-        <sp who="#königin">
-          <speaker>KÖNIGIN:</speaker>
-          <p>Ja, wir haben es geschafft.</p>
-          <stage>Sie regieren glücklich bis ans Ende ihrer Tage. </stage>
-        </sp>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-german-9</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="herzog">
+            <ns0:persName>HERZOG:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="hüter">
+            <ns0:persName>HÜTER:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="kronprinz">
+            <ns0:persName>KRONPRINZ:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="bauerstochter">
+            <ns0:persName>BAUERSTOCHTER:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="königin">
+            <ns0:persName>KÖNIGIN:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="könig">
+            <ns0:persName>KÖNIG:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="dorfbewohner-1">
+            <ns0:persName>DORFBEWOHNER 1:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="dorfbewohner-2">
+            <ns0:persName>DORFBEWOHNER 2:</ns0:persName>
+          </ns0:person>        
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>  
+          <ns0:stage>EINZIGER BILD</ns0:stage>
+          <ns0:stage>Ein mittelalterliches Zimmer in einem Schloss.</ns0:stage>
+          <ns0:stage>EIN HERZOG &gt;sitzt in einem Lehnstuhl und liest einen Brief.</ns0:stage>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG: </ns0:speaker>
+          <ns0:stage>(liest den Brief)</ns0:stage>
+          <ns0:p> "Mein lieber Herzog,Ich schreibe Ihnen, um Sie über einen dringenden Angelegenheit zu informieren. Mein Sohn, der Kronprinz, hat sich in eine Bauerstochter verliebt. Ich weiß, dass dies für Sie ein Schock sein wird, aber ich bitte Sie, mir zu glauben, dass ich alles getan habe, um ihn davon abzubringen. Ich habe ihm die Vorzüge einer standesgemäßen Ehe dargelegt, aber er bleibt unerbittlich.Ich weiß, dass Sie ein gerechter und verständiger Mann sind. Bitte helfen Sie mir, meinen Sohn zu überreden, diese impulsive Entscheidung zu überdenken.Mit freundlichen Grüßen,Ihr ergebener,Graf"</ns0:p>
+          <ns0:stage>Der HERZOG legt den Brief weg und starrt ins Leere.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG: </ns0:speaker>
+          <ns0:stage>(zu sich selbst)</ns0:stage>
+          <ns0:p> Was soll ich tun? Mein Sohn ist mein Erbe, und ich kann es nicht zulassen, dass er eine Bauernstochter heiratet. Aber ich möchte auch nicht, dass er unglücklich wird.  </ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>  
+        <ns0:stage>EIN KRONPRINZ tritt in das Zimmer.</ns0:stage>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Vater, ich habe etwas zu sagen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>Was ist es, mein Sohn?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich habe mich in eine Frau verliebt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>In eine Frau? Wer ist sie?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Sie ist eine Bauerstochter.</ns0:p>
+          <ns0:stage>Der HERZOG ist fassungslos.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>Was hast du gesagt? Du hast dich in eine Bauerstochter verliebt?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ja, Vater. Ich weiß, dass es für Sie ein Schock ist, aber ich kann es nicht ändern. Ich liebe sie.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>Der HERZOG steht auf und geht auf den KRONPRINZ zu.</ns0:stage>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>Mein Sohn, du musst mir zuhören. Du kannst nicht mit einer Bauerstochter zusammen sein. Es ist nicht standesgemäß.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich weiß, dass es nicht standesgemäß ist. Aber ich liebe sie. Und ich möchte mit ihr zusammen sein.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>Der HERZOG ist wütend.</ns0:stage>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>Du bist mein Sohn, und ich befehle dir, diese Beziehung zu beenden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich kann es nicht beenden. Ich liebe sie.</ns0:p>
+          <ns0:stage>Der HERZOG schlägt dem KRONPRINZ ins Gesicht.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>Du gehorchst mir nicht, dann wirst du es lernen!</ns0:p>
+          <ns0:stage>Der KRONPRINZ bricht zusammen.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG: </ns0:speaker>
+          <ns0:stage>(zu sich selbst)</ns0:stage>
+          <ns0:p> Was habe ich getan?  </ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>  
+        <ns0:stage>Der HERZOG ist allein im Zimmer. Er geht zu dem Lehnstuhl und setzt sich hin. Er ist verzweifelt.</ns0:stage>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG: </ns0:speaker>
+          <ns0:stage>(zu sich selbst)</ns0:stage>
+          <ns0:p> Was habe ich getan? Ich habe meinen Sohn geschlagen. Ich habe ihn verletzt.</ns0:p>
+          <ns0:stage>Er holt ein Taschentuch heraus und trocknet sich die Augen.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>Ich muss ihn finden. Ich muss mich entschuldigen.</ns0:p>
+          <ns0:stage>Er steht auf und geht aus dem Zimmer. </ns0:stage>
+          <ns0:stage>The end of the first act.</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>  
+          <ns0:stage>ZWEITER BILD</ns0:stage>
+          <ns0:stage>Ein Wald.</ns0:stage>
+          <ns0:stage>DER KRONPRINZ sitzt auf einem Baumstamm und starrt ins Leere. Er ist verzweifelt.</ns0:stage>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ: </ns0:speaker>
+          <ns0:stage>(zu sich selbst)</ns0:stage>
+          <ns0:p> Was soll ich tun? Ich kann nicht zu Hause zurückgehen. Mein Vater wird mich nicht mehr akzeptieren.</ns0:p>
+          <ns0:stage>Er holt ein Taschentuch heraus und trocknet sich die Augen.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich muss weg. Ich muss sie finden.  </ns0:p>
+          <ns0:stage>Er steht auf und geht in den Wald.</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head> 
+        <ns0:stage>EINE BAUERSTOCHTER kommt aus dem Wald. Sie ist verzweifelt.</ns0:stage>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER: </ns0:speaker>
+          <ns0:stage>(zu sich selbst)</ns0:stage>
+          <ns0:p> Was soll ich tun? Ich kann nicht zu Hause zurückgehen. Mein Vater wird mich nicht mehr akzeptieren.</ns0:p>
+          <ns0:stage>Sie holt ein Taschentuch heraus und trocknet sich die Augen.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich muss weg. Ich muss ihn finden.  </ns0:p>
+          <ns0:stage>Sie geht in die andere Richtung.</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>  
+          <ns0:stage>DER KRONPRINZ und DIE BAUERSTOCHTER treffen sich im Wald. Sie sind beide verzweifelt.</ns0:stage>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Du bist hier?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ja, ich bin hier.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich habe dich gesucht.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich habe dich auch gesucht.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich kann nicht zu Hause zurückgehen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich kann nicht zu Hause zurückgehen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Was sollen wir tun?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich weiß nicht.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Wir müssen weg. Wir müssen uns ein neues Leben suchen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ja, wir müssen</ns0:p>
+          <ns0:stage>Sie umarmen sich.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich liebe dich auch.  </ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 4</ns0:head> 
+          <ns0:stage>DER KRONPRINZ und DIE BAUERSTOCHTER wandern durch den Wald. Sie sind glücklich.</ns0:stage>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich bin so froh, dass ich dich gefunden habe.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich bin auch froh, dass ich dich gefunden habe.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Wir werden ein neues Leben zusammen beginnen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ja, wir werden.Sie gehen weiter.</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>  
+          <ns0:stage>DRITTER BILD</ns0:stage>
+          <ns0:stage>Ein Dorf.</ns0:stage>
+          <ns0:stage>DER KRONPRINZ und DIE BAUERSTOCHTER kommen in das Dorf. Sie sind verzweifelt.</ns0:stage>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich weiß nicht, was wir tun sollen. Wir können hier nicht bleiben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich weiß auch nicht.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Wir müssen weiterziehen. Wir müssen uns ein neues Leben suchen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ja, wir müssen.Sie gehen weiter.  </ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>  
+          <ns0:stage>EIN HÜTER sitzt vor seiner Hütte. Er ist überrascht, als er den Kronprinzen und die Bauerstochter sieht.</ns0:stage>
+        <ns0:sp who="#hüter">
+          <ns0:speaker>HÜTER:</ns0:speaker>
+          <ns0:p>Was macht ihr hier?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Wir suchen nach einem neuen Leben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hüter">
+          <ns0:speaker>HÜTER:</ns0:speaker>
+          <ns0:p>Ein neues Leben? Wo findet man das?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Wir wissen es nicht. Aber wir müssen weitersuchen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hüter">
+          <ns0:speaker>HÜTER:</ns0:speaker>
+          <ns0:p>Ich kann euch helfen. Ich kenne einen Ort, wo ihr ein neues Leben beginnen könnt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Wo ist das?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hüter">
+          <ns0:speaker>HÜ</ns0:speaker>
+          <ns0:p>ter: Es ist ein kleines Dorf in den Bergen. Es ist ein abgelegener Ort, und niemand wird euch dort finden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Das ist perfekt. Wir wollen weg von hier.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hüter">
+          <ns0:speaker>HÜTER:</ns0:speaker>
+          <ns0:p>Dann kommt mit. Ich zeige euch den Weg.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz #bauerstochter">
+          <ns0:speaker>KRONPRINZ und DIE BAUERSTOCHTER: </ns0:speaker>
+          <ns0:p>Danke.</ns0:p>
+          <ns0:stage>Sie folgen dem Hüter.</ns0:stage>  
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>  
+          <ns0:stage>DAS DORF IN DEN BERGEN</ns0:stage>
+          <ns0:stage>DER KRONPRINZ und DIE BAUERSTOCHTER kommen in das Dorf. Sie sind glücklich.</ns0:stage>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Wir haben es geschafft. Wir haben ein neues Leben gefunden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ja, wir haben es geschafft.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich liebe dich auch.Sie umarmen sich.  </ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 4</ns0:head>  
+          <ns0:stage>EIN JAHR SPÄTER</ns0:stage>
+          <ns0:stage>DER KRONPRINZ und DIE BAUERSTOCHTER sind glücklich verheiratet und haben ein Kind. Sie leben in dem Dorf in den Bergen und sind zufrieden mit ihrem neuen Leben.</ns0:stage>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich bin so froh, dass wir hierher gekommen sind.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich auch. Ich bin so glücklich mit dir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich liebe dich auch</ns0:p>
+          <ns0:stage>Sie umarmen sich.</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Vierter Akt</ns0:head>
+        <ns0:stage>Ein Jahr später. Ein großes Fest im Dorf in den Bergen.</ns0:stage>
+        <ns0:stage>DER KRONPRINZ und DIE BAUERSTOCHTER sind glücklich verheiratet und haben ein Kind. Sie sind die Mittelpunkte des Festes.</ns0:stage>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich kann es nicht glauben, dass es ein Jahr her ist, seit wir hierher gekommen sind.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich auch nicht. Es fühlt sich an, als wäre es gestern gewesen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich bin so glücklich hier.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich auch.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich liebe dich auch.</ns0:p>
+          <ns0:stage>Sie umarmen sich.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="dorfbewohner-1">
+          <ns0:speaker>Dorfbewohner:</ns0:speaker> 
+            <ns0:p>Glückwunsch, Kronprinz und Bauerstochter!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="dorfbewohner-2">
+          <ns0:speaker>AndereDorfbewohner:</ns0:speaker>               
+               <ns0:p>Auf das neue Jahr!</ns0:p>
+        </ns0:sp>
+          <ns0:sp who="#kronprinz #bauerstochter">
+            <ns0:speaker>Der Kronprinz und die Bauerstochter:</ns0:speaker> 
+              <ns0:p>Danke!</ns0:p>
+            <ns0:stage>Sie trinken auf das neue Jahr.</ns0:stage>
+          </ns0:sp>
+            <ns0:stage>Ein paar Tage später. Der Kronprinz und die Bauerstochter sind zu Hause.</ns0:stage>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich bin so froh, dass wir hier sind.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich auch. Ich liebe es hier.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich liebe dich auch</ns0:p>
+          <ns0:stage>Sie umarmen sich.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich habe eine Überraschung für dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich habe ein Stück Land gekauft.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Was? Wo?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>In der Nähe des Dorfes. Ich möchte, dass wir dort ein Haus bauen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Das ist wunderbar!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich weiß. Ich habe es schon geplant.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich kann es kaum erwarten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich auch.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>Sie umarmen sich.  Ein Jahr später. Das neue Haus ist fertiggestellt.Der Kronprinz und die Bauerstochter ziehen in ihr neues Haus.</ns0:stage>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Das ist es. Das ist unser neues Zuhause.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Es ist wunderschön.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich habe es für dich gebaut.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich liebe es.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ich liebe dich auch</ns0:p>
+          <ns0:stage>Sie umarmen sich.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#kronprinz">
+          <ns0:speaker>KRONPRINZ:</ns0:speaker>
+          <ns0:p>Wir haben es geschafft. Wir haben ein neues Leben gefunden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#bauerstochter">
+          <ns0:speaker>BAUERSTOCHTER:</ns0:speaker>
+          <ns0:p>Ja, wir haben es geschafft.</ns0:p>
+        </ns0:sp>
+          <ns0:stage>Sie leben glücklich bis ans Ende ihrer Tage.</ns0:stage>          
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich kann es nicht glauben, dass wir hier sind.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Ich auch nicht. Es fühlt sich an, als wäre es gestern gewesen, als wir hierher kamen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich bin so glücklich hier.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Ich auch.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Ich liebe dich auch</ns0:p>
+          <ns0:stage>Sie umarmen sich.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich habe ein großes Glück, dich als meine Königin zu haben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Ich habe auch ein großes Glück, dich als meinen König zu haben.</ns0:p>
+          <ns0:stage>Sie trinken auf ihre Liebe.  Ein paar Tage später. Der König und die Königin sind im Thronsaal.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich habe eine Überraschung für dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich habe ein Stück Land gekauft.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Was? Wo?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>In der Nähe des Dorfes. Ich möchte, dass wir dort ein neues Schloss bauen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Das ist wunderbar!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich weiß. Ich habe es schon geplant.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Ich kann es kaum erwarten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich auch.</ns0:p>
+            <ns0:stage>Sie umarmen sich.  Ein Jahr später. Das neue Schloss ist fertiggestellt.Der König und die Königin ziehen in ihr neues Schloss.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Das ist es. Das ist unser neues Zuhause.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Es ist wunderschön.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich habe es für dich gebaut.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Ich liebe es.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Ich liebe dich auch</ns0:p>
+          <ns0:stage>Sie umarmen sich.</ns0:stage>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Wir haben es geschafft. Wir haben ein neues Leben gefunden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#königin">
+          <ns0:speaker>KÖNIGIN:</ns0:speaker>
+          <ns0:p>Ja, wir haben es geschafft.</ns0:p>
+          <ns0:stage>Sie regieren glücklich bis ans Ende ihrer Tage. </ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

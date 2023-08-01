@@ -1,570 +1,571 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="FEMALE" xml:id="claire">
-            <persName>CLAIRE</persName>
-          </person>
-          <person sex="MALE" xml:id="homme-encapuché">
-            <persName>HOMME ENCAPUCHÉ</persName>
-          </person>
-          <person sex="FEMALE" xml:id="marie">
-            <persName>MARIE</persName>
-          </person>
-          <person sex="MALE" xml:id="comte-de-saint-germain">
-            <persName>COMTE DE SAINT GERMAIN</persName>
-          </person>
-          <person sex="MALE" xml:id="comte-de-montmorency">
-            <persName>COMTE DE MONTMORENCY</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <stage>INTÉRIEUR D'UNE CHAMBRE</stage>  
-        <stage>(Une jeune femme, CLAIRE, est assise sur un canapé, en train de lire un livre. Une servante, MARIE, entre.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Mademoiselle, le Comte est arrivé.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Le Comte ? Il est déjà là ?</p>
-      </sp>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Oui, mademoiselle. Il est dans le salon.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je vais le voir.</p>
-      </sp>
-      <stage>(Claire se lève et sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Le Comte est un homme très beau et très riche. Il est l'héritier d'une grande fortune. Claire est très heureuse qu'il soit venu la voir.</p>
-      </sp>
-      <stage>(Claire revient dans la pièce, accompagnée du Comte.)</stage>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE :</speaker>
-        <p>Claire, je suis ravi de te revoir.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Moi aussi, Comte. Je suis très contente que tu sois venu.</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE :</speaker>
-        <p>Je suis venu pour te demander ta main en mariage.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE : </speaker>
-        <stage>(surprise)</stage>
-        <p> Oh !</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE :</speaker>
-        <p>Je sais que c'est une surprise, mais je t'aime depuis longtemps. Je crois que nous serions très heureux ensemble.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas quoi dire.</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE :</speaker>
-        <p>Ne dis rien pour l'instant. Je te laisse le temps de réfléchir.</p>
-      </sp>
-      <stage>(Le Comte s'incline et sort de la pièce. Claire reste seule, pensive.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Qu'allez-vous faire, mademoiselle ?</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je ne sais pas. Je dois réfléchir.</p>
-      </sp>
-      <stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Claire est très heureuse que le Comte lui ait demandé sa main. Mais elle est aussi très inquiète. Elle ne sait pas si elle est prête à se marier. INTÉRIEUR D'UNE CHAMBRE </p>
-      </sp>
-      <stage>(Claire est assise sur un canapé, en train de lire un livre. Marie entre.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Mademoiselle, il y a un homme qui demande à vous parler.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Un homme ? Qui est-ce ?</p>
-      </sp>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Je ne sais pas. Il ne m'a pas dit son nom.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Faites-le entrer.</p>
-      </sp>
-      <stage>(Marie sort de la pièce. Un instant plus tard, un homme entre.)</stage>
-      <sp who="#comte-de-saint-germain">
-        <speaker>HOMME :</speaker>
-        <p>Mademoiselle Claire ?</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Oui ?</p>
-      </sp>
-      <sp who="#comte-de-saint-germain">
-        <speaker>HOMME :</speaker>
-        <p>Je suis le Comte de Saint-Germain. Je suis venu vous parler de votre mariage avec le Comte de Montmorency.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je ne comprends pas.</p>
-      </sp>
-      <sp who="#comte-de-saint-germain">
-        <speaker>HOMME :</speaker>
-        <p>Je sais que vous êtes encore en train de réfléchir à sa proposition. Je suis ici pour vous dire que vous ne devriez pas l'épouser.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Pourquoi ?</p>
-      </sp>
-      <sp who="#comte-de-saint-germain">
-        <speaker>HOMME :</speaker>
-        <p>Parce que le Comte de Montmorency est un homme dangereux. Il est cruel et sans pitié. Il ne vous fera pas de mal.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je ne sais pas quoi dire.</p>
-      </sp>
-      <sp who="#comte-de-saint-germain">
-        <speaker>HOMME :</speaker>
-        <p>Je vous laisse le temps de réfléchir. Mais je vous en prie, ne vous mariez pas avec lui.</p>
-      </sp>
-      <stage>(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Qu'allez-vous faire, mademoiselle ?</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je ne sais pas. Je dois réfléchir.</p>
-      </sp>
-      <stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Claire est très perturbée par la visite du Comte de Saint-Germain. Elle ne sait pas quoi faire.</p>
-      </sp>
-      <stage>(Un instant plus tard, le Comte de Montmorency entre dans la pièce.)</stage>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Claire, je suis venu te voir.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE : </speaker>
-        <stage>(surprise)</stage>
-        <p> Comte ?</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Je sais que tu as reçu la visite du Comte de Saint-Germain. Je veux que tu saches que je suis au courant de ses intentions.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas quoi dire.</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Je sais que tu es inquiète. Mais je te promets que je ne te ferai jamais de mal. Je t'aime, Claire. Et je veux passer le reste de ma vie avec toi.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas.</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Je te laisse le temps de réfléchir. Mais je t'en prie, ne me refuse pas.</p>
-      </sp>
-      <stage>(Le Comte de Montmorency s'incline et sort de la pièce. Claire reste seule, pensive.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Qu'allez-vous faire, mademoiselle ?</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas.</p>
-      </sp>
-      <stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Claire est très émue par la déclaration du Comte de Montmorency. Elle ne sait pas quoi faire. INTÉRIEUR D'UNE CHAMBRE </p>
-      </sp>
-      <stage>(Claire est assise sur un canapé, en train de lire un livre. Marie entre.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Mademoiselle, le Comte de Saint-Germain est revenu.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE : </speaker>
-        <stage>(surprise)</stage>
-        <p> Le Comte de Saint-Germain ?</p>
-      </sp>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Oui, mademoiselle. Il est dans le salon.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je vais le voir.</p>
-      </sp>
-      <stage>(Claire se lève et sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Claire est très inquiète par la visite du Comte de Saint-Germain. Elle ne sait pas quoi faire.</p>
-      </sp>
-      <stage>(Claire revient dans la pièce, accompagnée du Comte de Saint-Germain.)</stage>
-      <sp who="#comte-de-saint-germain">
-        <speaker>COMTE DE SAINT-GERMAIN</speaker>
-        <p>: Claire, je suis venu te voir une dernière fois.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je ne sais pas quoi vous dire, Comte.</p>
-      </sp>
-      <sp who="#comte-de-saint-germain">
-        <speaker>COMTE DE SAINT-GERMAIN</speaker>
-        <p>: Je sais que tu es encore en train de réfléchir à ma proposition. Je suis ici pour te dire que je ne te laisserai pas te marier avec le Comte de Montmorency.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Pourquoi ?</p>
-      </sp>
-      <sp who="#comte-de-saint-germain">
-        <speaker>COMTE DE SAINT-GERMAIN</speaker>
-        <p>: Parce que le Comte de Montmorency est un homme dangereux. Il est cruel et sans pitié. Il ne te fera pas de mal.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je ne sais pas quoi dire.</p>
-      </sp>
-      <sp who="#comte-de-saint-germain">
-        <speaker>COMTE DE SAINT-GERMAIN</speaker>
-        <p>: Je te laisse le temps de réfléchir. Mais je te en prie, ne te maries pas avec lui. Et si tu refuses, je serai obligé de prendre des mesures plus radicales.</p>
-      </sp>
-      <stage>(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Qu'allez-vous faire, mademoiselle ?</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas. Je dois réfléchir.</p>
-      </sp>
-      <stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Claire est très perturbée par la menace du Comte de Saint-Germain. Elle ne sait pas quoi faire.</p>
-      </sp>
-      <stage>(Un instant plus tard, le Comte de Montmorency entre dans la pièce.)</stage>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Claire, je suis venu te voir.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE : </speaker>
-        <stage>(surprise)</stage>
-        <p> Comte ?</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Je sais que tu as reçu la visite du Comte de Saint-Germain. Je veux que tu saches que je suis au courant de ses intentions.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas quoi dire.</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Je sais que tu es inquiète. Mais je te promets que je ne te ferai jamais de mal. Je t'aime, Claire. Et je veux passer le reste de ma vie avec toi.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas.</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Je te laisse le temps de réfléchir. Mais je t'en prie, ne me refuse pas.</p>
-      </sp>
-      <stage>(Le Comte de Montmorency s'incline et sort de la pièce. Claire reste seule, pensive.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Qu'allez-vous faire, mademoiselle ?</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas.</p>
-      </sp>
-      <stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Claire est très émue par la déclaration du Comte de Montmorency. Elle ne sait pas quoi faire.</p>
-      </sp>
-      <stage>(Un instant plus tard, le Comte de Saint-Germain revient dans la pièce.)</stage>
-      <sp who="#comte-de-saint-germain">
-        <speaker>COMTE DE SAINT-GERMAIN :</speaker> 
-        <p>Claire, je sais que tu as réfléchi à ma proposition. J'espère que tu as pris la bonne décision.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas.</p>
-      </sp>
-      <sp who="#comte-de-saint-germain">
-        <speaker>COMTE DE SAINT-GERMAIN</speaker>
-        <p>: Je te laisse le temps de réfléchir une dernière fois. Mais après ça, il sera trop tard.</p>
-      </sp>
-      <stage>(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Qu'allez-vous faire, mademoiselle ?</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas. Je dois réfléchir.</p>
-      </sp>
-      <stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE</speaker>
-        <p> INTÉRIEUR D'UNE CHAMBRE </p>
-      </sp>
-      <stage>(Claire est assise sur un canapé, en train de lire un livre. Marie entre.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Mademoiselle, le Comte de Saint-Germain est venu vous voir.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE : </speaker>
-        <stage>(surprise)</stage>
-        <p> Le Comte de Saint-Germain ?</p>
-      </sp>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Oui, mademoiselle. Il est dans le salon.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je vais le voir.</p>
-      </sp>
-      <stage>(Claire se lève et sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Claire est très inquiète par la visite du Comte de Saint-Germain. Elle ne sait pas quoi faire.</p>
-      </sp>
-      <stage>(Claire revient dans la pièce, accompagnée du Comte de Saint-Germain.)</stage>
-      <sp who="#comte-de-saint-germain">
-        <speaker>COMTE DE SAINT-GERMAIN</speaker>
-        <p>: Claire, je suis venu te voir une dernière fois.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je ne sais pas quoi vous dire, Comte.</p>
-      </sp>
-      <sp who="#comte-de-saint-germain">
-        <speaker>COMTE DE SAINT-GERMAIN</speaker>
-        <p>: Je sais que tu as réfléchi à ma proposition. J'espère que tu as pris la bonne décision.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas.</p>
-      </sp>
-      <sp who="#comte-de-saint-germain">
-        <speaker>COMTE DE SAINT-GERMAIN</speaker>
-        <p>: Je te laisse le temps de réfléchir une dernière fois. Mais après ça, il sera trop tard.</p>
-      </sp>
-      <stage>(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Qu'allez-vous faire, mademoiselle ?</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas. Je dois réfléchir.</p>
-      </sp>
-      <stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Claire est très perturbée par la menace du Comte de Saint-Germain. Elle ne sait pas quoi faire.</p>
-      </sp>
-      <stage>(Un instant plus tard, le Comte de Montmorency entre dans la pièce.)</stage>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Claire, je suis venu te voir.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE : </speaker>
-        <stage>(surprise)</stage>
-        <p> Comte ?</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Je sais que tu as reçu la visite du Comte de Saint-Germain. Je veux que tu saches que je suis au courant de ses intentions.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas quoi dire.</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Je sais que tu es inquiète. Mais je te promets que je ne te ferai jamais de mal. Je t'aime, Claire. Et je veux passer le reste de ma vie avec toi.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas.</p>
-      </sp>
-      <sp who="#comte-de-montmorency">
-        <speaker>COMTE DE MONTMORENCY :</speaker>
-        <p>Je te laisse le temps de réfléchir. Mais je t'en prie, ne me refuse pas.</p>
-      </sp>
-      <stage>(Le Comte de Montmorency s'incline et sort de la pièce. Claire reste seule, pensive.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Qu'allez-vous faire, mademoiselle ?</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je... je ne sais pas. Je dois réfléchir.</p>
-      </sp>
-      <stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Claire est très émue par la déclaration du Comte de Montmorency. Elle ne sait pas quoi faire.</p>
-      </sp>
-      <stage>(Un instant plus tard, un HOMME ENCAPUCHÉ entre dans la pièce.)</stage>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Claire, je suis venu te sauver.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE : </speaker>
-        <stage>(surprise)</stage>
-        <p> Qui êtes-vous ?</p>
-      </sp>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Je suis un ami. Je sais que le Comte de Saint-Germain est un homme dangereux. Il ne te laissera jamais tranquille.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Que voulez-vous que je fasse ?</p>
-      </sp>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Tu dois partir avec moi. Je t'emmènerai en lieu sûr.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Mais...</p>
-      </sp>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Il n'y a pas de temps à perdre. Viens avec moi.</p>
-      </sp>
-      <stage>(L'Homme encapuchée sort de la pièce, suivi de Claire. Marie reste seule, pensive.)</stage>
-      <sp who="#marie">
-        <speaker>MARIE :</speaker>
-        <p>Que va-t-il se passer ? Où Claire va-t-elle ? EXTÉRIEUR D'UNE FORÊT </p>
-      </sp>
-      <stage>(La scène se fige.)</stage>
-      <stage>(Claire et l'HOMME ENCAPUCHÉ sont assis sur un rocher.)</stage>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Merci de m'avoir sauvée.</p>
-      </sp>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Ce n'est rien. Je suis juste content que tu sois en sécurité.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Mais où sommes-nous ?</p>
-      </sp>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Nous sommes dans une forêt, loin de la ville. Je t'ai emmenée ici pour que tu sois en sécurité.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je ne sais pas quoi dire. Je suis si reconnaissante.</p>
-      </sp>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Il n'y a pas de quoi. Je suis juste heureux de pouvoir t'aider.</p>
-      </sp>
-      <stage>(Ils se regardent pendant un moment.)</stage>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Qui êtes-vous ?</p>
-      </sp>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Je m'appelle Jean.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Jean ?</p>
-      </sp>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Oui.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je suis contente de vous connaître, Jean.</p>
-      </sp>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Moi aussi, Claire.</p>
-      </sp>
-      <stage>(Ils se rapprochent et s'embrassent.)</stage>
-      <stage>(Un moment plus tard, ils se séparent.)</stage>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Je ne sais pas ce que je ferais sans vous, Jean.</p>
-      </sp>
-      <sp who="#homme-encapuché">
-        <speaker>HOMME ENCAPUCHÉ :</speaker>
-        <p>Tu n'as pas à le savoir. Je serai toujours là pour toi.</p>
-      </sp>
-      <sp who="#claire">
-        <speaker>CLAIRE :</speaker>
-        <p>Merci, Jean.</p>
-      </sp>
-      <stage> FIN </stage>
-      <stage>(Ils s'embrassent à nouveau.)</stage>
-      <stage>(La scène se fige.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-french-10</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="FEMALE" xml:id="claire">
+            <ns0:persName>CLAIRE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="homme-encapuché">
+            <ns0:persName>HOMME ENCAPUCHÉ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="marie">
+            <ns0:persName>MARIE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="comte-de-saint-germain">
+            <ns0:persName>COMTE DE SAINT GERMAIN</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="comte-de-montmorency">
+            <ns0:persName>COMTE DE MONTMORENCY</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:stage>INTÉRIEUR D'UNE CHAMBRE</ns0:stage>  
+        <ns0:stage>(Une jeune femme, CLAIRE, est assise sur un canapé, en train de lire un livre. Une servante, MARIE, entre.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Mademoiselle, le Comte est arrivé.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Le Comte ? Il est déjà là ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Oui, mademoiselle. Il est dans le salon.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je vais le voir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire se lève et sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Le Comte est un homme très beau et très riche. Il est l'héritier d'une grande fortune. Claire est très heureuse qu'il soit venu la voir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire revient dans la pièce, accompagnée du Comte.)</ns0:stage>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE :</ns0:speaker>
+        <ns0:p>Claire, je suis ravi de te revoir.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Moi aussi, Comte. Je suis très contente que tu sois venu.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE :</ns0:speaker>
+        <ns0:p>Je suis venu pour te demander ta main en mariage.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE : </ns0:speaker>
+        <ns0:stage>(surprise)</ns0:stage>
+        <ns0:p> Oh !</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE :</ns0:speaker>
+        <ns0:p>Je sais que c'est une surprise, mais je t'aime depuis longtemps. Je crois que nous serions très heureux ensemble.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas quoi dire.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE :</ns0:speaker>
+        <ns0:p>Ne dis rien pour l'instant. Je te laisse le temps de réfléchir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Le Comte s'incline et sort de la pièce. Claire reste seule, pensive.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Qu'allez-vous faire, mademoiselle ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je ne sais pas. Je dois réfléchir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Claire est très heureuse que le Comte lui ait demandé sa main. Mais elle est aussi très inquiète. Elle ne sait pas si elle est prête à se marier. INTÉRIEUR D'UNE CHAMBRE </ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire est assise sur un canapé, en train de lire un livre. Marie entre.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Mademoiselle, il y a un homme qui demande à vous parler.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Un homme ? Qui est-ce ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Je ne sais pas. Il ne m'a pas dit son nom.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Faites-le entrer.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Marie sort de la pièce. Un instant plus tard, un homme entre.)</ns0:stage>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>HOMME :</ns0:speaker>
+        <ns0:p>Mademoiselle Claire ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Oui ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>HOMME :</ns0:speaker>
+        <ns0:p>Je suis le Comte de Saint-Germain. Je suis venu vous parler de votre mariage avec le Comte de Montmorency.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je ne comprends pas.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>HOMME :</ns0:speaker>
+        <ns0:p>Je sais que vous êtes encore en train de réfléchir à sa proposition. Je suis ici pour vous dire que vous ne devriez pas l'épouser.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Pourquoi ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>HOMME :</ns0:speaker>
+        <ns0:p>Parce que le Comte de Montmorency est un homme dangereux. Il est cruel et sans pitié. Il ne vous fera pas de mal.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je ne sais pas quoi dire.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>HOMME :</ns0:speaker>
+        <ns0:p>Je vous laisse le temps de réfléchir. Mais je vous en prie, ne vous mariez pas avec lui.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Qu'allez-vous faire, mademoiselle ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je ne sais pas. Je dois réfléchir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Claire est très perturbée par la visite du Comte de Saint-Germain. Elle ne sait pas quoi faire.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Un instant plus tard, le Comte de Montmorency entre dans la pièce.)</ns0:stage>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Claire, je suis venu te voir.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE : </ns0:speaker>
+        <ns0:stage>(surprise)</ns0:stage>
+        <ns0:p> Comte ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Je sais que tu as reçu la visite du Comte de Saint-Germain. Je veux que tu saches que je suis au courant de ses intentions.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas quoi dire.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Je sais que tu es inquiète. Mais je te promets que je ne te ferai jamais de mal. Je t'aime, Claire. Et je veux passer le reste de ma vie avec toi.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Je te laisse le temps de réfléchir. Mais je t'en prie, ne me refuse pas.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Le Comte de Montmorency s'incline et sort de la pièce. Claire reste seule, pensive.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Qu'allez-vous faire, mademoiselle ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Claire est très émue par la déclaration du Comte de Montmorency. Elle ne sait pas quoi faire. INTÉRIEUR D'UNE CHAMBRE </ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire est assise sur un canapé, en train de lire un livre. Marie entre.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Mademoiselle, le Comte de Saint-Germain est revenu.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE : </ns0:speaker>
+        <ns0:stage>(surprise)</ns0:stage>
+        <ns0:p> Le Comte de Saint-Germain ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Oui, mademoiselle. Il est dans le salon.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je vais le voir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire se lève et sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Claire est très inquiète par la visite du Comte de Saint-Germain. Elle ne sait pas quoi faire.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire revient dans la pièce, accompagnée du Comte de Saint-Germain.)</ns0:stage>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>COMTE DE SAINT-GERMAIN</ns0:speaker>
+        <ns0:p>: Claire, je suis venu te voir une dernière fois.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je ne sais pas quoi vous dire, Comte.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>COMTE DE SAINT-GERMAIN</ns0:speaker>
+        <ns0:p>: Je sais que tu es encore en train de réfléchir à ma proposition. Je suis ici pour te dire que je ne te laisserai pas te marier avec le Comte de Montmorency.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Pourquoi ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>COMTE DE SAINT-GERMAIN</ns0:speaker>
+        <ns0:p>: Parce que le Comte de Montmorency est un homme dangereux. Il est cruel et sans pitié. Il ne te fera pas de mal.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je ne sais pas quoi dire.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>COMTE DE SAINT-GERMAIN</ns0:speaker>
+        <ns0:p>: Je te laisse le temps de réfléchir. Mais je te en prie, ne te maries pas avec lui. Et si tu refuses, je serai obligé de prendre des mesures plus radicales.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Qu'allez-vous faire, mademoiselle ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas. Je dois réfléchir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Claire est très perturbée par la menace du Comte de Saint-Germain. Elle ne sait pas quoi faire.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Un instant plus tard, le Comte de Montmorency entre dans la pièce.)</ns0:stage>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Claire, je suis venu te voir.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE : </ns0:speaker>
+        <ns0:stage>(surprise)</ns0:stage>
+        <ns0:p> Comte ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Je sais que tu as reçu la visite du Comte de Saint-Germain. Je veux que tu saches que je suis au courant de ses intentions.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas quoi dire.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Je sais que tu es inquiète. Mais je te promets que je ne te ferai jamais de mal. Je t'aime, Claire. Et je veux passer le reste de ma vie avec toi.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Je te laisse le temps de réfléchir. Mais je t'en prie, ne me refuse pas.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Le Comte de Montmorency s'incline et sort de la pièce. Claire reste seule, pensive.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Qu'allez-vous faire, mademoiselle ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Claire est très émue par la déclaration du Comte de Montmorency. Elle ne sait pas quoi faire.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Un instant plus tard, le Comte de Saint-Germain revient dans la pièce.)</ns0:stage>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>COMTE DE SAINT-GERMAIN :</ns0:speaker> 
+        <ns0:p>Claire, je sais que tu as réfléchi à ma proposition. J'espère que tu as pris la bonne décision.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>COMTE DE SAINT-GERMAIN</ns0:speaker>
+        <ns0:p>: Je te laisse le temps de réfléchir une dernière fois. Mais après ça, il sera trop tard.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Qu'allez-vous faire, mademoiselle ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas. Je dois réfléchir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE</ns0:speaker>
+        <ns0:p> INTÉRIEUR D'UNE CHAMBRE </ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire est assise sur un canapé, en train de lire un livre. Marie entre.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Mademoiselle, le Comte de Saint-Germain est venu vous voir.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE : </ns0:speaker>
+        <ns0:stage>(surprise)</ns0:stage>
+        <ns0:p> Le Comte de Saint-Germain ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Oui, mademoiselle. Il est dans le salon.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je vais le voir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire se lève et sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Claire est très inquiète par la visite du Comte de Saint-Germain. Elle ne sait pas quoi faire.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire revient dans la pièce, accompagnée du Comte de Saint-Germain.)</ns0:stage>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>COMTE DE SAINT-GERMAIN</ns0:speaker>
+        <ns0:p>: Claire, je suis venu te voir une dernière fois.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je ne sais pas quoi vous dire, Comte.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>COMTE DE SAINT-GERMAIN</ns0:speaker>
+        <ns0:p>: Je sais que tu as réfléchi à ma proposition. J'espère que tu as pris la bonne décision.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-saint-germain">
+        <ns0:speaker>COMTE DE SAINT-GERMAIN</ns0:speaker>
+        <ns0:p>: Je te laisse le temps de réfléchir une dernière fois. Mais après ça, il sera trop tard.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Le Comte de Saint-Germain s'incline et sort de la pièce. Claire reste seule, pensive.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Qu'allez-vous faire, mademoiselle ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas. Je dois réfléchir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Claire est très perturbée par la menace du Comte de Saint-Germain. Elle ne sait pas quoi faire.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Un instant plus tard, le Comte de Montmorency entre dans la pièce.)</ns0:stage>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Claire, je suis venu te voir.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE : </ns0:speaker>
+        <ns0:stage>(surprise)</ns0:stage>
+        <ns0:p> Comte ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Je sais que tu as reçu la visite du Comte de Saint-Germain. Je veux que tu saches que je suis au courant de ses intentions.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas quoi dire.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Je sais que tu es inquiète. Mais je te promets que je ne te ferai jamais de mal. Je t'aime, Claire. Et je veux passer le reste de ma vie avec toi.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#comte-de-montmorency">
+        <ns0:speaker>COMTE DE MONTMORENCY :</ns0:speaker>
+        <ns0:p>Je te laisse le temps de réfléchir. Mais je t'en prie, ne me refuse pas.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Le Comte de Montmorency s'incline et sort de la pièce. Claire reste seule, pensive.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Qu'allez-vous faire, mademoiselle ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je... je ne sais pas. Je dois réfléchir.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Claire sort de la pièce. Marie la regarde partir, puis se tourne vers le public.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Claire est très émue par la déclaration du Comte de Montmorency. Elle ne sait pas quoi faire.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Un instant plus tard, un HOMME ENCAPUCHÉ entre dans la pièce.)</ns0:stage>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Claire, je suis venu te sauver.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE : </ns0:speaker>
+        <ns0:stage>(surprise)</ns0:stage>
+        <ns0:p> Qui êtes-vous ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Je suis un ami. Je sais que le Comte de Saint-Germain est un homme dangereux. Il ne te laissera jamais tranquille.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Que voulez-vous que je fasse ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Tu dois partir avec moi. Je t'emmènerai en lieu sûr.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Mais...</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Il n'y a pas de temps à perdre. Viens avec moi.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(L'Homme encapuchée sort de la pièce, suivi de Claire. Marie reste seule, pensive.)</ns0:stage>
+      <ns0:sp who="#marie">
+        <ns0:speaker>MARIE :</ns0:speaker>
+        <ns0:p>Que va-t-il se passer ? Où Claire va-t-elle ? EXTÉRIEUR D'UNE FORÊT </ns0:p>
+      </ns0:sp>
+      <ns0:stage>(La scène se fige.)</ns0:stage>
+      <ns0:stage>(Claire et l'HOMME ENCAPUCHÉ sont assis sur un rocher.)</ns0:stage>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Merci de m'avoir sauvée.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Ce n'est rien. Je suis juste content que tu sois en sécurité.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Mais où sommes-nous ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Nous sommes dans une forêt, loin de la ville. Je t'ai emmenée ici pour que tu sois en sécurité.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je ne sais pas quoi dire. Je suis si reconnaissante.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Il n'y a pas de quoi. Je suis juste heureux de pouvoir t'aider.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Ils se regardent pendant un moment.)</ns0:stage>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Qui êtes-vous ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Je m'appelle Jean.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Jean ?</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Oui.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je suis contente de vous connaître, Jean.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Moi aussi, Claire.</ns0:p>
+      </ns0:sp>
+      <ns0:stage>(Ils se rapprochent et s'embrassent.)</ns0:stage>
+      <ns0:stage>(Un moment plus tard, ils se séparent.)</ns0:stage>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Je ne sais pas ce que je ferais sans vous, Jean.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#homme-encapuché">
+        <ns0:speaker>HOMME ENCAPUCHÉ :</ns0:speaker>
+        <ns0:p>Tu n'as pas à le savoir. Je serai toujours là pour toi.</ns0:p>
+      </ns0:sp>
+      <ns0:sp who="#claire">
+        <ns0:speaker>CLAIRE :</ns0:speaker>
+        <ns0:p>Merci, Jean.</ns0:p>
+      </ns0:sp>
+      <ns0:stage> FIN </ns0:stage>
+      <ns0:stage>(Ils s'embrassent à nouveau.)</ns0:stage>
+      <ns0:stage>(La scène se fige.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

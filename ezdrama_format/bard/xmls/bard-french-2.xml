@@ -1,461 +1,462 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="FEMALE" xml:id="clara">
-            <persName>CLARA</persName>
-          </person>
-          <person sex="UNKNOWN" xml:id="la-patience">
-            <persName>LA PATIENCE</persName>
-          </person>
-          <person sex="UNKNOWN" xml:id="la-charité">
-            <persName>LA CHARITÉ</persName>
-          </person>
-          <person sex="UNKNOWN" xml:id="la-foi">
-            <persName>LA FOI</persName>
-          </person>
-          <person sex="feMALE" xml:id="la-marquise">
-            <persName>LA MARQUISE</persName>
-          </person>
-          <person sex="MALE" xml:id="le-prêtre">
-            <persName>LE PRÊTRE</persName>
-          </person>
-          <person sex="MALE" xml:id="le-comte">
-            <persName>LE COMTE</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body><div type="act">
-        <head>Acte I</head></div>
-      <div type="scene">
-        <stage>INTÉRIEUR D'UN SALON</stage>
-        <sp who="#clara">
-          <speaker>CLARA </speaker>
-          <stage>(_entrant_)</stage>
-          <p>Ah, enfin, je suis seule ! <stage>(_Elle s'assoit sur un canapé_.)</stage></p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE </speaker>
-          <stage>(_entrant_)</stage>
-          <p>Clara !</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA </speaker>
-          <stage>(_se levant_)</stage>
-          <p>Monsieur le Comte !</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je vous ai attendue longtemps.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Je suis désolée, Monsieur le Comte. J'ai été retenue par une visite.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Une visite ? De qui ?</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>D'une amie.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je vois. <stage>(_Il s'approche d'elle_.)</stage> Clara, je dois vous parler.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>De quoi, Monsieur le Comte ?</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>De nous.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>De nous ?</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Oui, de nous. Je vous aime, Clara.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Monsieur le Comte...</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je sais que vous ne m'aimez pas encore, mais je vous en prie, donnez-moi une chance. Je vous promets que je ferai tout pour vous rendre heureuse.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Je ne sais pas...</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>S'il vous plaît, Clara. Donnez-moi une chance.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>D'accord. Je vous donnerai une chance.</p>
-        </sp>
-        <stage>(_Un silence_.)</stage>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Merci, Clara. Je vous promets que je ne vous décevrai pas.  </p>
-        </sp>
-        <stage>(_Il la prend dans ses bras_.)</stage>
-          <stage>FIN DE LA SCÈNE</stage>
-      </div>
-      <div type="scene">
-        <head>Acte II</head></div>
-      <div type="scene">
-        <head>Scène 1</head>  
-        <stage>INTÉRIEUR D'UNE CHAMBRE</stage>
-        <sp who="#clara">
-          <speaker>CLARA </speaker>
-          <stage>(_seule_)</stage>
-          <p>Je suis si heureuse ! Le Comte m'aime ! (_Elle se regarde dans le miroir_.) Je ne suis pas belle, mais il m'aime quand même. <stage>(_Elle sourit_.)</stage> Je vais être heureuse.</p>
-        </sp>
-        <sp who="#la-marquise">
-          <speaker>LA MARQUISE </speaker>
-          <stage>(_entrant_)</stage>
-          <p>Clara !</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA </speaker>
-          <stage>(_se levant_)</stage>
-          <p>Madame la Marquise !</p>
-        </sp>
-        <sp who="#la-marquise">
-          <speaker>LA MARQUISE</speaker>
-          <p>Je suis désolée de vous interrompre, mais je dois vous parler.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>De quoi, Madame la Marquise ?</p>
-        </sp>
-        <sp who="#la-marquise">
-          <speaker>LA MARQUISE</speaker>
-          <p>Du Comte.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Du Comte ?</p>
-        </sp>
-        <sp who="#la-marquise">
-          <speaker>LA MARQUISE</speaker>
-          <p>Oui, du Comte. Il ne vous aime pas.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Mais...</p>
-        </sp>
-        <sp who="#la-marquise">
-          <speaker>LA MARQUISE</speaker>
-          <p>Je sais ce que vous allez dire. Il vous a dit qu'il vous aime, mais ce n'est pas vrai. Il vous utilise.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Je ne comprends pas...</p>
-        </sp>
-        <sp who="#la-marquise">
-          <speaker>LA MARQUISE</speaker>
-          <p>Le Comte est un homme riche et puissant. Il veut vous épouser pour votre argent.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Mais... je ne suis pas riche !</p>
-        </sp>
-        <sp who="#la-marquise">
-          <speaker>LA MARQUISE</speaker>
-          <p>Vous êtes la fille d'un riche marchand. Le Comte le sait, et il compte bien s'emparer de votre fortune.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Non ! Ce n'est pas possible !</p>
-        </sp>
-        <sp who="#la-marquise">
-          <speaker>LA MARQUISE</speaker>
-          <p>C'est la vérité, Clara. Je vous en supplie, ne vous laissez pas aveugler par ses mensonges.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Je... je vais réfléchir.</p>
-        </sp>
-        <stage>(_Un silence_.)</stage>
-        <sp who="#la-marquise">
-          <speaker>LA MARQUISE</speaker>
-          <p>Je vous en prie, Clara. Réfléchissez bien.</p>
-        </sp>
-        <sp who="#la-marquise">
-          <speaker>LA MARQUISE </speaker>
-          <stage>(_sortant_)</stage>
-          <p>  </p>
-        </sp>
-          <stage>FIN DE LA SCÈNE</stage>
-      </div>
-      <div type="scene">
-        <head>Acte III</head></div>
-      <div type="scene">
-        <head>Scène 1</head>  
-          <stage>INTÉRIEUR D'UNE CHAMBRE</stage>
-        <sp who="#clara">
-          <speaker>CLARA </speaker>
-          <stage>(_seule_)</stage>
-          <p></p>
-        </sp>
-        <stage>(_Elle se regarde dans le miroir_.) Je ne suis pas belle, mais je suis intelligente et je suis courageuse. Je ne vais pas me laisser faire par le Comte. Je vais lui montrer que je ne suis pas une femme à prendre à la légère.</stage>
-        <sp who="#le-comte">
-          <speaker>LE COMTE </speaker>
-          <stage>(_entrant_)</stage>
-          <p>Clara !</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA </speaker>
-          <stage>(_se levant_)</stage>
-          <p>Monsieur le Comte.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je suis venu te parler.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>De quoi ?</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>De nous.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>De nous ?</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Oui, de nous. Je sais que tu as parlé à la Marquise.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Oui.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Et elle t'a dit que je ne t'aimais pas.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Oui.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Elle a tort. Je t'aime, Clara.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Mais...</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je sais que je ne t'ai pas toujours montré mon amour. J'ai été un homme méchant et cruel. Mais je t'aime, Clara. Et je veux passer le reste de ma vie avec toi.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Je... je ne sais pas quoi dire.</p>
-        </sp>
-        <stage>(_Un silence_.)</stage>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je te comprends. Tu as des raisons de me méfier. Mais je te promets que je vais changer. Je vais être un homme meilleur pour toi.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>D'accord. Je te donnerai une chance.</p>
-        </sp>
-        <stage>(_Un silence_.)</stage>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Merci, Clara. Je te promets que je ne te décevrai pas.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE </speaker>
-          <stage>(_Il la prend dans ses bras_.)</stage>
-          <p>Je t'aime, Clara.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Je t'aime aussi, Monsieur le Comte.  </p>
-        </sp>
-          <stage>FIN DE LA SCÈNE</stage>
-      </div>
-      <div type="scene">
-        <head>Acte IV</head></div>
-      <div type="scene">
-        <head>Scène 1</head>  
-        <stage>INTÉRIEUR D'UNE CHAMBRE</stage>
-        <sp who="#clara">
-          <speaker>CLARA </speaker>
-          <stage>(_seule_)</stage>
-          <p></p>
-        </sp>
-        <stage>(_Elle se regarde dans le miroir_.) Je suis belle, intelligente et courageuse. Je suis une femme qui mérite d'être aimée.</stage>
-        <sp who="#le-comte">
-          <speaker>LE COMTE </speaker>
-          <stage>(_entrant_)</stage>
-          <p>Clara !</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA </speaker>
-          <stage>(_se levant_)</stage>
-          <p>Monsieur le Comte.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je suis venu te parler.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>De quoi ?</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>De nous.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>De nous ?</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Oui, de nous. Je sais que tu as réfléchi à ce que je t'ai dit.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Oui.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Et tu as décidé de me donner une chance.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Oui.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je suis heureux. Je te promets que je ne te décevrai pas.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Je te crois.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je t'aime, Clara.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Je t'aime aussi, Monsieur le Comte.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE </speaker>
-          <stage>(_Il la prend dans ses bras_.)</stage>
-          <p>Je suis l'homme le plus heureux du monde.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Moi aussi.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je veux passer le reste de ma vie avec toi.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Moi aussi.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Alors, nous allons nous marier.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Oui, nous allons nous marier.  </p>
-        </sp>
-          <stage>FIN DE LA SCÈNE</stage>
-      </div>
-      <div type="scene">
-        <head>Acte V</head></div>
-      <div type="scene">
-        <head>Scène 1</head>  
-          <stage>INTÉRIEUR D'UNE ÉGLISE</stage>
-        <sp who="#le-prêtre">
-          <speaker>LE PRÊTRE</speaker>
-          <p>Nous sommes réunis aujourd'hui pour célébrer le mariage de Clara et du Comte.</p>
-        </sp>
-        <sp who="#la-foi">
-          <speaker>LA FOI</speaker>
-          <p>Je prends Clara, toi qui es ici présente, pour être mon épouse.L'ESPÉRANCEJe te promets de t'aimer, de te chérir et de te respecter, dans la santé et la maladie, dans la joie et dans la tristesse, pour le meilleur et pour le pire, jusqu'à ce que la mort nous sépare.</p>
-        </sp>
-        <sp who="#la-charité">
-          <speaker>LA CHARITÉ</speaker>
-          <p>Clara, prends le Comte, toi qui es ici présent, pour être ton époux.</p>
-        </sp>
-        <sp who="#la-patience">
-          <speaker>LA PATIENCE</speaker>
-          <p>Je te promets de t'aimer, de te chérir et de te respecter, dans la santé et la maladie, dans la joie et dans la tristesse, pour le meilleur et pour le pire, jusqu'à ce que la mort nous sépare.</p>
-        </sp>
-        <sp who="#le-prêtre">
-          <speaker>LE PRÊTRE</speaker>
-          <p>Je vous déclare mari et femme.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE</speaker>
-          <p>Je t'aime, Clara.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Je t'aime aussi, Monsieur le Comte.</p>
-        </sp>
-        <sp who="#le-comte">
-          <speaker>LE COMTE </speaker>
-          <stage>(_Il la prend dans ses bras_.)</stage>
-          <p>Je suis l'homme le plus heureux du monde.</p>
-        </sp>
-        <sp who="#clara">
-          <speaker>CLARA</speaker>
-          <p>Moi aussi.</p>
-        </sp>
-        <sp who="#le-prêtre">
-          <speaker>LE PRÊTRE</speaker>
-          <p>Que Dieu bénisse votre union.  </p>
-        </sp>
-          <stage>FIN DE LA PIÈCE</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-french-2</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="FEMALE" xml:id="clara">
+            <ns0:persName>CLARA</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="UNKNOWN" xml:id="la-patience">
+            <ns0:persName>LA PATIENCE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="UNKNOWN" xml:id="la-charité">
+            <ns0:persName>LA CHARITÉ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="UNKNOWN" xml:id="la-foi">
+            <ns0:persName>LA FOI</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="feMALE" xml:id="la-marquise">
+            <ns0:persName>LA MARQUISE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="le-prêtre">
+            <ns0:persName>LE PRÊTRE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="le-comte">
+            <ns0:persName>LE COMTE</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body><ns0:div type="act">
+        <ns0:head>Acte I</ns0:head></ns0:div>
+      <ns0:div type="scene">
+        <ns0:stage>INTÉRIEUR D'UN SALON</ns0:stage>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA </ns0:speaker>
+          <ns0:stage>(_entrant_)</ns0:stage>
+          <ns0:p>Ah, enfin, je suis seule ! <ns0:stage>(_Elle s'assoit sur un canapé_.)</ns0:stage></ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE </ns0:speaker>
+          <ns0:stage>(_entrant_)</ns0:stage>
+          <ns0:p>Clara !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA </ns0:speaker>
+          <ns0:stage>(_se levant_)</ns0:stage>
+          <ns0:p>Monsieur le Comte !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je vous ai attendue longtemps.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Je suis désolée, Monsieur le Comte. J'ai été retenue par une visite.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Une visite ? De qui ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>D'une amie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je vois. <ns0:stage>(_Il s'approche d'elle_.)</ns0:stage> Clara, je dois vous parler.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>De quoi, Monsieur le Comte ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>De nous.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>De nous ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Oui, de nous. Je vous aime, Clara.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Monsieur le Comte...</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je sais que vous ne m'aimez pas encore, mais je vous en prie, donnez-moi une chance. Je vous promets que je ferai tout pour vous rendre heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Je ne sais pas...</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>S'il vous plaît, Clara. Donnez-moi une chance.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>D'accord. Je vous donnerai une chance.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(_Un silence_.)</ns0:stage>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Merci, Clara. Je vous promets que je ne vous décevrai pas.  </ns0:p>
+        </ns0:sp>
+        <ns0:stage>(_Il la prend dans ses bras_.)</ns0:stage>
+          <ns0:stage>FIN DE LA SCÈNE</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Acte II</ns0:head></ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>  
+        <ns0:stage>INTÉRIEUR D'UNE CHAMBRE</ns0:stage>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA </ns0:speaker>
+          <ns0:stage>(_seule_)</ns0:stage>
+          <ns0:p>Je suis si heureuse ! Le Comte m'aime ! (_Elle se regarde dans le miroir_.) Je ne suis pas belle, mais il m'aime quand même. <ns0:stage>(_Elle sourit_.)</ns0:stage> Je vais être heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-marquise">
+          <ns0:speaker>LA MARQUISE </ns0:speaker>
+          <ns0:stage>(_entrant_)</ns0:stage>
+          <ns0:p>Clara !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA </ns0:speaker>
+          <ns0:stage>(_se levant_)</ns0:stage>
+          <ns0:p>Madame la Marquise !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-marquise">
+          <ns0:speaker>LA MARQUISE</ns0:speaker>
+          <ns0:p>Je suis désolée de vous interrompre, mais je dois vous parler.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>De quoi, Madame la Marquise ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-marquise">
+          <ns0:speaker>LA MARQUISE</ns0:speaker>
+          <ns0:p>Du Comte.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Du Comte ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-marquise">
+          <ns0:speaker>LA MARQUISE</ns0:speaker>
+          <ns0:p>Oui, du Comte. Il ne vous aime pas.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Mais...</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-marquise">
+          <ns0:speaker>LA MARQUISE</ns0:speaker>
+          <ns0:p>Je sais ce que vous allez dire. Il vous a dit qu'il vous aime, mais ce n'est pas vrai. Il vous utilise.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Je ne comprends pas...</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-marquise">
+          <ns0:speaker>LA MARQUISE</ns0:speaker>
+          <ns0:p>Le Comte est un homme riche et puissant. Il veut vous épouser pour votre argent.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Mais... je ne suis pas riche !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-marquise">
+          <ns0:speaker>LA MARQUISE</ns0:speaker>
+          <ns0:p>Vous êtes la fille d'un riche marchand. Le Comte le sait, et il compte bien s'emparer de votre fortune.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Non ! Ce n'est pas possible !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-marquise">
+          <ns0:speaker>LA MARQUISE</ns0:speaker>
+          <ns0:p>C'est la vérité, Clara. Je vous en supplie, ne vous laissez pas aveugler par ses mensonges.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Je... je vais réfléchir.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(_Un silence_.)</ns0:stage>
+        <ns0:sp who="#la-marquise">
+          <ns0:speaker>LA MARQUISE</ns0:speaker>
+          <ns0:p>Je vous en prie, Clara. Réfléchissez bien.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-marquise">
+          <ns0:speaker>LA MARQUISE </ns0:speaker>
+          <ns0:stage>(_sortant_)</ns0:stage>
+          <ns0:p>  </ns0:p>
+        </ns0:sp>
+          <ns0:stage>FIN DE LA SCÈNE</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Acte III</ns0:head></ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>  
+          <ns0:stage>INTÉRIEUR D'UNE CHAMBRE</ns0:stage>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA </ns0:speaker>
+          <ns0:stage>(_seule_)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(_Elle se regarde dans le miroir_.) Je ne suis pas belle, mais je suis intelligente et je suis courageuse. Je ne vais pas me laisser faire par le Comte. Je vais lui montrer que je ne suis pas une femme à prendre à la légère.</ns0:stage>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE </ns0:speaker>
+          <ns0:stage>(_entrant_)</ns0:stage>
+          <ns0:p>Clara !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA </ns0:speaker>
+          <ns0:stage>(_se levant_)</ns0:stage>
+          <ns0:p>Monsieur le Comte.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je suis venu te parler.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>De quoi ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>De nous.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>De nous ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Oui, de nous. Je sais que tu as parlé à la Marquise.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Oui.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Et elle t'a dit que je ne t'aimais pas.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Oui.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Elle a tort. Je t'aime, Clara.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Mais...</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je sais que je ne t'ai pas toujours montré mon amour. J'ai été un homme méchant et cruel. Mais je t'aime, Clara. Et je veux passer le reste de ma vie avec toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Je... je ne sais pas quoi dire.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(_Un silence_.)</ns0:stage>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je te comprends. Tu as des raisons de me méfier. Mais je te promets que je vais changer. Je vais être un homme meilleur pour toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>D'accord. Je te donnerai une chance.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(_Un silence_.)</ns0:stage>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Merci, Clara. Je te promets que je ne te décevrai pas.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE </ns0:speaker>
+          <ns0:stage>(_Il la prend dans ses bras_.)</ns0:stage>
+          <ns0:p>Je t'aime, Clara.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Je t'aime aussi, Monsieur le Comte.  </ns0:p>
+        </ns0:sp>
+          <ns0:stage>FIN DE LA SCÈNE</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Acte IV</ns0:head></ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>  
+        <ns0:stage>INTÉRIEUR D'UNE CHAMBRE</ns0:stage>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA </ns0:speaker>
+          <ns0:stage>(_seule_)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(_Elle se regarde dans le miroir_.) Je suis belle, intelligente et courageuse. Je suis une femme qui mérite d'être aimée.</ns0:stage>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE </ns0:speaker>
+          <ns0:stage>(_entrant_)</ns0:stage>
+          <ns0:p>Clara !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA </ns0:speaker>
+          <ns0:stage>(_se levant_)</ns0:stage>
+          <ns0:p>Monsieur le Comte.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je suis venu te parler.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>De quoi ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>De nous.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>De nous ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Oui, de nous. Je sais que tu as réfléchi à ce que je t'ai dit.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Oui.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Et tu as décidé de me donner une chance.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Oui.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je suis heureux. Je te promets que je ne te décevrai pas.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Je te crois.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je t'aime, Clara.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Je t'aime aussi, Monsieur le Comte.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE </ns0:speaker>
+          <ns0:stage>(_Il la prend dans ses bras_.)</ns0:stage>
+          <ns0:p>Je suis l'homme le plus heureux du monde.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Moi aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je veux passer le reste de ma vie avec toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Moi aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Alors, nous allons nous marier.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Oui, nous allons nous marier.  </ns0:p>
+        </ns0:sp>
+          <ns0:stage>FIN DE LA SCÈNE</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Acte V</ns0:head></ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>  
+          <ns0:stage>INTÉRIEUR D'UNE ÉGLISE</ns0:stage>
+        <ns0:sp who="#le-prêtre">
+          <ns0:speaker>LE PRÊTRE</ns0:speaker>
+          <ns0:p>Nous sommes réunis aujourd'hui pour célébrer le mariage de Clara et du Comte.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-foi">
+          <ns0:speaker>LA FOI</ns0:speaker>
+          <ns0:p>Je prends Clara, toi qui es ici présente, pour être mon épouse.L'ESPÉRANCEJe te promets de t'aimer, de te chérir et de te respecter, dans la santé et la maladie, dans la joie et dans la tristesse, pour le meilleur et pour le pire, jusqu'à ce que la mort nous sépare.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-charité">
+          <ns0:speaker>LA CHARITÉ</ns0:speaker>
+          <ns0:p>Clara, prends le Comte, toi qui es ici présent, pour être ton époux.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#la-patience">
+          <ns0:speaker>LA PATIENCE</ns0:speaker>
+          <ns0:p>Je te promets de t'aimer, de te chérir et de te respecter, dans la santé et la maladie, dans la joie et dans la tristesse, pour le meilleur et pour le pire, jusqu'à ce que la mort nous sépare.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-prêtre">
+          <ns0:speaker>LE PRÊTRE</ns0:speaker>
+          <ns0:p>Je vous déclare mari et femme.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE</ns0:speaker>
+          <ns0:p>Je t'aime, Clara.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Je t'aime aussi, Monsieur le Comte.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-comte">
+          <ns0:speaker>LE COMTE </ns0:speaker>
+          <ns0:stage>(_Il la prend dans ses bras_.)</ns0:stage>
+          <ns0:p>Je suis l'homme le plus heureux du monde.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#clara">
+          <ns0:speaker>CLARA</ns0:speaker>
+          <ns0:p>Moi aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#le-prêtre">
+          <ns0:speaker>LE PRÊTRE</ns0:speaker>
+          <ns0:p>Que Dieu bénisse votre union.  </ns0:p>
+        </ns0:sp>
+          <ns0:stage>FIN DE LA PIÈCE</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

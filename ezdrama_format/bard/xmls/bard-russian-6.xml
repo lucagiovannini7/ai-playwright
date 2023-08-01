@@ -1,592 +1,593 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="yvan">
-            <persName>ИВАН</persName>
-          </person>
-          <person sex="FEMALE" xml:id="natasha">
-            <persName>НАТАША</persName>
-          </person>
-          <person sex="FEMALE" xml:id="maryna">
-            <persName>МАРИНА</persName>
-          </person>
-          <person sex="MALE" xml:id="holova_sel">
-            <persName>ГОЛОВА СЕЛ</persName>
-          </person>
-          <person sex="MALE" xml:id="horych">
-            <persName>ГОРИЧ</persName>
-          </person>
-          <person sex="MALE" xml:id="andrej">
-            <persName>АНДРЕЙ</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
-        <stage>(На сцене гостиная в доме помещика ГОРИЧА. Комната обставлена старомодно, но уютно. На стенах висят картины, на столе лежат книги. В центре комнаты стоит большой диван.)</stage><stage> Входят ГОРИЧ, его жена МАРИНА, их дочь НАТАША и сын АНДРЕЙ.</stage><sp who="#horych">
-          <speaker>ГОРИЧ </speaker>
-          <stage>(садится на диван)</stage>
-          <p>. Ну, как дела?</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Все хорошо.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Мы ходили гулять в парк.</p>
-        </sp>
-        <sp who="#andrej">
-          <speaker>АНДРЕЙ</speaker>
-          <p>. Я читал книгу.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Хорошо, хорошо.</p>
-        </sp>
-        <stage>(Пауза.)</stage>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. А как насчет нашего будущего?</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Что ты имеешь в виду?</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я имею в виду, что мы должны думать о будущем наших детей.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Я хочу стать актрисой.</p>
-        </sp>
-        <sp who="#andrej">
-          <speaker>АНДРЕЙ</speaker>
-          <p>. Я хочу стать врачом.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Это все очень хорошо, но как мы их будем содержать?</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Не волнуйся, мы что-нибудь придумаем.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я надеюсь на это.</p>
-        </sp>
-        <stage>(Пауза.)</stage>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я должен идти.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Куда ты?</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я должен встретиться с кредиторами.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Не уходи, папа!</p>
-        </sp>
-        <sp who="#andrej">
-          <speaker>АНДРЕЙ</speaker>
-          <p>. Мы с тобой, папа!</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я скоро вернусь.</p>
-        </sp>
-        <stage>(ГОРИЧ уходит.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Не плачь, дети. Все будет хорошо.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Я не хочу, чтобы папа уходил.</p>
-        </sp>
-        <sp who="#andrej">
-          <speaker>АНДРЕЙ</speaker>
-          <p>. Я тоже.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я тоже не хочу, но он должен.</p>
-        </sp>
-        <stage>(МАРИНА обнимает НАТАШУ и АНДРЕЯ.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Мы справимся.</p>
-        </sp>
-        <stage>(НАТАША и АНДРЕЙ плачут.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
-        <stage>(На сцене та же гостиная. Комната уже не так уютна, как в первом акте. На стенах висят обрывки обоев, на столе лежат старые книги. В центре комнаты стоит пустой диван.)</stage><stage> Входят МАРИНА и НАТАША.</stage><sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Как дела, Наташа?</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Плохо. Папа так и не вернулся.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я знаю. Я тоже волнуюсь.</p>
-        </sp>
-        <stage>(Пауза.)</stage>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Мама, что будет с нами?</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я не знаю, дитя мое. Я не знаю.</p>
-        </sp>
-        <stage>(Входит НОВЫЙ ПЕРСОНАЖ, СТАРЫЙ ДРУГ ГОРИЧА, ИВАН.)</stage>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Здравствуйте, Марина. Здравствуйте, Наташа.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Иван, здравствуйте.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Здравствуйте, дядя Иван.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я слышал, что Горич пропал.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Да, так и есть.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я не могу поверить в это. Горич был таким хорошим человеком.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Я тоже не могу поверить. Я так скучаю по нему.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я тоже скучаю по нему.</p>
-        </sp>
-        <stage>(Пауза.)</stage>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Марина, я хочу вам кое-что предложить.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Что такое?</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я хочу взять вас и Наташу к себе.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Что?</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я хочу, чтобы вы жили со мной. Я обеспечу вас всем необходимым.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Но...</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Пожалуйста, Марина. Я не хочу, чтобы вы остались здесь одни.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я... я не знаю, что сказать.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Не нужно ничего говорить. Просто подумайте об этом.</p>
-        </sp>
-        <stage>(МАРИНА и ИВАН уходят.)</stage>
-        <sp who="#natasha">
-          <speaker>НАТАША </speaker>
-          <stage>(одна)</stage>
-          <p>. Я не хочу уезжать. Я хочу остаться здесь, в этом доме.</p>
-        </sp>
-        <stage>(НАТАША плачет.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
-        <stage>(На сцене та же гостиная. Комната уже не так запущена, как в предыдущем акте. На стенах висят новые обои, на столе лежат свежие книги. В центре комнаты стоит диван, на котором сидят МАРИНА и НАТАША.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Вот уже год, как мы живем у Ивана.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Да, и я уже привыкла.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я тоже. Иван очень хороший человек.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Да, он очень добрый.</p>
-        </sp>
-        <stage>(Пауза.)</stage>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Мама, а что случилось с папой?</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я не знаю, дитя мое. Я так и не нашла его.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Я так хочу его увидеть.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я тоже, Наташа. Я тоже.</p>
-        </sp>
-        <stage>(Входит ИВАН.)</stage>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Здравствуйте, Марина. Здравствуйте, Наташа.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Иван, здравствуйте.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Здравствуйте, дядя Иван.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я принес вам новости.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Какие новости?</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я нашел Горича.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Что?</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я нашел его. Он жив.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Папа жив!</p>
-        </sp>
-        <stage>(НАТАША вскакивает и обнимает ИВАНА.)</stage>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Спасибо, дядя Иван! Спасибо!</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Не за что, Наташа. Я просто рад, что он жив.</p>
-        </sp>
-        <stage>(МАРИНА обнимает НАТАШУ.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я так счастлива!</p>
-        </sp>
-        <stage>(ИВАН, МАРИНА и НАТАША обнимаются.)</stage>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я поеду за ним сейчас же.</p>
-        </sp>
-        <stage>(ИВАН уходит.)</stage>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Я так хочу увидеть папу!</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я тоже, Наташа. Я тоже.</p>
-        </sp>
-        <stage>(НАТАША и МАРИНА смотрят друг на друга, улыбаются и плачут.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ</head>
-        <stage>(На сцене та же гостиная. Комната уже не так запущена, как в предыдущем акте. На стенах висят новые обои, на столе лежат свежие книги. В центре комнаты стоит диван, на котором сидят МАРИНА, НАТАША и ГОРИЧ.)</stage>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я так рад, что вы меня нашли.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Мы тоже, папа. Мы так по тебе скучали.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Я так ждала, когда ты вернешься.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я тоже, дети мои. Я тоже.</p>
-        </sp>
-        <stage>(ИВАН входит в комнату.)</stage>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я рад, что вы все вместе.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Спасибо тебе, Иван. Ты настоящий друг.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Не за что, Горич. Я просто рад, что ты жив и здоров.</p>
-        </sp>
-        <stage>(ИВАН, МАРИНА, НАТАША и ГОРИЧ обнимаются.)</stage>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я так счастлив, что я снова с вами.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Мы тоже, папа. Мы тоже.</p>
-        </sp>
-        <stage>(НАТАША подходит к ИВАНУ и берет его за руку.)</stage>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Спасибо тебе, дядя Иван. Ты сделал меня очень счастливой.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Не за что, Наташа. Я просто рад, что смог тебе помочь.</p>
-        </sp>
-        <stage>(НАТАША и ИВАН обнимаются.)</stage>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Марина, я хочу поговорить с тобой.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Хорошо, Горич.</p>
-        </sp>
-        <stage>(МАРИНА и ГОРИЧ уходят в другую комнату.)</stage>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Дядя Иван, а что случилось с папой?</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Он попал в аварию.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Авария?</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Да. Он был очень недолго в коме, но сейчас он уже в порядке.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Я так рада.</p>
-        </sp>
-        <stage>(НАТАША и ИВАН обнимаются.)</stage>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>. Я рад, что ты рада.</p>
-        </sp>
-        <stage>(НАТАША и ИВАН уходят.)</stage>
-        <stage>(МАРИНА и ГОРИЧ возвращаются в комнату.)</stage>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Марина, я хочу извиниться за то, что я ушел.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я уже простила тебя, Горич.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Спасибо тебе, Марина.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я просто хочу, чтобы мы были вместе.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я тоже, Марина. Я тоже.</p>
-        </sp>
-        <stage>(ГОРИЧ и МАРИНА обнимаются.)</stage>
-        <stage>(НАТАША входит в комнату.)</stage>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Папа, мама, я так рада, что вы снова вместе.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Мы тоже, дети наши. Мы тоже.</p>
-        </sp>
-        <stage>(ГОРИЧ, МАРИНА и НАТАША обнимаются.)</stage>
-        <stage>(Занавес.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЯТОЕ</head>
-        <stage>(На сцене та же гостиная. Комната уже не так запущена, как в предыдущем акте. На стенах висят новые обои, на столе лежат свежие книги. В центре комнаты стоит диван, на котором сидят МАРИНА, НАТАША, ГОРИЧ и ИВАН.)</stage>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я так рад, что мы снова вместе.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Мы тоже, папа. Мы так по тебе скучали.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Я так ждала, когда ты вернешься.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я тоже, дети мои. Я тоже.</p>
-        </sp>
-        <stage>(Входит НОВЫЙ ПЕРСОНАЖ, ГОЛОВА СЕЛЬСКОЙ ОБЩИНЫ.)</stage>
-        <sp who="#holova_sel">
-          <speaker>ГОЛОВА СЕЛ</speaker>
-          <p>. ОБЩИНЫ. Здравствуйте, Горич.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Здравствуйте, господин Голова.</p>
-        </sp>
-        <sp who="#holova_sel">
-          <speaker>ГОЛОВА СЕЛ</speaker>
-          <p>. ОБЩИНЫ. Я рад, что вы живы и здоровы.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Спасибо, господин Голова.</p>
-        </sp>
-        <sp who="#holova_sel">
-          <speaker>ГОЛОВА СЕЛ</speaker>
-          <p>. ОБЩИНЫ. Я хотел бы поговорить с вами о будущем вашей семьи.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. О будущем нашей семьи?</p>
-        </sp>
-        <sp who="#holova_sel">
-          <speaker>ГОЛОВА СЕЛ</speaker>
-          <p>. ОБЩИНЫ. Да. Я думаю, что вам нужно вернуться в деревню.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. В деревню?</p>
-        </sp>
-        <sp who="#holova_sel">
-          <speaker>ГОЛОВА СЕЛ</speaker>
-          <p>. ОБЩИНЫ. Да. Там вы будете жить в достатке, и ваши дети будут расти в спокойной обстановке.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я не знаю, господин Голова. Я привык к городу.</p>
-        </sp>
-        <sp who="#holova_sel">
-          <speaker>ГОЛОВА СЕЛ</speaker>
-          <p>. ОБЩИНЫ. Я понимаю, Горич. Но я думаю, что это будет лучшим для вас.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я подумаю об этом, господин Голова.</p>
-        </sp>
-        <sp who="#holova_sel">
-          <speaker>ГОЛОВА СЕЛ</speaker>
-          <p>. ОБЩИНЫ. Хорошо, Горич. Я буду ждать вашего решения.</p>
-        </sp>
-        <stage>(ГОЛОВА СЕЛ. ОБЩИНЫ уходит.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Что ты скажешь, Горич?</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я не знаю, Марина. Я должен подумать об этом.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Я хочу остаться в городе, папа.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я знаю, Наташа. Но я должен подумать о том, что будет лучше для нас всех.</p>
-        </sp>
-        <sp who="#natasha">
-          <speaker>НАТАША</speaker>
-          <p>. Хорошо, папа. Я буду ждать твоего решения.</p>
-        </sp>
-        <stage>(НАТАША уходит.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Горич, я думаю, что ты должен прислушаться к совету господина Головы.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я знаю, Марина. Но я не уверен, что смогу вернуться в деревню.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА</speaker>
-          <p>. Я понимаю, Горич. Но я думаю, что это будет лучшее для нас.</p>
-        </sp>
-        <sp who="#horych">
-          <speaker>ГОРИЧ</speaker>
-          <p>. Я подумаю об этом, Марина.</p>
-        </sp>
-        <stage>(МАРИНА и ГОРИЧ обнимаются.)</stage>
-        <stage>(Занавес.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-russian-6</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="yvan">
+            <ns0:persName>ИВАН</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="natasha">
+            <ns0:persName>НАТАША</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="maryna">
+            <ns0:persName>МАРИНА</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="holova_sel">
+            <ns0:persName>ГОЛОВА СЕЛ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="horych">
+            <ns0:persName>ГОРИЧ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="andrej">
+            <ns0:persName>АНДРЕЙ</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЕРВОЕ</ns0:head>
+        <ns0:stage>(На сцене гостиная в доме помещика ГОРИЧА. Комната обставлена старомодно, но уютно. На стенах висят картины, на столе лежат книги. В центре комнаты стоит большой диван.)</ns0:stage><ns0:stage> Входят ГОРИЧ, его жена МАРИНА, их дочь НАТАША и сын АНДРЕЙ.</ns0:stage><ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ </ns0:speaker>
+          <ns0:stage>(садится на диван)</ns0:stage>
+          <ns0:p>. Ну, как дела?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Все хорошо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Мы ходили гулять в парк.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#andrej">
+          <ns0:speaker>АНДРЕЙ</ns0:speaker>
+          <ns0:p>. Я читал книгу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Хорошо, хорошо.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Пауза.)</ns0:stage>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. А как насчет нашего будущего?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Что ты имеешь в виду?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я имею в виду, что мы должны думать о будущем наших детей.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Я хочу стать актрисой.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#andrej">
+          <ns0:speaker>АНДРЕЙ</ns0:speaker>
+          <ns0:p>. Я хочу стать врачом.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Это все очень хорошо, но как мы их будем содержать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Не волнуйся, мы что-нибудь придумаем.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я надеюсь на это.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Пауза.)</ns0:stage>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я должен идти.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Куда ты?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я должен встретиться с кредиторами.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Не уходи, папа!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#andrej">
+          <ns0:speaker>АНДРЕЙ</ns0:speaker>
+          <ns0:p>. Мы с тобой, папа!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я скоро вернусь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГОРИЧ уходит.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Не плачь, дети. Все будет хорошо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Я не хочу, чтобы папа уходил.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#andrej">
+          <ns0:speaker>АНДРЕЙ</ns0:speaker>
+          <ns0:p>. Я тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я тоже не хочу, но он должен.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(МАРИНА обнимает НАТАШУ и АНДРЕЯ.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Мы справимся.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НАТАША и АНДРЕЙ плачут.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ВТОРОЕ</ns0:head>
+        <ns0:stage>(На сцене та же гостиная. Комната уже не так уютна, как в первом акте. На стенах висят обрывки обоев, на столе лежат старые книги. В центре комнаты стоит пустой диван.)</ns0:stage><ns0:stage> Входят МАРИНА и НАТАША.</ns0:stage><ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Как дела, Наташа?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Плохо. Папа так и не вернулся.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я знаю. Я тоже волнуюсь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Пауза.)</ns0:stage>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Мама, что будет с нами?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я не знаю, дитя мое. Я не знаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит НОВЫЙ ПЕРСОНАЖ, СТАРЫЙ ДРУГ ГОРИЧА, ИВАН.)</ns0:stage>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Здравствуйте, Марина. Здравствуйте, Наташа.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Иван, здравствуйте.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Здравствуйте, дядя Иван.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я слышал, что Горич пропал.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Да, так и есть.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я не могу поверить в это. Горич был таким хорошим человеком.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Я тоже не могу поверить. Я так скучаю по нему.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я тоже скучаю по нему.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Пауза.)</ns0:stage>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Марина, я хочу вам кое-что предложить.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Что такое?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я хочу взять вас и Наташу к себе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Что?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я хочу, чтобы вы жили со мной. Я обеспечу вас всем необходимым.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Но...</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Пожалуйста, Марина. Я не хочу, чтобы вы остались здесь одни.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я... я не знаю, что сказать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Не нужно ничего говорить. Просто подумайте об этом.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(МАРИНА и ИВАН уходят.)</ns0:stage>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША </ns0:speaker>
+          <ns0:stage>(одна)</ns0:stage>
+          <ns0:p>. Я не хочу уезжать. Я хочу остаться здесь, в этом доме.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НАТАША плачет.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ТРЕТЬЕ</ns0:head>
+        <ns0:stage>(На сцене та же гостиная. Комната уже не так запущена, как в предыдущем акте. На стенах висят новые обои, на столе лежат свежие книги. В центре комнаты стоит диван, на котором сидят МАРИНА и НАТАША.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Вот уже год, как мы живем у Ивана.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Да, и я уже привыкла.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я тоже. Иван очень хороший человек.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Да, он очень добрый.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Пауза.)</ns0:stage>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Мама, а что случилось с папой?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я не знаю, дитя мое. Я так и не нашла его.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Я так хочу его увидеть.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я тоже, Наташа. Я тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит ИВАН.)</ns0:stage>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Здравствуйте, Марина. Здравствуйте, Наташа.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Иван, здравствуйте.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Здравствуйте, дядя Иван.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я принес вам новости.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Какие новости?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я нашел Горича.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Что?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я нашел его. Он жив.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Папа жив!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НАТАША вскакивает и обнимает ИВАНА.)</ns0:stage>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Спасибо, дядя Иван! Спасибо!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Не за что, Наташа. Я просто рад, что он жив.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(МАРИНА обнимает НАТАШУ.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я так счастлива!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ИВАН, МАРИНА и НАТАША обнимаются.)</ns0:stage>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я поеду за ним сейчас же.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ИВАН уходит.)</ns0:stage>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Я так хочу увидеть папу!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я тоже, Наташа. Я тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НАТАША и МАРИНА смотрят друг на друга, улыбаются и плачут.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ</ns0:head>
+        <ns0:stage>(На сцене та же гостиная. Комната уже не так запущена, как в предыдущем акте. На стенах висят новые обои, на столе лежат свежие книги. В центре комнаты стоит диван, на котором сидят МАРИНА, НАТАША и ГОРИЧ.)</ns0:stage>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я так рад, что вы меня нашли.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Мы тоже, папа. Мы так по тебе скучали.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Я так ждала, когда ты вернешься.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я тоже, дети мои. Я тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ИВАН входит в комнату.)</ns0:stage>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я рад, что вы все вместе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Спасибо тебе, Иван. Ты настоящий друг.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Не за что, Горич. Я просто рад, что ты жив и здоров.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ИВАН, МАРИНА, НАТАША и ГОРИЧ обнимаются.)</ns0:stage>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я так счастлив, что я снова с вами.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Мы тоже, папа. Мы тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НАТАША подходит к ИВАНУ и берет его за руку.)</ns0:stage>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Спасибо тебе, дядя Иван. Ты сделал меня очень счастливой.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Не за что, Наташа. Я просто рад, что смог тебе помочь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НАТАША и ИВАН обнимаются.)</ns0:stage>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Марина, я хочу поговорить с тобой.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Хорошо, Горич.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(МАРИНА и ГОРИЧ уходят в другую комнату.)</ns0:stage>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Дядя Иван, а что случилось с папой?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Он попал в аварию.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Авария?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Да. Он был очень недолго в коме, но сейчас он уже в порядке.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Я так рада.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НАТАША и ИВАН обнимаются.)</ns0:stage>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>. Я рад, что ты рада.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НАТАША и ИВАН уходят.)</ns0:stage>
+        <ns0:stage>(МАРИНА и ГОРИЧ возвращаются в комнату.)</ns0:stage>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Марина, я хочу извиниться за то, что я ушел.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я уже простила тебя, Горич.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Спасибо тебе, Марина.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я просто хочу, чтобы мы были вместе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я тоже, Марина. Я тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГОРИЧ и МАРИНА обнимаются.)</ns0:stage>
+        <ns0:stage>(НАТАША входит в комнату.)</ns0:stage>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Папа, мама, я так рада, что вы снова вместе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Мы тоже, дети наши. Мы тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГОРИЧ, МАРИНА и НАТАША обнимаются.)</ns0:stage>
+        <ns0:stage>(Занавес.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЯТОЕ</ns0:head>
+        <ns0:stage>(На сцене та же гостиная. Комната уже не так запущена, как в предыдущем акте. На стенах висят новые обои, на столе лежат свежие книги. В центре комнаты стоит диван, на котором сидят МАРИНА, НАТАША, ГОРИЧ и ИВАН.)</ns0:stage>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я так рад, что мы снова вместе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Мы тоже, папа. Мы так по тебе скучали.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Я так ждала, когда ты вернешься.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я тоже, дети мои. Я тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит НОВЫЙ ПЕРСОНАЖ, ГОЛОВА СЕЛЬСКОЙ ОБЩИНЫ.)</ns0:stage>
+        <ns0:sp who="#holova_sel">
+          <ns0:speaker>ГОЛОВА СЕЛ</ns0:speaker>
+          <ns0:p>. ОБЩИНЫ. Здравствуйте, Горич.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Здравствуйте, господин Голова.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#holova_sel">
+          <ns0:speaker>ГОЛОВА СЕЛ</ns0:speaker>
+          <ns0:p>. ОБЩИНЫ. Я рад, что вы живы и здоровы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Спасибо, господин Голова.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#holova_sel">
+          <ns0:speaker>ГОЛОВА СЕЛ</ns0:speaker>
+          <ns0:p>. ОБЩИНЫ. Я хотел бы поговорить с вами о будущем вашей семьи.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. О будущем нашей семьи?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#holova_sel">
+          <ns0:speaker>ГОЛОВА СЕЛ</ns0:speaker>
+          <ns0:p>. ОБЩИНЫ. Да. Я думаю, что вам нужно вернуться в деревню.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. В деревню?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#holova_sel">
+          <ns0:speaker>ГОЛОВА СЕЛ</ns0:speaker>
+          <ns0:p>. ОБЩИНЫ. Да. Там вы будете жить в достатке, и ваши дети будут расти в спокойной обстановке.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я не знаю, господин Голова. Я привык к городу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#holova_sel">
+          <ns0:speaker>ГОЛОВА СЕЛ</ns0:speaker>
+          <ns0:p>. ОБЩИНЫ. Я понимаю, Горич. Но я думаю, что это будет лучшим для вас.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я подумаю об этом, господин Голова.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#holova_sel">
+          <ns0:speaker>ГОЛОВА СЕЛ</ns0:speaker>
+          <ns0:p>. ОБЩИНЫ. Хорошо, Горич. Я буду ждать вашего решения.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГОЛОВА СЕЛ. ОБЩИНЫ уходит.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Что ты скажешь, Горич?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я не знаю, Марина. Я должен подумать об этом.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Я хочу остаться в городе, папа.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я знаю, Наташа. Но я должен подумать о том, что будет лучше для нас всех.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#natasha">
+          <ns0:speaker>НАТАША</ns0:speaker>
+          <ns0:p>. Хорошо, папа. Я буду ждать твоего решения.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НАТАША уходит.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Горич, я думаю, что ты должен прислушаться к совету господина Головы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я знаю, Марина. Но я не уверен, что смогу вернуться в деревню.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА</ns0:speaker>
+          <ns0:p>. Я понимаю, Горич. Но я думаю, что это будет лучшее для нас.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horych">
+          <ns0:speaker>ГОРИЧ</ns0:speaker>
+          <ns0:p>. Я подумаю об этом, Марина.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(МАРИНА и ГОРИЧ обнимаются.)</ns0:stage>
+        <ns0:stage>(Занавес.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

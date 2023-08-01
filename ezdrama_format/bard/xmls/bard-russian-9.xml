@@ -1,670 +1,671 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="neznakomets">
-            <persName>НЕЗНАКОМЕЦ</persName>
-          </person>
-          <person sex="MALE" xml:id="druh">
-            <persName>ДРУГ</persName>
-          </person>
-          <person sex="MALE" xml:id="khudozhnyk">
-            <persName>ХУДОЖНИК</persName>
-          </person>
-          <person sex="FEMALE" xml:id="sekretarsha">
-            <persName>СЕКРЕТАРША</persName>
-          </person>
-          <person sex="MALE" xml:id="hraf_orlov">
-            <persName>ГРАФ ОРЛОВ</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
-        <stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</stage>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Барин, к вам письмо.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>От кого?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>От издателя.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(берет письмо и читает)</stage>
-          <p> Ну, что там?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Он пишет, что очень доволен вашей последней картиной и что хочет выставить ее на выставке в Петербурге.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p></p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША: </speaker>
-          <stage>(краснея)</stage>
-          <p> Не за что, барин.</p>
-        </sp>
-        <stage>(ХУДОЖНИК снова садится к мольберту и продолжает работать. СЕКРЕТАРША уходит.)</stage>
-        <stage>(Через некоторое время ХУДОЖНИК откладывает кисть и встает.)</stage>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(размышляя)</stage>
-          <p></p>
-        </sp>
-        <stage>(Входит ДРУГ ХУДОЖНИКА.)</stage>
-        <sp who="#druh">
-          <speaker>ДРУГ:</speaker>
-          <p>Привет, художник! Что делаешь?</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Привет! Я только что получил письмо от издателя. Он пишет, что очень доволен моей последней картиной и что хочет выставить ее на выставке в Петербурге.</p>
-        </sp>
-        <sp who="#druh">
-          <speaker>ДРУГ: </speaker>
-          <stage>(радостно)</stage>
-          <p> Вот это новость! Поздравляю!</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Спасибо! Я так счастлив!</p>
-        </sp>
-        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
-        <stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</stage>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Барин, к вам посетитель.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Кто?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Незнакомый мужчина.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(удивлен)</stage>
-          <p> Незнакомый? Что ему от меня нужно?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Не знаю, барин. Он сказал, что хочет поговорить с вами о вашей картине.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(подозрительно)</stage>
-          <p> Хорошо, впустишь его.</p>
-        </sp>
-        <stage>(СЕКРЕТАРША уходит. Входит НЕЗНАКОМЕЦ.)</stage>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Добрый день, господин художник.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Добрый день.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Меня зовут Иван. Я искусствовед. Я видел вашу картину, которая выставлена в Петербурге, и мне она очень понравилась.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Спасибо, мне это очень приятно.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я хотел бы предложить вам сотрудничество. Я могу помочь вам найти покупателей для ваших картин и организовать выставки в других городах.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(заинтересованно)</stage>
-          <p> Это интересно.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я могу вам гарантировать, что ваши картины будут успешными.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(подумав)</stage>
-          <p> Хорошо, я согласен.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Отлично! Я уже начал переговоры с несколькими галереями. Я думаю, что мы сможем заключить несколько контрактов уже в ближайшее время.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Это замечательно!</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ: </speaker>
-          <stage>(улыбаясь)</stage>
-          <p> Я рад, что вам это нравится.</p>
-        </sp>
-        <stage>(НЕЗНАКОМЕЦ и ХУДОЖНИК обмениваются рукопожатиями. НЕЗНАКОМЕЦ уходит.)</stage>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Это просто фантастика! Я стану знаменитым художником!</p>
-        </sp>
-        <stage>(Входит СЕКРЕТАРША.)</stage>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Барин, к вам письмо.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>От кого?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>От галереи в Москве. Они хотят купить вашу картину.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Вот это новость! Спасибо, секретарша.</p>
-        </sp>
-        <stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</stage>
-        <stage>(На этом моменте пьеса заканчивается.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
-        <stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</stage>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Барин, к вам посетитель.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Кто?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Незнакомый мужчина.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(удивлен)</stage>
-          <p> Незнакомый? Что ему от меня нужно?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Не знаю, барин. Он сказал, что хочет поговорить с вами о вашей картине.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(подозрительно)</stage>
-          <p> Хорошо, впустишь его.</p>
-        </sp>
-        <stage>(СЕКРЕТАРША уходит. Входит НЕЗНАКОМЕЦ.)</stage>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Добрый день, господин художник.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Добрый день.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Меня зовут Иван. Я искусствовед. Я видел вашу картину, которая выставлена в Петербурге, и мне она очень понравилась.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Спасибо, мне это очень приятно.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я хотел бы предложить вам сотрудничество. Я могу помочь вам найти покупателей для ваших картин и организовать выставки в других городах.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(заинтересованно)</stage>
-          <p> Это интересно.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я могу вам гарантировать, что ваши картины будут успешными.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(подумав)</stage>
-          <p> Хорошо, я согласен.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Отлично! Я уже начал переговоры с несколькими галереями. Я думаю, что мы сможем заключить несколько контрактов уже в ближайшее время.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Это замечательно!</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ: </speaker>
-          <stage>(улыбаясь)</stage>
-          <p> Я рад, что вам это нравится.</p>
-        </sp>
-        <stage>(НЕЗНАКОМЕЦ и ХУДОЖНИК обмениваются рукопожатиями. НЕЗНАКОМЕЦ уходит.)</stage>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Это просто фантастика! Я стану знаменитым художником!</p>
-        </sp>
-        <stage>(Входит ДРУГ ХУДОЖНИКА.)</stage>
-        <sp who="#druh">
-          <speaker>ДРУГ:</speaker>
-          <p>Привет, художник! Что делаешь?</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Привет! Я только что подписал контракт с галереей в Москве. Они будут продавать мои картины!</p>
-        </sp>
-        <sp who="#druh">
-          <speaker>ДРУГ: </speaker>
-          <stage>(радостно)</stage>
-          <p> Вот это новость! Поздравляю!</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Спасибо! Я так счастлив!</p>
-        </sp>
-        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
-        <stage>(Входит СЕКРЕТАРША.)</stage>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Барин, к вам письмо.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>От кого?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>От журнала «Нива». Они хотят опубликовать статью о вас и вашей работе.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Вот это новость! Спасибо, секретарша.</p>
-        </sp>
-        <stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</stage>
-        <stage>(Входит НЕЗНАКОМЕЦ.)</stage>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Добрый день, господин художник. У меня для вас хорошие новости. Я договорился с галереей в Париже о выставке ваших картин.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Париж! Это просто невероятно!</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я рад, что вам это нравится. Я думаю, что эта выставка будет очень успешной.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Спасибо, Иван. Вы сделали меня очень счастливым человеком.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Это вам спасибо, господин художник. Я рад, что смог вам помочь.</p>
-        </sp>
-        <stage>(НЕЗНАКОМЕЦ и ХУДОЖНИК обмениваются рукопожатиями. НЕЗНАКОМЕЦ уходит.)</stage>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Я не могу поверить, что это происходит! Я стану знаменитым художником!</p>
-        </sp>
-        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
-        <stage>(СЕКРЕТАРША плачет от радости.)</stage>
-        <stage>(На этом моменте пьеса заканчивается.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ЧЕТВЁRTE</head>
-        <stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</stage>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Барин, к вам гость.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Кто?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Граф Орлов.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(удивлен)</stage>
-          <p> Граф Орлов? Что ему от меня нужно?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Не знаю, барин. Он сказал, что хочет познакомиться с вами.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(подозрительно)</stage>
-          <p> Хорошо, впустишь его.</p>
-        </sp>
-        <stage>(СЕКРЕТАРША уходит. Входит ГРАФ ОРЛОВ.)</stage>
-        <sp who="#hraf_orlov">
-          <speaker>ГРАФ ОРЛОВ:</speaker>
-          <p>Добрый день, господин художник.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Добрый день.</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>ГРАФ ОРЛОВ:</speaker>
-          <p>Меня зовут Александр Орлов. Я большой поклонник вашего творчества.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Спасибо, мне это очень приятно.</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>ГРАФ ОРЛОВ:</speaker>
-          <p>Я хотел бы предложить вам сотрудничество. Я могу стать вашим покровителем и помочь вам в продвижении вашего творчества.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(заинтересованно)</stage>
-          <p> Это интересно.</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>ГРАФ ОРЛОВ:</speaker>
-          <p>Я могу вам гарантировать, что ваши картины будут известны во всей России.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(подумав)</stage>
-          <p> Хорошо, я согласен.</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>ГРАФ ОРЛОВ:</speaker>
-          <p>Отлично! Я уже начал переговоры с несколькими галереями. Я думаю, что мы сможем заключить несколько контрактов уже в ближайшее время.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Это замечательно!</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>ГРАФ ОРЛОВ: </speaker>
-          <stage>(улыбаясь)</stage>
-          <p> Я рад, что вам это нравится.</p>
-        </sp>
-        <stage>(ГРАФ ОРЛОВ и ХУДОЖНИК обмениваются рукопожатиями. ГРАФ ОРЛОВ уходит.)</stage>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Это просто фантастика! Я стану знаменитым художником!</p>
-        </sp>
-        <stage>(Входит ДРУГ ХУДОЖНИКА.)</stage>
-        <sp who="#druh">
-          <speaker>ДРУГ:</speaker>
-          <p>Привет, художник! Что делаешь?</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Привет! Я только что подписал контракт с галереей в Москве. Они будут продавать мои картины!</p>
-        </sp>
-        <sp who="#druh">
-          <speaker>ДРУГ: </speaker>
-          <stage>(радостно)</stage>
-          <p> Вот это новость! Поздравляю!</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Спасибо! Я так счастлив!</p>
-        </sp>
-        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
-        <stage>(Входит СЕКРЕТАРША.)</stage>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Барин, к вам письмо.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>От кого?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>От журнала «Нива». Они хотят опубликовать статью о вас и вашей работе.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Вот это новость! Спасибо, секретарша.</p>
-        </sp>
-        <stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</stage>
-        <stage>(Входит ГРАФ ОРЛОВ.)</stage>
-        <sp who="#hraf_orlov">
-          <speaker>ГРАФ ОРЛОВ:</speaker>
-          <p>Добрый день, господин художник. У меня для вас хорошие новости. Я договорился с галереей в Париже о выставке ваших картин.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Париж! Это просто невероятно!</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>ГРАФ ОРЛОВ:</speaker>
-          <p>Я рад, что вам это нравится. Я думаю, что эта выставка будет очень успешной.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК:</speaker>
-          <p>Спасибо, граф Орлов. Вы сделали меня очень счастливым человеком.</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>ГРАФ ОРЛОВ:</speaker>
-          <p>Это вам спасибо, господин художник. Я рад, что смог вам помочь.</p>
-        </sp>
-        <stage>(ГРАФ ОРЛОВ и ХУДОЖНИК обмениваются рукопожатиями. ГРАФ ОРЛОВ уходит.)</stage>
-        <sp who="#khudozhnyk">
-          <speaker>ХУДОЖНИК: </speaker>
-          <stage>(радостно)</stage>
-          <p> Я не могу поверить, что это происходит! Я стану знаменитым художником!**</p>
-        </sp>
-        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
-        <stage>(СЕКРЕТАРША плачет от радости.)</stage>
-        <stage>(На этом моменте пьеса заканчивается.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЯТОЕ**</head>
-        <stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</stage>
-        <sp who="#sekretarsha">
-          <speaker>**СЕКРЕТАРША:**</speaker>
-          <p>Барин, к вам гость.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:**</speaker>
-          <p>Кто?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>**СЕКРЕТАРША:**</speaker>
-          <p>Граф Орлов.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:** </speaker>
-          <stage>(удивлен)</stage>
-          <p> Граф Орлов? Что ему от меня нужно?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>**СЕКРЕТАРША:**</speaker>
-          <p>Не знаю, барин. Он сказал, что хочет познакомиться с вами и обсудить дальнейшие планы сотрудничества.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:** </speaker>
-          <stage>(подозрительно)</stage>
-          <p> Хорошо, впустишь его.</p>
-        </sp>
-        <stage>(СЕКРЕТАРША уходит. Входит ГРАФ ОРЛОВ.)</stage>
-        <sp who="#hraf_orlov">
-          <speaker>**ГРАФ ОРЛОВ:**</speaker>
-          <p>Добрый день, господин художник.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:**</speaker>
-          <p>Добрый день.</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>**ГРАФ ОРЛОВ:**</speaker>
-          <p>Меня зовут Александр Орлов. Я рад снова вас видеть.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:**</speaker>
-          <p>Я тоже рад вас видеть, граф Орлов.</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>**ГРАФ ОРЛОВ:**</speaker>
-          <p>Я хотел бы обсудить с вами дальнейшие планы сотрудничества. Я считаю, что ваши картины имеют большой потенциал, и я хочу помочь вам в их продвижении.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:**</speaker>
-          <p>Я очень благодарен вам за вашу поддержку, граф Орлов.</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>**ГРАФ ОРЛОВ:**</speaker>
-          <p>Не стоит благодарностей. Я просто хочу, чтобы ваши картины были известны во всем мире.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:**</speaker>
-          <p>Я сделаю все, что в моих силах, чтобы оправдать ваши ожидания.</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>**ГРАФ ОРЛОВ:**</speaker>
-          <p>Я уверен, что вы справитесь. Итак, вот что я предлагаю. Я договорился с несколькими галереями в Европе о выставке ваших картин. Я думаю, что это будет очень успешный проект.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:**</speaker>
-          <p>Это просто невероятно! Я не могу поверить, что это происходит!</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>**ГРАФ ОРЛОВ:**</speaker>
-          <p>Я рад, что вам это нравится. Я думаю, что это будет очень важно для вашей карьеры.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:**</speaker>
-          <p>Я очень благодарен вам за все, что вы делаете для меня.</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>**ГРАФ ОРЛОВ:**</speaker>
-          <p>Не стоит благодарностей. Я просто хочу, чтобы вы добились успеха.</p>
-        </sp>
-        <stage>(ГРАФ ОРЛОВ и ХУДОЖНИК обмениваются рукопожатиями. ГРАФ ОРЛОВ уходит.)</stage>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:** </speaker>
-          <stage>(радостно)</stage>
-          <p> Я не могу поверить, что это происходит! Я стану знаменитым художником!</p>
-        </sp>
-        <stage>(Входит ДРУГ ХУДОЖНИКА.)</stage>
-        <sp who="#druh">
-          <speaker>**ДРУГ:**</speaker>
-          <p>Привет, художник! Что делаешь?</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:** </speaker>
-          <stage>(радостно)</stage>
-          <p> Привет! Я только что подписал контракт с галереей в Париже. Они будут продавать мои картины!</p>
-        </sp>
-        <sp who="#druh">
-          <speaker>**ДРУГ:** </speaker>
-          <stage>(радостно)</stage>
-          <p> Вот это новость! Поздравляю!</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:**</speaker>
-          <p>Спасибо! Я так счастлив!</p>
-        </sp>
-        <stage>(ДРУГ и ХУДОЖНИК обнимаются.)</stage>
-        <stage>(Входит СЕКРЕТАРША.)</stage>
-        <sp who="#sekretarsha">
-          <speaker>**СЕКРЕТАРША:**</speaker>
-          <p>Барин, к вам письмо.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:**</speaker>
-          <p>От кого?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>**СЕКРЕТАРША:**</speaker>
-          <p>От журнала «Нива». Они хотят опубликовать статью о вас и вашей работе.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:** </speaker>
-          <stage>(радостно)</stage>
-          <p> Вот это новость! Спасибо, секретарша.</p>
-        </sp>
-        <stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</stage>
-        <stage>(Входит ГРАФ ОРЛОВ.)</stage>
-        <sp who="#hraf_orlov">
-          <speaker>**ГРАФ ОРЛОВ:**</speaker>
-          <p>Добрый день, господин художник. У меня для вас хорошие новости. Я договорился с галереей в Нью-Йорке о выставке ваших картин.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:** </speaker>
-          <stage>(радостно)</stage>
-          <p> Нью-Йорк! Это просто невероятно!</p>
-        </sp>
-        <sp who="#hraf_orlov">
-          <speaker>**ГРАФ ОРЛОВ:**</speaker>
-          <p>Я рад, что вам это нравится. Я думаю, что эта выставка будет очень успешной.</p>
-        </sp>
-        <sp who="#khudozhnyk">
-          <speaker>**ХУДОЖНИК:**</speaker>
-          <p>Спасибо, граф Орлов. Вы сделали меня очень</p>
-        </sp>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-russian-9</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="neznakomets">
+            <ns0:persName>НЕЗНАКОМЕЦ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="druh">
+            <ns0:persName>ДРУГ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="khudozhnyk">
+            <ns0:persName>ХУДОЖНИК</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="sekretarsha">
+            <ns0:persName>СЕКРЕТАРША</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="hraf_orlov">
+            <ns0:persName>ГРАФ ОРЛОВ</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЕРВОЕ</ns0:head>
+        <ns0:stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</ns0:stage>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Барин, к вам письмо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>От кого?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>От издателя.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(берет письмо и читает)</ns0:stage>
+          <ns0:p> Ну, что там?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Он пишет, что очень доволен вашей последней картиной и что хочет выставить ее на выставке в Петербурге.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША: </ns0:speaker>
+          <ns0:stage>(краснея)</ns0:stage>
+          <ns0:p> Не за что, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ХУДОЖНИК снова садится к мольберту и продолжает работать. СЕКРЕТАРША уходит.)</ns0:stage>
+        <ns0:stage>(Через некоторое время ХУДОЖНИК откладывает кисть и встает.)</ns0:stage>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(размышляя)</ns0:stage>
+          <ns0:p />
+        </ns0:sp>
+        <ns0:stage>(Входит ДРУГ ХУДОЖНИКА.)</ns0:stage>
+        <ns0:sp who="#druh">
+          <ns0:speaker>ДРУГ:</ns0:speaker>
+          <ns0:p>Привет, художник! Что делаешь?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Привет! Я только что получил письмо от издателя. Он пишет, что очень доволен моей последней картиной и что хочет выставить ее на выставке в Петербурге.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#druh">
+          <ns0:speaker>ДРУГ: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Вот это новость! Поздравляю!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Спасибо! Я так счастлив!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ДРУГ и ХУДОЖНИК обнимаются.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ВТОРОЕ</ns0:head>
+        <ns0:stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</ns0:stage>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Барин, к вам посетитель.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Кто?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Незнакомый мужчина.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(удивлен)</ns0:stage>
+          <ns0:p> Незнакомый? Что ему от меня нужно?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Не знаю, барин. Он сказал, что хочет поговорить с вами о вашей картине.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(подозрительно)</ns0:stage>
+          <ns0:p> Хорошо, впустишь его.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(СЕКРЕТАРША уходит. Входит НЕЗНАКОМЕЦ.)</ns0:stage>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Добрый день, господин художник.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Добрый день.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Меня зовут Иван. Я искусствовед. Я видел вашу картину, которая выставлена в Петербурге, и мне она очень понравилась.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Спасибо, мне это очень приятно.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я хотел бы предложить вам сотрудничество. Я могу помочь вам найти покупателей для ваших картин и организовать выставки в других городах.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(заинтересованно)</ns0:stage>
+          <ns0:p> Это интересно.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я могу вам гарантировать, что ваши картины будут успешными.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(подумав)</ns0:stage>
+          <ns0:p> Хорошо, я согласен.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Отлично! Я уже начал переговоры с несколькими галереями. Я думаю, что мы сможем заключить несколько контрактов уже в ближайшее время.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Это замечательно!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ: </ns0:speaker>
+          <ns0:stage>(улыбаясь)</ns0:stage>
+          <ns0:p> Я рад, что вам это нравится.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НЕЗНАКОМЕЦ и ХУДОЖНИК обмениваются рукопожатиями. НЕЗНАКОМЕЦ уходит.)</ns0:stage>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Это просто фантастика! Я стану знаменитым художником!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит СЕКРЕТАРША.)</ns0:stage>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Барин, к вам письмо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>От кого?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>От галереи в Москве. Они хотят купить вашу картину.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Вот это новость! Спасибо, секретарша.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</ns0:stage>
+        <ns0:stage>(На этом моменте пьеса заканчивается.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ТРЕТЬЕ</ns0:head>
+        <ns0:stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</ns0:stage>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Барин, к вам посетитель.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Кто?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Незнакомый мужчина.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(удивлен)</ns0:stage>
+          <ns0:p> Незнакомый? Что ему от меня нужно?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Не знаю, барин. Он сказал, что хочет поговорить с вами о вашей картине.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(подозрительно)</ns0:stage>
+          <ns0:p> Хорошо, впустишь его.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(СЕКРЕТАРША уходит. Входит НЕЗНАКОМЕЦ.)</ns0:stage>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Добрый день, господин художник.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Добрый день.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Меня зовут Иван. Я искусствовед. Я видел вашу картину, которая выставлена в Петербурге, и мне она очень понравилась.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Спасибо, мне это очень приятно.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я хотел бы предложить вам сотрудничество. Я могу помочь вам найти покупателей для ваших картин и организовать выставки в других городах.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(заинтересованно)</ns0:stage>
+          <ns0:p> Это интересно.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я могу вам гарантировать, что ваши картины будут успешными.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(подумав)</ns0:stage>
+          <ns0:p> Хорошо, я согласен.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Отлично! Я уже начал переговоры с несколькими галереями. Я думаю, что мы сможем заключить несколько контрактов уже в ближайшее время.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Это замечательно!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ: </ns0:speaker>
+          <ns0:stage>(улыбаясь)</ns0:stage>
+          <ns0:p> Я рад, что вам это нравится.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НЕЗНАКОМЕЦ и ХУДОЖНИК обмениваются рукопожатиями. НЕЗНАКОМЕЦ уходит.)</ns0:stage>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Это просто фантастика! Я стану знаменитым художником!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит ДРУГ ХУДОЖНИКА.)</ns0:stage>
+        <ns0:sp who="#druh">
+          <ns0:speaker>ДРУГ:</ns0:speaker>
+          <ns0:p>Привет, художник! Что делаешь?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Привет! Я только что подписал контракт с галереей в Москве. Они будут продавать мои картины!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#druh">
+          <ns0:speaker>ДРУГ: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Вот это новость! Поздравляю!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Спасибо! Я так счастлив!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ДРУГ и ХУДОЖНИК обнимаются.)</ns0:stage>
+        <ns0:stage>(Входит СЕКРЕТАРША.)</ns0:stage>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Барин, к вам письмо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>От кого?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>От журнала «Нива». Они хотят опубликовать статью о вас и вашей работе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Вот это новость! Спасибо, секретарша.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</ns0:stage>
+        <ns0:stage>(Входит НЕЗНАКОМЕЦ.)</ns0:stage>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Добрый день, господин художник. У меня для вас хорошие новости. Я договорился с галереей в Париже о выставке ваших картин.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Париж! Это просто невероятно!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я рад, что вам это нравится. Я думаю, что эта выставка будет очень успешной.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Спасибо, Иван. Вы сделали меня очень счастливым человеком.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Это вам спасибо, господин художник. Я рад, что смог вам помочь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НЕЗНАКОМЕЦ и ХУДОЖНИК обмениваются рукопожатиями. НЕЗНАКОМЕЦ уходит.)</ns0:stage>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Я не могу поверить, что это происходит! Я стану знаменитым художником!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ДРУГ и ХУДОЖНИК обнимаются.)</ns0:stage>
+        <ns0:stage>(СЕКРЕТАРША плачет от радости.)</ns0:stage>
+        <ns0:stage>(На этом моменте пьеса заканчивается.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ЧЕТВЁRTE</ns0:head>
+        <ns0:stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</ns0:stage>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Барин, к вам гость.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Кто?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Граф Орлов.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(удивлен)</ns0:stage>
+          <ns0:p> Граф Орлов? Что ему от меня нужно?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Не знаю, барин. Он сказал, что хочет познакомиться с вами.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(подозрительно)</ns0:stage>
+          <ns0:p> Хорошо, впустишь его.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(СЕКРЕТАРША уходит. Входит ГРАФ ОРЛОВ.)</ns0:stage>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>ГРАФ ОРЛОВ:</ns0:speaker>
+          <ns0:p>Добрый день, господин художник.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Добрый день.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>ГРАФ ОРЛОВ:</ns0:speaker>
+          <ns0:p>Меня зовут Александр Орлов. Я большой поклонник вашего творчества.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Спасибо, мне это очень приятно.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>ГРАФ ОРЛОВ:</ns0:speaker>
+          <ns0:p>Я хотел бы предложить вам сотрудничество. Я могу стать вашим покровителем и помочь вам в продвижении вашего творчества.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(заинтересованно)</ns0:stage>
+          <ns0:p> Это интересно.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>ГРАФ ОРЛОВ:</ns0:speaker>
+          <ns0:p>Я могу вам гарантировать, что ваши картины будут известны во всей России.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(подумав)</ns0:stage>
+          <ns0:p> Хорошо, я согласен.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>ГРАФ ОРЛОВ:</ns0:speaker>
+          <ns0:p>Отлично! Я уже начал переговоры с несколькими галереями. Я думаю, что мы сможем заключить несколько контрактов уже в ближайшее время.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Это замечательно!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>ГРАФ ОРЛОВ: </ns0:speaker>
+          <ns0:stage>(улыбаясь)</ns0:stage>
+          <ns0:p> Я рад, что вам это нравится.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГРАФ ОРЛОВ и ХУДОЖНИК обмениваются рукопожатиями. ГРАФ ОРЛОВ уходит.)</ns0:stage>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Это просто фантастика! Я стану знаменитым художником!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит ДРУГ ХУДОЖНИКА.)</ns0:stage>
+        <ns0:sp who="#druh">
+          <ns0:speaker>ДРУГ:</ns0:speaker>
+          <ns0:p>Привет, художник! Что делаешь?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Привет! Я только что подписал контракт с галереей в Москве. Они будут продавать мои картины!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#druh">
+          <ns0:speaker>ДРУГ: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Вот это новость! Поздравляю!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Спасибо! Я так счастлив!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ДРУГ и ХУДОЖНИК обнимаются.)</ns0:stage>
+        <ns0:stage>(Входит СЕКРЕТАРША.)</ns0:stage>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Барин, к вам письмо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>От кого?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>От журнала «Нива». Они хотят опубликовать статью о вас и вашей работе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Вот это новость! Спасибо, секретарша.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</ns0:stage>
+        <ns0:stage>(Входит ГРАФ ОРЛОВ.)</ns0:stage>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>ГРАФ ОРЛОВ:</ns0:speaker>
+          <ns0:p>Добрый день, господин художник. У меня для вас хорошие новости. Я договорился с галереей в Париже о выставке ваших картин.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Париж! Это просто невероятно!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>ГРАФ ОРЛОВ:</ns0:speaker>
+          <ns0:p>Я рад, что вам это нравится. Я думаю, что эта выставка будет очень успешной.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК:</ns0:speaker>
+          <ns0:p>Спасибо, граф Орлов. Вы сделали меня очень счастливым человеком.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>ГРАФ ОРЛОВ:</ns0:speaker>
+          <ns0:p>Это вам спасибо, господин художник. Я рад, что смог вам помочь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГРАФ ОРЛОВ и ХУДОЖНИК обмениваются рукопожатиями. ГРАФ ОРЛОВ уходит.)</ns0:stage>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>ХУДОЖНИК: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Я не могу поверить, что это происходит! Я стану знаменитым художником!**</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ДРУГ и ХУДОЖНИК обнимаются.)</ns0:stage>
+        <ns0:stage>(СЕКРЕТАРША плачет от радости.)</ns0:stage>
+        <ns0:stage>(На этом моменте пьеса заканчивается.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЯТОЕ**</ns0:head>
+        <ns0:stage>(На сцене гостиная в поместье помещика ХУДОЖНИКА. В центре комнаты стоит мольберт, на котором незаконченная картина. Рядом с мольбертом сидит ХУДОЖНИК, погруженный в работу. Входит СЕКРЕТАРША.)</ns0:stage>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>**СЕКРЕТАРША:**</ns0:speaker>
+          <ns0:p>Барин, к вам гость.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:**</ns0:speaker>
+          <ns0:p>Кто?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>**СЕКРЕТАРША:**</ns0:speaker>
+          <ns0:p>Граф Орлов.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:** </ns0:speaker>
+          <ns0:stage>(удивлен)</ns0:stage>
+          <ns0:p> Граф Орлов? Что ему от меня нужно?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>**СЕКРЕТАРША:**</ns0:speaker>
+          <ns0:p>Не знаю, барин. Он сказал, что хочет познакомиться с вами и обсудить дальнейшие планы сотрудничества.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:** </ns0:speaker>
+          <ns0:stage>(подозрительно)</ns0:stage>
+          <ns0:p> Хорошо, впустишь его.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(СЕКРЕТАРША уходит. Входит ГРАФ ОРЛОВ.)</ns0:stage>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>**ГРАФ ОРЛОВ:**</ns0:speaker>
+          <ns0:p>Добрый день, господин художник.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:**</ns0:speaker>
+          <ns0:p>Добрый день.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>**ГРАФ ОРЛОВ:**</ns0:speaker>
+          <ns0:p>Меня зовут Александр Орлов. Я рад снова вас видеть.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:**</ns0:speaker>
+          <ns0:p>Я тоже рад вас видеть, граф Орлов.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>**ГРАФ ОРЛОВ:**</ns0:speaker>
+          <ns0:p>Я хотел бы обсудить с вами дальнейшие планы сотрудничества. Я считаю, что ваши картины имеют большой потенциал, и я хочу помочь вам в их продвижении.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:**</ns0:speaker>
+          <ns0:p>Я очень благодарен вам за вашу поддержку, граф Орлов.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>**ГРАФ ОРЛОВ:**</ns0:speaker>
+          <ns0:p>Не стоит благодарностей. Я просто хочу, чтобы ваши картины были известны во всем мире.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:**</ns0:speaker>
+          <ns0:p>Я сделаю все, что в моих силах, чтобы оправдать ваши ожидания.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>**ГРАФ ОРЛОВ:**</ns0:speaker>
+          <ns0:p>Я уверен, что вы справитесь. Итак, вот что я предлагаю. Я договорился с несколькими галереями в Европе о выставке ваших картин. Я думаю, что это будет очень успешный проект.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:**</ns0:speaker>
+          <ns0:p>Это просто невероятно! Я не могу поверить, что это происходит!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>**ГРАФ ОРЛОВ:**</ns0:speaker>
+          <ns0:p>Я рад, что вам это нравится. Я думаю, что это будет очень важно для вашей карьеры.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:**</ns0:speaker>
+          <ns0:p>Я очень благодарен вам за все, что вы делаете для меня.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>**ГРАФ ОРЛОВ:**</ns0:speaker>
+          <ns0:p>Не стоит благодарностей. Я просто хочу, чтобы вы добились успеха.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГРАФ ОРЛОВ и ХУДОЖНИК обмениваются рукопожатиями. ГРАФ ОРЛОВ уходит.)</ns0:stage>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:** </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Я не могу поверить, что это происходит! Я стану знаменитым художником!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит ДРУГ ХУДОЖНИКА.)</ns0:stage>
+        <ns0:sp who="#druh">
+          <ns0:speaker>**ДРУГ:**</ns0:speaker>
+          <ns0:p>Привет, художник! Что делаешь?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:** </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Привет! Я только что подписал контракт с галереей в Париже. Они будут продавать мои картины!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#druh">
+          <ns0:speaker>**ДРУГ:** </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Вот это новость! Поздравляю!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:**</ns0:speaker>
+          <ns0:p>Спасибо! Я так счастлив!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ДРУГ и ХУДОЖНИК обнимаются.)</ns0:stage>
+        <ns0:stage>(Входит СЕКРЕТАРША.)</ns0:stage>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>**СЕКРЕТАРША:**</ns0:speaker>
+          <ns0:p>Барин, к вам письмо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:**</ns0:speaker>
+          <ns0:p>От кого?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>**СЕКРЕТАРША:**</ns0:speaker>
+          <ns0:p>От журнала «Нива». Они хотят опубликовать статью о вас и вашей работе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:** </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Вот это новость! Спасибо, секретарша.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ХУДОЖНИК и СЕКРЕТАРША обнимаются.)</ns0:stage>
+        <ns0:stage>(Входит ГРАФ ОРЛОВ.)</ns0:stage>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>**ГРАФ ОРЛОВ:**</ns0:speaker>
+          <ns0:p>Добрый день, господин художник. У меня для вас хорошие новости. Я договорился с галереей в Нью-Йорке о выставке ваших картин.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:** </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> Нью-Йорк! Это просто невероятно!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hraf_orlov">
+          <ns0:speaker>**ГРАФ ОРЛОВ:**</ns0:speaker>
+          <ns0:p>Я рад, что вам это нравится. Я думаю, что эта выставка будет очень успешной.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khudozhnyk">
+          <ns0:speaker>**ХУДОЖНИК:**</ns0:speaker>
+          <ns0:p>Спасибо, граф Орлов. Вы сделали меня очень</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

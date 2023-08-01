@@ -1,697 +1,698 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="jüngerer-herzog">
-            <persName>JÜNGERER HERZOG</persName>
-          </person>
-          <person sex="MALE" xml:id="könig">
-            <persName>KÖNIG</persName>
-          </person>
-          <person sex="FEMALE" xml:id="frau">
-            <persName>FRAU</persName>
-          </person>
-          <person sex="MALE" xml:id="general">
-            <persName>GENERAL</persName>
-          </person>
-          <person sex="MALE" xml:id="berater">
-            <persName>BERATER</persName>
-          </person>
-          <person sex="MALE" xml:id="soldaat">
-            <persName>SOLDAAT</persName>
-          </person>
-          <person sex="MALE" xml:id="freund">
-            <persName>FREUND</persName>
-          </person>
-          <person sex="MALE" xml:id="senat">
-            <persName>DER SENAT</persName>
-          </person>
-          <person sex="MALE" xml:id="junge-frau">
-            <persName>JUNGE FRAU</persName>
-          </person>
-          <person sex="MALE" xml:id="herzog">
-            <persName>HERZOG</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="act">
-        <head>Szene 1</head>
-        <stage>ERSTER AKT</stage>
-      <div type="scene">
-        <head>Szene 1</head>
-          <stage>EIN GESCHLOSSENER RAUM</stage>
-          <stage>EIN HERZOG. Der Herzog sitzt auf einem Thron. Der Senat ist um ihn herum versammelt.</stage>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>Meine Herren, wir sind hier versammelt, um über die Zukunft unseres Landes zu beraten.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Wir hören, Euer Gnaden.</p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>Wie Sie wissen, ist unser Land in einer tiefen Krise. Die Wirtschaft ist am Boden, und das Volk ist unzufrieden.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Das ist wahr, Euer Gnaden.</p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>Wir müssen etwas tun, um das Land zu retten. Wir brauchen einen neuen Plan, eine neue Vision für die Zukunft.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Wir sind bereit, Euer Gnaden, zu helfen, wie wir können.</p>
-        </sp>
-        <sp who="#herzog">
-          <speaker>HERZOG:</speaker>
-          <p>Gut. Dann lasst uns beginnen.Der Herzog und der Senat diskutieren über die Zukunft des Landes. Sie sprechen über verschiedene Möglichkeiten, wie das Land gerettet werden kann.</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>
-        <stage>EIN ANDERES ZIMMER. EIN JÜNGERER HERZOG. EIN FREUND. Der junge Herzog sitzt an einem Schreibtisch. Sein Freund ist bei ihm.</stage>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich kann es nicht glauben. Mein Vater ist tot.</p>
-        </sp>
-        <sp who="#freund">
-          <speaker>FREUND:</speaker>
-          <p>Ich weiß. Es ist ein Schock.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Und jetzt bin ich der Herzog.</p>
-        </sp>
-        <sp who="#freund">
-          <speaker>FREUND:</speaker>
-          <p>Ja. Du bist der neue Herzog.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich weiß nicht, ob ich das schaffe.</p>
-        </sp>
-        <sp who="#freund">
-          <speaker>FREUND:</speaker>
-          <p>Du schaffst das schon. Du bist ein starker Mann.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich hoffe es.</p>
-          <stage>Der junge Herzog und sein Freund sprechen über die Zukunft des Landes. Der junge Herzog ist besorgt, ob er der Aufgabe gewachsen ist, aber sein Freund beruhigt ihn.</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>
-          <stage>DER HOF. DER JÜNGERE HERZOG. DER SENAT. Der junge Herzog steht vor dem Senat.</stage>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Meine Herren, ich bin der neue Herzog.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Wir begrüßen Euch, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich weiß, dass ich große Fußstapfen zu füllen habe. Mein Vater war ein großer Herzog.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Das ist wahr, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Aber ich werde mein Bestes tun, um das Land zu regieren.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Wir sind uns sicher, dass Ihr das tun werdet, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich danke Euch.</p>
-        </sp>
-            <stage>Der junge Herzog spricht vor dem Senat. Er verspricht, sein Bestes zu tun, um das Land zu regieren.</stage>
-        <stage>Der Vorhang fällt.</stage>
-      </div>
-      </div>
-      <div type="act">
-        <head>ZWEITER AKT</head>
-      <div type="scene">
-        <head>Szene 1</head>
-        <stage>EIN RAUM IM PALAIS. 
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-german-3</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="jüngerer-herzog">
+            <ns0:persName>JÜNGERER HERZOG</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="könig">
+            <ns0:persName>KÖNIG</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="frau">
+            <ns0:persName>FRAU</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="general">
+            <ns0:persName>GENERAL</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="berater">
+            <ns0:persName>BERATER</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="soldaat">
+            <ns0:persName>SOLDAAT</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="freund">
+            <ns0:persName>FREUND</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="senat">
+            <ns0:persName>DER SENAT</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="junge-frau">
+            <ns0:persName>JUNGE FRAU</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="herzog">
+            <ns0:persName>HERZOG</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="act">
+        <ns0:head>Szene 1</ns0:head>
+        <ns0:stage>ERSTER AKT</ns0:stage>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>
+          <ns0:stage>EIN GESCHLOSSENER RAUM</ns0:stage>
+          <ns0:stage>EIN HERZOG. Der Herzog sitzt auf einem Thron. Der Senat ist um ihn herum versammelt.</ns0:stage>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>Meine Herren, wir sind hier versammelt, um über die Zukunft unseres Landes zu beraten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Wir hören, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>Wie Sie wissen, ist unser Land in einer tiefen Krise. Die Wirtschaft ist am Boden, und das Volk ist unzufrieden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Das ist wahr, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>Wir müssen etwas tun, um das Land zu retten. Wir brauchen einen neuen Plan, eine neue Vision für die Zukunft.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Wir sind bereit, Euer Gnaden, zu helfen, wie wir können.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#herzog">
+          <ns0:speaker>HERZOG:</ns0:speaker>
+          <ns0:p>Gut. Dann lasst uns beginnen.Der Herzog und der Senat diskutieren über die Zukunft des Landes. Sie sprechen über verschiedene Möglichkeiten, wie das Land gerettet werden kann.</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>
+        <ns0:stage>EIN ANDERES ZIMMER. EIN JÜNGERER HERZOG. EIN FREUND. Der junge Herzog sitzt an einem Schreibtisch. Sein Freund ist bei ihm.</ns0:stage>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich kann es nicht glauben. Mein Vater ist tot.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#freund">
+          <ns0:speaker>FREUND:</ns0:speaker>
+          <ns0:p>Ich weiß. Es ist ein Schock.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Und jetzt bin ich der Herzog.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#freund">
+          <ns0:speaker>FREUND:</ns0:speaker>
+          <ns0:p>Ja. Du bist der neue Herzog.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich weiß nicht, ob ich das schaffe.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#freund">
+          <ns0:speaker>FREUND:</ns0:speaker>
+          <ns0:p>Du schaffst das schon. Du bist ein starker Mann.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich hoffe es.</ns0:p>
+          <ns0:stage>Der junge Herzog und sein Freund sprechen über die Zukunft des Landes. Der junge Herzog ist besorgt, ob er der Aufgabe gewachsen ist, aber sein Freund beruhigt ihn.</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>
+          <ns0:stage>DER HOF. DER JÜNGERE HERZOG. DER SENAT. Der junge Herzog steht vor dem Senat.</ns0:stage>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Meine Herren, ich bin der neue Herzog.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Wir begrüßen Euch, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich weiß, dass ich große Fußstapfen zu füllen habe. Mein Vater war ein großer Herzog.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Das ist wahr, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Aber ich werde mein Bestes tun, um das Land zu regieren.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Wir sind uns sicher, dass Ihr das tun werdet, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich danke Euch.</ns0:p>
+        </ns0:sp>
+            <ns0:stage>Der junge Herzog spricht vor dem Senat. Er verspricht, sein Bestes zu tun, um das Land zu regieren.</ns0:stage>
+        <ns0:stage>Der Vorhang fällt.</ns0:stage>
+      </ns0:div>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>ZWEITER AKT</ns0:head>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>
+        <ns0:stage>EIN RAUM IM PALAIS. 
           DER JÜNGERE HERZOG. 
           EIN BERATER. Der junge Herzog sitzt an einem Schreibtisch. Ein Berater steht vor ihm.
-        </stage>
-        <sp who="#berater">
-          <speaker>BERATER:</speaker>
-          <p>Euer Gnaden, ich habe Neuigkeiten.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#berater">
-          <speaker>BERATER:</speaker>
-          <p>Die Bauern im Norden des Landes sind im Aufstand.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was? Warum?</p>
-        </sp>
-        <sp who="#berater">
-          <speaker>BERATER:</speaker>
-          <p>Sie sind unzufrieden mit der Regierung. Sie sagen, dass sie zu viel Steuern zahlen müssen.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist nicht gut. Wir müssen etwas tun, um sie zu beruhigen.</p>
-        </sp>
-        <sp who="#berater">
-          <speaker>BERATER:</speaker>
-          <p>Ich habe einen Vorschlag. Wir könnten ihnen die Steuern senken.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist eine gute Idee. Ich werde es tun.</p>
-        </sp>
-        <sp who="#berater">
-          <speaker>BERATER:</speaker>
-          <p>Ich danke Euch, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Du bist willkommen.</p>
-            <stage>
-              Der junge Herzog und der Berater sprechen über den Aufstand der Bauern. Der junge Herzog beschließt, die Steuern zu senken, um die Bauern zu beruhigen.</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>
-        <stage>
+        </ns0:stage>
+        <ns0:sp who="#berater">
+          <ns0:speaker>BERATER:</ns0:speaker>
+          <ns0:p>Euer Gnaden, ich habe Neuigkeiten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#berater">
+          <ns0:speaker>BERATER:</ns0:speaker>
+          <ns0:p>Die Bauern im Norden des Landes sind im Aufstand.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was? Warum?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#berater">
+          <ns0:speaker>BERATER:</ns0:speaker>
+          <ns0:p>Sie sind unzufrieden mit der Regierung. Sie sagen, dass sie zu viel Steuern zahlen müssen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist nicht gut. Wir müssen etwas tun, um sie zu beruhigen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#berater">
+          <ns0:speaker>BERATER:</ns0:speaker>
+          <ns0:p>Ich habe einen Vorschlag. Wir könnten ihnen die Steuern senken.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist eine gute Idee. Ich werde es tun.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#berater">
+          <ns0:speaker>BERATER:</ns0:speaker>
+          <ns0:p>Ich danke Euch, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Du bist willkommen.</ns0:p>
+            <ns0:stage>
+              Der junge Herzog und der Berater sprechen über den Aufstand der Bauern. Der junge Herzog beschließt, die Steuern zu senken, um die Bauern zu beruhigen.</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>
+        <ns0:stage>
           EIN ANDERES ZIMMER
           DER JÜNGERE HERZOG
           EINE FRAU
           Der junge Herzog sitzt an einem Schreibtisch. Eine Frau steht vor ihm.
-        </stage>
-        <sp who="#frau">
-          <speaker>FRAU:</speaker>
-          <p>Euer Gnaden, ich habe eine Bitte.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#frau">
-          <speaker>FRAU:</speaker>
-          <p>Mein Mann ist im Gefängnis. Er wurde wegen Hochverrats angeklagt.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist sehr bedauerlich. Ich werde mich mit seinem Fall befassen.</p>
-        </sp>
-        <sp who="#frau">
-          <speaker>FRAU:</speaker>
-          <p>Vielen Dank, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Du bist willkommen.</p>
-          <stage>Der junge Herzog und die Frau sprechen über den Fall des Mannes, der im Gefängnis sitzt. Der junge Herzog verspricht, sich mit dem Fall zu befassen.</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>
-        <stage>
+        </ns0:stage>
+        <ns0:sp who="#frau">
+          <ns0:speaker>FRAU:</ns0:speaker>
+          <ns0:p>Euer Gnaden, ich habe eine Bitte.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#frau">
+          <ns0:speaker>FRAU:</ns0:speaker>
+          <ns0:p>Mein Mann ist im Gefängnis. Er wurde wegen Hochverrats angeklagt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist sehr bedauerlich. Ich werde mich mit seinem Fall befassen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#frau">
+          <ns0:speaker>FRAU:</ns0:speaker>
+          <ns0:p>Vielen Dank, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Du bist willkommen.</ns0:p>
+          <ns0:stage>Der junge Herzog und die Frau sprechen über den Fall des Mannes, der im Gefängnis sitzt. Der junge Herzog verspricht, sich mit dem Fall zu befassen.</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>
+        <ns0:stage>
           DER HOF
           DER JÜNGERE HERZOG
           DER SENAT
           Der junge Herzog steht vor dem Senat.
-        </stage>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Meine Herren, ich habe gute Nachrichten. Die Bauern im Norden des Landes sind beruhigt.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Das ist eine gute Nachricht, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich habe auch gute Nachrichten für den Mann, der im Gefängnis sitzt. Er wurde freigelassen.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Das ist eine gute Nachricht, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich danke Euch.</p>
-          <stage>Der junge Herzog spricht vor dem Senat. Er verkündet die guten Nachrichten über die Bauern und den Mann, der im Gefängnis saß.</stage>
-        </sp>
-        <stage>Der Vorhang fällt.</stage>
-      </div>
-      </div>
-      <div type="act">
-          <head>DRITTER AKT</head>
-      <div type="scene">
-        <head>Szene 1</head>
-        <stage>
+        </ns0:stage>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Meine Herren, ich habe gute Nachrichten. Die Bauern im Norden des Landes sind beruhigt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Das ist eine gute Nachricht, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich habe auch gute Nachrichten für den Mann, der im Gefängnis sitzt. Er wurde freigelassen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Das ist eine gute Nachricht, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich danke Euch.</ns0:p>
+          <ns0:stage>Der junge Herzog spricht vor dem Senat. Er verkündet die guten Nachrichten über die Bauern und den Mann, der im Gefängnis saß.</ns0:stage>
+        </ns0:sp>
+        <ns0:stage>Der Vorhang fällt.</ns0:stage>
+      </ns0:div>
+      </ns0:div>
+      <ns0:div type="act">
+          <ns0:head>DRITTER AKT</ns0:head>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>
+        <ns0:stage>
           EIN RAUM IM PALAIS
           DER JÜNGERE HERZOG
           EIN BERATER
           EINE FRAU
           EIN SOLDAT
           Der junge Herzog sitzt an einem Schreibtisch. Ein Berater steht vor ihm. Eine Frau steht neben dem Berater. Ein Soldat steht im Hintergrund.
-        </stage>
-        <sp who="#berater">
-          <speaker>BERATER:</speaker>
-          <p>Euer Gnaden, ich habe Neuigkeiten.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#berater">
-          <speaker>BERATER:</speaker>
-          <p>Die Bauern im Norden des Landes sind beruhigt.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist eine gute Nachricht.</p>
-        </sp>
-        <sp who="#frau">
-          <speaker>FRAU:</speaker>
-          <p>Euer Gnaden, ich habe eine Bitte.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#frau">
-          <speaker>FRAU:</speaker>
-          <p>Mein Mann ist im Gefängnis. Er wurde wegen Hochverrats angeklagt.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist sehr bedauerlich. Ich werde mich mit seinem Fall befassen.</p>
-        </sp>
-        <sp who="#soldaat">
-          <speaker>SOLDAAT:</speaker>
-          <p>Euer Gnaden, es ist ein Aufstand im Süden des Landes.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was? Warum?</p>
-        </sp>
-        <sp who="#soldaat">
-          <speaker>SOLDAAT:</speaker>
-          <p>Die Bauern sind unzufrieden mit der Regierung. Sie sagen, dass sie zu wenig Land haben.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist nicht gut. Wir müssen etwas tun, um sie zu beruhigen.</p>
-        </sp>
-        <sp who="#berater">
-          <speaker>BERATER:</speaker>
-          <p>Ich habe einen Vorschlag. Wir könnten ihnen Land geben.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist eine gute Idee. Ich werde es tun.</p>
-        </sp>
-        <sp who="#frau">
-          <speaker>FRAU:</speaker>
-          <p>Vielen Dank, Euer Gnaden.</p>
-        </sp>
-        <sp who="#soldaat">
-          <speaker>SOLDAAT:</speaker>
-          <p>Ich werde die Bauern im Süden beruhigen.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Gut. Ich danke Euch.</p>
-          <stage>Der junge Herzog, der Berater, die Frau und der Soldat sprechen über den Aufstand im Süden des Landes. Der junge Herzog beschließt, den Bauern Land zu geben, um sie zu beruhigen.</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>
-        <stage>
+        </ns0:stage>
+        <ns0:sp who="#berater">
+          <ns0:speaker>BERATER:</ns0:speaker>
+          <ns0:p>Euer Gnaden, ich habe Neuigkeiten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#berater">
+          <ns0:speaker>BERATER:</ns0:speaker>
+          <ns0:p>Die Bauern im Norden des Landes sind beruhigt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist eine gute Nachricht.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#frau">
+          <ns0:speaker>FRAU:</ns0:speaker>
+          <ns0:p>Euer Gnaden, ich habe eine Bitte.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#frau">
+          <ns0:speaker>FRAU:</ns0:speaker>
+          <ns0:p>Mein Mann ist im Gefängnis. Er wurde wegen Hochverrats angeklagt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist sehr bedauerlich. Ich werde mich mit seinem Fall befassen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#soldaat">
+          <ns0:speaker>SOLDAAT:</ns0:speaker>
+          <ns0:p>Euer Gnaden, es ist ein Aufstand im Süden des Landes.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was? Warum?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#soldaat">
+          <ns0:speaker>SOLDAAT:</ns0:speaker>
+          <ns0:p>Die Bauern sind unzufrieden mit der Regierung. Sie sagen, dass sie zu wenig Land haben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist nicht gut. Wir müssen etwas tun, um sie zu beruhigen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#berater">
+          <ns0:speaker>BERATER:</ns0:speaker>
+          <ns0:p>Ich habe einen Vorschlag. Wir könnten ihnen Land geben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist eine gute Idee. Ich werde es tun.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#frau">
+          <ns0:speaker>FRAU:</ns0:speaker>
+          <ns0:p>Vielen Dank, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#soldaat">
+          <ns0:speaker>SOLDAAT:</ns0:speaker>
+          <ns0:p>Ich werde die Bauern im Süden beruhigen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Gut. Ich danke Euch.</ns0:p>
+          <ns0:stage>Der junge Herzog, der Berater, die Frau und der Soldat sprechen über den Aufstand im Süden des Landes. Der junge Herzog beschließt, den Bauern Land zu geben, um sie zu beruhigen.</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>
+        <ns0:stage>
           EIN ANDERES ZIMMER
           DER JÜNGERE HERZOG
           EINE JUNGE FRAU
           Der junge Herzog sitzt an einem Schreibtisch. Eine junge Frau steht vor ihm.
-        </stage>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Wer bist du?</p>
-        </sp>
-        <sp who="#junge-frau">
-          <speaker>JUNGE FRAU:</speaker>
-          <p>Ich bin die Tochter des Mannes, der im Gefängnis sitzt.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich weiß. Ich habe seinen Fall befasst. Er wird freigelassen.</p>
-        </sp>
-        <sp who="#junge-frau">
-          <speaker>JUNGE FRAU:</speaker>
-          <p>Vielen Dank, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Du bist willkommen.</p>
-        </sp>
-            <stage>Die junge Frau bedankt sich beim jungen Herzog für die Freilassung ihres Vaters.
-            </stage>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>
-        <stage>
+        </ns0:stage>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Wer bist du?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#junge-frau">
+          <ns0:speaker>JUNGE FRAU:</ns0:speaker>
+          <ns0:p>Ich bin die Tochter des Mannes, der im Gefängnis sitzt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich weiß. Ich habe seinen Fall befasst. Er wird freigelassen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#junge-frau">
+          <ns0:speaker>JUNGE FRAU:</ns0:speaker>
+          <ns0:p>Vielen Dank, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Du bist willkommen.</ns0:p>
+        </ns0:sp>
+            <ns0:stage>Die junge Frau bedankt sich beim jungen Herzog für die Freilassung ihres Vaters.
+            </ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>
+        <ns0:stage>
           DER HOF
           DER JÜNGERE HERZOG
           DER SENAT
           Der junge Herzog steht vor dem Senat.
-        </stage>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Meine Herren, ich habe gute Nachrichten. Die Bauern im Norden und im Süden des Landes sind beruhigt.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Das sind gute Nachrichten, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich habe auch gute Nachrichten für den Mann, der im Gefängnis sitzt. Er wurde freigelassen.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Das sind gute Nachrichten, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich danke Euch.</p>
-          <stage>Der junge Herzog spricht vor dem Senat. Er verkündet die guten Nachrichten über die Bauern und den Mann, der im Gefängnis saß.</stage>
-        </sp>
-        <stage>Der Vorhang fällt.</stage>
-      </div>
-      </div>
-      <div type="act">
-          <head>DRITTER AKT</head>
-      <div type="scene">
-        <head>Szene 1</head>
-        <stage>
+        </ns0:stage>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Meine Herren, ich habe gute Nachrichten. Die Bauern im Norden und im Süden des Landes sind beruhigt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Das sind gute Nachrichten, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich habe auch gute Nachrichten für den Mann, der im Gefängnis sitzt. Er wurde freigelassen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Das sind gute Nachrichten, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich danke Euch.</ns0:p>
+          <ns0:stage>Der junge Herzog spricht vor dem Senat. Er verkündet die guten Nachrichten über die Bauern und den Mann, der im Gefängnis saß.</ns0:stage>
+        </ns0:sp>
+        <ns0:stage>Der Vorhang fällt.</ns0:stage>
+      </ns0:div>
+      </ns0:div>
+      <ns0:div type="act">
+          <ns0:head>DRITTER AKT</ns0:head>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>
+        <ns0:stage>
           EIN RAUM IM PALAIS
           DER JÜNGERE HERZOG
           EINE JUNGE FRAU
           EIN KÖNIG
           Der junge Herzog sitzt an einem Schreibtisch. Eine junge Frau steht vor ihm. Ein König steht im Hintergrund.
-        </stage>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Wer bist du?</p>
-        </sp>
-        <sp who="#junge-frau">
-          <speaker>JUNGE FRAU:</speaker>
-          <p>Ich bin die Tochter des Mannes, der im Gefängnis sitzt.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich weiß. Ich habe seinen Fall befasst. Er wird freigelassen.</p>
-        </sp>
-        <sp who="#junge-frau">
-          <speaker>JUNGE FRAU:</speaker>
-          <p>Vielen Dank, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Du bist willkommen.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Euer Gnaden, ich habe Neuigkeiten.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ein Nachbarland hat uns angegriffen.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was? Warum?</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Sie wollen unser Land an sich reißen.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist nicht gut. Wir müssen etwas tun, um sie zu besiegen.</p>
-        </sp>
-        <sp who="#junge-frau">
-          <speaker>JUNGE FRAU:</speaker>
-          <p>Ich kann helfen. Ich bin eine gute Kämpferin.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist gut. Du wirst uns im Kampf gegen unsere Feinde helfen.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich werde meine Armee schicken.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Gut. Wir werden sie besiegen.</p>
-         <stage>
-           Der junge Herzog, die junge Frau und der König sprechen über den bevorstehenden Krieg. Die junge Frau bietet ihre Hilfe an, und der König schickt seine Armee.</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>
-        <stage>
+        </ns0:stage>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Wer bist du?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#junge-frau">
+          <ns0:speaker>JUNGE FRAU:</ns0:speaker>
+          <ns0:p>Ich bin die Tochter des Mannes, der im Gefängnis sitzt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich weiß. Ich habe seinen Fall befasst. Er wird freigelassen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#junge-frau">
+          <ns0:speaker>JUNGE FRAU:</ns0:speaker>
+          <ns0:p>Vielen Dank, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Du bist willkommen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Euer Gnaden, ich habe Neuigkeiten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ein Nachbarland hat uns angegriffen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was? Warum?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Sie wollen unser Land an sich reißen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist nicht gut. Wir müssen etwas tun, um sie zu besiegen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#junge-frau">
+          <ns0:speaker>JUNGE FRAU:</ns0:speaker>
+          <ns0:p>Ich kann helfen. Ich bin eine gute Kämpferin.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist gut. Du wirst uns im Kampf gegen unsere Feinde helfen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich werde meine Armee schicken.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Gut. Wir werden sie besiegen.</ns0:p>
+         <ns0:stage>
+           Der junge Herzog, die junge Frau und der König sprechen über den bevorstehenden Krieg. Die junge Frau bietet ihre Hilfe an, und der König schickt seine Armee.</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>
+        <ns0:stage>
           EIN KAMPFSTELLE
           DER JÜNGERE HERZOG
           DIE JUNGE FRAU
           DIE ARMEE
           Die junge Frau und der junge Herzog kämpfen an der Spitze der Armee. Sie besiegen die feindlichen Truppen.Der junge Herzog und die junge Frau besiegen die feindlichen Truppen und retten das Land.
-        </stage>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>
-      <stage>
+        </ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>
+      <ns0:stage>
           DER HOF
           DER JÜNGERE HERZOG
           DER SENAT
           DER KÖNIG
-        </stage>
-        <sp who="#jüngerer-herzog">
-          <speaker>DER JÜNGERE HERZOG</speaker>
-          <p>Meine Herren, ich habe gute Nachrichten. Wir haben den Krieg gewonnen.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Das sind gute Nachrichten, Euer Gnaden.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich danke Euch für Eure Hilfe.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Es war mir ein Vergnügen.</p>
-          <stage>Der junge Herzog spricht vor dem Senat und dem König. Er verkündet den Sieg im Krieg.</stage>
-        </sp>
-        <stage>Der Vorhang fällt.</stage>
-        </div>
-      </div>
-        <div type="act">
-          <head>DRITTER AKT</head>
-      <div type="scene">
-        <head>Szene 1</head>
-        <stage>
+        </ns0:stage>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>DER JÜNGERE HERZOG</ns0:speaker>
+          <ns0:p>Meine Herren, ich habe gute Nachrichten. Wir haben den Krieg gewonnen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Das sind gute Nachrichten, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich danke Euch für Eure Hilfe.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Es war mir ein Vergnügen.</ns0:p>
+          <ns0:stage>Der junge Herzog spricht vor dem Senat und dem König. Er verkündet den Sieg im Krieg.</ns0:stage>
+        </ns0:sp>
+        <ns0:stage>Der Vorhang fällt.</ns0:stage>
+        </ns0:div>
+      </ns0:div>
+        <ns0:div type="act">
+          <ns0:head>DRITTER AKT</ns0:head>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>
+        <ns0:stage>
           EIN RAUM IM PALAIS
           DER JÜNGERE HERZOG
           EINE JUNGE FRAU
           EIN KÖNIG
           EIN GENERAL
           Der junge Herzog sitzt an einem Schreibtisch. Eine junge Frau steht vor ihm. Ein König und ein General stehen im Hintergrund.
-        </stage>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Wer bist du?</p>
-        </sp>
-        <sp who="#junge-frau">
-          <speaker>JUNGE FRAU:</speaker>
-          <p>Ich bin die Tochter des Mannes, der im Gefängnis sitzt.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Ich weiß. Ich habe seinen Fall befasst. Er wird freigelassen.</p>
-        </sp>
-        <sp who="#junge-frau">
-          <speaker>JUNGE FRAU:</speaker>
-          <p>Vielen Dank, Euer Gnaden.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Du bist willkommen.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Euer Gnaden, ich habe Neuigkeiten.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ein Nachbarland hat uns angegriffen.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was? Warum?</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Sie wollen unser Land an sich reißen.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist nicht gut. Wir müssen etwas tun, um sie zu besiegen.</p>
-        </sp>
-        <sp who="#junge-frau">
-          <speaker>JUNGE FRAU:</speaker>
-          <p>Ich kann helfen. Ich bin eine gute Kämpferin.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist gut. Du wirst uns im Kampf gegen unsere Feinde helfen.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich werde meine Armee schicken.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Gut. Wir werden sie besiegen.</p>
-        </sp>
-        <sp who="#general">
-          <speaker>GENERAL:</speaker>
-          <p>Euer Gnaden, ich habe einen Plan.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#general">
-          <speaker>GENERAL:</speaker>
-          <p>Wir können einen Hinterhalt aufstellen.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist eine gute Idee.</p>
-        </sp>
-        <sp who="#general">
-          <speaker>GENERAL:</speaker>
-          <p>Ich werde die Armee vorbereiten.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Gut.</p>
-            <stage>Der junge Herzog, die junge Frau, der König und der General sprechen über den bevorstehenden Krieg. Der General schlägt einen Hinterhalt vor, und der junge Herzog stimmt zu.</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>
-        <stage>
+        </ns0:stage>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Wer bist du?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#junge-frau">
+          <ns0:speaker>JUNGE FRAU:</ns0:speaker>
+          <ns0:p>Ich bin die Tochter des Mannes, der im Gefängnis sitzt.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Ich weiß. Ich habe seinen Fall befasst. Er wird freigelassen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#junge-frau">
+          <ns0:speaker>JUNGE FRAU:</ns0:speaker>
+          <ns0:p>Vielen Dank, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Du bist willkommen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Euer Gnaden, ich habe Neuigkeiten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ein Nachbarland hat uns angegriffen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was? Warum?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Sie wollen unser Land an sich reißen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist nicht gut. Wir müssen etwas tun, um sie zu besiegen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#junge-frau">
+          <ns0:speaker>JUNGE FRAU:</ns0:speaker>
+          <ns0:p>Ich kann helfen. Ich bin eine gute Kämpferin.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist gut. Du wirst uns im Kampf gegen unsere Feinde helfen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich werde meine Armee schicken.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Gut. Wir werden sie besiegen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#general">
+          <ns0:speaker>GENERAL:</ns0:speaker>
+          <ns0:p>Euer Gnaden, ich habe einen Plan.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#general">
+          <ns0:speaker>GENERAL:</ns0:speaker>
+          <ns0:p>Wir können einen Hinterhalt aufstellen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist eine gute Idee.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#general">
+          <ns0:speaker>GENERAL:</ns0:speaker>
+          <ns0:p>Ich werde die Armee vorbereiten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Gut.</ns0:p>
+            <ns0:stage>Der junge Herzog, die junge Frau, der König und der General sprechen über den bevorstehenden Krieg. Der General schlägt einen Hinterhalt vor, und der junge Herzog stimmt zu.</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>
+        <ns0:stage>
           EIN KAMPFSTELLE
           DER JÜNGERE HERZOG
           DIE JUNGE FRAU
           DIE ARMEE
           Die junge Frau und der junge Herzog führen die Armee in die Schlacht. Sie stellen einen Hinterhalt auf und besiegen die feindlichen Truppen.Der junge Herzog, die junge Frau und die Armee besiegen die feindlichen Truppen und retten das Land.
-        </stage>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>
-        <stage>
+        </ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>
+        <ns0:stage>
           DER HOF
           DER JÜNGERE HERZOG
           DER SENAT
           DER KÖNIG
           DER GENERAL
-        </stage>
-        <sp who="#jüngerer-herzog">
-          <speaker>DER JÜNGERE HERZOG</speaker>
-          <p>Meine Herren, ich habe gute Nachrichten. Wir haben den Krieg gewonnen.</p>
-        </sp>
-        <sp who="#senat">
-          <speaker>SENAT:</speaker>
-          <p>Das sind gute Nachrichten, Euer Gnaden.</p>
-        </sp>
-        <sp who="#könig">
-          <speaker>KÖNIG:</speaker>
-          <p>Ich danke Euch für Eure Hilfe.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Es war mir ein Vergnügen.</p>
-        </sp>
-        <sp who="#general">
-          <speaker>GENERAL:</speaker>
-          <p>Euer Gnaden, ich habe einen Vorschlag.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Was ist es?</p>
-        </sp>
-        <sp who="#general">
-          <speaker>GENERAL:</speaker>
-          <p>Ich möchte die junge Frau heiraten.</p>
-        </sp>
-        <sp who="#jüngerer-herzog">
-          <speaker>JÜNGERER HERZOG:</speaker>
-          <p>Das ist eine gute Idee.</p>
-        </sp>
-        <sp who="#junge-frau">
-          <speaker>JUNGE FRAU:</speaker>
-          <p>Ich will.</p>
-          <stage>Der junge Herzog, der König, der Senat und der General sprechen über den Sieg im Krieg. Der General schlägt vor, die junge Frau zu heiraten, und sie stimmt zu.</stage>
-        </sp>
-        <stage>Der Vorhang fällt.</stage>
-      </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+        </ns0:stage>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>DER JÜNGERE HERZOG</ns0:speaker>
+          <ns0:p>Meine Herren, ich habe gute Nachrichten. Wir haben den Krieg gewonnen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#senat">
+          <ns0:speaker>SENAT:</ns0:speaker>
+          <ns0:p>Das sind gute Nachrichten, Euer Gnaden.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#könig">
+          <ns0:speaker>KÖNIG:</ns0:speaker>
+          <ns0:p>Ich danke Euch für Eure Hilfe.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Es war mir ein Vergnügen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#general">
+          <ns0:speaker>GENERAL:</ns0:speaker>
+          <ns0:p>Euer Gnaden, ich habe einen Vorschlag.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Was ist es?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#general">
+          <ns0:speaker>GENERAL:</ns0:speaker>
+          <ns0:p>Ich möchte die junge Frau heiraten.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jüngerer-herzog">
+          <ns0:speaker>JÜNGERER HERZOG:</ns0:speaker>
+          <ns0:p>Das ist eine gute Idee.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#junge-frau">
+          <ns0:speaker>JUNGE FRAU:</ns0:speaker>
+          <ns0:p>Ich will.</ns0:p>
+          <ns0:stage>Der junge Herzog, der König, der Senat und der General sprechen über den Sieg im Krieg. Der General schlägt vor, die junge Frau zu heiraten, und sie stimmt zu.</ns0:stage>
+        </ns0:sp>
+        <ns0:stage>Der Vorhang fällt.</ns0:stage>
+      </ns0:div>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

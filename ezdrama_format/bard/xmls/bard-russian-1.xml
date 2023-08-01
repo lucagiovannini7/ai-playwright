@@ -1,641 +1,642 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="host">
-            <persName>ГОСТЬ</persName>
-          </person>
-          <person sex="MALE" xml:id="staryk">
-            <persName>СТАРИК</persName>
-          </person>
-          <person sex="FEMALE" xml:id="devushka">
-            <persName>ДЕВУШКА</persName>
-          </person>
-          <person sex="MALE" xml:id="khozjayn">
-            <persName>ХОЗЯИН</persName>
-          </person>
-          <person sex="FEMALE" xml:id="mater">
-            <persName>МАТЕРЬ</persName>
-          </person>
-          <person sex="MALE" xml:id="balalajkash">
-            <persName>БАЛАЛАЙКАШ</persName>
-          </person>
-          <person sex="MALE" xml:id="sluha">
-            <persName>СЛУГА</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
-        <stage>(Картина первая. Комната в доме помещика.)</stage> 
-        <stage>Входят ХОЗЯИН и ГОСТЬ.</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(указывая на стул)</stage>
-          <p>. Присаживайтесь, пожалуйста.</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ </speaker>
-          <stage>(садится)</stage>
-          <p>. Благодарю вас.</p>
-        </sp>
-        <stage>(Пауза.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>. Так, так... И как ваши дела?</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <p>. Да, как-то... Не очень хорошо.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>. Что-то случилось?</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <p>. Да, не совсем. Просто... У меня есть одна проблема.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>. Какая?</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <p>. Я не могу найти работу.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>. Вот как? А вы что, искали?</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <p>. Да, конечно. Я ходил по всем инстанциям, но везде мне отказывали.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>. Странно. А у вас есть какой-нибудь опыт работы?</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <p>. Да, конечно. Я работал на нескольких заводах, но меня все время увольняли.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>. Почему?</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <p>. Не знаю. Наверное, потому что я слишком много говорю.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(улыбаясь)</stage>
-          <p>. А вы не пробовали молчать?</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ </speaker>
-          <stage>(грустно)</stage>
-          <p>. Я уже пробовал. Но это не помогает.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(серьезно)</stage>
-          <p>. Знаете, я могу вам помочь.</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ </speaker>
-          <stage>(с надеждой)</stage>
-          <p>. Вы можете?</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>. Да. Я могу вам дать работу.</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ </speaker>
-          <stage>(в восторге)</stage>
-          <p>. Правда?</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>. Да. Я могу взять вас к себе в дом в качестве слуги.</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ </speaker>
-          <stage>(с благодарностью)</stage>
-          <p>. Спасибо вам большое! Я буду очень стараться.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>. Я уверен, что вы справитесь.</p>
-        </sp>
-        <stage>(Гость встает и обнимает Хозяина.)</stage>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <p>. Спасибо вам! Вы спасли мне жизнь!</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>. Не стоит благодарности. Я просто помог человеку в беде.</p>
-        </sp>
-        <stage>(Гость выходит. Хозяин садится в кресло и закуривает сигару.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(про себя)</stage>
-          <p>. Вот и еще один человек в моем доме. Интересно, как он справится с этой работой?</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage> 
-        <stage>Входят ХОЗЯИН, ГОСТЬ, и СЛУГА.</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(Гостю)</stage>
-          <p>. Вот, как я и говорил, вы справились с работой на отлично.</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ </speaker>
-          <stage>(с гордостью)</stage>
-          <p>. Спасибо вам, Хозяин. Я старался.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(Слуге)</stage>
-          <p>. А ты, как думаешь, он справится с этой работой?</p>
-        </sp>
-        <sp who="#sluha">
-          <speaker>СЛУГА </speaker>
-          <stage>(скромно)</stage>
-          <p>. Я думаю, что да. Он трудолюбивый и ответственный.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(Гостю)</stage>
-          <p>. Ну что ж, я рад, что вы мне не подвели.</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. Спасибо вам, Хозяин. Я буду продолжать стараться.</p>
-        </sp>
-        <stage>(Входит ДЕВУШКА.)</stage>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(с волнением)</stage>
-          <p>. Хозяин, к вам сватаются!</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(удивлен)</stage>
-          <p>. Кто?</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА</speaker>
-          <p>. Молодой помещик из соседнего имения.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(задумчиво)</stage>
-          <p>. Я подумаю.</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(с надеждой)</stage>
-          <p>. Вы согласитесь?</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(улыбаясь)</stage>
-          <p>. Я подумаю.</p>
-        </sp>
-        <stage>(Девушка выходит.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(Гостью)</stage>
-          <p>. Что ж, пора вам возвращаться домой.</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ </speaker>
-          <stage>(с сожалением)</stage>
-          <p>. Да, пора.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(Слуге)</stage>
-          <p>. Дай ему немного денег на дорогу.</p>
-        </sp>
-        <sp who="#sluha">
-          <speaker>СЛУГА </speaker>
-          <stage>(подаёт Гостю деньги)</stage>
-          <p>. Вот, держи.</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ </speaker>
-          <stage>(благодарно)</stage>
-          <p>. Спасибо вам.</p>
-        </sp>
-        <stage>(Гость выходит.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(Слуге)</stage>
-          <p>. Ну что ж, теперь пора и мне подумать о своей судьбе.</p>
-        </sp>
-        <sp who="#sluha">
-          <speaker>СЛУГА </speaker>
-          <stage>(с пониманием)</stage>
-          <p>. Да, Хозяин.</p>
-        </sp>
-        <stage>(Хозяин и Слуга уходят.)</stage>
-        <!-- GPT metacomment: In this act, I added the characters of the Девушка (Girl) and the Слуга (Servant). I also removed the character of the Гость (Guest). I changed the ending of the act so that the Хозяин <stage>(Master)</stage> is now considering marrying the Девушка. -->
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage> 
-        <stage>Входят ХОЗЯИН, СЛУГА, и МАТЬ.</stage>
-        <sp who="#mater">
-          <speaker>МАТЕРЬ </speaker>
-          <stage>(с волнением)</stage>
-          <p>. Хозяин, я должна вам кое-что сказать.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с удивлением)</stage>
-          <p>. Что такое?</p>
-        </sp>
-        <sp who="#mater">
-          <speaker>МАТЕРЬ </speaker>
-          <stage>(задумчиво)</stage>
-          <p>. Я знаю, что вы сватаются к моей дочери.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(недоумённо)</stage>
-          <p>. Как вы это узнали?</p>
-        </sp>
-        <sp who="#mater">
-          <speaker>МАТЕРЬ </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. Я всё знаю.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с облегчением)</stage>
-          <p>. О, тогда я могу вам сказать, что я согласен на этот брак.</p>
-        </sp>
-        <sp who="#mater">
-          <speaker>МАТЕРЬ </speaker>
-          <stage>(радостно)</stage>
-          <p>. Спасибо вам! Я так рада!</p>
-        </sp>
-        <stage>(Хозяин и Мать обнимаются.)</stage>
-        <sp who="#sluha">
-          <speaker>СЛУГА </speaker>
-          <stage>(радостно)</stage>
-          <p>. Поздравляю, Хозяин!</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(благодарно)</stage>
-          <p>. Спасибо, Слуга.</p>
-        </sp>
-        <stage>(Входит ДЕВУШКА.)</stage>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(с радостью)</stage>
-          <p>. Что такое? Что случилось?</p>
-        </sp>
-        <sp who="#mater">
-          <speaker>МАТЕРЬ </speaker>
-          <stage>(радостно)</stage>
-          <p>. Хозяин согласился на наш брак!</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(радостно)</stage>
-          <p>. О, это чудесно!</p>
-        </sp>
-        <stage>(Девушка и Хозяин обнимаются.)</stage>
-        <sp who="#sluha">
-          <speaker>СЛУГА </speaker>
-          <stage>(радостно)</stage>
-          <p>. Поздравляю, молодые!</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН</speaker>
-          <p>, ДЕВУШКА, и СЛУГА <stage>(радостно).</stage> Спасибо!</p>
-        </sp>
-        <stage>(Хозяин, Девушка, и Слуга уходят.)</stage>
-        <!-- GPT metacomment: In this act, I added the characters of the Мать (Mother) and the Слуга (Servant). I also removed the character of the Девушка (Girl). I changed the ending of the act so that the Хозяин (Master) is now married to the Девушка. -->
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ**</head>
-        <stage>(Картина первая. Зал в поместье Хозяина.)</stage>
-        <stage>Входят ХОЗЯИН, ДЕВУШКА, МАТЬ, и ГОСТЬ.</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. Дорогие гости, я рад вас видеть!</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(радостно)</stage>
-          <p>. Спасибо, Хозяин!</p>
-        </sp>
-        <sp who="#mater">
-          <speaker>МАТЕРЬ </speaker>
-          <stage>(с благодарностью)</stage>
-          <p>. Мы тоже рады быть здесь.</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <stage>(с почтением)</stage>
-          <p>. Благодарим вас за приглашение, Хозяин.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(показывает на стол)</stage>
-          <p>. Прошу, садитесь.</p>
-        </sp>
-        <stage>(Гости садятся.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(поднимает бокал)</stage>
-          <p>. За наше счастье!</p>
-        </sp>
-        <stage>(Гости поднимают бокалы.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с любовью смотрит на Девушку)</stage>
-          <p>. Я так счастлив, что мы с тобой вместе.</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(с нежностью)</stage>
-          <p>. Я тоже счастлива, Хозяин.</p>
-        </sp>
-        <stage>(Хозяин и Девушка целуются.)</stage>
-        <sp who="#mater">
-          <speaker>МАТЕРЬ </speaker>
-          <stage>(слезя с радости)</stage>
-          <p>. Я так рада за вас!</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. Я тоже рад за вас.</p>
-        </sp>
-        <stage>(Гость наливает всем в бокалы.)</stage>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <stage>(с тостом)</stage>
-          <p>. За молодоженов!</p>
-        </sp>
-        <stage>(Гости поднимают бокалы.)</stage>
-        <stage>(Звучат аплодисменты.)</stage>
-        <stage>(Хозяин, Девушка, Мать, и Гость пьют.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. Я хочу, чтобы этот день запомнился нам навсегда.</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(с нежностью)</stage>
-          <p>. Он запомнится мне навсегда.</p>
-        </sp>
-        <sp who="#mater">
-          <speaker>МАТЕРЬ </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. И мне тоже.</p>
-        </sp>
-        <sp who="#host">
-          <speaker>ГОСТЬ</speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. Мне тоже.</p>
-        </sp>
-        <stage>(Хозяин, Девушка, Мать, и Гость обнимаются.)</stage>
-        <stage>(Звучат аплодисменты.)</stage>
-        <stage>(Входят СЛУГА и БАЛАЛАЙКАШ.)</stage>
-        <sp who="#sluha">
-          <speaker>СЛУГА </speaker>
-          <stage>(с поклоном)</stage>
-          <p>. Хозяин, балалаечник пришел.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. Спасибо, Слуга. Пусть в честь нашего праздника он сыграет нам что-нибудь.</p>
-        </sp>
-        <sp who="#sluha">
-          <speaker>СЛУГА </speaker>
-          <stage>(с поклоном)</stage>
-          <p>. Слушаю, Хозяин.</p>
-        </sp>
-        <stage>(Слуга и Балалаечник уходят.)</stage>
-        <stage>(Через некоторое время возвращаются СЛУГА и БАЛАЛАЙКАШ.)</stage>
-        <sp who="#balalajkash">
-          <speaker>БАЛАЛАЙКАШ </speaker>
-          <stage>(поклонившись)</stage>
-          <p>. Хозяин, для вас.</p>
-        </sp>
-        <stage>(Балагаечник начинает играть.)</stage>
-        <stage>(Хозяин, Девушка, Мать, и Гость танцуют.)</stage>
-        <stage>(Звучит музыка.)</stage>
-        <stage>(Через некоторое время музыка стихает.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. Спасибо, балалаечник. Ты прекрасно сыграл.</p>
-        </sp>
-        <sp who="#balalajkash">
-          <speaker>БАЛАЛАЙКАШ </speaker>
-          <stage>(с поклоном)</stage>
-          <p>. Спасибо, Хозяин.</p>
-        </sp>
-        <stage>(Балагаечник и СЛУГА уходят.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с любовью смотрит на Девушку)</stage>
-          <p>. Я так счастлив, что у меня есть ты.</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(с нежностью)</stage>
-          <p>. Я тоже счастлива, Хозяин.</p>
-        </sp>
-        <stage>(Хозяин и Девушка целуются.)</stage>
-        <stage>(Звучат аплодисменты.)</stage>
-        <stage>(Хозяин, Девушка, Мать, и Гость пьют.)</stage>
-        <stage>(Вечеринка продолжается.)</stage>
-        <!-- GPT metacomment: In this act, I added the characters of the Слуга (Servant) and the Балалаечник (Balalaika Player). I also removed the character of the Гость (Guest). I changed the ending of the act so that the Хозяин (Master) and Девушка <stage>(Girl)</stage> are now married and having a party with their family and friends. ** -->>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЯТОЕ**</head>
-        <stage>(Картина первая. Та же комната.)</stage>
-        <stage>(Хозяин, Девушка, Мать, Слуга, Балалаечник, и несколько Гостей сидят за столом и пьют.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(поднимает бокал)</stage>
-          <p>. За нашу любовь!</p>
-        </sp>
-        <stage>(Гости поднимают бокалы.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с любовью смотрит на Девушку)</stage>
-          <p>. Я так счастлив, что наконец-то нашел свою любовь.</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(с нежностью)</stage>
-          <p>. Я тоже счастлива, Хозяин.</p>
-        </sp>
-        <stage>(Хозяин и Девушка целуются.)</stage>
-        <sp who="#host">
-          <speaker>ГОСТЬ </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. Я рад за вас, Хозяин. Вы такая красивая пара.</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(с благодарностью)</stage>
-          <p>. Спасибо.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>. Спасибо, Гость.</p>
-        </sp>
-        <stage>(Гости продолжают пить и разговаривать.)</stage>
-        <stage>(Вдруг в комнату входит СТАРИК.)</stage>
-        <sp who="#staryk">
-          <speaker>СТАРИК </speaker>
-          <stage>(с поклоном)</stage>
-          <p>. Хозяин, я пришел за невестой.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с удивлением)</stage>
-          <p>. Что?</p>
-        </sp>
-        <sp who="#staryk">
-          <speaker>СТАРИК </speaker>
-          <stage>(с грустью)</stage>
-          <p>. Да, Хозяин. Ее отец прислал меня за ней.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с волнением)</stage>
-          <p>. Но почему?</p>
-        </sp>
-        <sp who="#staryk">
-          <speaker>СТАРИК </speaker>
-          <stage>(с сожалением)</stage>
-          <p>. Он говорит, что она не подходит вам.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с гневом)</stage>
-          <p>. Это неправда! Она идеальна для меня!</p>
-        </sp>
-        <sp who="#staryk">
-          <speaker>СТАРИК </speaker>
-          <stage>(с пониманием)</stage>
-          <p>. Я понимаю, Хозяин. Но вы не можете идти против воли ее отца.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с отчаянием)</stage>
-          <p>. Но я не хочу ее отпускать!</p>
-        </sp>
-        <sp who="#staryk">
-          <speaker>СТАРИК </speaker>
-          <stage>(с сочувствием)</stage>
-          <p>. Я тоже не хочу, Хозяин. Но это не в наших силах.</p>
-        </sp>
-        <stage>(Хозяин и Девушка в слезах обнимаются.)</stage>
-        <sp who="#staryk">
-          <speaker>СТАРИК </speaker>
-          <stage>(с грустью)</stage>
-          <p>. Прошу, простите меня.</p>
-        </sp>
-        <stage>(Старик уходит.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с горечью)</stage>
-          <p>. Я никогда не забуду тебя, моя любовь.</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(с грустью)</stage>
-          <p>. Я тоже, Хозяин.</p>
-        </sp>
-        <stage>(Хозяин и Девушка целуются напоследок.)</stage>
-        <stage>(Старик возвращается.)</stage>
-        <sp who="#staryk">
-          <speaker>СТАРИК </speaker>
-          <stage>(с поклоном)</stage>
-          <p>. Хозяин, она должна идти со мной.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с болью)</stage>
-          <p>. Я знаю.</p>
-        </sp>
-        <stage>(Старик берет Девушку за руку и они уходят.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с тоской)</stage>
-          <p>. Прощай, моя любовь.</p>
-        </sp>
-        <stage>(Хозяин остается один. Он плачет.)</stage>
-        <stage>(Гости расходятся.)</stage>
-        <stage>(Слуга подходит к Хозяину.)</stage>
-        <sp who="#sluha">
-          <speaker>СЛУГА </speaker>
-          <stage>(с сочувствием)</stage>
-          <p>. Хозяин, я так вам сочувствую.</p>
-        </sp>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с болью)</stage>
-          <p>. Спасибо, Слуга.</p>
-        </sp>
-        <stage>(Слуга обнимает Хозяина.)</stage>
-        <stage>(Хозяин и Слуга стоят так некоторое время.)</stage>
-        <stage>(Хозяин поднимает голову.)</stage>
-        <sp who="#khozjayn">
-          <speaker>ХОЗЯИН </speaker>
-          <stage>(с решимостью)</stage>
-          <p>. Я не сдамся. Я найду ее и верну ее себе.</p>
-        </sp>
-        <stage>(Хозяин и Слуга уходят.)</stage>
-        <!-- GPT metacomment In this act, I added the characters of the СТАРИК (Old Man) and the Гости (Guests). I also removed the character of the Балалаечник (Balalaika Player). I changed the ending of the act so that the Хозяин (Master) and Девушка <stage>(Girl)</stage> are separated by the Девушка's father.  -->
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-russian-1</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="host">
+            <ns0:persName>ГОСТЬ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="staryk">
+            <ns0:persName>СТАРИК</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="devushka">
+            <ns0:persName>ДЕВУШКА</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="khozjayn">
+            <ns0:persName>ХОЗЯИН</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="mater">
+            <ns0:persName>МАТЕРЬ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="balalajkash">
+            <ns0:persName>БАЛАЛАЙКАШ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="sluha">
+            <ns0:persName>СЛУГА</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЕРВОЕ</ns0:head>
+        <ns0:stage>(Картина первая. Комната в доме помещика.)</ns0:stage> 
+        <ns0:stage>Входят ХОЗЯИН и ГОСТЬ.</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(указывая на стул)</ns0:stage>
+          <ns0:p>. Присаживайтесь, пожалуйста.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ </ns0:speaker>
+          <ns0:stage>(садится)</ns0:stage>
+          <ns0:p>. Благодарю вас.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Пауза.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>. Так, так... И как ваши дела?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:p>. Да, как-то... Не очень хорошо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>. Что-то случилось?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:p>. Да, не совсем. Просто... У меня есть одна проблема.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>. Какая?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:p>. Я не могу найти работу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>. Вот как? А вы что, искали?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:p>. Да, конечно. Я ходил по всем инстанциям, но везде мне отказывали.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>. Странно. А у вас есть какой-нибудь опыт работы?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:p>. Да, конечно. Я работал на нескольких заводах, но меня все время увольняли.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>. Почему?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:p>. Не знаю. Наверное, потому что я слишком много говорю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(улыбаясь)</ns0:stage>
+          <ns0:p>. А вы не пробовали молчать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ </ns0:speaker>
+          <ns0:stage>(грустно)</ns0:stage>
+          <ns0:p>. Я уже пробовал. Но это не помогает.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(серьезно)</ns0:stage>
+          <ns0:p>. Знаете, я могу вам помочь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ </ns0:speaker>
+          <ns0:stage>(с надеждой)</ns0:stage>
+          <ns0:p>. Вы можете?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>. Да. Я могу вам дать работу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ </ns0:speaker>
+          <ns0:stage>(в восторге)</ns0:stage>
+          <ns0:p>. Правда?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>. Да. Я могу взять вас к себе в дом в качестве слуги.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ </ns0:speaker>
+          <ns0:stage>(с благодарностью)</ns0:stage>
+          <ns0:p>. Спасибо вам большое! Я буду очень стараться.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>. Я уверен, что вы справитесь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Гость встает и обнимает Хозяина.)</ns0:stage>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:p>. Спасибо вам! Вы спасли мне жизнь!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>. Не стоит благодарности. Я просто помог человеку в беде.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Гость выходит. Хозяин садится в кресло и закуривает сигару.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(про себя)</ns0:stage>
+          <ns0:p>. Вот и еще один человек в моем доме. Интересно, как он справится с этой работой?</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ВТОРОЕ</ns0:head>
+        <ns0:stage>(Картина первая. Та же комната.)</ns0:stage> 
+        <ns0:stage>Входят ХОЗЯИН, ГОСТЬ, и СЛУГА.</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(Гостю)</ns0:stage>
+          <ns0:p>. Вот, как я и говорил, вы справились с работой на отлично.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ </ns0:speaker>
+          <ns0:stage>(с гордостью)</ns0:stage>
+          <ns0:p>. Спасибо вам, Хозяин. Я старался.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(Слуге)</ns0:stage>
+          <ns0:p>. А ты, как думаешь, он справится с этой работой?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА </ns0:speaker>
+          <ns0:stage>(скромно)</ns0:stage>
+          <ns0:p>. Я думаю, что да. Он трудолюбивый и ответственный.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(Гостю)</ns0:stage>
+          <ns0:p>. Ну что ж, я рад, что вы мне не подвели.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. Спасибо вам, Хозяин. Я буду продолжать стараться.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит ДЕВУШКА.)</ns0:stage>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(с волнением)</ns0:stage>
+          <ns0:p>. Хозяин, к вам сватаются!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(удивлен)</ns0:stage>
+          <ns0:p>. Кто?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА</ns0:speaker>
+          <ns0:p>. Молодой помещик из соседнего имения.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(задумчиво)</ns0:stage>
+          <ns0:p>. Я подумаю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(с надеждой)</ns0:stage>
+          <ns0:p>. Вы согласитесь?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(улыбаясь)</ns0:stage>
+          <ns0:p>. Я подумаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Девушка выходит.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(Гостью)</ns0:stage>
+          <ns0:p>. Что ж, пора вам возвращаться домой.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ </ns0:speaker>
+          <ns0:stage>(с сожалением)</ns0:stage>
+          <ns0:p>. Да, пора.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(Слуге)</ns0:stage>
+          <ns0:p>. Дай ему немного денег на дорогу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА </ns0:speaker>
+          <ns0:stage>(подаёт Гостю деньги)</ns0:stage>
+          <ns0:p>. Вот, держи.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ </ns0:speaker>
+          <ns0:stage>(благодарно)</ns0:stage>
+          <ns0:p>. Спасибо вам.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Гость выходит.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(Слуге)</ns0:stage>
+          <ns0:p>. Ну что ж, теперь пора и мне подумать о своей судьбе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА </ns0:speaker>
+          <ns0:stage>(с пониманием)</ns0:stage>
+          <ns0:p>. Да, Хозяин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин и Слуга уходят.)</ns0:stage>
+        
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ТРЕТЬЕ</ns0:head>
+        <ns0:stage>(Картина первая. Та же комната.)</ns0:stage> 
+        <ns0:stage>Входят ХОЗЯИН, СЛУГА, и МАТЬ.</ns0:stage>
+        <ns0:sp who="#mater">
+          <ns0:speaker>МАТЕРЬ </ns0:speaker>
+          <ns0:stage>(с волнением)</ns0:stage>
+          <ns0:p>. Хозяин, я должна вам кое-что сказать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с удивлением)</ns0:stage>
+          <ns0:p>. Что такое?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mater">
+          <ns0:speaker>МАТЕРЬ </ns0:speaker>
+          <ns0:stage>(задумчиво)</ns0:stage>
+          <ns0:p>. Я знаю, что вы сватаются к моей дочери.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(недоумённо)</ns0:stage>
+          <ns0:p>. Как вы это узнали?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mater">
+          <ns0:speaker>МАТЕРЬ </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. Я всё знаю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с облегчением)</ns0:stage>
+          <ns0:p>. О, тогда я могу вам сказать, что я согласен на этот брак.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mater">
+          <ns0:speaker>МАТЕРЬ </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p>. Спасибо вам! Я так рада!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин и Мать обнимаются.)</ns0:stage>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p>. Поздравляю, Хозяин!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(благодарно)</ns0:stage>
+          <ns0:p>. Спасибо, Слуга.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит ДЕВУШКА.)</ns0:stage>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(с радостью)</ns0:stage>
+          <ns0:p>. Что такое? Что случилось?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mater">
+          <ns0:speaker>МАТЕРЬ </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p>. Хозяин согласился на наш брак!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p>. О, это чудесно!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Девушка и Хозяин обнимаются.)</ns0:stage>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p>. Поздравляю, молодые!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН</ns0:speaker>
+          <ns0:p>, ДЕВУШКА, и СЛУГА <ns0:stage>(радостно).</ns0:stage> Спасибо!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин, Девушка, и Слуга уходят.)</ns0:stage>
+        
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ**</ns0:head>
+        <ns0:stage>(Картина первая. Зал в поместье Хозяина.)</ns0:stage>
+        <ns0:stage>Входят ХОЗЯИН, ДЕВУШКА, МАТЬ, и ГОСТЬ.</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. Дорогие гости, я рад вас видеть!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p>. Спасибо, Хозяин!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mater">
+          <ns0:speaker>МАТЕРЬ </ns0:speaker>
+          <ns0:stage>(с благодарностью)</ns0:stage>
+          <ns0:p>. Мы тоже рады быть здесь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:stage>(с почтением)</ns0:stage>
+          <ns0:p>. Благодарим вас за приглашение, Хозяин.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(показывает на стол)</ns0:stage>
+          <ns0:p>. Прошу, садитесь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Гости садятся.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(поднимает бокал)</ns0:stage>
+          <ns0:p>. За наше счастье!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Гости поднимают бокалы.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с любовью смотрит на Девушку)</ns0:stage>
+          <ns0:p>. Я так счастлив, что мы с тобой вместе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(с нежностью)</ns0:stage>
+          <ns0:p>. Я тоже счастлива, Хозяин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин и Девушка целуются.)</ns0:stage>
+        <ns0:sp who="#mater">
+          <ns0:speaker>МАТЕРЬ </ns0:speaker>
+          <ns0:stage>(слезя с радости)</ns0:stage>
+          <ns0:p>. Я так рада за вас!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. Я тоже рад за вас.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Гость наливает всем в бокалы.)</ns0:stage>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:stage>(с тостом)</ns0:stage>
+          <ns0:p>. За молодоженов!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Гости поднимают бокалы.)</ns0:stage>
+        <ns0:stage>(Звучат аплодисменты.)</ns0:stage>
+        <ns0:stage>(Хозяин, Девушка, Мать, и Гость пьют.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. Я хочу, чтобы этот день запомнился нам навсегда.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(с нежностью)</ns0:stage>
+          <ns0:p>. Он запомнится мне навсегда.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mater">
+          <ns0:speaker>МАТЕРЬ </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. И мне тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ</ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. Мне тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин, Девушка, Мать, и Гость обнимаются.)</ns0:stage>
+        <ns0:stage>(Звучат аплодисменты.)</ns0:stage>
+        <ns0:stage>(Входят СЛУГА и БАЛАЛАЙКАШ.)</ns0:stage>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА </ns0:speaker>
+          <ns0:stage>(с поклоном)</ns0:stage>
+          <ns0:p>. Хозяин, балалаечник пришел.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. Спасибо, Слуга. Пусть в честь нашего праздника он сыграет нам что-нибудь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА </ns0:speaker>
+          <ns0:stage>(с поклоном)</ns0:stage>
+          <ns0:p>. Слушаю, Хозяин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Слуга и Балалаечник уходят.)</ns0:stage>
+        <ns0:stage>(Через некоторое время возвращаются СЛУГА и БАЛАЛАЙКАШ.)</ns0:stage>
+        <ns0:sp who="#balalajkash">
+          <ns0:speaker>БАЛАЛАЙКАШ </ns0:speaker>
+          <ns0:stage>(поклонившись)</ns0:stage>
+          <ns0:p>. Хозяин, для вас.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Балагаечник начинает играть.)</ns0:stage>
+        <ns0:stage>(Хозяин, Девушка, Мать, и Гость танцуют.)</ns0:stage>
+        <ns0:stage>(Звучит музыка.)</ns0:stage>
+        <ns0:stage>(Через некоторое время музыка стихает.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. Спасибо, балалаечник. Ты прекрасно сыграл.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#balalajkash">
+          <ns0:speaker>БАЛАЛАЙКАШ </ns0:speaker>
+          <ns0:stage>(с поклоном)</ns0:stage>
+          <ns0:p>. Спасибо, Хозяин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Балагаечник и СЛУГА уходят.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с любовью смотрит на Девушку)</ns0:stage>
+          <ns0:p>. Я так счастлив, что у меня есть ты.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(с нежностью)</ns0:stage>
+          <ns0:p>. Я тоже счастлива, Хозяин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин и Девушка целуются.)</ns0:stage>
+        <ns0:stage>(Звучат аплодисменты.)</ns0:stage>
+        <ns0:stage>(Хозяин, Девушка, Мать, и Гость пьют.)</ns0:stage>
+        <ns0:stage>(Вечеринка продолжается.)</ns0:stage>
+        &gt;
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЯТОЕ**</ns0:head>
+        <ns0:stage>(Картина первая. Та же комната.)</ns0:stage>
+        <ns0:stage>(Хозяин, Девушка, Мать, Слуга, Балалаечник, и несколько Гостей сидят за столом и пьют.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(поднимает бокал)</ns0:stage>
+          <ns0:p>. За нашу любовь!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Гости поднимают бокалы.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с любовью смотрит на Девушку)</ns0:stage>
+          <ns0:p>. Я так счастлив, что наконец-то нашел свою любовь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(с нежностью)</ns0:stage>
+          <ns0:p>. Я тоже счастлива, Хозяин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин и Девушка целуются.)</ns0:stage>
+        <ns0:sp who="#host">
+          <ns0:speaker>ГОСТЬ </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. Я рад за вас, Хозяин. Вы такая красивая пара.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(с благодарностью)</ns0:stage>
+          <ns0:p>. Спасибо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>. Спасибо, Гость.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Гости продолжают пить и разговаривать.)</ns0:stage>
+        <ns0:stage>(Вдруг в комнату входит СТАРИК.)</ns0:stage>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК </ns0:speaker>
+          <ns0:stage>(с поклоном)</ns0:stage>
+          <ns0:p>. Хозяин, я пришел за невестой.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с удивлением)</ns0:stage>
+          <ns0:p>. Что?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК </ns0:speaker>
+          <ns0:stage>(с грустью)</ns0:stage>
+          <ns0:p>. Да, Хозяин. Ее отец прислал меня за ней.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с волнением)</ns0:stage>
+          <ns0:p>. Но почему?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК </ns0:speaker>
+          <ns0:stage>(с сожалением)</ns0:stage>
+          <ns0:p>. Он говорит, что она не подходит вам.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с гневом)</ns0:stage>
+          <ns0:p>. Это неправда! Она идеальна для меня!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК </ns0:speaker>
+          <ns0:stage>(с пониманием)</ns0:stage>
+          <ns0:p>. Я понимаю, Хозяин. Но вы не можете идти против воли ее отца.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с отчаянием)</ns0:stage>
+          <ns0:p>. Но я не хочу ее отпускать!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК </ns0:speaker>
+          <ns0:stage>(с сочувствием)</ns0:stage>
+          <ns0:p>. Я тоже не хочу, Хозяин. Но это не в наших силах.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин и Девушка в слезах обнимаются.)</ns0:stage>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК </ns0:speaker>
+          <ns0:stage>(с грустью)</ns0:stage>
+          <ns0:p>. Прошу, простите меня.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Старик уходит.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с горечью)</ns0:stage>
+          <ns0:p>. Я никогда не забуду тебя, моя любовь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(с грустью)</ns0:stage>
+          <ns0:p>. Я тоже, Хозяин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин и Девушка целуются напоследок.)</ns0:stage>
+        <ns0:stage>(Старик возвращается.)</ns0:stage>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК </ns0:speaker>
+          <ns0:stage>(с поклоном)</ns0:stage>
+          <ns0:p>. Хозяин, она должна идти со мной.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с болью)</ns0:stage>
+          <ns0:p>. Я знаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Старик берет Девушку за руку и они уходят.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с тоской)</ns0:stage>
+          <ns0:p>. Прощай, моя любовь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин остается один. Он плачет.)</ns0:stage>
+        <ns0:stage>(Гости расходятся.)</ns0:stage>
+        <ns0:stage>(Слуга подходит к Хозяину.)</ns0:stage>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА </ns0:speaker>
+          <ns0:stage>(с сочувствием)</ns0:stage>
+          <ns0:p>. Хозяин, я так вам сочувствую.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с болью)</ns0:stage>
+          <ns0:p>. Спасибо, Слуга.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Слуга обнимает Хозяина.)</ns0:stage>
+        <ns0:stage>(Хозяин и Слуга стоят так некоторое время.)</ns0:stage>
+        <ns0:stage>(Хозяин поднимает голову.)</ns0:stage>
+        <ns0:sp who="#khozjayn">
+          <ns0:speaker>ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(с решимостью)</ns0:stage>
+          <ns0:p>. Я не сдамся. Я найду ее и верну ее себе.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Хозяин и Слуга уходят.)</ns0:stage>
+        
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

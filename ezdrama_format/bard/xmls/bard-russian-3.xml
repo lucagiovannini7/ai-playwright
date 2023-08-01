@@ -1,773 +1,774 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="yvan">
-            <persName>ИВАН</persName>
-          </person>
-          <person sex="MALE" xml:id="petr">
-            <persName>ПЕТР</persName>
-          </person>
-          <person sex="MALE" xml:id="syvorov">
-            <persName>СИВОРОВ</persName>
-          </person>
-          <person sex="MALE" xml:id="neznakomets">
-            <persName>НЕЗНАКОМЕЦ</persName>
-          </person>
-          <person sex="MALE" xml:id="horylov">
-            <persName>ГОРИЛОВ</persName>
-          </person>
-          <person sex="FEMALE" xml:id="maryna">
-            <persName>МАРИНА</persName>
-          </person>
-          <person sex="MALE" xml:id="sluha">
-            <persName>СЛУГА</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>АКТ ПЕРВЫЙ</head>
-        <stage>(На сцене гостиная в доме богатого помещика. На диване сидит ГОРИЛОВ, 45 лет, в халате и туфлях. Рядом с ним на стуле стоит слуга, держит поднос с чаем.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Давай, подавай. (Слуга подает Горилову чашку чая.) Спасибо. <stage>(Слуга уходит. Горилов пьет чай.)</stage></p>
-        </sp>
-        <stage>(Входит жена Горилова, МАРИНА, 40 лет.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Ну что, дорогой, как спалось?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Да нормально. А у тебя?</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>У меня тоже.</p>
-        </sp>
-        <stage>(Пауза.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Марина, мне нужно с тобой поговорить.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>О чем?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>О нашем сыне.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Что с ним?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Он не слушается меня.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Ну, он же ребенок.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Он уже не ребенок. Ему 16 лет.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Ну и что?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Он должен слушаться меня.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Он и слушается тебя.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Нет, не слушается. Он все время что-то вытворяет.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Ну, что он может вытворять?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Он убегает из дома, курит, пьет вино.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Ну, это все пустяки.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Это не пустяки. Это серьезные проблемы.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Ну, что ты хочешь сделать?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я хочу его отправить в военную школу.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>В военную школу?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Да.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Но он же не хочет в военную школу.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Он и не должен хотеть. Он должен слушаться меня.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Но это же будет ужасно.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Это будет для его же блага.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Я не хочу, чтобы он уезжал.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Марина, это уже не обсуждается. Я уже все решил.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА: </speaker>
-          <stage>(тихо)</stage>
-          <p> Хорошо.**</p>
-        </sp>
-        <stage>(Горилов и Марина молчат.)</stage>
-      </div>
-      <div type="scene">
-        <head>АКТ ВТОРОЙ**</head>
-        <stage>(На сцене гостиная в доме богатого помещика. Горилов и Марина сидят на диване. На стуле рядом с ними стоит слуга с подносом с чаем.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Марина, я только что получил письмо от директора военной школы.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>И что?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Они согласились принять нашего сына.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА: </speaker>
-          <stage>(радостно)</stage>
-          <p> О, это чудесно!</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Да, я тоже рад.</p>
-        </sp>
-        <stage>(Слуга подает Горилову и Марине чашки чая.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Вот, выпейте чаю.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Спасибо.</p>
-        </sp>
-        <stage>(Горилов и Марина пьют чай.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>А когда он уедет?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Через две недели.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Так скоро?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Да, они хотят, чтобы он начал обучение как можно раньше.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Я не хочу, чтобы он уезжал.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я тоже не хочу, но это для его же блага.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Я знаю, но все равно это будет тяжело.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я тоже буду скучать по нему.</p>
-        </sp>
-        <stage>(Входит слуга.)</stage>
-        <sp who="#sluha">
-          <speaker>СЛУГА:</speaker>
-          <p>Господин, к вам пожаловали гости.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Кто это?</p>
-        </sp>
-        <sp who="#sluha">
-          <speaker>СЛУГА:</speaker>
-          <p>Незнакомец, говорит, что хочет поговорить с вами о вашем сыне.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Попроси его войти.</p>
-        </sp>
-        <stage>(Слуга уходит.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Кто это может быть?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Не знаю, но скоро узнаем.</p>
-        </sp>
-        <stage>(Входит незнакомец.)</stage>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Здравствуйте, господин Горилов.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Здравствуйте.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я хотел бы поговорить с вами о вашем сыне.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>О чем именно?</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я знаю, что он собирается уехать в военную школу.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Да, это так.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я хочу вам сказать, что это не лучшая идея.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Почему?</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Потому что ваш сын не подходит для военной школы.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Почему вы так говорите?</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Потому что я знаю его. Я его учитель.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Учитель?</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Да. Я преподавал ему математику.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>И что вы можете сказать о нем?</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я могу сказать, что он умный и талантливый мальчик. Но он также очень своенравный и независимый. Он не будет слушаться приказов.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я знаю, что он может быть упрямым. Но я думаю, что он справится.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я не думаю, что это хорошая идея. Я думаю, что он будет несчастен в военной школе.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я не знаю, что делать.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Я могу вам посоветовать одну вещь. Отправьте его в другую школу. В школу, где он сможет учиться на своих условиях.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я подумаю об этом.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Хорошо. Я надеюсь, что вы сделаете правильный выбор.</p>
-        </sp>
-        <stage>(Незнакомец уходит.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Что ты думаешь, Марина?</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Я думаю, что мы должны прислушаться к его совету.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я тоже так думаю.</p>
-        </sp>
-        <stage>(Горилов и Марина молчат.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Хорошо, я откажусь от его поступления в военную школу.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Спасибо, дорогой.</p>
-        </sp>
-        <stage>(Горилов и Марина обнимаются.)</stage>
-      </div>
-      <div type="scene">
-        <head>АКТ ТРЕТИЙ**</head>
-        <stage>(На сцене гостиная в доме богатого помещика. Горилов и Марина сидят на диване. На стуле рядом с ними стоит слуга с подносом с чаем.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Марина, я только что получил письмо от директора военной школы.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>И что?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Они отказались принять нашего сына.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА: </speaker>
-          <stage>(печально)</stage>
-          <p> О, это ужасно!</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Да, я тоже расстроен.</p>
-        </sp>
-        <stage>(Слуга подает Горилову и Марине чашки чая.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Вот, выпейте чаю.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Спасибо.</p>
-        </sp>
-        <stage>(Горилов и Марина пьют чай.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Почему они отказались?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Они сказали, что он не подходит для их школы.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Почему?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Они сказали, что он слишком упрямый и независимый.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Но он же всего лишь ребенок!</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я знаю, но они не хотят с ним связываться.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Что же мы теперь будем делать?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я не знаю.</p>
-        </sp>
-        <stage>(Входит слуга.)</stage>
-        <sp who="#sluha">
-          <speaker>СЛУГА:</speaker>
-          <p>Господин, к вам пожаловали гости.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Кто это?</p>
-        </sp>
-        <sp who="#sluha">
-          <speaker>СЛУГА:</speaker>
-          <p>Незнакомец и девушка. Говорят, что они знакомы с вашим сыном.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Попроси их войти.</p>
-        </sp>
-        <stage>(Слуга уходит.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Кто это может быть?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Не знаю, но скоро узнаем.</p>
-        </sp>
-        <stage>(Входят незнакомец и девушка.)</stage>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Здравствуйте, господин Горилов.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Здравствуйте.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Меня зовут Петр, а это моя сестра, Аня.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Здравствуйте, Петр, Аня.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Мы знакомы с вашим сыном, Иваном.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Да, я знаю.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Мы хотели бы вам кое-что сказать.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Что именно?</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Мы думаем, что Иван не подходит для военной школы.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Почему вы так говорите?</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Потому что мы знаем его. Мы дружим с ним уже много лет.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>И что вы можете сказать о нем?</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Мы можем сказать, что он умный и талантливый мальчик. Но он также очень своенравный и независимый. Он не будет слушаться приказов.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я знаю, что он может быть упрямым. Но я думаю, что он справится.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Мы не думаем, что это хорошая идея. Мы думаем, что он будет несчастен в военной школе.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я не знаю, что делать.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Мы можем вам посоветовать одну вещь. Отправьте его в другую школу. В школу, где он сможет учиться на своих условиях.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я подумаю об этом.</p>
-        </sp>
-        <sp who="#neznakomets">
-          <speaker>НЕЗНАКОМЕЦ:</speaker>
-          <p>Хорошо. Мы надеемся, что вы сделаете правильный выбор.</p>
-        </sp>
-        <stage>(Незнакомец и девушка уходят.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Что ты думаешь, Марина?</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Я думаю, что мы должны прислушаться к их совету.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я тоже так думаю.</p>
-        </sp>
-        <stage>(Горилов и Марина молчат.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Хорошо, я откажусь от его поступления в военную школу.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Спасибо, дорогой.</p>
-        </sp>
-        <stage>(Горилов и Марина обнимаются.)</stage>
-      </div>
-      <div type="scene">
-        <head>АКТ ЧЕТВЁРТЫЙ**</head>
-        <stage>(На сцене гостиная в доме богатого помещика. Горилов, Марина, Иван и Петр с Анной сидят на диване. На стуле рядом с ними стоит слуга с подносом с чаем.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Иван, я только что получил письмо от директора военной школы.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>И что?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Они отказались принять тебя.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН: </speaker>
-          <stage>(печально)</stage>
-          <p> О, это ужасно!</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Да, я тоже расстроен.</p>
-        </sp>
-        <stage>(Слуга подает Горилову, Марине, Ивану и Петру с Анной чашки чая.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Вот, выпейте чаю.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>, МАРИНА, ПЕТРУСЬ И АНЯ: Спасибо.</p>
-        </sp>
-        <stage>(Горилов, Марина, Иван, Петр и Аня пьют чай.)</stage>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>Почему они отказались?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Они сказали, что ты не подходишь для их школы.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>Почему?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Они сказали, что ты слишком упрямый и независимый.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>Но я же всего лишь ребенок!</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я знаю, но они не хотят с тобой связываться.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Что же мы теперь будем делать?</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я не знаю.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>Я знаю, что делать!</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Что?</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>Я пойду в другую школу! В школу, где я смогу учиться на своих условиях!</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Но где такую школу найти?</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>Я уже знаю! Я пойду в школу, которую основал Петр.</p>
-        </sp>
-        <sp who="#petr">
-          <speaker>ПЕТР:</speaker>
-          <p>Школу для одарённых детей?</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>Да! Я знаю, что там будут учиться такие же, как я, умные и талантливые, но независимые и своенравные дети.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Я думаю, что это отличная идея!</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я тоже так думаю.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>Спасибо, папа! Спасибо, мама! Спасибо, Петр и Аня!</p>
-        </sp>
-        <stage>(Иван, Петр и Аня обнимаются.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я горжусь тобой, Иван!</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Мы тоже!</p>
-        </sp>
-        <stage>(Горилов, Марина, Иван, Петр и Аня обнимаются.)</stage>
-      </div>
-      <div type="scene">
-        <head>АКТ ПЯТЫЙ**</head>
-        <stage>(На сцене гостиная в доме богатого помещика. Горилов, Марина, Иван, Петр с Анной, а также директор школы для одарённых детей, ГОСПОДИН СИВОРОВ, сидят на диване. На стуле рядом с ними стоит слуга с подносом с чаем.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Господин Сиворов, мы очень благодарны вам за то, что вы согласились принять Ивана в вашу школу.</p>
-        </sp>
-        <sp who="#syvorov">
-          <speaker>СИВОРОВ:</speaker>
-          <p>Не стоит благодарностей. Я рад, что смогу помочь такому талантливому и целеустремлённому юноше.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>Спасибо, господин Сиворов! Я буду очень стараться не подвести вас.</p>
-        </sp>
-        <sp who="#syvorov">
-          <speaker>СИВОРОВ:</speaker>
-          <p>Я уверен, что вы не подведёте.</p>
-        </sp>
-        <stage>(Слуга подает Горилову, Марине, Ивану, Петру, Анне и Сиворову чашки чая.)</stage>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Вот, выпейте чаю.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН</speaker>
-          <p>, МАРИНА, ПЕТРУСЬ, АНЯ И СИВОРОВ: Спасибо.</p>
-        </sp>
-        <stage>(Горилов, Марина, Иван, Петр, Аня и Сиворов пьют чай.)</stage>
-        <sp who="#syvorov">
-          <speaker>СИВОРОВ:</speaker>
-          <p>Я думаю, что вам будет очень интересно учиться в нашей школе. У нас много талантливых детей, и мы стараемся создать для них максимально комфортные условия для обучения.</p>
-        </sp>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>Я уже слышал о вашей школе, и я очень хотел бы учиться здесь.</p>
-        </sp>
-        <sp who="#syvorov">
-          <speaker>СИВОРОВ:</speaker>
-          <p>Я рад, что вы разделяете мой энтузиазм. Я уверен, что вы будете здесь счастливы.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Я горжусь тобой, Иван!</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Мы тоже!</p>
-        </sp>
-        <sp who="#syvorov">
-          <speaker>СИВОРОВ:</speaker>
-          <p>Ну что ж, я думаю, что пора начинать новые приключения.</p>
-        </sp>
-        <stage>(Иван, Петр, Аня и Сиворов встают.)</stage>
-        <sp who="#yvan">
-          <speaker>ИВАН:</speaker>
-          <p>До свидания, папа! До свидания, мама!</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>До свидания, Иван! Будь счастлив!</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>До свидания, сын!</p>
-        </sp>
-        <stage>(Иван, Петр, Аня и Сиворов уходят.)</stage>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Я так рада, что Иван будет учиться в такой замечательной школе.</p>
-        </sp>
-        <sp who="#horylov">
-          <speaker>ГОРИЛОВ:</speaker>
-          <p>Я тоже. Я горжусь им.</p>
-        </sp>
-        <sp who="#maryna">
-          <speaker>МАРИНА:</speaker>
-          <p>Я тоже.**The End**</p>
-        </sp>
-        <stage>(Горилов и Марина обнимаются.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-russian-3</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="yvan">
+            <ns0:persName>ИВАН</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="petr">
+            <ns0:persName>ПЕТР</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="syvorov">
+            <ns0:persName>СИВОРОВ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="neznakomets">
+            <ns0:persName>НЕЗНАКОМЕЦ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="horylov">
+            <ns0:persName>ГОРИЛОВ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="maryna">
+            <ns0:persName>МАРИНА</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="sluha">
+            <ns0:persName>СЛУГА</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>АКТ ПЕРВЫЙ</ns0:head>
+        <ns0:stage>(На сцене гостиная в доме богатого помещика. На диване сидит ГОРИЛОВ, 45 лет, в халате и туфлях. Рядом с ним на стуле стоит слуга, держит поднос с чаем.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Давай, подавай. (Слуга подает Горилову чашку чая.) Спасибо. <ns0:stage>(Слуга уходит. Горилов пьет чай.)</ns0:stage></ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит жена Горилова, МАРИНА, 40 лет.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Ну что, дорогой, как спалось?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Да нормально. А у тебя?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>У меня тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Пауза.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Марина, мне нужно с тобой поговорить.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>О чем?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>О нашем сыне.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Что с ним?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Он не слушается меня.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Ну, он же ребенок.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Он уже не ребенок. Ему 16 лет.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Ну и что?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Он должен слушаться меня.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Он и слушается тебя.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Нет, не слушается. Он все время что-то вытворяет.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Ну, что он может вытворять?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Он убегает из дома, курит, пьет вино.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Ну, это все пустяки.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Это не пустяки. Это серьезные проблемы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Ну, что ты хочешь сделать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я хочу его отправить в военную школу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>В военную школу?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Да.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Но он же не хочет в военную школу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Он и не должен хотеть. Он должен слушаться меня.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Но это же будет ужасно.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Это будет для его же блага.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Я не хочу, чтобы он уезжал.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Марина, это уже не обсуждается. Я уже все решил.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА: </ns0:speaker>
+          <ns0:stage>(тихо)</ns0:stage>
+          <ns0:p> Хорошо.**</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов и Марина молчат.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>АКТ ВТОРОЙ**</ns0:head>
+        <ns0:stage>(На сцене гостиная в доме богатого помещика. Горилов и Марина сидят на диване. На стуле рядом с ними стоит слуга с подносом с чаем.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Марина, я только что получил письмо от директора военной школы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>И что?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Они согласились принять нашего сына.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА: </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p> О, это чудесно!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Да, я тоже рад.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Слуга подает Горилову и Марине чашки чая.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Вот, выпейте чаю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Спасибо.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов и Марина пьют чай.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>А когда он уедет?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Через две недели.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Так скоро?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Да, они хотят, чтобы он начал обучение как можно раньше.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Я не хочу, чтобы он уезжал.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я тоже не хочу, но это для его же блага.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Я знаю, но все равно это будет тяжело.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я тоже буду скучать по нему.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит слуга.)</ns0:stage>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА:</ns0:speaker>
+          <ns0:p>Господин, к вам пожаловали гости.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Кто это?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА:</ns0:speaker>
+          <ns0:p>Незнакомец, говорит, что хочет поговорить с вами о вашем сыне.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Попроси его войти.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Слуга уходит.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Кто это может быть?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Не знаю, но скоро узнаем.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит незнакомец.)</ns0:stage>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Здравствуйте, господин Горилов.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Здравствуйте.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я хотел бы поговорить с вами о вашем сыне.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>О чем именно?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я знаю, что он собирается уехать в военную школу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Да, это так.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я хочу вам сказать, что это не лучшая идея.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Почему?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Потому что ваш сын не подходит для военной школы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Почему вы так говорите?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Потому что я знаю его. Я его учитель.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Учитель?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Да. Я преподавал ему математику.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>И что вы можете сказать о нем?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я могу сказать, что он умный и талантливый мальчик. Но он также очень своенравный и независимый. Он не будет слушаться приказов.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я знаю, что он может быть упрямым. Но я думаю, что он справится.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я не думаю, что это хорошая идея. Я думаю, что он будет несчастен в военной школе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я не знаю, что делать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Я могу вам посоветовать одну вещь. Отправьте его в другую школу. В школу, где он сможет учиться на своих условиях.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я подумаю об этом.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Хорошо. Я надеюсь, что вы сделаете правильный выбор.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Незнакомец уходит.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Что ты думаешь, Марина?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Я думаю, что мы должны прислушаться к его совету.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я тоже так думаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов и Марина молчат.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Хорошо, я откажусь от его поступления в военную школу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Спасибо, дорогой.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов и Марина обнимаются.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>АКТ ТРЕТИЙ**</ns0:head>
+        <ns0:stage>(На сцене гостиная в доме богатого помещика. Горилов и Марина сидят на диване. На стуле рядом с ними стоит слуга с подносом с чаем.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Марина, я только что получил письмо от директора военной школы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>И что?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Они отказались принять нашего сына.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА: </ns0:speaker>
+          <ns0:stage>(печально)</ns0:stage>
+          <ns0:p> О, это ужасно!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Да, я тоже расстроен.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Слуга подает Горилову и Марине чашки чая.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Вот, выпейте чаю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Спасибо.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов и Марина пьют чай.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Почему они отказались?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Они сказали, что он не подходит для их школы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Почему?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Они сказали, что он слишком упрямый и независимый.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Но он же всего лишь ребенок!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я знаю, но они не хотят с ним связываться.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Что же мы теперь будем делать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я не знаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит слуга.)</ns0:stage>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА:</ns0:speaker>
+          <ns0:p>Господин, к вам пожаловали гости.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Кто это?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sluha">
+          <ns0:speaker>СЛУГА:</ns0:speaker>
+          <ns0:p>Незнакомец и девушка. Говорят, что они знакомы с вашим сыном.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Попроси их войти.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Слуга уходит.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Кто это может быть?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Не знаю, но скоро узнаем.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входят незнакомец и девушка.)</ns0:stage>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Здравствуйте, господин Горилов.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Здравствуйте.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Меня зовут Петр, а это моя сестра, Аня.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Здравствуйте, Петр, Аня.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Мы знакомы с вашим сыном, Иваном.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Да, я знаю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Мы хотели бы вам кое-что сказать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Что именно?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Мы думаем, что Иван не подходит для военной школы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Почему вы так говорите?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Потому что мы знаем его. Мы дружим с ним уже много лет.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>И что вы можете сказать о нем?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Мы можем сказать, что он умный и талантливый мальчик. Но он также очень своенравный и независимый. Он не будет слушаться приказов.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я знаю, что он может быть упрямым. Но я думаю, что он справится.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Мы не думаем, что это хорошая идея. Мы думаем, что он будет несчастен в военной школе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я не знаю, что делать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Мы можем вам посоветовать одну вещь. Отправьте его в другую школу. В школу, где он сможет учиться на своих условиях.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я подумаю об этом.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#neznakomets">
+          <ns0:speaker>НЕЗНАКОМЕЦ:</ns0:speaker>
+          <ns0:p>Хорошо. Мы надеемся, что вы сделаете правильный выбор.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Незнакомец и девушка уходят.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Что ты думаешь, Марина?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Я думаю, что мы должны прислушаться к их совету.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я тоже так думаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов и Марина молчат.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Хорошо, я откажусь от его поступления в военную школу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Спасибо, дорогой.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов и Марина обнимаются.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>АКТ ЧЕТВЁРТЫЙ**</ns0:head>
+        <ns0:stage>(На сцене гостиная в доме богатого помещика. Горилов, Марина, Иван и Петр с Анной сидят на диване. На стуле рядом с ними стоит слуга с подносом с чаем.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Иван, я только что получил письмо от директора военной школы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>И что?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Они отказались принять тебя.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН: </ns0:speaker>
+          <ns0:stage>(печально)</ns0:stage>
+          <ns0:p> О, это ужасно!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Да, я тоже расстроен.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Слуга подает Горилову, Марине, Ивану и Петру с Анной чашки чая.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Вот, выпейте чаю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>, МАРИНА, ПЕТРУСЬ И АНЯ: Спасибо.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов, Марина, Иван, Петр и Аня пьют чай.)</ns0:stage>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>Почему они отказались?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Они сказали, что ты не подходишь для их школы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>Почему?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Они сказали, что ты слишком упрямый и независимый.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>Но я же всего лишь ребенок!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я знаю, но они не хотят с тобой связываться.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Что же мы теперь будем делать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я не знаю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>Я знаю, что делать!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Что?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>Я пойду в другую школу! В школу, где я смогу учиться на своих условиях!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Но где такую школу найти?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>Я уже знаю! Я пойду в школу, которую основал Петр.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#petr">
+          <ns0:speaker>ПЕТР:</ns0:speaker>
+          <ns0:p>Школу для одарённых детей?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>Да! Я знаю, что там будут учиться такие же, как я, умные и талантливые, но независимые и своенравные дети.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Я думаю, что это отличная идея!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я тоже так думаю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>Спасибо, папа! Спасибо, мама! Спасибо, Петр и Аня!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Иван, Петр и Аня обнимаются.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я горжусь тобой, Иван!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Мы тоже!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов, Марина, Иван, Петр и Аня обнимаются.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>АКТ ПЯТЫЙ**</ns0:head>
+        <ns0:stage>(На сцене гостиная в доме богатого помещика. Горилов, Марина, Иван, Петр с Анной, а также директор школы для одарённых детей, ГОСПОДИН СИВОРОВ, сидят на диване. На стуле рядом с ними стоит слуга с подносом с чаем.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Господин Сиворов, мы очень благодарны вам за то, что вы согласились принять Ивана в вашу школу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#syvorov">
+          <ns0:speaker>СИВОРОВ:</ns0:speaker>
+          <ns0:p>Не стоит благодарностей. Я рад, что смогу помочь такому талантливому и целеустремлённому юноше.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>Спасибо, господин Сиворов! Я буду очень стараться не подвести вас.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#syvorov">
+          <ns0:speaker>СИВОРОВ:</ns0:speaker>
+          <ns0:p>Я уверен, что вы не подведёте.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Слуга подает Горилову, Марине, Ивану, Петру, Анне и Сиворову чашки чая.)</ns0:stage>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Вот, выпейте чаю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН</ns0:speaker>
+          <ns0:p>, МАРИНА, ПЕТРУСЬ, АНЯ И СИВОРОВ: Спасибо.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов, Марина, Иван, Петр, Аня и Сиворов пьют чай.)</ns0:stage>
+        <ns0:sp who="#syvorov">
+          <ns0:speaker>СИВОРОВ:</ns0:speaker>
+          <ns0:p>Я думаю, что вам будет очень интересно учиться в нашей школе. У нас много талантливых детей, и мы стараемся создать для них максимально комфортные условия для обучения.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>Я уже слышал о вашей школе, и я очень хотел бы учиться здесь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#syvorov">
+          <ns0:speaker>СИВОРОВ:</ns0:speaker>
+          <ns0:p>Я рад, что вы разделяете мой энтузиазм. Я уверен, что вы будете здесь счастливы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Я горжусь тобой, Иван!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Мы тоже!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#syvorov">
+          <ns0:speaker>СИВОРОВ:</ns0:speaker>
+          <ns0:p>Ну что ж, я думаю, что пора начинать новые приключения.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Иван, Петр, Аня и Сиворов встают.)</ns0:stage>
+        <ns0:sp who="#yvan">
+          <ns0:speaker>ИВАН:</ns0:speaker>
+          <ns0:p>До свидания, папа! До свидания, мама!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>До свидания, Иван! Будь счастлив!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>До свидания, сын!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Иван, Петр, Аня и Сиворов уходят.)</ns0:stage>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Я так рада, что Иван будет учиться в такой замечательной школе.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#horylov">
+          <ns0:speaker>ГОРИЛОВ:</ns0:speaker>
+          <ns0:p>Я тоже. Я горжусь им.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#maryna">
+          <ns0:speaker>МАРИНА:</ns0:speaker>
+          <ns0:p>Я тоже.**The End**</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Горилов и Марина обнимаются.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

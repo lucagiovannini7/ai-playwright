@@ -1,521 +1,522 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="novыj_pokupatel">
-            <persName>НОВЫЙ ПОКУПАТЕЛЬ</persName>
-          </person>
-          <personGrp sex="UNKNOWN" xml:id="krestjane">
-            <persName>КРЕСТЬЯНЕ</persName>
-          </personGrp>
-          <person sex="MALE" xml:id="samsonov">
-            <persName>САМСОНОВ</persName>
-          </person>
-          <person sex="MALE" xml:id="hlubov">
-            <persName>ГЛУБОВ</persName>
-          </person>
-          <person sex="MALE" xml:id="krestjanyn">
-            <persName>КРЕСТЬЯНИН</persName>
-          </person>
-          <person sex="MALE" xml:id="rasputyn">
-            <persName>РАСПУТИН</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
-        <stage>(Картина первая. Комната в доме помещика.)</stage><stage> Входят ГЛУБОВ и САМСОНОВ.</stage><sp who="#hlubov">
-          <speaker>ГЛУБОВ </speaker>
-          <stage>(садится в кресло)</stage>
-          <p>. Ну, что, Самсонов, как дела?</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Да, барин, дела идут неважно. Урожай в этом году был плохой, и цены на зерно упали.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, это плохо. Но что же делать?</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Не знаю, барин. Может быть, стоит взять в аренду новые земли?</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, это может быть неплохо. Я подумаю.</p>
-        </sp>
-        <stage>(Входит РАСПУТИН.)</stage>
-        <sp who="#rasputyn">
-          <speaker>РАСПУТИН</speaker>
-          <p>. Здравствуйте, барин!</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Здравствуйте, Распутин. Что у вас нового?</p>
-        </sp>
-        <sp who="#rasputyn">
-          <speaker>РАСПУТИН</speaker>
-          <p>. Да, барин, у меня есть для вас хорошие новости. Я нашел для вас покупателя на ваши земли.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, это хорошие новости. Сколько он предлагает?</p>
-        </sp>
-        <sp who="#rasputyn">
-          <speaker>РАСПУТИН</speaker>
-          <p>. Он предлагает хорошую цену, барин. Я думаю, что вам стоит согласиться.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, я подумаю.</p>
-        </sp>
-        <stage>(РАСПУТИН уходит.)</stage>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Что вы думаете, барин? Стоит ли вам согласиться на эту сделку?</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я не знаю. С одной стороны, это хорошая цена. С другой стороны, я не хочу продавать свои земли.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Я понимаю, барин. Но если вы не продадите их, то вам придется заложить их банку.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, это тоже верно. Я подумаю.</p>
-        </sp>
-        <stage>(ГЛУБОВ и САМСОНОВ молчат.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я согласен на сделку.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Хорошо, барин. Я пойду и договорюсь с покупателем.</p>
-        </sp>
-        <stage>(САМСОНОВ уходит.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ </speaker>
-          <stage>(один)</stage>
-          <p>. Вот и все. Я продал свои земли. Не знаю, правильно ли я сделал. Но это был единственный выход.</p>
-        </sp>
-        <stage>(ГЛУБОВ встает и выходит из комнаты.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage><stage> Входят ГЛУБОВ, САМСОНОВ и НОВЫЙ ПОКУПАТЕЛЬ.</stage><sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Здравствуйте, барин!</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Здравствуйте!</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Это новый покупатель, барин.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Рад познакомиться.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Рад быть здесь.</p>
-        </sp>
-        <stage>(ГЛУБОВ, САМСОНОВ и НОВЫЙ ПОКУПАТЕЛЬ садятся.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Итак, господин покупатель, мы уже договорились о цене.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Да, барин. Я согласен на вашу цену.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Хорошо. Тогда я вам передам документы на землю.</p>
-        </sp>
-        <stage>(ГЛУБОВ передает документы НОВОМУ ПОКУПАТЕЛЮ.)</stage>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Спасибо, барин.</p>
-        </sp>
-        <stage>(НОВЫЙ ПОКУПАТЕЛЬ складывает документы в портфель.)</stage>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Я рад, что мы смогли договориться.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я тоже.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Я думаю, что это будет хорошее начало для нашего сотрудничества.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Я тоже так думаю.</p>
-        </sp>
-        <stage>(НОВЫЙ ПОКУПАТЕЛЬ встает.)</stage>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Я должен идти. Спасибо за ваше время, барин.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Не за что.</p>
-        </sp>
-        <stage>(НОВЫЙ ПОКУПАТЕЛЬ уходит.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Ну, что, Самсонов, теперь мы можем быть спокойны.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Да, барин. Теперь у нас есть новый покупатель, и мы можем начать новую жизнь.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я надеюсь, что это будет так.</p>
-        </sp>
-        <stage>(ГЛУБОВ и САМСОНОВ молчат.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я должен идти. Есть дела.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Хорошо, барин.</p>
-        </sp>
-        <stage>(ГЛУБОВ уходит.)</stage>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ </speaker>
-          <stage>(один)</stage>
-          <p>. Вот и все. Новый хозяин у наших земель. Не знаю, что будет дальше. Но я надеюсь, что все будет хорошо.<!-- GPT metacomment: In this act, I have added a new character, a new buyer for the land. I have also removed the character of Распутин. I think this makes the play more interesting, as it introduces a new dynamic between the characters. I have also added some new events, such as the signing of the documents for the sale of the land. I think this makes the play more realistic and engaging. --></p>
-        </sp>
-        <stage>(САМСОНОВ встает и выходит из комнаты.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage>
-        <stage> Входят ГЛУБОВ, САМСОНОВ и КРЕСТЬЯНИН.</stage>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН</speaker>
-          <p>. Здравствуйте, барин!</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Здравствуйте!</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Это крестьянин, барин. Он просит у вас помощи.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Что случилось?</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН</speaker>
-          <p>. У меня нет денег, барин. Я не могу заплатить за аренду земли.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я понимаю. Но я уже продал свои земли.</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН</speaker>
-          <p>. Что же мне делать?</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я не знаю. Может быть, вы сможете найти работу у нового владельца земель.</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН</speaker>
-          <p>. Я попробую. Спасибо, барин.</p>
-        </sp>
-        <stage>(КРЕСТЬЯНИН уходит.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Ну, что, Самсонов, теперь все кончено.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Да, барин. Теперь мы не хозяева на своей земле.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я не знаю, как дальше будет.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Я тоже не знаю. Но мы должны верить в лучшее.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, мы должны верить.</p>
-        </sp>
-        <stage>(ГЛУБОВ и САМСОНОВ молчат.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я должен идти. Есть дела.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Хорошо, барин.</p>
-        </sp>
-        <stage>(ГЛУБОВ уходит.)</stage>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ </speaker>
-          <stage>(один)</stage>
-          <p>. Вот и все. Мы потеряли все. Не знаю, что будет дальше. Но я не сдамся.<!-- GPT metacomment: In this act, I have added a new character, a peasant who is struggling to pay his rent. I have also removed the character of НОВЫЙ ПОКУПАТЕЛЬ. I think this makes the play more realistic, as it shows the impact of the sale of the land on the people who live there. I have also added some new events, such as the peasant's request for help from the barin. I think this makes the play more engaging and suspenseful. --></p>
-        </sp>
-        <stage>(САМСОНОВ встает и выходит из комнаты.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ЧЕТВЁRTEЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage>
-        <stage> Входят ГЛУБОВ, САМСОНОВ, КРЕСТЬЯНИН и НОВЫЙ ПОКУПАТЕЛЬ.</stage>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН</speaker>
-          <p>. Здравствуйте, барин!</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Здравствуйте!</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Это крестьянин, барин. Он просит у вас помощи.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Что случилось?</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН</speaker>
-          <p>. У меня нет денег, барин. Я не могу заплатить за аренду земли.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Я понимаю. Но я не могу вам помочь.</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН</speaker>
-          <p>. Почему?</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Потому что я не хозяин этих земель. Я только купил их.</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН</speaker>
-          <p>. Но что же мне делать?</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Я не знаю. Может быть, вы сможете найти работу у предыдущего владельца земель.</p>
-        </sp>
-        <sp who="#krestjanyn">
-          <speaker>КРЕСТЬЯНИН</speaker>
-          <p>. Я попробую. Спасибо, барин.</p>
-        </sp>
-        <stage>(КРЕСТЬЯНИН уходит.)</stage>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Ну, что, барин, теперь все кончено.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, барин. Теперь мы не хозяева на своей земле.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Но я могу вам помочь. Я могу купить у вас эти земли обратно.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Почему вы хотите это сделать?</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Потому что я хочу помочь крестьянам. Я хочу, чтобы они остались на своей земле.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я не знаю, что сказать.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Не нужно ничего говорить. Просто скажите мне, согласны ли вы продать мне эти земли.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, я согласен.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Хорошо. Тогда я буду новым хозяином этих земель.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Спасибо, барин.</p>
-        </sp>
-        <stage>(НОВЫЙ ПОКУПАТЕЛЬ уходит.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Ну, что, Самсонов, теперь мы снова хозяева на своей земле.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Да, барин. Теперь все будет хорошо.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, я надеюсь.</p>
-        </sp>
-        <stage>(ГЛУБОВ и САМСОНОВ молчат.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я должен идти. Есть дела.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Хорошо, барин.</p>
-        </sp>
-        <stage>(ГЛУБОВ уходит.)</stage>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ </speaker>
-          <stage>(один)</stage>
-          <p>. Вот и все. Мы снова хозяева на своей земле. Спасибо новому барину.<!-- GPT metacomment: In this act, I have added a new character, a new buyer who is willing to buy the land back from Глуbow. I have also removed the character of КРЕСТЬЯНИН. I think this makes the play more optimistic, as it shows that there is still hope for the peasants. I have also added some new events, such as the sale of the land back to Глуbow. I think this makes the play more satisfying and hopeful. --></p>
-        </sp>
-        <stage>(САМСОНОВ встает и выходит из комнаты.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЯТОЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage>
-        <stage> Входят ГЛУБОВ, САМСОНОВ, КРЕСТЬЯНЕ, НОВЫЙ ПОКУПАТЕЛЬ и КРЕСТЬЯНИН.</stage>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ</speaker>
-          <p>. Здравствуйте, барин!</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Здравствуйте!</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Это крестьяне, барин. Они пришли поблагодарить вас за то, что вы купили у них землю обратно.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Я рад, что смог вам помочь.</p>
-        </sp>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ</speaker>
-          <p>. Спасибо, барин. Мы не знаем, как бы мы без вас прожили.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Не нужно благодарить меня. Я просто сделал то, что считал правильным.</p>
-        </sp>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ</speaker>
-          <p>. Но вы не просто сделали то, что считали правильным. Вы сделали то, что было нужно нам.</p>
-        </sp>
-        <sp who="#novыj_pokupatel">
-          <speaker>НОВЫЙ ПОКУПАТЕЛЬ</speaker>
-          <p>. Спасибо вам за эти слова. Я рад, что смог вам помочь.</p>
-        </sp>
-        <stage>(КРЕСТЬЯНЕ и НОВЫЙ ПОКУПАТЕЛЬ молчат.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Ну, что, Самсонов, теперь мы снова хозяева на своей земле.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Да, барин. Теперь все будет хорошо.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, я надеюсь.</p>
-        </sp>
-        <stage>(ГЛУБОВ и САМСОНОВ молчат.)</stage>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ</speaker>
-          <p>. Барин, мы хотим вам что-то сказать.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Что вы хотите сказать?</p>
-        </sp>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ</speaker>
-          <p>. Мы хотим сказать вам, что мы будем работать на вас, как никогда раньше. Мы будем стараться, чтобы наша земля процветала.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Спасибо вам за эти слова. Я уверен, что мы вместе сможем добиться многого.</p>
-        </sp>
-        <stage>(КРЕСТЬЯНЕ уходят.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Ну, что, Самсонов, теперь мы можем начать новую жизнь.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Да, барин. Теперь все будет хорошо.</p>
-        </sp>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Да, я надеюсь.</p>
-        </sp>
-        <stage>(ГЛУБОВ и САМСОНОВ молчат.)</stage>
-        <sp who="#hlubov">
-          <speaker>ГЛУБОВ</speaker>
-          <p>. Я должен идти. Есть дела.</p>
-        </sp>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ</speaker>
-          <p>. Хорошо, барин.</p>
-        </sp>
-        <stage>(ГЛУБОВ уходит.)</stage>
-        <sp who="#samsonov">
-          <speaker>САМСОНОВ </speaker>
-          <stage>(один)</stage>
-          <p>. Вот и все. Мы снова хозяева на своей земле. Спасибо новому барину и спасибо крестьянам.<!-- GPT metacomment: In this act, I have added a new character, a group of крестьяне who come to thank the новый покупатель for buying the land back. I have also removed the character of НОВЫЙ ПОКУПАТЕЛЬ. I think this makes the play more hopeful and optimistic, as it shows that the peasants are grateful for the opportunity to work their land again. I have also added some new events, such as the крестьяне's promise to work hard for the новый покупатель. I think this makes the play more satisfying and hopeful. --></p>
-        </sp>
-        <stage>(САМСОНОВ встает и выходит из комнаты.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-russian-8</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="novыj_pokupatel">
+            <ns0:persName>НОВЫЙ ПОКУПАТЕЛЬ</ns0:persName>
+          </ns0:person>
+          <ns0:personGrp sex="UNKNOWN" xml:id="krestjane">
+            <ns0:persName>КРЕСТЬЯНЕ</ns0:persName>
+          </ns0:personGrp>
+          <ns0:person sex="MALE" xml:id="samsonov">
+            <ns0:persName>САМСОНОВ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="hlubov">
+            <ns0:persName>ГЛУБОВ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="krestjanyn">
+            <ns0:persName>КРЕСТЬЯНИН</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="rasputyn">
+            <ns0:persName>РАСПУТИН</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЕРВОЕ</ns0:head>
+        <ns0:stage>(Картина первая. Комната в доме помещика.)</ns0:stage><ns0:stage> Входят ГЛУБОВ и САМСОНОВ.</ns0:stage><ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ </ns0:speaker>
+          <ns0:stage>(садится в кресло)</ns0:stage>
+          <ns0:p>. Ну, что, Самсонов, как дела?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Да, барин, дела идут неважно. Урожай в этом году был плохой, и цены на зерно упали.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, это плохо. Но что же делать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Не знаю, барин. Может быть, стоит взять в аренду новые земли?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, это может быть неплохо. Я подумаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит РАСПУТИН.)</ns0:stage>
+        <ns0:sp who="#rasputyn">
+          <ns0:speaker>РАСПУТИН</ns0:speaker>
+          <ns0:p>. Здравствуйте, барин!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Здравствуйте, Распутин. Что у вас нового?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#rasputyn">
+          <ns0:speaker>РАСПУТИН</ns0:speaker>
+          <ns0:p>. Да, барин, у меня есть для вас хорошие новости. Я нашел для вас покупателя на ваши земли.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, это хорошие новости. Сколько он предлагает?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#rasputyn">
+          <ns0:speaker>РАСПУТИН</ns0:speaker>
+          <ns0:p>. Он предлагает хорошую цену, барин. Я думаю, что вам стоит согласиться.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, я подумаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(РАСПУТИН уходит.)</ns0:stage>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Что вы думаете, барин? Стоит ли вам согласиться на эту сделку?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я не знаю. С одной стороны, это хорошая цена. С другой стороны, я не хочу продавать свои земли.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Я понимаю, барин. Но если вы не продадите их, то вам придется заложить их банку.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, это тоже верно. Я подумаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ и САМСОНОВ молчат.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я согласен на сделку.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Хорошо, барин. Я пойду и договорюсь с покупателем.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(САМСОНОВ уходит.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ </ns0:speaker>
+          <ns0:stage>(один)</ns0:stage>
+          <ns0:p>. Вот и все. Я продал свои земли. Не знаю, правильно ли я сделал. Но это был единственный выход.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ встает и выходит из комнаты.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ВТОРОЕ</ns0:head>
+        <ns0:stage>(Картина первая. Та же комната.)</ns0:stage><ns0:stage> Входят ГЛУБОВ, САМСОНОВ и НОВЫЙ ПОКУПАТЕЛЬ.</ns0:stage><ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Здравствуйте, барин!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Здравствуйте!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Это новый покупатель, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Рад познакомиться.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Рад быть здесь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ, САМСОНОВ и НОВЫЙ ПОКУПАТЕЛЬ садятся.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Итак, господин покупатель, мы уже договорились о цене.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Да, барин. Я согласен на вашу цену.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Хорошо. Тогда я вам передам документы на землю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ передает документы НОВОМУ ПОКУПАТЕЛЮ.)</ns0:stage>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Спасибо, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НОВЫЙ ПОКУПАТЕЛЬ складывает документы в портфель.)</ns0:stage>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Я рад, что мы смогли договориться.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Я думаю, что это будет хорошее начало для нашего сотрудничества.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Я тоже так думаю.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НОВЫЙ ПОКУПАТЕЛЬ встает.)</ns0:stage>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Я должен идти. Спасибо за ваше время, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Не за что.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НОВЫЙ ПОКУПАТЕЛЬ уходит.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Ну, что, Самсонов, теперь мы можем быть спокойны.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Да, барин. Теперь у нас есть новый покупатель, и мы можем начать новую жизнь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я надеюсь, что это будет так.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ и САМСОНОВ молчат.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я должен идти. Есть дела.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Хорошо, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ уходит.)</ns0:stage>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ </ns0:speaker>
+          <ns0:stage>(один)</ns0:stage>
+          <ns0:p>. Вот и все. Новый хозяин у наших земель. Не знаю, что будет дальше. Но я надеюсь, что все будет хорошо.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(САМСОНОВ встает и выходит из комнаты.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ТРЕТЬЕ</ns0:head>
+        <ns0:stage>(Картина первая. Та же комната.)</ns0:stage>
+        <ns0:stage> Входят ГЛУБОВ, САМСОНОВ и КРЕСТЬЯНИН.</ns0:stage>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН</ns0:speaker>
+          <ns0:p>. Здравствуйте, барин!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Здравствуйте!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Это крестьянин, барин. Он просит у вас помощи.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Что случилось?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН</ns0:speaker>
+          <ns0:p>. У меня нет денег, барин. Я не могу заплатить за аренду земли.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я понимаю. Но я уже продал свои земли.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН</ns0:speaker>
+          <ns0:p>. Что же мне делать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я не знаю. Может быть, вы сможете найти работу у нового владельца земель.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН</ns0:speaker>
+          <ns0:p>. Я попробую. Спасибо, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(КРЕСТЬЯНИН уходит.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Ну, что, Самсонов, теперь все кончено.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Да, барин. Теперь мы не хозяева на своей земле.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я не знаю, как дальше будет.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Я тоже не знаю. Но мы должны верить в лучшее.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, мы должны верить.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ и САМСОНОВ молчат.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я должен идти. Есть дела.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Хорошо, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ уходит.)</ns0:stage>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ </ns0:speaker>
+          <ns0:stage>(один)</ns0:stage>
+          <ns0:p>. Вот и все. Мы потеряли все. Не знаю, что будет дальше. Но я не сдамся.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(САМСОНОВ встает и выходит из комнаты.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ЧЕТВЁRTEЕ</ns0:head>
+        <ns0:stage>(Картина первая. Та же комната.)</ns0:stage>
+        <ns0:stage> Входят ГЛУБОВ, САМСОНОВ, КРЕСТЬЯНИН и НОВЫЙ ПОКУПАТЕЛЬ.</ns0:stage>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН</ns0:speaker>
+          <ns0:p>. Здравствуйте, барин!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Здравствуйте!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Это крестьянин, барин. Он просит у вас помощи.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Что случилось?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН</ns0:speaker>
+          <ns0:p>. У меня нет денег, барин. Я не могу заплатить за аренду земли.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Я понимаю. Но я не могу вам помочь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН</ns0:speaker>
+          <ns0:p>. Почему?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Потому что я не хозяин этих земель. Я только купил их.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН</ns0:speaker>
+          <ns0:p>. Но что же мне делать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Я не знаю. Может быть, вы сможете найти работу у предыдущего владельца земель.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjanyn">
+          <ns0:speaker>КРЕСТЬЯНИН</ns0:speaker>
+          <ns0:p>. Я попробую. Спасибо, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(КРЕСТЬЯНИН уходит.)</ns0:stage>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Ну, что, барин, теперь все кончено.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, барин. Теперь мы не хозяева на своей земле.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Но я могу вам помочь. Я могу купить у вас эти земли обратно.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Почему вы хотите это сделать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Потому что я хочу помочь крестьянам. Я хочу, чтобы они остались на своей земле.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я не знаю, что сказать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Не нужно ничего говорить. Просто скажите мне, согласны ли вы продать мне эти земли.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, я согласен.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Хорошо. Тогда я буду новым хозяином этих земель.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Спасибо, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(НОВЫЙ ПОКУПАТЕЛЬ уходит.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Ну, что, Самсонов, теперь мы снова хозяева на своей земле.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Да, барин. Теперь все будет хорошо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, я надеюсь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ и САМСОНОВ молчат.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я должен идти. Есть дела.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Хорошо, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ уходит.)</ns0:stage>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ </ns0:speaker>
+          <ns0:stage>(один)</ns0:stage>
+          <ns0:p>. Вот и все. Мы снова хозяева на своей земле. Спасибо новому барину.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(САМСОНОВ встает и выходит из комнаты.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЯТОЕ</ns0:head>
+        <ns0:stage>(Картина первая. Та же комната.)</ns0:stage>
+        <ns0:stage> Входят ГЛУБОВ, САМСОНОВ, КРЕСТЬЯНЕ, НОВЫЙ ПОКУПАТЕЛЬ и КРЕСТЬЯНИН.</ns0:stage>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ</ns0:speaker>
+          <ns0:p>. Здравствуйте, барин!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Здравствуйте!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Это крестьяне, барин. Они пришли поблагодарить вас за то, что вы купили у них землю обратно.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Я рад, что смог вам помочь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ</ns0:speaker>
+          <ns0:p>. Спасибо, барин. Мы не знаем, как бы мы без вас прожили.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Не нужно благодарить меня. Я просто сделал то, что считал правильным.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ</ns0:speaker>
+          <ns0:p>. Но вы не просто сделали то, что считали правильным. Вы сделали то, что было нужно нам.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_pokupatel">
+          <ns0:speaker>НОВЫЙ ПОКУПАТЕЛЬ</ns0:speaker>
+          <ns0:p>. Спасибо вам за эти слова. Я рад, что смог вам помочь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(КРЕСТЬЯНЕ и НОВЫЙ ПОКУПАТЕЛЬ молчат.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Ну, что, Самсонов, теперь мы снова хозяева на своей земле.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Да, барин. Теперь все будет хорошо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, я надеюсь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ и САМСОНОВ молчат.)</ns0:stage>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ</ns0:speaker>
+          <ns0:p>. Барин, мы хотим вам что-то сказать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Что вы хотите сказать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ</ns0:speaker>
+          <ns0:p>. Мы хотим сказать вам, что мы будем работать на вас, как никогда раньше. Мы будем стараться, чтобы наша земля процветала.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Спасибо вам за эти слова. Я уверен, что мы вместе сможем добиться многого.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(КРЕСТЬЯНЕ уходят.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Ну, что, Самсонов, теперь мы можем начать новую жизнь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Да, барин. Теперь все будет хорошо.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Да, я надеюсь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ и САМСОНОВ молчат.)</ns0:stage>
+        <ns0:sp who="#hlubov">
+          <ns0:speaker>ГЛУБОВ</ns0:speaker>
+          <ns0:p>. Я должен идти. Есть дела.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ</ns0:speaker>
+          <ns0:p>. Хорошо, барин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛУБОВ уходит.)</ns0:stage>
+        <ns0:sp who="#samsonov">
+          <ns0:speaker>САМСОНОВ </ns0:speaker>
+          <ns0:stage>(один)</ns0:stage>
+          <ns0:p>. Вот и все. Мы снова хозяева на своей земле. Спасибо новому барину и спасибо крестьянам.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(САМСОНОВ встает и выходит из комнаты.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

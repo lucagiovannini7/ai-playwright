@@ -1,413 +1,414 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="djadja">
-            <persName>ДЯДЯ</persName>
-          </person>
-          <person sex="MALE" xml:id="hlava_semy">
-            <persName>ГЛАВА СЕМЬИ</persName>
-          </person>
-          <person sex="MALE" xml:id="staryk">
-            <persName>СТАРИК</persName>
-          </person>
-          <person sex="FEMALE" xml:id="doch">
-            <persName>ДОЧЬ</persName>
-          </person>
-          <person sex="FEMALE" xml:id="mat">
-            <persName>МАТЬ</persName>
-          </person>
-          <person sex="MALE" xml:id="sыn_y_doch">
-            <persName>СЫН И ДОЧЬ</persName>
-          </person>
-          <person sex="FEMALE" xml:id="sekretarsha">
-            <persName>СЕКРЕТАРША</persName>
-          </person>
-          <person sex="MALE" xml:id="sыn">
-            <persName>СЫН</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
-        <stage>(На сцене гостиная в барском доме. Обстановка богатая, но безвкусная. На стенах портреты предков, на камине часы с боем. В центре комнаты стол, за которым сидят несколько человек.)</stage>
-        <sp who="#hlava_semy">
-          <speaker>ГЛАВА СЕМЬИ </speaker>
-          <stage>(высокомерный старик)</stage>
-          <p>: Итак, мы собрались здесь, чтобы обсудить будущее нашего имения.</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН </speaker>
-          <stage>(заинтересованный)</stage>
-          <p>: Да, отец, я очень хочу услышать, что вы нам скажете.</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ </speaker>
-          <stage>(с тревогой)</stage>
-          <p>: Я боюсь, что это будет что-то плохое.</p>
-        </sp>
-        <sp who="#hlava_semy">
-          <speaker>ГЛАВА СЕМЬИ:</speaker>
-          <p>Не волнуйся, дочь, все будет хорошо.</p>
-        </sp>
-        <stage>(Пауза.)</stage>
-        <sp who="#hlava_semy">
-          <speaker>ГЛАВА СЕМЬИ:</speaker>
-          <p>Я решил, что пора продать имение.</p>
-        </sp>
-        <stage>(Все в шоке.)</stage>
-        <sp who="#sыn">
-          <speaker>СЫН:</speaker>
-          <p>Что?! Почему?!</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ:</speaker>
-          <p>Но это наш дом!</p>
-        </sp>
-        <sp who="#hlava_semy">
-          <speaker>ГЛАВА СЕМЬИ:</speaker>
-          <p>Я знаю, но мы больше не можем его содержать.</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН:</speaker>
-          <p>Но куда мы тогда пойдем?</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ:</speaker>
-          <p>Я не хочу уезжать из дома!</p>
-        </sp>
-        <sp who="#hlava_semy">
-          <speaker>ГЛАВА СЕМЬИ:</speaker>
-          <p>Я все уже решил. Мы переедем в город.</p>
-        </sp>
-        <stage>(Все в отчаянии.)</stage>
-        <sp who="#sыn">
-          <speaker>СЫН:</speaker>
-          <p>Но как же наше родовое гнездо?</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ:</speaker>
-          <p>Я никогда не смогу забыть этот дом!</p>
-        </sp>
-        <sp who="#hlava_semy">
-          <speaker>ГЛАВА СЕМЬИ:</speaker>
-          <p>Я понимаю, что это трудно, но это единственный выход.</p>
-        </sp>
-        <stage>(Пауза.)</stage>
-        <sp who="#sыn">
-          <speaker>СЫН:</speaker>
-          <p>Хорошо, отец. Мы согласны.</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ: </speaker>
-          <stage>(со слезами на глазах)</stage>
-          <p> Я тоже согласна.</p>
-        </sp>
-        <stage>(ГЛАВА СЕМЬИ встает и обнимает детей.)</stage>
-        <sp who="#hlava_semy">
-          <speaker>ГЛАВА СЕМЬИ:</speaker>
-          <p>Я люблю вас, мои дети.</p>
-        </sp>
-        <sp who="#sыn_y_doch">
-          <speaker>СЫН И ДОЧЬ:</speaker>
-          <p>Мы тоже любим вас, отец.</p>
-        </sp>
-        <stage>(ГЛАВА СЕМЬИ уходит. СЫН и ДОЧЬ остаются одни.)</stage>
-        <sp who="#sыn">
-          <speaker>СЫН:</speaker>
-          <p>Я не могу поверить, что мы больше не будем жить здесь.</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ:</speaker>
-          <p>Я тоже не могу. Этот дом был нашим всем.</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН:</speaker>
-          <p>Но мы должны быть сильными.</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ:</speaker>
-          <p>Я буду.</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН:</speaker>
-          <p>Я тоже.</p>
-        </sp>
-        <stage>(СЫН и ДОЧЬ обнимаются.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
-        <stage>(На сцене гостиная в барском доме. Обстановка уже не такая богатая, как в первом акте. На стенах портреты предков, на камине часы с боем. В центре комнаты стол, за которым сидят несколько человек.)</stage>
-        <sp who="#sыn">
-          <speaker>СЫН </speaker>
-          <stage>(печально)</stage>
-          <p>: Я все еще не могу поверить, что мы больше не будем жить здесь.</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ </speaker>
-          <stage>(также печально)</stage>
-          <p>: Я тоже не могу. Этот дом был нашим всем.</p>
-        </sp>
-        <stage>(Входит новый персонаж, МАТЬ. Она выглядит усталой и озабоченной.)</stage>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Дети, я должна вам кое-что сказать.</p>
-        </sp>
-        <sp who="#sыn_y_doch">
-          <speaker>СЫН И ДОЧЬ:</speaker>
-          <p>Что, мама?</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Я решила, что мы не будем переезжать в город.</p>
-        </sp>
-        <stage>(СЫН и ДОЧЬ в шоке.)</stage>
-        <sp who="#sыn">
-          <speaker>СЫН:</speaker>
-          <p>Почему, мама?</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ:</speaker>
-          <p>Но мы уже все спланировали!</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Я знаю, но я не могу оставить этот дом. Он слишком много значит для меня.</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН:</speaker>
-          <p>Но как мы будем жить здесь? У нас нет денег.</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ:</speaker>
-          <p>И как мы будем учиться? В деревне нет хорошей школы.</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Я знаю, что это будет трудно, но мы справимся. Мы будем работать, чтобы содержать дом, и я буду учить вас дома.</p>
-        </sp>
-        <sp who="#sыn_y_doch">
-          <speaker>СЫН И ДОЧЬ:</speaker>
-          <p>Хорошо, мама. Мы сделаем все, что ты скажешь.</p>
-        </sp>
-        <stage>(МАТЬ обнимает детей.)</stage>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Я люблю вас, мои дети.</p>
-        </sp>
-        <sp who="#sыn_y_doch">
-          <speaker>СЫН И ДОЧЬ:</speaker>
-          <p>Мы тоже любим тебя, мама.</p>
-        </sp>
-        <stage>(Входит новый персонаж, ДЯДЯ. Он выглядит богатым и напыщенным.)</stage>
-        <sp who="#djadja">
-          <speaker>ДЯДЯ:</speaker>
-          <p>Здравствуйте, все. Что тут происходит?</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Я только что сказала детям, что мы не будем переезжать в город.</p>
-        </sp>
-        <sp who="#djadja">
-          <speaker>ДЯДЯ:</speaker>
-          <p>Что?! Но почему?!</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Потому что я не хочу оставлять этот дом.</p>
-        </sp>
-        <sp who="#djadja">
-          <speaker>ДЯДЯ:</speaker>
-          <p>Но ты не можешь здесь жить! Это руины!</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Я могу отремонтировать его.</p>
-        </sp>
-        <sp who="#djadja">
-          <speaker>ДЯДЯ:</speaker>
-          <p>Но это будет стоить целое состояние!</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Я знаю, но я готова на это.</p>
-        </sp>
-        <sp who="#djadja">
-          <speaker>ДЯДЯ:</speaker>
-          <p>Ты не понимаешь, о чем говоришь! Ты просто понапрасну растратишь свои деньги.</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Я не боюсь. Я сделаю все, чтобы сохранить этот дом.</p>
-        </sp>
-        <sp who="#djadja">
-          <speaker>ДЯДЯ:</speaker>
-          <p>Ну, тогда ты делаешь это за свой счет. Я не буду тебе помогать.</p>
-        </sp>
-        <stage>(ДЯДЯ уходит.)</stage>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Не обращай внимания на него. Мы справимся.</p>
-        </sp>
-        <sp who="#sыn_y_doch">
-          <speaker>СЫН И ДОЧЬ:</speaker>
-          <p>Мы знаем, мама.</p>
-        </sp>
-        <stage>(СЫН и ДОЧЬ обнимают МАТЬ.)</stage>
-        <stage>(На этом моменте пьеса заканчивается.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
-        <stage>(На сцене та же гостиная, но теперь она выглядит гораздо более запущенной. На стенах облезлая позолота, на полу паутина, а на камине часы с боем остановились. В центре комнаты стол, за которым сидят МАТЬ, СЫН и ДОЧЬ.)</stage>
-        <sp who="#sыn">
-          <speaker>СЫН </speaker>
-          <stage>(печально)</stage>
-          <p>: Уже год прошел, а дом так и не отремонтирован.</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ </speaker>
-          <stage>(также печально)</stage>
-          <p>: Я знаю. Мама все время работает, а денег все равно не хватает.</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ </speaker>
-          <stage>(устало)</stage>
-          <p>: Я знаю, что это трудно, но мы справимся.</p>
-        </sp>
-        <stage>(Входит новый персонаж, СЕКРЕТАРША. Она выглядит деловой и уверенной в себе.)</stage>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Здравствуйте, госпожа. Я из благотворительного фонда. Мы узнали о вашем непростом положении и хотели бы вам помочь.</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ </speaker>
-          <stage>(удивленно)</stage>
-          <p>: Помочь? Как?</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Мы можем предоставить вам грант на ремонт дома.</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ </speaker>
-          <stage>(в радости)</stage>
-          <p>: Это чудесно!</p>
-        </sp>
-        <sp who="#sыn_y_doch">
-          <speaker>СЫН И ДОЧЬ </speaker>
-          <stage>(в радости)</stage>
-          <p>: Спасибо!</p>
-        </sp>
-        <sp who="#sekretarsha">
-          <speaker>СЕКРЕТАРША:</speaker>
-          <p>Не за что. Мы рады, что можем вам помочь.</p>
-        </sp>
-        <stage>(СЕКРЕТАРША уходит.)</stage>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Я не могу поверить! Это просто фантастика!</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН:</speaker>
-          <p>Я тоже! Теперь мы наконец-то сможем отремонтировать дом!</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ:</speaker>
-          <p>И я смогу продолжить учебу!</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Я так счастлива!<!-- GPT metacomment: In this act, I have added the following new characters:* СЕКРЕТАРША <stage>(a female secretary)</stage> I have also removed the following characters:* ДЯДЯI have also added the following events:* The family receives a grant from a charitable foundation to help them repair their home.* The children are able to continue their education.I hope you like this new act! --></p>
-        </sp>
-        <stage>(МАТЬ, СЫН и ДОЧЬ обнимаются.)</stage>
-        <stage>(На этом моменте пьеса заканчивается.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ЧЕТВЕРТое</head>
-        <stage>(На сцене та же гостиная, но теперь она выглядит совершенно иначе. На стенах свежие обои, на полу лежит новый ковер, а на камине часы с боем снова тикают. В центре комнаты стол, за которым сидят МАТЬ, СЫН и ДОЧЬ.)</stage>
-        <sp who="#mat">
-          <speaker>МАТЬ </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>: Вот видишь, дети, я говорила, что мы справимся.</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН </speaker>
-          <stage>(радостно)</stage>
-          <p>: Да, мама, ты была права.</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>: Этот дом снова стал нашим домом.</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ </speaker>
-          <stage>(поглаживая детей по головам)</stage>
-          <p>: Я так счастлива, что мы вместе.</p>
-        </sp>
-        <stage>(Входит новый персонаж, СТАРИК. Он выглядит мудрым и доброжелательным.)</stage>
-        <sp who="#staryk">
-          <speaker>СТАРИК:</speaker>
-          <p>Здравствуйте, госпожа. Я сосед. Я видел, как вы ремонтировали дом, и мне очень понравилось, что вы сохранили его исторический облик.</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ </speaker>
-          <stage>(вставая)</stage>
-          <p>: Спасибо, сосед. Это было непросто, но мы справились.</p>
-        </sp>
-        <sp who="#staryk">
-          <speaker>СТАРИК:</speaker>
-          <p>Я рад, что вы не сдались. Этот дом имеет большое значение для нашей деревни.</p>
-        </sp>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Мы тоже так считаем. Мы хотим, чтобы он оставался здесь и в будущем.</p>
-        </sp>
-        <sp who="#staryk">
-          <speaker>СТАРИК:</speaker>
-          <p>Я уверен, что так и будет.</p>
-        </sp>
-        <stage>(СТАРИК уходит.)</stage>
-        <sp who="#mat">
-          <speaker>МАТЬ:</speaker>
-          <p>Вот видишь, дети, даже соседи радуются, что мы сохранили дом.</p>
-        </sp>
-        <sp who="#sыn">
-          <speaker>СЫН </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>: Да, мама, это здорово.</p>
-        </sp>
-        <sp who="#doch">
-          <speaker>ДОЧЬ </speaker>
-          <stage>(с улыбкой)</stage>
-          <p>: Я так рада, что мы остались здесь.<!-- GPT metacomment: In this act, I have added the following new characters:* СТАРИК <stage>(a wise and kind old man)</stage> I have also removed the following characters:* СЕКРЕТАРШАI have also added the following events:* The family is able to restore the house to its former glory.* The house becomes a symbol of hope for the community.I hope you like this new act!Response Error: b')]}\'\n\n38\n[["wrb.fr",null,null,null,null,[8]]]\n56\n[["di",177],["af.httprm",176,"7543155308973122983",4]]\n25\n[["e",4,null,null,131]]\n'. Unable to get response.Please double-check the cookie values and verify your network environment or google account. --></p>
-        </sp>
-        <stage>(МАТЬ, СЫН и ДОЧЬ обнимаются.)</stage>
-        <stage>(На этом моменте пьеса заканчивается.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-russian-7</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="djadja">
+            <ns0:persName>ДЯДЯ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="hlava_semy">
+            <ns0:persName>ГЛАВА СЕМЬИ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="staryk">
+            <ns0:persName>СТАРИК</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="doch">
+            <ns0:persName>ДОЧЬ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="mat">
+            <ns0:persName>МАТЬ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="sыn_y_doch">
+            <ns0:persName>СЫН И ДОЧЬ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="sekretarsha">
+            <ns0:persName>СЕКРЕТАРША</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="sыn">
+            <ns0:persName>СЫН</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЕРВОЕ</ns0:head>
+        <ns0:stage>(На сцене гостиная в барском доме. Обстановка богатая, но безвкусная. На стенах портреты предков, на камине часы с боем. В центре комнаты стол, за которым сидят несколько человек.)</ns0:stage>
+        <ns0:sp who="#hlava_semy">
+          <ns0:speaker>ГЛАВА СЕМЬИ </ns0:speaker>
+          <ns0:stage>(высокомерный старик)</ns0:stage>
+          <ns0:p>: Итак, мы собрались здесь, чтобы обсудить будущее нашего имения.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН </ns0:speaker>
+          <ns0:stage>(заинтересованный)</ns0:stage>
+          <ns0:p>: Да, отец, я очень хочу услышать, что вы нам скажете.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ </ns0:speaker>
+          <ns0:stage>(с тревогой)</ns0:stage>
+          <ns0:p>: Я боюсь, что это будет что-то плохое.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_semy">
+          <ns0:speaker>ГЛАВА СЕМЬИ:</ns0:speaker>
+          <ns0:p>Не волнуйся, дочь, все будет хорошо.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Пауза.)</ns0:stage>
+        <ns0:sp who="#hlava_semy">
+          <ns0:speaker>ГЛАВА СЕМЬИ:</ns0:speaker>
+          <ns0:p>Я решил, что пора продать имение.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Все в шоке.)</ns0:stage>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН:</ns0:speaker>
+          <ns0:p>Что?! Почему?!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ:</ns0:speaker>
+          <ns0:p>Но это наш дом!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_semy">
+          <ns0:speaker>ГЛАВА СЕМЬИ:</ns0:speaker>
+          <ns0:p>Я знаю, но мы больше не можем его содержать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН:</ns0:speaker>
+          <ns0:p>Но куда мы тогда пойдем?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ:</ns0:speaker>
+          <ns0:p>Я не хочу уезжать из дома!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_semy">
+          <ns0:speaker>ГЛАВА СЕМЬИ:</ns0:speaker>
+          <ns0:p>Я все уже решил. Мы переедем в город.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Все в отчаянии.)</ns0:stage>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН:</ns0:speaker>
+          <ns0:p>Но как же наше родовое гнездо?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ:</ns0:speaker>
+          <ns0:p>Я никогда не смогу забыть этот дом!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlava_semy">
+          <ns0:speaker>ГЛАВА СЕМЬИ:</ns0:speaker>
+          <ns0:p>Я понимаю, что это трудно, но это единственный выход.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Пауза.)</ns0:stage>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН:</ns0:speaker>
+          <ns0:p>Хорошо, отец. Мы согласны.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ: </ns0:speaker>
+          <ns0:stage>(со слезами на глазах)</ns0:stage>
+          <ns0:p> Я тоже согласна.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА СЕМЬИ встает и обнимает детей.)</ns0:stage>
+        <ns0:sp who="#hlava_semy">
+          <ns0:speaker>ГЛАВА СЕМЬИ:</ns0:speaker>
+          <ns0:p>Я люблю вас, мои дети.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn_y_doch">
+          <ns0:speaker>СЫН И ДОЧЬ:</ns0:speaker>
+          <ns0:p>Мы тоже любим вас, отец.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ГЛАВА СЕМЬИ уходит. СЫН и ДОЧЬ остаются одни.)</ns0:stage>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН:</ns0:speaker>
+          <ns0:p>Я не могу поверить, что мы больше не будем жить здесь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ:</ns0:speaker>
+          <ns0:p>Я тоже не могу. Этот дом был нашим всем.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН:</ns0:speaker>
+          <ns0:p>Но мы должны быть сильными.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ:</ns0:speaker>
+          <ns0:p>Я буду.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН:</ns0:speaker>
+          <ns0:p>Я тоже.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(СЫН и ДОЧЬ обнимаются.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ВТОРОЕ</ns0:head>
+        <ns0:stage>(На сцене гостиная в барском доме. Обстановка уже не такая богатая, как в первом акте. На стенах портреты предков, на камине часы с боем. В центре комнаты стол, за которым сидят несколько человек.)</ns0:stage>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН </ns0:speaker>
+          <ns0:stage>(печально)</ns0:stage>
+          <ns0:p>: Я все еще не могу поверить, что мы больше не будем жить здесь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ </ns0:speaker>
+          <ns0:stage>(также печально)</ns0:stage>
+          <ns0:p>: Я тоже не могу. Этот дом был нашим всем.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит новый персонаж, МАТЬ. Она выглядит усталой и озабоченной.)</ns0:stage>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Дети, я должна вам кое-что сказать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn_y_doch">
+          <ns0:speaker>СЫН И ДОЧЬ:</ns0:speaker>
+          <ns0:p>Что, мама?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Я решила, что мы не будем переезжать в город.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(СЫН и ДОЧЬ в шоке.)</ns0:stage>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН:</ns0:speaker>
+          <ns0:p>Почему, мама?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ:</ns0:speaker>
+          <ns0:p>Но мы уже все спланировали!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Я знаю, но я не могу оставить этот дом. Он слишком много значит для меня.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН:</ns0:speaker>
+          <ns0:p>Но как мы будем жить здесь? У нас нет денег.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ:</ns0:speaker>
+          <ns0:p>И как мы будем учиться? В деревне нет хорошей школы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Я знаю, что это будет трудно, но мы справимся. Мы будем работать, чтобы содержать дом, и я буду учить вас дома.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn_y_doch">
+          <ns0:speaker>СЫН И ДОЧЬ:</ns0:speaker>
+          <ns0:p>Хорошо, мама. Мы сделаем все, что ты скажешь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(МАТЬ обнимает детей.)</ns0:stage>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Я люблю вас, мои дети.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn_y_doch">
+          <ns0:speaker>СЫН И ДОЧЬ:</ns0:speaker>
+          <ns0:p>Мы тоже любим тебя, мама.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит новый персонаж, ДЯДЯ. Он выглядит богатым и напыщенным.)</ns0:stage>
+        <ns0:sp who="#djadja">
+          <ns0:speaker>ДЯДЯ:</ns0:speaker>
+          <ns0:p>Здравствуйте, все. Что тут происходит?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Я только что сказала детям, что мы не будем переезжать в город.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#djadja">
+          <ns0:speaker>ДЯДЯ:</ns0:speaker>
+          <ns0:p>Что?! Но почему?!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Потому что я не хочу оставлять этот дом.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#djadja">
+          <ns0:speaker>ДЯДЯ:</ns0:speaker>
+          <ns0:p>Но ты не можешь здесь жить! Это руины!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Я могу отремонтировать его.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#djadja">
+          <ns0:speaker>ДЯДЯ:</ns0:speaker>
+          <ns0:p>Но это будет стоить целое состояние!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Я знаю, но я готова на это.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#djadja">
+          <ns0:speaker>ДЯДЯ:</ns0:speaker>
+          <ns0:p>Ты не понимаешь, о чем говоришь! Ты просто понапрасну растратишь свои деньги.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Я не боюсь. Я сделаю все, чтобы сохранить этот дом.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#djadja">
+          <ns0:speaker>ДЯДЯ:</ns0:speaker>
+          <ns0:p>Ну, тогда ты делаешь это за свой счет. Я не буду тебе помогать.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(ДЯДЯ уходит.)</ns0:stage>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Не обращай внимания на него. Мы справимся.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn_y_doch">
+          <ns0:speaker>СЫН И ДОЧЬ:</ns0:speaker>
+          <ns0:p>Мы знаем, мама.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(СЫН и ДОЧЬ обнимают МАТЬ.)</ns0:stage>
+        <ns0:stage>(На этом моменте пьеса заканчивается.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ТРЕТЬЕ</ns0:head>
+        <ns0:stage>(На сцене та же гостиная, но теперь она выглядит гораздо более запущенной. На стенах облезлая позолота, на полу паутина, а на камине часы с боем остановились. В центре комнаты стол, за которым сидят МАТЬ, СЫН и ДОЧЬ.)</ns0:stage>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН </ns0:speaker>
+          <ns0:stage>(печально)</ns0:stage>
+          <ns0:p>: Уже год прошел, а дом так и не отремонтирован.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ </ns0:speaker>
+          <ns0:stage>(также печально)</ns0:stage>
+          <ns0:p>: Я знаю. Мама все время работает, а денег все равно не хватает.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ </ns0:speaker>
+          <ns0:stage>(устало)</ns0:stage>
+          <ns0:p>: Я знаю, что это трудно, но мы справимся.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит новый персонаж, СЕКРЕТАРША. Она выглядит деловой и уверенной в себе.)</ns0:stage>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Здравствуйте, госпожа. Я из благотворительного фонда. Мы узнали о вашем непростом положении и хотели бы вам помочь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ </ns0:speaker>
+          <ns0:stage>(удивленно)</ns0:stage>
+          <ns0:p>: Помочь? Как?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Мы можем предоставить вам грант на ремонт дома.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ </ns0:speaker>
+          <ns0:stage>(в радости)</ns0:stage>
+          <ns0:p>: Это чудесно!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn_y_doch">
+          <ns0:speaker>СЫН И ДОЧЬ </ns0:speaker>
+          <ns0:stage>(в радости)</ns0:stage>
+          <ns0:p>: Спасибо!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sekretarsha">
+          <ns0:speaker>СЕКРЕТАРША:</ns0:speaker>
+          <ns0:p>Не за что. Мы рады, что можем вам помочь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(СЕКРЕТАРША уходит.)</ns0:stage>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Я не могу поверить! Это просто фантастика!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН:</ns0:speaker>
+          <ns0:p>Я тоже! Теперь мы наконец-то сможем отремонтировать дом!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ:</ns0:speaker>
+          <ns0:p>И я смогу продолжить учебу!</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Я так счастлива!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(МАТЬ, СЫН и ДОЧЬ обнимаются.)</ns0:stage>
+        <ns0:stage>(На этом моменте пьеса заканчивается.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ЧЕТВЕРТое</ns0:head>
+        <ns0:stage>(На сцене та же гостиная, но теперь она выглядит совершенно иначе. На стенах свежие обои, на полу лежит новый ковер, а на камине часы с боем снова тикают. В центре комнаты стол, за которым сидят МАТЬ, СЫН и ДОЧЬ.)</ns0:stage>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>: Вот видишь, дети, я говорила, что мы справимся.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН </ns0:speaker>
+          <ns0:stage>(радостно)</ns0:stage>
+          <ns0:p>: Да, мама, ты была права.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>: Этот дом снова стал нашим домом.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ </ns0:speaker>
+          <ns0:stage>(поглаживая детей по головам)</ns0:stage>
+          <ns0:p>: Я так счастлива, что мы вместе.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит новый персонаж, СТАРИК. Он выглядит мудрым и доброжелательным.)</ns0:stage>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК:</ns0:speaker>
+          <ns0:p>Здравствуйте, госпожа. Я сосед. Я видел, как вы ремонтировали дом, и мне очень понравилось, что вы сохранили его исторический облик.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ </ns0:speaker>
+          <ns0:stage>(вставая)</ns0:stage>
+          <ns0:p>: Спасибо, сосед. Это было непросто, но мы справились.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК:</ns0:speaker>
+          <ns0:p>Я рад, что вы не сдались. Этот дом имеет большое значение для нашей деревни.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Мы тоже так считаем. Мы хотим, чтобы он оставался здесь и в будущем.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК:</ns0:speaker>
+          <ns0:p>Я уверен, что так и будет.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(СТАРИК уходит.)</ns0:stage>
+        <ns0:sp who="#mat">
+          <ns0:speaker>МАТЬ:</ns0:speaker>
+          <ns0:p>Вот видишь, дети, даже соседи радуются, что мы сохранили дом.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#sыn">
+          <ns0:speaker>СЫН </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>: Да, мама, это здорово.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#doch">
+          <ns0:speaker>ДОЧЬ </ns0:speaker>
+          <ns0:stage>(с улыбкой)</ns0:stage>
+          <ns0:p>: Я так рада, что мы остались здесь.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(МАТЬ, СЫН и ДОЧЬ обнимаются.)</ns0:stage>
+        <ns0:stage>(На этом моменте пьеса заканчивается.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

@@ -1,511 +1,512 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="officiant">
-            <persName>OFFICIANT</persName>
-          </person>
-          <person sex="MALE" xml:id="mlle-de-clerval">
-            <persName>MLLE DE CLERVAL</persName>
-          </person>
-          <person sex="MALE" xml:id="madame-de-mauvesant">
-            <persName>MADAME DE MAUVESANT</persName>
-          </person>
-          <person sex="MALE" xml:id="monsieur-de-mauvesant">
-            <persName>MONSIEUR DE MAUVESANT</persName>
-          </person>
-          <person sex="MALE" xml:id="mademoiselle-de-clerval">
-            <persName>MADEMOISELLE DE CLERVAL</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>ACTE I</head>
-      </div>
-      <div type="scene">
-        <head>Scène I</head>
-        <stage>(Un salon bourgeois. Une femme d'âge moyen, MADAME DE MAUVESANT, est assise sur un canapé, en train de lire un livre. Une jeune femme, MADEMOISELLE DE CLERVAL, entre.)</stage>
-        <sp who="#mademoiselle-de-clerval">
-          <speaker>MADEMOISELLE DE CLERVAL :</speaker>
-          <p>Bonjour, madame.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Bonjour, mademoiselle. Comment allez-vous ?</p>
-        </sp>
-        <sp who="#mademoiselle-de-clerval">
-          <speaker>MADEMOISELLE DE CLERVAL :</speaker>
-          <p>Je vais bien, merci. Et vous ?</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je vais bien aussi.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#mademoiselle-de-clerval">
-          <speaker>MADEMOISELLE DE CLERVAL :</speaker>
-          <p>Je suis venue vous parler de something.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>De quoi s'agit-il ?</p>
-        </sp>
-        <sp who="#mademoiselle-de-clerval">
-          <speaker>MADEMOISELLE DE CLERVAL :</speaker>
-          <p>Je suis amoureuse de votre fils, monsieur de Mauvesant.</p>
-        </sp>
-        <stage>(Madame de Mauvesant est surprise.)</stage>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Vous êtes amoureuse de mon fils ?</p>
-        </sp>
-        <sp who="#mademoiselle-de-clerval">
-          <speaker>MADEMOISELLE DE CLERVAL :</speaker>
-          <p>Oui.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je ne l'avais pas remarqué.</p>
-        </sp>
-        <sp who="#mademoiselle-de-clerval">
-          <speaker>MADEMOISELLE DE CLERVAL :</speaker>
-          <p>Je sais que c'est un peu soudain, mais je ne pouvais pas garder cela pour moi plus longtemps.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je comprends.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Et que dit mon fils de tout cela ?</p>
-        </sp>
-        <sp who="#mademoiselle-de-clerval">
-          <speaker>MADEMOISELLE DE CLERVAL :</speaker>
-          <p>Il ne sait pas encore.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je vois.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je dois réfléchir à tout cela.</p>
-        </sp>
-        <sp who="#mademoiselle-de-clerval">
-          <speaker>MADEMOISELLE DE CLERVAL :</speaker>
-          <p>Je comprends.</p>
-        </sp>
-        <stage>(Mademoiselle de Clerval s'incline et sort.)</stage>
-        <stage>(Madame de Mauvesant reste assise, pensant.)</stage>
-      </div>
-      <div type="scene">
-        <head>ACTE II</head>
-      </div>
-      <div type="scene">
-        <head>Scène I</head>
-        <stage>(Un salon bourgeois. MADAME DE MAUVESANT est assise sur un canapé, en train de lire un livre. Son fils, MONSIEUR DE MAUVESANT, entre.)</stage>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Bonjour, madame.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Bonjour, mon fils. Comment vas-tu ?</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je vais bien, merci. Et toi ?</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je vais bien aussi.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je voudrais te parler de quelque chose.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>De quoi s'agit-il ?</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je sais que tu es en train de fréquenter Mademoiselle de Clerval.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Oui, c'est vrai.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je sais aussi qu'elle est amoureuse de toi.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je le sais aussi.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Et que penses-tu de tout cela ?</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je pense que je suis amoureux d'elle aussi.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je suis content de l'entendre.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je voudrais te demander la permission de l'épouser.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je te la donne, mon fils.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Merci, maman.</p>
-        </sp>
-        <stage>(Ils s'embrassent.)</stage>
-        <stage>(Madame de Mauvesant sort de la pièce. Monsieur de Mauvesant reste seul, pensant.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène II</head>
-        <stage>(Un salon bourgeois. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises sur un canapé, en train de parler.)</stage>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je suis si heureuse que Monsieur de Mauvesant t'ait demandé en mariage.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Moi aussi, je suis très heureuse.</p>
-        </sp>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je sais que tu vas être une excellente épouse.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Merci, ma chère.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je voudrais te demander une faveur.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Quelle faveur ?</p>
-        </sp>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je voudrais que tu sois ma demoiselle d'honneur.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je serais honorée.</p>
-        </sp>
-        <stage>(Ils s'embrassent.)</stage>
-        <stage>(La scène se termine.)</stage>
-      </div>
-      <div type="scene">
-        <head>ACTE III</head>
-      </div>
-      <div type="scene">
-        <head>Scène I</head>
-        <stage>(Un salon bourgeois. MADAME DE MAUVESANT est assise sur un canapé, en train de lire un livre. Son fils, MONSIEUR DE MAUVESANT, entre.)</stage>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Bonjour, madame.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Bonjour, mon fils. Comment vas-tu ?</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je vais bien, merci. Et toi ?</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je vais bien aussi.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je voudrais te parler de quelque chose.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>De quoi s'agit-il ?</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je sais que tu es en train de fréquenter Mademoiselle de Clerval.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Oui, c'est vrai.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je sais aussi qu'elle est amoureuse de toi.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je le sais aussi.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Et que penses-tu de tout cela ?</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je pense que je suis amoureux d'elle aussi.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je suis content de l'entendre.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je voudrais te demander la permission de l'épouser.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je te la donne, mon fils.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Merci, maman.</p>
-        </sp>
-        <stage>(Ils s'embrassent.)</stage>
-        <stage>(Madame de Mauvesant sort de la pièce. Monsieur de Mauvesant reste seul, pensant.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène II</head>
-        <stage>(Un salon bourgeois. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises sur un canapé, en train de parler.)</stage>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je suis si heureuse que Monsieur de Mauvesant t'ait demandé en mariage.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Moi aussi, je suis très heureuse.</p>
-        </sp>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je sais que tu vas être une excellente épouse.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Merci, ma chère.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je voudrais te demander une faveur.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Quelle faveur ?</p>
-        </sp>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je voudrais que tu sois ma demoiselle d'honneur.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je serais honorée.</p>
-        <stage>(Ils s'embrassent.)</stage>
-        <stage>(La scène se termine.)</stage>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>ACTE III</head>
-      </div>
-      <div type="scene">
-        <head>Scène I</head>
-        <stage>(Un salon bourgeois. MADAME DE MAUVESANT est assise sur un canapé, en train de lire un livre. Son fils, MONSIEUR DE MAUVESANT, entre.)</stage>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Bonjour, madame.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Bonjour, mon fils. Comment vas-tu ?</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je vais bien, merci. Et toi ?</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je vais bien aussi.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je voudrais te parler de quelque chose.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>De quoi s'agit-il ?</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je sais que tu es en train de fréquenter Mademoiselle de Clerval.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Oui, c'est vrai.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je sais aussi qu'elle est amoureuse de toi.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je le sais aussi.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Et que penses-tu de tout cela ?</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je pense que je suis amoureux d'elle aussi.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je suis content de l'entendre.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Je voudrais te demander la permission de l'épouser.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je te la donne, mon fils.</p>
-        </sp>
-        <sp who="#monsieur-de-mauvesant">
-          <speaker>MONSIEUR DE MAUVESANT :</speaker>
-          <p>Merci, maman.</p>
-        </sp>
-        <stage>(Ils s'embrassent.)</stage>
-        <stage>(Madame de Mauvesant sort de la pièce. Monsieur de Mauvesant reste seul, pensant.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène II</head>
-        <stage>(Un salon bourgeois. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises sur un canapé, en train de parler.)</stage>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je suis si heureuse que Monsieur de Mauvesant t'ait demandé en mariage.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Moi aussi, je suis très heureuse.</p>
-        </sp>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je sais que tu vas être une excellente épouse.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Merci, ma chère.</p>
-        </sp>
-        <stage>(Il y a un silence.)</stage>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je voudrais te demander une faveur.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Quelle faveur ?</p>
-        </sp>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Je voudrais que tu sois ma demoiselle d'honneur.</p>
-        </sp>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je serais honorée.</p>
-        </sp>
-        <stage>(Ils s'embrassent.)</stage>
-        <stage>(La scène se termine.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène III</head>
-        <stage>(Une église. La cérémonie de mariage est en cours. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises au premier rang, en train d'observer la cérémonie.)</stage>
-        <sp who="#officiant">
-          <speaker>OFFICIANT :</speaker>
-          <p>Nous voici réunis aujourd'hui pour célébrer le mariage de Monsieur de Mauvesant et Mademoiselle de Clerval.</p>
-        </sp>
-        <stage>(Le couple s'échange les alliances.)</stage>
-        <sp who="#officiant">
-          <speaker>OFFICIANT :</speaker>
-          <p>Je vous déclare mari et femme.</p>
-        </sp>
-        <stage>(Les invités applaudissent.)</stage>
-        <stage>(MADAME DE MAUVESANT et MLLE DE CLERVAL s'embrassent.)</stage>
-        <sp who="#madame-de-mauvesant">
-          <speaker>MADAME DE MAUVESANT :</speaker>
-          <p>Je suis si heureuse pour vous deux.</p>
-        </sp>
-        <sp who="#mlle-de-clerval">
-          <speaker>MLLE DE CLERVAL :</speaker>
-          <p>Merci, madame. Nous sommes heureux aussi.</p>
-        </sp>
-        <stage>(La scène se termine.)</stage>
-      </div>
-      <div type="scene">
-        <head>ACTE IV**</head>**</div>
-      <div type="scene">
-        <head>Scène I**</head>
-        <stage>(Un salon bourgeois. MADAME DE MAUVESANT est assise sur un canapé, en train de lire un livre. Son fils, MONSIEUR DE MAUVESANT, entre.)</stage> *MONSIEUR DE MAUVESANT*: Bonjour, madame.*MADAME DE MAUVESANT*: Bonjour, mon fils. Comment vas-tu ?*MONSIEUR DE MAUVESANT*: Je vais bien, merci. Et toi ?*MADAME DE MAUVESANT*: Je vais bien aussi. <stage>(Il y a un silence.)</stage> *MONSIEUR DE MAUVESANT*: Je voudrais te parler de quelque chose.*MADAME DE MAUVESANT*: De quoi s'agit-il ?*MONSIEUR DE MAUVESANT*: Je sais que tu es en train de fréquenter Mademoiselle de Clerval.*MADAME DE MAUVESANT*: Oui, c'est vrai.*MONSIEUR DE MAUVESANT*: Je sais aussi qu'elle est amoureuse de toi.*MADAME DE MAUVESANT*: Je le sais aussi.*MONSIEUR DE MAUVESANT*: Et que penses-tu de tout cela ?*MADAME DE MAUVESANT*: Je pense que je suis amoureux d'elle aussi.*MONSIEUR DE MAUVESANT*: Je suis content de l'entendre. <stage>(Il y a un silence.)</stage> *MONSIEUR DE MAUVESANT*: Je voudrais te demander la permission de l'épouser.*MADAME DE MAUVESANT*: Je te la donne, mon fils.*MONSIEUR DE MAUVESANT*: Merci, maman. <stage>(Ils s'embrassent.)</stage>
-        <stage>(Madame de Mauvesant sort de la pièce. Monsieur de Mauvesant reste seul, pensant.)</stage> **</div>
-      <div type="scene">
-        <head>Scène II**</head>
-        <stage>(Un salon bourgeois. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises sur un canapé, en train de parler.)</stage> *MLLE DE CLERVAL*: Je suis si heureuse que Monsieur de Mauvesant t'ait demandé en mariage.*MADAME DE MAUVESANT*: Moi aussi, je suis très heureuse.*MLLE DE CLERVAL*: Je sais que tu vas être une excellente épouse.*MADAME DE MAUVESANT*: Merci, ma chère. <stage>(Il y a un silence.)</stage> *MLLE DE CLERVAL*: Je voudrais te demander une faveur.*MADAME DE MAUVESANT*: Quelle faveur ?*MLLE DE CLERVAL*: Je voudrais que tu sois ma demoiselle d'honneur.*MADAME DE MAUVESANT*: Je serais honorée. <stage>(Ils s'embrassent.)</stage>
-        <stage>(La scène se termine.)</stage> **</div>
-      <div type="scene">
-        <head>Scène III**</head>
-        <stage>(Une église. La cérémonie de mariage est en cours. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises au premier rang, en train d'observer la cérémonie.)</stage> *OFFICIANT*: Nous voici réunis aujourd'hui pour célébrer le mariage de Monsieur de Mauvesant et Mademoiselle de Clerval. <stage>(Le couple s'échange les alliances.)</stage> *OFFICIANT*: Je vous déclare mari et femme. <stage>(Les invités applaudissent.)</stage>
-        <stage>(MADAME DE MAUVESANT et MLLE DE CLERVAL s'embrassent.)</stage> *MADAME DE MAUVESANT*: Je suis si heureuse pour vous deux.*MLLE DE CLERVAL*: Merci, madame. Nous sommes heureux aussi. <stage>(La scène se termine.)</stage> **</div>
-      <div type="scene">
-        <head>Scène IV**</head>
-        <stage>(Une année plus tard. Une grande fête est en cours dans le salon de Madame de Mauvesant. Monsieur et Madame de Mauvesant sont assis sur un canapé, entourés de leurs invités.)</stage> *UN INVITÉ*: Félicitations, Monsieur et Madame de Mauvesant !*M. DE MAUVESANT*: Merci, cher ami.*UNE INVITÉE*: Vous êtes un couple si parfait.*MME DE MAUVESANT*: Merci, chère amie. Nous sommes très heureux.</div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-french-4</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="officiant">
+            <ns0:persName>OFFICIANT</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="mlle-de-clerval">
+            <ns0:persName>MLLE DE CLERVAL</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="madame-de-mauvesant">
+            <ns0:persName>MADAME DE MAUVESANT</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="monsieur-de-mauvesant">
+            <ns0:persName>MONSIEUR DE MAUVESANT</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="mademoiselle-de-clerval">
+            <ns0:persName>MADEMOISELLE DE CLERVAL</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>ACTE I</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène I</ns0:head>
+        <ns0:stage>(Un salon bourgeois. Une femme d'âge moyen, MADAME DE MAUVESANT, est assise sur un canapé, en train de lire un livre. Une jeune femme, MADEMOISELLE DE CLERVAL, entre.)</ns0:stage>
+        <ns0:sp who="#mademoiselle-de-clerval">
+          <ns0:speaker>MADEMOISELLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Bonjour, madame.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Bonjour, mademoiselle. Comment allez-vous ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mademoiselle-de-clerval">
+          <ns0:speaker>MADEMOISELLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je vais bien, merci. Et vous ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je vais bien aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#mademoiselle-de-clerval">
+          <ns0:speaker>MADEMOISELLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je suis venue vous parler de something.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>De quoi s'agit-il ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mademoiselle-de-clerval">
+          <ns0:speaker>MADEMOISELLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je suis amoureuse de votre fils, monsieur de Mauvesant.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Madame de Mauvesant est surprise.)</ns0:stage>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Vous êtes amoureuse de mon fils ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mademoiselle-de-clerval">
+          <ns0:speaker>MADEMOISELLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Oui.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je ne l'avais pas remarqué.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mademoiselle-de-clerval">
+          <ns0:speaker>MADEMOISELLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je sais que c'est un peu soudain, mais je ne pouvais pas garder cela pour moi plus longtemps.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je comprends.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Et que dit mon fils de tout cela ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mademoiselle-de-clerval">
+          <ns0:speaker>MADEMOISELLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Il ne sait pas encore.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je vois.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je dois réfléchir à tout cela.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mademoiselle-de-clerval">
+          <ns0:speaker>MADEMOISELLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je comprends.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Mademoiselle de Clerval s'incline et sort.)</ns0:stage>
+        <ns0:stage>(Madame de Mauvesant reste assise, pensant.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ACTE II</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène I</ns0:head>
+        <ns0:stage>(Un salon bourgeois. MADAME DE MAUVESANT est assise sur un canapé, en train de lire un livre. Son fils, MONSIEUR DE MAUVESANT, entre.)</ns0:stage>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Bonjour, madame.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Bonjour, mon fils. Comment vas-tu ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je vais bien, merci. Et toi ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je vais bien aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je voudrais te parler de quelque chose.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>De quoi s'agit-il ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je sais que tu es en train de fréquenter Mademoiselle de Clerval.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Oui, c'est vrai.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je sais aussi qu'elle est amoureuse de toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je le sais aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Et que penses-tu de tout cela ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je pense que je suis amoureux d'elle aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je suis content de l'entendre.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je voudrais te demander la permission de l'épouser.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je te la donne, mon fils.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Merci, maman.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+        <ns0:stage>(Madame de Mauvesant sort de la pièce. Monsieur de Mauvesant reste seul, pensant.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène II</ns0:head>
+        <ns0:stage>(Un salon bourgeois. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises sur un canapé, en train de parler.)</ns0:stage>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je suis si heureuse que Monsieur de Mauvesant t'ait demandé en mariage.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Moi aussi, je suis très heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je sais que tu vas être une excellente épouse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Merci, ma chère.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je voudrais te demander une faveur.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Quelle faveur ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je voudrais que tu sois ma demoiselle d'honneur.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je serais honorée.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+        <ns0:stage>(La scène se termine.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ACTE III</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène I</ns0:head>
+        <ns0:stage>(Un salon bourgeois. MADAME DE MAUVESANT est assise sur un canapé, en train de lire un livre. Son fils, MONSIEUR DE MAUVESANT, entre.)</ns0:stage>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Bonjour, madame.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Bonjour, mon fils. Comment vas-tu ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je vais bien, merci. Et toi ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je vais bien aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je voudrais te parler de quelque chose.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>De quoi s'agit-il ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je sais que tu es en train de fréquenter Mademoiselle de Clerval.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Oui, c'est vrai.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je sais aussi qu'elle est amoureuse de toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je le sais aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Et que penses-tu de tout cela ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je pense que je suis amoureux d'elle aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je suis content de l'entendre.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je voudrais te demander la permission de l'épouser.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je te la donne, mon fils.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Merci, maman.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+        <ns0:stage>(Madame de Mauvesant sort de la pièce. Monsieur de Mauvesant reste seul, pensant.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène II</ns0:head>
+        <ns0:stage>(Un salon bourgeois. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises sur un canapé, en train de parler.)</ns0:stage>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je suis si heureuse que Monsieur de Mauvesant t'ait demandé en mariage.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Moi aussi, je suis très heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je sais que tu vas être une excellente épouse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Merci, ma chère.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je voudrais te demander une faveur.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Quelle faveur ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je voudrais que tu sois ma demoiselle d'honneur.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je serais honorée.</ns0:p>
+        <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+        <ns0:stage>(La scène se termine.)</ns0:stage>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ACTE III</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène I</ns0:head>
+        <ns0:stage>(Un salon bourgeois. MADAME DE MAUVESANT est assise sur un canapé, en train de lire un livre. Son fils, MONSIEUR DE MAUVESANT, entre.)</ns0:stage>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Bonjour, madame.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Bonjour, mon fils. Comment vas-tu ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je vais bien, merci. Et toi ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je vais bien aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je voudrais te parler de quelque chose.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>De quoi s'agit-il ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je sais que tu es en train de fréquenter Mademoiselle de Clerval.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Oui, c'est vrai.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je sais aussi qu'elle est amoureuse de toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je le sais aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Et que penses-tu de tout cela ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je pense que je suis amoureux d'elle aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je suis content de l'entendre.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je voudrais te demander la permission de l'épouser.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je te la donne, mon fils.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#monsieur-de-mauvesant">
+          <ns0:speaker>MONSIEUR DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Merci, maman.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+        <ns0:stage>(Madame de Mauvesant sort de la pièce. Monsieur de Mauvesant reste seul, pensant.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène II</ns0:head>
+        <ns0:stage>(Un salon bourgeois. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises sur un canapé, en train de parler.)</ns0:stage>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je suis si heureuse que Monsieur de Mauvesant t'ait demandé en mariage.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Moi aussi, je suis très heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je sais que tu vas être une excellente épouse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Merci, ma chère.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il y a un silence.)</ns0:stage>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je voudrais te demander une faveur.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Quelle faveur ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Je voudrais que tu sois ma demoiselle d'honneur.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je serais honorée.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+        <ns0:stage>(La scène se termine.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène III</ns0:head>
+        <ns0:stage>(Une église. La cérémonie de mariage est en cours. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises au premier rang, en train d'observer la cérémonie.)</ns0:stage>
+        <ns0:sp who="#officiant">
+          <ns0:speaker>OFFICIANT :</ns0:speaker>
+          <ns0:p>Nous voici réunis aujourd'hui pour célébrer le mariage de Monsieur de Mauvesant et Mademoiselle de Clerval.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Le couple s'échange les alliances.)</ns0:stage>
+        <ns0:sp who="#officiant">
+          <ns0:speaker>OFFICIANT :</ns0:speaker>
+          <ns0:p>Je vous déclare mari et femme.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Les invités applaudissent.)</ns0:stage>
+        <ns0:stage>(MADAME DE MAUVESANT et MLLE DE CLERVAL s'embrassent.)</ns0:stage>
+        <ns0:sp who="#madame-de-mauvesant">
+          <ns0:speaker>MADAME DE MAUVESANT :</ns0:speaker>
+          <ns0:p>Je suis si heureuse pour vous deux.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#mlle-de-clerval">
+          <ns0:speaker>MLLE DE CLERVAL :</ns0:speaker>
+          <ns0:p>Merci, madame. Nous sommes heureux aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(La scène se termine.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ACTE IV**</ns0:head>**</ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène I**</ns0:head>
+        <ns0:stage>(Un salon bourgeois. MADAME DE MAUVESANT est assise sur un canapé, en train de lire un livre. Son fils, MONSIEUR DE MAUVESANT, entre.)</ns0:stage> *MONSIEUR DE MAUVESANT*: Bonjour, madame.*MADAME DE MAUVESANT*: Bonjour, mon fils. Comment vas-tu ?*MONSIEUR DE MAUVESANT*: Je vais bien, merci. Et toi ?*MADAME DE MAUVESANT*: Je vais bien aussi. <ns0:stage>(Il y a un silence.)</ns0:stage> *MONSIEUR DE MAUVESANT*: Je voudrais te parler de quelque chose.*MADAME DE MAUVESANT*: De quoi s'agit-il ?*MONSIEUR DE MAUVESANT*: Je sais que tu es en train de fréquenter Mademoiselle de Clerval.*MADAME DE MAUVESANT*: Oui, c'est vrai.*MONSIEUR DE MAUVESANT*: Je sais aussi qu'elle est amoureuse de toi.*MADAME DE MAUVESANT*: Je le sais aussi.*MONSIEUR DE MAUVESANT*: Et que penses-tu de tout cela ?*MADAME DE MAUVESANT*: Je pense que je suis amoureux d'elle aussi.*MONSIEUR DE MAUVESANT*: Je suis content de l'entendre. <ns0:stage>(Il y a un silence.)</ns0:stage> *MONSIEUR DE MAUVESANT*: Je voudrais te demander la permission de l'épouser.*MADAME DE MAUVESANT*: Je te la donne, mon fils.*MONSIEUR DE MAUVESANT*: Merci, maman. <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+        <ns0:stage>(Madame de Mauvesant sort de la pièce. Monsieur de Mauvesant reste seul, pensant.)</ns0:stage> **</ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène II**</ns0:head>
+        <ns0:stage>(Un salon bourgeois. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises sur un canapé, en train de parler.)</ns0:stage> *MLLE DE CLERVAL*: Je suis si heureuse que Monsieur de Mauvesant t'ait demandé en mariage.*MADAME DE MAUVESANT*: Moi aussi, je suis très heureuse.*MLLE DE CLERVAL*: Je sais que tu vas être une excellente épouse.*MADAME DE MAUVESANT*: Merci, ma chère. <ns0:stage>(Il y a un silence.)</ns0:stage> *MLLE DE CLERVAL*: Je voudrais te demander une faveur.*MADAME DE MAUVESANT*: Quelle faveur ?*MLLE DE CLERVAL*: Je voudrais que tu sois ma demoiselle d'honneur.*MADAME DE MAUVESANT*: Je serais honorée. <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+        <ns0:stage>(La scène se termine.)</ns0:stage> **</ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène III**</ns0:head>
+        <ns0:stage>(Une église. La cérémonie de mariage est en cours. MADAME DE MAUVESANT et MLLE DE CLERVAL sont assises au premier rang, en train d'observer la cérémonie.)</ns0:stage> *OFFICIANT*: Nous voici réunis aujourd'hui pour célébrer le mariage de Monsieur de Mauvesant et Mademoiselle de Clerval. <ns0:stage>(Le couple s'échange les alliances.)</ns0:stage> *OFFICIANT*: Je vous déclare mari et femme. <ns0:stage>(Les invités applaudissent.)</ns0:stage>
+        <ns0:stage>(MADAME DE MAUVESANT et MLLE DE CLERVAL s'embrassent.)</ns0:stage> *MADAME DE MAUVESANT*: Je suis si heureuse pour vous deux.*MLLE DE CLERVAL*: Merci, madame. Nous sommes heureux aussi. <ns0:stage>(La scène se termine.)</ns0:stage> **</ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène IV**</ns0:head>
+        <ns0:stage>(Une année plus tard. Une grande fête est en cours dans le salon de Madame de Mauvesant. Monsieur et Madame de Mauvesant sont assis sur un canapé, entourés de leurs invités.)</ns0:stage> *UN INVITÉ*: Félicitations, Monsieur et Madame de Mauvesant !*M. DE MAUVESANT*: Merci, cher ami.*UNE INVITÉE*: Vous êtes un couple si parfait.*MME DE MAUVESANT*: Merci, chère amie. Nous sommes très heureux.</ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

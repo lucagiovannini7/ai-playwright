@@ -1,397 +1,398 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="FEMALE" xml:id="madame-duval">
-            <persName>MADAME DUVAL</persName>
-          </person>
-          <person sex="FEMALE" xml:id="cloé">
-            <persName>CLOÉ</persName>
-          </person>
-          <person sex="FEMALE" xml:id="chloe">
-            <persName>CHLOE</persName>
-          </person>
-          <person sex="MALE" xml:id="jules">
-            <persName>JULES</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="act">
-        <head>ACTE I</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Un salon bourgeois. Madame DUVAL, une femme d'âge moyen, est assise sur un canapé. Son fils, JULES, entre.)</stage>
-        <sp who="#madame-duval">
-          <speaker>MADAME DUVAL :</speaker>
-          <p>Jules, mon cher, je suis si contente de te voir.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Merci, Maman. Je suis content de te revoir aussi.</p>
-        </sp>
-        <stage>(Ils s'embrassent.)</stage>
-        <sp who="#madame-duval">
-          <speaker>MADAME DUVAL :</speaker>
-          <p>Assieds-toi, mon chéri. Je veux te parler.</p>
-        </sp>
-        <stage>(Jules s'assied.)</stage>
-        <sp who="#madame-duval">
-          <speaker>MADAME DUVAL :</speaker>
-          <p>Tu sais, Jules, je suis un peu inquiète pour toi.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Pourquoi, Maman ?</p>
-        </sp>
-        <sp who="#madame-duval">
-          <speaker>MADAME DUVAL :</speaker>
-          <p>Tu ne sors plus beaucoup. Tu passes tout ton temps à la maison.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>C'est vrai, Maman. Mais je n'ai pas envie de sortir.</p>
-        </sp>
-        <sp who="#madame-duval">
-          <speaker>MADAME DUVAL :</speaker>
-          <p>Mais pourquoi pas, mon chéri ? Tu es jeune, tu devrais profiter de la vie.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Je n'ai pas envie de profiter de la vie, Maman. Je suis fatigué.</p>
-        </sp>
-        <sp who="#madame-duval">
-          <speaker>MADAME DUVAL :</speaker>
-          <p>Fatigué ? De quoi es-tu fatigué ?</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Je ne sais pas, Maman. Je suis juste fatigué.</p>
-        </sp>
-        <stage>(Il se tait.)</stage>
-        <sp who="#madame-duval">
-          <speaker>MADAME DUVAL : </speaker>
-          <stage>(soupire)</stage>
-          <p> Je vois.</p>
-        </sp>
-        <stage>(Ils se regardent en silence pendant un moment.)</stage>
-        <sp who="#madame-duval">
-          <speaker>MADAME DUVAL :</speaker>
-          <p>Jules, je veux que tu saches que je suis là pour toi, si tu as besoin de moi.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Merci, Maman. Je sais que tu es là pour moi.</p>
-        </sp>
-        <stage>(Ils s'embrassent à nouveau.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène 2</head>
-        <stage>(Jules est seul dans le salon. Il se lève et se promène d'un air agité.)</stage>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Je ne peux pas continuer comme ça. Je dois faire quelque chose.</p>
-        </sp>
-        <stage>(Il s'arrête et regarde autour de lui.)</stage>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Mais quoi ? Je ne sais pas quoi faire.</p>
-        </sp>
-        <stage>(Il se tait et réfléchit.)</stage>
-        <sp who="#jules">
-          <speaker>JULES : </speaker>
-          <stage>(se levant d'un coup)</stage>
-          <p> J'ai une idée !</p>
-        </sp>
-        <stage>(Il sort du salon.)</stage>
-      </div>
-      <div type="ACT">
-        <head>ACTE II</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Une taverne. Jules est assis à une table, en train de boire un verre de vin. Une jeune femme, CLOÉ, entre.)</stage>
-        <sp who="#cloé">
-          <speaker>CLOÉ :</speaker>
-          <p>Bonjour, Jules.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Bonjour, Cloé.</p>
-        </sp>
-        <sp who="#cloé">
-          <speaker>CLOÉ :</speaker>
-          <p>Qu'est-ce que tu fais ici ?</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Je me suis dit que je sortirais un peu.</p>
-        </sp>
-        <sp who="#cloé">
-          <speaker>CLOÉ :</speaker>
-          <p>C'est bien. Tu as l'air fatigué.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Je suis un peu.</p>
-        </sp>
-        <sp who="#cloé">
-          <speaker>CLOÉ :</speaker>
-          <p>Tu veux que je te raccompagne chez toi ?</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Non, ça va. Je vais rentrer seul.</p>
-        </sp>
-        <sp who="#cloé">
-          <speaker>CLOÉ :</speaker>
-          <p>Tu es sûr ?</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Oui, je suis sûr.</p>
-        </sp>
-        <sp who="#cloé">
-          <speaker>CLOÉ :</speaker>
-          <p>D'accord.</p>
-        </sp>
-        <stage>(Cloé s'en va. Jules la regarde partir, puis il se tourne vers son verre de vin.)</stage>
-        <sp who="#jules">
-          <speaker>JULES : </speaker>
-          <stage>(à lui-même)</stage>
-          <p> Je ne sais pas ce que je fais.</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>Scène 2</head>
-        <stage>(La chambre de Jules. Jules est allongé sur son lit, en train de fumer une cigarette. Il est agité.)</stage>
-        <sp who="#jules">
-          <speaker>JULES : </speaker>
-          <stage>(à lui-même)</stage>
-          <p> Je dois faire quelque chose. Je ne peux pas continuer comme ça.</p>
-        </sp>
-        <stage>(Il se lève et se promène d'un air agité.)</stage>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Mais quoi ? Je ne sais pas quoi faire.</p>
-        </sp>
-        <stage>(Il s'arrête et regarde autour de lui.)</stage>
-        <sp who="#jules">
-          <speaker>JULES : </speaker>
-          <stage>(désespéré)</stage>
-          <p> Je suis perdu.</p>
-        </sp>
-        <stage>(Il se jette sur son lit et se met à pleurer.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène 3</head>
-        <stage>(Le lendemain matin. Jules est assis à son bureau, en train d'écrire une lettre.)</stage>
-        <sp who="#jules">
-          <speaker>JULES : </speaker>
-          <stage>(à lui-même)</stage>
-          <p> Chère Maman,Je t'écris pour te dire que je suis parti. Je ne sais pas où je vais, mais je ne peux pas rester ici. Je dois faire quelque chose de ma vie.Je te remercie pour tout ce que tu as fait pour moi. Je t'aime.Ton fils,Jules!</p>
-        </sp>
-        <stage>(Jules plie la lettre et la met dans une enveloppe. Il l'adresse à sa mère et la met dans sa poche. Il se lève et sort de sa chambre.)</stage>
-      </div>
-      <div type="act">
-        <head>ACTE III</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Une gare. Jules est en train de monter dans un train. Il est accompagné d'un homme, M. DURAND, un vieil ami de sa famille.)</stage> M. DURAND : Tu es sûr que tu veux faire ça, Jules ?<sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Oui, je suis sûr. Je dois partir.M. DURAND : Mais où vas-tu ?</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Je ne sais pas. Je vais juste partir.M. DURAND : Tu sais que tu peux toujours compter sur moi, si tu as besoin de quelque chose.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Merci, M. Durand. Je sais que je peux compter sur vous.</p>
-        </sp>
-        <stage>(Jules lui serre la main.)</stage>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Au revoir, M. Durand.M. DURAND : Au revoir, Jules. Et bonne chance.</p>
-        </sp>
-        <stage>(Jules monte dans le train. Le train part.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène 2</head>
-        <stage>(Une ville inconnue. Jules est assis sur un banc dans un parc. Il est en train de lire une lettre.)</stage>
-        <stage>(La lettre est de sa mère. Elle lui dit qu'elle l'aime et qu'elle est fière de lui. Elle lui souhaite bonne chance dans sa nouvelle vie.)</stage>
-        <sp who="#jules">
-          <speaker>JULES : </speaker>
-          <stage>(à lui-même)</stage>
-          <p> Je ne sais pas ce que l'avenir me réserve, mais je suis prêt à le découvrir.!</p>
-        </sp>
-        <stage>(Il se lève et commence à marcher. Il ne sait pas où il va, mais il sait qu'il est sur la bonne voie.)</stage>
-      </div>
-      <div type="act">
-        <head>ACTE IV</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Une rue de la ville inconnue. Jules est en train de marcher. Il est fatigué et il a faim.)</stage>
-        <sp who="#jules">
-          <speaker>JULES : </speaker>
-          <stage>(à lui-même)</stage>
-          <p> Je ne sais pas où je suis, mais je dois trouver un endroit pour dormir.</p>
-        </sp>
-        <stage>(Il continue à marcher. Il arrive devant une taverne.)</stage>
-        <sp who="#jules">
-          <speaker>JULES : </speaker>
-          <stage>(à lui-même)</stage>
-          <p> Je vais essayer ici.</p>
-        </sp>
-        <stage>(Il entre dans la taverne.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène 2</head>
-        <stage>(La taverne. Jules est assis à une table, en train de manger une soupe. Une femme, CHLOE, s'approche de lui.)</stage>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Bonjour, Monsieur.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Bonjour, Madame.</p>
-        </sp>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Vous êtes nouveau ici ?</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Oui, je suis.</p>
-        </sp>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Vous êtes perdu ?</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Non, je ne suis pas perdu. Je suis juste en voyage.</p>
-        </sp>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Ah, je vois.</p>
-        </sp>
-        <stage>(Ils se taisent pendant un moment.)</stage>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Vous voulez un verre de vin ?</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Oui, merci.</p>
-        </sp>
-        <stage>(Chloe lui apporte un verre de vin.)</stage>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Alors, comment se passe votre voyage ?</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Il se passe bien. Je découvre de nouvelles choses.</p>
-        </sp>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>C'est bien.</p>
-        </sp>
-        <stage>(Ils continuent à parler. Ils apprennent à se connaître. Ils s'entendent bien.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène 3</head>
-        <stage>(Le lendemain matin. Jules et Chloe sont dans la chambre de Jules. Ils sont allongés sur le lit, en train de se parler.)</stage>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Je suis contente de t'avoir rencontré, Jules.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Moi aussi, je suis content de t'avoir rencontrée, Chloe.</p>
-        </sp>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Je voudrais rester avec toi.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Moi aussi, je voudrais que tu restes avec moi.!</p>
-        </sp>
-        <stage>(Ils s'embrassent.)</stage>
-      </div>
-      <div type="act">
-        <head>ACTE V</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Une rue de la ville inconnue. Jules et Chloe sont en train de marcher. Ils sont heureux ensemble.)</stage>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Je suis content d'être ici avec toi, Chloe.</p>
-        </sp>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Moi aussi, je suis contente d'être ici avec toi, Jules.</p>
-        </sp>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Je ne sais pas ce que l'avenir nous réserve, mais je suis prêt à l'affronter avec toi.</p>
-        </sp>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Moi aussi, je suis prête à l'affronter avec toi.</p>
-        </sp>
-        <stage>(Ils s'embrassent.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène 2</head>
-        <stage>(Un bureau de poste. Jules et Chloe sont en train d'envoyer une lettre à la mère de Jules.)</stage>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Chère Maman,Je t'écris pour te dire que je suis bien. Je suis avec Chloe, et nous sommes très heureux ensemble.Je sais que tu étais inquiète pour moi, mais je te promets que je vais bien. Je suis sur la bonne voie, et je suis sûr que je vais réussir dans la vie.Je t'aime,Jules</p>
-        </sp>
-        <stage>(Jules et Chloe s'embrassent. Ils sortent du bureau de poste.)</stage>
-      </div>
-      <div type="scene">
-        <head>Scène 3</head>
-        <stage>(Une gare. Jules et Chloe sont en train de monter dans un train. Ils sont sur le point de partir pour une nouvelle aventure.)</stage>
-        <sp who="#jules">
-          <speaker>JULES :</speaker>
-          <p>Je suis excité de voir ce que l'avenir nous réserve.</p>
-        </sp>
-        <sp who="#chloe">
-          <speaker>CHLOE :</speaker>
-          <p>Moi aussi, je suis excitée. Je sais que nous allons faire de grandes choses ensemble.!</p>
-        </sp>
-        <stage>(Ils se tiennent la main. Le train part.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-french-8</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="FEMALE" xml:id="madame-duval">
+            <ns0:persName>MADAME DUVAL</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="cloé">
+            <ns0:persName>CLOÉ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="chloe">
+            <ns0:persName>CHLOE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="jules">
+            <ns0:persName>JULES</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="act">
+        <ns0:head>ACTE I</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Un salon bourgeois. Madame DUVAL, une femme d'âge moyen, est assise sur un canapé. Son fils, JULES, entre.)</ns0:stage>
+        <ns0:sp who="#madame-duval">
+          <ns0:speaker>MADAME DUVAL :</ns0:speaker>
+          <ns0:p>Jules, mon cher, je suis si contente de te voir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Merci, Maman. Je suis content de te revoir aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+        <ns0:sp who="#madame-duval">
+          <ns0:speaker>MADAME DUVAL :</ns0:speaker>
+          <ns0:p>Assieds-toi, mon chéri. Je veux te parler.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Jules s'assied.)</ns0:stage>
+        <ns0:sp who="#madame-duval">
+          <ns0:speaker>MADAME DUVAL :</ns0:speaker>
+          <ns0:p>Tu sais, Jules, je suis un peu inquiète pour toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Pourquoi, Maman ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-duval">
+          <ns0:speaker>MADAME DUVAL :</ns0:speaker>
+          <ns0:p>Tu ne sors plus beaucoup. Tu passes tout ton temps à la maison.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>C'est vrai, Maman. Mais je n'ai pas envie de sortir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-duval">
+          <ns0:speaker>MADAME DUVAL :</ns0:speaker>
+          <ns0:p>Mais pourquoi pas, mon chéri ? Tu es jeune, tu devrais profiter de la vie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Je n'ai pas envie de profiter de la vie, Maman. Je suis fatigué.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-duval">
+          <ns0:speaker>MADAME DUVAL :</ns0:speaker>
+          <ns0:p>Fatigué ? De quoi es-tu fatigué ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Je ne sais pas, Maman. Je suis juste fatigué.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il se tait.)</ns0:stage>
+        <ns0:sp who="#madame-duval">
+          <ns0:speaker>MADAME DUVAL : </ns0:speaker>
+          <ns0:stage>(soupire)</ns0:stage>
+          <ns0:p> Je vois.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils se regardent en silence pendant un moment.)</ns0:stage>
+        <ns0:sp who="#madame-duval">
+          <ns0:speaker>MADAME DUVAL :</ns0:speaker>
+          <ns0:p>Jules, je veux que tu saches que je suis là pour toi, si tu as besoin de moi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Merci, Maman. Je sais que tu es là pour moi.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils s'embrassent à nouveau.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 2</ns0:head>
+        <ns0:stage>(Jules est seul dans le salon. Il se lève et se promène d'un air agité.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Je ne peux pas continuer comme ça. Je dois faire quelque chose.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il s'arrête et regarde autour de lui.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Mais quoi ? Je ne sais pas quoi faire.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il se tait et réfléchit.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES : </ns0:speaker>
+          <ns0:stage>(se levant d'un coup)</ns0:stage>
+          <ns0:p> J'ai une idée !</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il sort du salon.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="ACT">
+        <ns0:head>ACTE II</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Une taverne. Jules est assis à une table, en train de boire un verre de vin. Une jeune femme, CLOÉ, entre.)</ns0:stage>
+        <ns0:sp who="#cloé">
+          <ns0:speaker>CLOÉ :</ns0:speaker>
+          <ns0:p>Bonjour, Jules.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Bonjour, Cloé.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#cloé">
+          <ns0:speaker>CLOÉ :</ns0:speaker>
+          <ns0:p>Qu'est-ce que tu fais ici ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Je me suis dit que je sortirais un peu.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#cloé">
+          <ns0:speaker>CLOÉ :</ns0:speaker>
+          <ns0:p>C'est bien. Tu as l'air fatigué.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Je suis un peu.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#cloé">
+          <ns0:speaker>CLOÉ :</ns0:speaker>
+          <ns0:p>Tu veux que je te raccompagne chez toi ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Non, ça va. Je vais rentrer seul.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#cloé">
+          <ns0:speaker>CLOÉ :</ns0:speaker>
+          <ns0:p>Tu es sûr ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Oui, je suis sûr.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#cloé">
+          <ns0:speaker>CLOÉ :</ns0:speaker>
+          <ns0:p>D'accord.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Cloé s'en va. Jules la regarde partir, puis il se tourne vers son verre de vin.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES : </ns0:speaker>
+          <ns0:stage>(à lui-même)</ns0:stage>
+          <ns0:p> Je ne sais pas ce que je fais.</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 2</ns0:head>
+        <ns0:stage>(La chambre de Jules. Jules est allongé sur son lit, en train de fumer une cigarette. Il est agité.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES : </ns0:speaker>
+          <ns0:stage>(à lui-même)</ns0:stage>
+          <ns0:p> Je dois faire quelque chose. Je ne peux pas continuer comme ça.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il se lève et se promène d'un air agité.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Mais quoi ? Je ne sais pas quoi faire.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il s'arrête et regarde autour de lui.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES : </ns0:speaker>
+          <ns0:stage>(désespéré)</ns0:stage>
+          <ns0:p> Je suis perdu.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il se jette sur son lit et se met à pleurer.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 3</ns0:head>
+        <ns0:stage>(Le lendemain matin. Jules est assis à son bureau, en train d'écrire une lettre.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES : </ns0:speaker>
+          <ns0:stage>(à lui-même)</ns0:stage>
+          <ns0:p> Chère Maman,Je t'écris pour te dire que je suis parti. Je ne sais pas où je vais, mais je ne peux pas rester ici. Je dois faire quelque chose de ma vie.Je te remercie pour tout ce que tu as fait pour moi. Je t'aime.Ton fils,Jules!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Jules plie la lettre et la met dans une enveloppe. Il l'adresse à sa mère et la met dans sa poche. Il se lève et sort de sa chambre.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>ACTE III</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Une gare. Jules est en train de monter dans un train. Il est accompagné d'un homme, M. DURAND, un vieil ami de sa famille.)</ns0:stage> M. DURAND : Tu es sûr que tu veux faire ça, Jules ?<ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Oui, je suis sûr. Je dois partir.M. DURAND : Mais où vas-tu ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Je ne sais pas. Je vais juste partir.M. DURAND : Tu sais que tu peux toujours compter sur moi, si tu as besoin de quelque chose.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Merci, M. Durand. Je sais que je peux compter sur vous.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Jules lui serre la main.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Au revoir, M. Durand.M. DURAND : Au revoir, Jules. Et bonne chance.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Jules monte dans le train. Le train part.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 2</ns0:head>
+        <ns0:stage>(Une ville inconnue. Jules est assis sur un banc dans un parc. Il est en train de lire une lettre.)</ns0:stage>
+        <ns0:stage>(La lettre est de sa mère. Elle lui dit qu'elle l'aime et qu'elle est fière de lui. Elle lui souhaite bonne chance dans sa nouvelle vie.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES : </ns0:speaker>
+          <ns0:stage>(à lui-même)</ns0:stage>
+          <ns0:p> Je ne sais pas ce que l'avenir me réserve, mais je suis prêt à le découvrir.!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il se lève et commence à marcher. Il ne sait pas où il va, mais il sait qu'il est sur la bonne voie.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>ACTE IV</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Une rue de la ville inconnue. Jules est en train de marcher. Il est fatigué et il a faim.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES : </ns0:speaker>
+          <ns0:stage>(à lui-même)</ns0:stage>
+          <ns0:p> Je ne sais pas où je suis, mais je dois trouver un endroit pour dormir.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il continue à marcher. Il arrive devant une taverne.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES : </ns0:speaker>
+          <ns0:stage>(à lui-même)</ns0:stage>
+          <ns0:p> Je vais essayer ici.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Il entre dans la taverne.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 2</ns0:head>
+        <ns0:stage>(La taverne. Jules est assis à une table, en train de manger une soupe. Une femme, CHLOE, s'approche de lui.)</ns0:stage>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Bonjour, Monsieur.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Bonjour, Madame.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Vous êtes nouveau ici ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Oui, je suis.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Vous êtes perdu ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Non, je ne suis pas perdu. Je suis juste en voyage.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Ah, je vois.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils se taisent pendant un moment.)</ns0:stage>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Vous voulez un verre de vin ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Oui, merci.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Chloe lui apporte un verre de vin.)</ns0:stage>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Alors, comment se passe votre voyage ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Il se passe bien. Je découvre de nouvelles choses.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>C'est bien.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils continuent à parler. Ils apprennent à se connaître. Ils s'entendent bien.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 3</ns0:head>
+        <ns0:stage>(Le lendemain matin. Jules et Chloe sont dans la chambre de Jules. Ils sont allongés sur le lit, en train de se parler.)</ns0:stage>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Je suis contente de t'avoir rencontré, Jules.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Moi aussi, je suis content de t'avoir rencontrée, Chloe.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Je voudrais rester avec toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Moi aussi, je voudrais que tu restes avec moi.!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>ACTE V</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Une rue de la ville inconnue. Jules et Chloe sont en train de marcher. Ils sont heureux ensemble.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Je suis content d'être ici avec toi, Chloe.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Moi aussi, je suis contente d'être ici avec toi, Jules.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Je ne sais pas ce que l'avenir nous réserve, mais je suis prêt à l'affronter avec toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Moi aussi, je suis prête à l'affronter avec toi.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils s'embrassent.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 2</ns0:head>
+        <ns0:stage>(Un bureau de poste. Jules et Chloe sont en train d'envoyer une lettre à la mère de Jules.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Chère Maman,Je t'écris pour te dire que je suis bien. Je suis avec Chloe, et nous sommes très heureux ensemble.Je sais que tu étais inquiète pour moi, mais je te promets que je vais bien. Je suis sur la bonne voie, et je suis sûr que je vais réussir dans la vie.Je t'aime,Jules</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Jules et Chloe s'embrassent. Ils sortent du bureau de poste.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 3</ns0:head>
+        <ns0:stage>(Une gare. Jules et Chloe sont en train de monter dans un train. Ils sont sur le point de partir pour une nouvelle aventure.)</ns0:stage>
+        <ns0:sp who="#jules">
+          <ns0:speaker>JULES :</ns0:speaker>
+          <ns0:p>Je suis excité de voir ce que l'avenir nous réserve.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#chloe">
+          <ns0:speaker>CHLOE :</ns0:speaker>
+          <ns0:p>Moi aussi, je suis excitée. Je sais que nous allons faire de grandes choses ensemble.!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ils se tiennent la main. Le train part.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

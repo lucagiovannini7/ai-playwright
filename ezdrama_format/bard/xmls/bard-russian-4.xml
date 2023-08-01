@@ -1,430 +1,431 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="novыj_domovod">
-            <persName>МОЛОДЫЙ ДОМОВОД</persName>
-            <persName>НОВЫЙ ДОМОВОД</persName>
-          </person>
-          <person sex="MALE" xml:id="hlukhov">
-            <persName>ГЛУХОВ</persName>
-          </person>
-          <person sex="MALE" xml:id="staryk">
-            <persName>СТАРИК</persName>
-          </person>
-          <person sex="FEMALE" xml:id="devushka">
-            <persName>ДЕВУШКА</persName>
-          </person>
-          <personGrp sex="UNKNOWN" xml:id="krestjane">
-            <persName>КРЕСТЬЯНЕ</persName>
-          </personGrp>
-          <person sex="MALE" xml:id="domovod">
-            <persName>ДОМОВОД</persName>
-          </person>
-          <person sex="FEMALE" xml:id="pryzrak_hlukhova">
-            <persName>ПРИЗРАК ГЛУХОВА</persName>
-          </person>
-          <person sex="MALE" xml:id="molodoj_khozjayn">
-            <persName>МОЛОДОЙ ХОЗЯИН</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
-        <stage>(Картина первая. Комната в усадьбе помещика.)</stage> <stage>Входят ГЛУХОВ, СТАРЫЙ ДОМОВОД, ДЕВУШКА.</stage><sp who="#hlukhov">
-          <speaker>ГЛУХОВ </speaker>
-          <stage>(_к домоводу_)</stage>
-          <p>. Я хочу, чтобы ты завтра же отправился в город и купил мне новую шубу.</p>
-        </sp>
-        <sp who="#domovod">
-          <speaker>ДОМОВОД </speaker>
-          <stage>(_кланяясь_)</stage>
-          <p>. Слушаю, ваше превосходительство.</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(_в сторону_)</stage>
-          <p>. Вот будет шуба! Старому барину и в старой шубу холодно.</p>
-        </sp>
-        <sp who="#hlukhov">
-          <speaker>ГЛУХОВ </speaker>
-          <stage>(_к девушке_)</stage>
-          <p>. Что ты там шепчешься?</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(_в испуге_)</stage>
-          <p>. Ничего, ваше превосходительство.</p>
-        </sp>
-        <sp who="#hlukhov">
-          <speaker>ГЛУХОВ </speaker>
-          <stage>(_к домоводу_)</stage>
-          <p>. Давай, проваливай!</p>
-        </sp>
-        <stage>(Домовод уходит.)</stage>
-        <sp who="#hlukhov">
-          <speaker>ГЛУХОВ </speaker>
-          <stage>(_садится в кресло и закрывает глаза_)</stage>
-          <p>. Эх, стар я уже стал. Ничего не слышу, ничего не вижу. Скоро помру.</p>
-        </sp>
-        <stage>(Девушка подходит к Глухову и трогает его за плечо.)</stage>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА</speaker>
-          <p>. Ваше превосходительство, вам не пора ли лечь спать?</p>
-        </sp>
-        <sp who="#hlukhov">
-          <speaker>ГЛУХОВ </speaker>
-          <stage>(_открывает глаза_)</stage>
-          <p>. Что? Да, да, пора.</p>
-        </sp>
-        <stage>(Глухова уводят.)</stage>
-        <stage>(Картина вторая. Ночь. Усадьба погружена во мрак.)</stage>
-        <stage>(Появляется призрак ГЛУХОВА.)</stage>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_вздыхает_)</stage>
-          <p>. Вот и я стал призраком. Все забыли меня, даже мои слуги.</p>
-        </sp>
-        <stage>(Призрак ГЛУХОВА исчезает.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
-        <stage>(Картина первая. Усадьба Глухова.)</stage>
-        <stage>(Входят ДЕВУШКА, НОВЫЙ ДОМОВОД, МОЛОДОЙ ХОЗЯИН.)</stage>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА </speaker>
-          <stage>(_к новому домоводу_)</stage>
-          <p>. Это новый хозяин усадьбы.</p>
-        </sp>
-        <sp who="#novыj_domovod">
-          <speaker>НОВЫЙ ДОМОВОД </speaker>
-          <stage>(_кланяясь_)</stage>
-          <p>. Слушаю, ваше превосходительство.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к девушке_)</stage>
-          <p>. Что это за призрак бродит по ночам?</p>
-        </sp>
-        <sp who="#devushka">
-          <speaker>ДЕВУШКА</speaker>
-          <p>. Это призрак старого барина. Он умер несколько месяцев назад.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к новому домоводу_)</stage>
-          <p>. Вы видели призрак?</p>
-        </sp>
-        <sp who="#novыj_domovod">
-          <speaker>НОВЫЙ ДОМОВОД </speaker>
-          <stage>(_кивает_)</stage>
-          <p>. Да, ваше превосходительство.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_размышляя_)</stage>
-          <p>. Я хочу разгадать тайну призрака.</p>
-        </sp>
-        <stage>(Девушка и новый домовод уходят.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_один_)</stage>
-          <p>. Я должен узнать, что случилось со старым барином.</p>
-        </sp>
-        <stage>(Молодой хозяин уходит.)</stage>
-        <stage>(Картина вторая. Ночь. Усадьба погружена во мрак.)</stage>
-        <stage>(Появляется призрак ГЛУХОВА.)</stage>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_вздыхает_)</stage>
-          <p>. Вот и я стал призраком. Все забыли меня, даже мои слуги.</p>
-        </sp>
-        <stage>(Входит МОЛОДОЙ ХОЗЯИН.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к призрак_)</stage>
-          <p>. Кто вы?</p>
-        </sp>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_к молодому хозяину_)</stage>
-          <p>. Я - призрак старого барина.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_удивлен_)</stage>
-          <p>. Вы можете говорить?</p>
-        </sp>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_кивает_)</stage>
-          <p>. Да, я могу говорить.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_спрашивает_)</stage>
-          <p>. Почему вы здесь?</p>
-        </sp>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_вздыхает_)</stage>
-          <p>. Я здесь, потому что я не могу найти покой.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_заинтересованно_)</stage>
-          <p>. Почему?</p>
-        </sp>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_рассказывает_)</stage>
-          <p>. Я был очень жестоким человеком. Я притеснял своих крестьян, и они ненавидели меня.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_задумчиво_)</stage>
-          <p>. Я понимаю.</p>
-        </sp>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_просит_)</stage>
-          <p>. Помогите мне, пожалуйста.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_решительно_)</stage>
-          <p>. Я помогу вам.I hope you like this act!</p>
-        </sp>
-        <stage>(Молодой хозяин и призрак ГЛУХОВА исчезают.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
-        <stage>(Картина первая. Усадьба Глухова.)</stage>
-        <stage>(Входят МОЛОДОЙ ХОЗЯИН, ПРИЗРАК ГЛУХОВА, КРЕСТЬЯНЕ.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к призрак_)</stage>
-          <p>. Я помогу вам обрести покой.</p>
-        </sp>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_радостно_)</stage>
-          <p>. Спасибо вам, молодой хозяин.</p>
-        </sp>
-        <stage>(Крестьяне входят в усадьбу.)</stage>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ </speaker>
-          <stage>(_к молодому хозяину_)</stage>
-          <p>. Мы пришли, чтобы поблагодарить вас.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_удивлен_)</stage>
-          <p>. За что?</p>
-        </sp>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ </speaker>
-          <stage>(_говорят хором_)</stage>
-          <p>. За то, что вы освободили нас от старого барина.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_с улыбкой_)</stage>
-          <p>. Я рад, что смог вам помочь.</p>
-        </sp>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ </speaker>
-          <stage>(_говорят хором_)</stage>
-          <p>. Да здравствует молодой хозяин!</p>
-        </sp>
-        <stage>(Крестьяне уходят.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к призрак_)</stage>
-          <p>. Я выполнил свою часть сделки. Теперь вы должны выполнить свою.</p>
-        </sp>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_кивает_)</stage>
-          <p>. Я исполню свою часть сделки.</p>
-        </sp>
-        <stage>(Призрак ГЛУхова исчезает.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_один_)</stage>
-          <p>. Я сделал то, что должен был сделать. Теперь я могу жить спокойно.<!-- GPT metacomment: In this act, I have added the following new characters:* Крестьяне <stage>(peasants)</stage> I have also removed the following characters:* Девушка <stage>(girl)</stage> * Новый домовод <stage>(new steward)</stage> I have also changed the following events:* The young master has freed the peasants from the old master.* The young master has made a deal with the ghost of the old master.* The ghost of the old master has disappeared.I hope you like this act! --></p>
-        </sp>
-        <stage>(Молодой хозяин уходит.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ</head>
-        <stage>(Картина первая. Усадьба Глухова.)</stage>
-        <stage>(Входят МОЛОДОЙ ХОЗЯИН, ПРИЗРАК ГЛУХОВА, КРЕСТЬЯНЕ, МОЛОДЫЙ ДОМОВОД.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к призрак_)</stage>
-          <p>. Я выполнил свою часть сделки. Теперь вы должны выполнить свою.</p>
-        </sp>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_кивает_)</stage>
-          <p>. Я исполню свою часть сделки.</p>
-        </sp>
-        <stage>(Призрак ГЛУхова исчезает.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к крестьянам_)</stage>
-          <p>. Я дарую вам свободу.</p>
-        </sp>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ </speaker>
-          <stage>(_радостно_)</stage>
-          <p>. Спасибо вам, молодой хозяин!</p>
-        </sp>
-        <stage>(Крестьяне уходят.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к молодому домоводу_)</stage>
-          <p>. Я хочу, чтобы ты усердно работал и заботился о крестьянах.</p>
-        </sp>
-        <sp who="#novыj_domovod">
-          <speaker>МОЛОДЫЙ ДОМОВОД </speaker>
-          <stage>(_с поклоном_)</stage>
-          <p>. Слушаю, ваше превосходительство.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_улыбается_)</stage>
-          <p>. Я рад, что теперь у меня есть такие хорошие помощники.</p>
-        </sp>
-        <stage>(Молодой хозяин уходит.)</stage>
-        <stage>(Картина вторая. Несколько лет спустя.)</stage>
-        <stage>(Усадьба Глухова процветает. Крестьяне живут в достатке и радуются своему новому хозяину.)</stage>
-        <stage>(Входит МОЛОДОЙ ХОЗЯИН.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_обращаясь к крестьянам_)</stage>
-          <p>. Я рад, что смог сделать жизнь вам лучше.</p>
-        </sp>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ </speaker>
-          <stage>(_говорят хором_)</stage>
-          <p>. Спасибо вам, молодой хозяин!</p>
-        </sp>
-        <stage>(Молодой хозяин уходит.)</stage>
-        <stage>(Наступает ночь. Усадьба погружена во мрак.)</stage>
-        <stage>(Появляется ПРИЗРАК ГЛУХОВА.)</stage>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_вздыхает_)</stage>
-          <p>. Я вижу, что мои крестьяне теперь счастливы. Я рад, что молодой хозяин смог их освободить.<!-- GPT metacomment: In this act, I have added the following new characters:* Молодой домовод <stage>(young steward)</stage> I have also removed the following characters:* Девушка <stage>(girl)</stage> I have also changed the following events:* The young master has freed the peasants and given them their freedom.* The young master has appointed a new steward to help him manage the estate.* The young master is now a wise and benevolent ruler.I hope you like this act! --></p>
-        </sp>
-        <stage>(Призрак ГЛУхова исчезает.)</stage>
-      </div>
-      <div type="scene">
-        <head>ДЕЙСТВИЕ ПЯТОЕ</head>
-        <stage>(Картина первая. Усадьба Глухова.)</stage>
-        <stage>(Входят МОЛОДОЙ ХОЗЯИН, ПРИЗРАК ГЛУХОВА, КРЕСТЬЯНЕ, МОЛОДЫЙ ДОМОВОД, СТАРИК.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к призрак_)</stage>
-          <p>. Я выполнил свою часть сделки. Теперь вы должны выполнить свою.</p>
-        </sp>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_кивает_)</stage>
-          <p>. Я исполню свою часть сделки.</p>
-        </sp>
-        <stage>(Призрак ГЛУхова исчезает.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к крестьянам_)</stage>
-          <p>. Я дарую вам свободу.</p>
-        </sp>
-        <sp who="#krestjane">
-          <speaker>КРЕСТЬЯНЕ </speaker>
-          <stage>(_радостно_)</stage>
-          <p>. Спасибо вам, молодой хозяин!</p>
-        </sp>
-        <stage>(Крестьяне уходят.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_к молодому домоводу_)</stage>
-          <p>. Я хочу, чтобы ты усердно работал и заботился о крестьянах.</p>
-        </sp>
-        <sp who="#novыj_domovod">
-          <speaker>МОЛОДЫЙ ДОМОВОД </speaker>
-          <stage>(_с поклоном_)</stage>
-          <p>. Слушаю, ваше превосходительство.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_улыбается_)</stage>
-          <p>. Я рад, что теперь у меня есть такие хорошие помощники.</p>
-        </sp>
-        <stage>(Молодой хозяин уходит.)</stage>
-        <stage>(Картина вторая. Несколько лет спустя.)</stage>
-        <stage>(Усадьба Глухова процветает. Крестьяне живут в достатке и радуются своему новому хозяину.)</stage>
-        <stage>(Входит СТАРИК.)</stage>
-        <sp who="#staryk">
-          <speaker>СТАРИК </speaker>
-          <stage>(_к молодому хозяину_)</stage>
-          <p>. Молодой барин, я хотел бы вам кое-что сказать.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_обращаясь к старику_)</stage>
-          <p>. Я вас слушаю, старик.</p>
-        </sp>
-        <sp who="#staryk">
-          <speaker>СТАРИК </speaker>
-          <stage>(_говорит_)</stage>
-          <p>. Я был здесь еще при старом барине. Он был жестоким человеком, и мы все его боялись. Но вы, молодой барин, совсем другой. Вы добрый и справедливый человек. Мы все вам благодарны за то, что вы сделали для нас.</p>
-        </sp>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_улыбается_)</stage>
-          <p>. Я рад, что смог сделать жизнь вам лучше.</p>
-        </sp>
-        <stage>(Старик уходит.)</stage>
-        <stage>(Молодой хозяин смотрит на усадьбу и улыбается.)</stage>
-        <sp who="#molodoj_khozjayn">
-          <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
-          <stage>(_про себя_)</stage>
-          <p>. Я рад, что смог изменить жизнь этих людей к лучшему.</p>
-        </sp>
-        <stage>(Наступает ночь. Усадьба погружена во мрак.)</stage>
-        <stage>(Появляется ПРИЗРАК ГЛУХОВА.)</stage>
-        <sp who="#pryzrak_hlukhova">
-          <speaker>ПРИЗРАК ГЛУХОВА </speaker>
-          <stage>(_вздыхает_)</stage>
-          <p>. Я вижу, что мои крестьяне теперь счастливы. Я рад, что молодой хозяин смог их освободить.<!-- GPT metacomment: In this act, I have added the following new characters:* Старик <stage>(old man)</stage> I have also removed the following characters:* Девушка <stage>(girl)</stage> I have also changed the following events:* The young master has freed the peasants and given them their freedom.* The young master has appointed a new steward to help him manage the estate.* The young master is now a wise and benevolent ruler.* The young master has made a positive impact on the lives of the peasants.I hope you like this act! --></p>
-        </sp>
-        <stage>(Призрак ГЛУхова исчезает.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-russian-4</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="novыj_domovod">
+            <ns0:persName>МОЛОДЫЙ ДОМОВОД</ns0:persName>
+            <ns0:persName>НОВЫЙ ДОМОВОД</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="hlukhov">
+            <ns0:persName>ГЛУХОВ</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="staryk">
+            <ns0:persName>СТАРИК</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="devushka">
+            <ns0:persName>ДЕВУШКА</ns0:persName>
+          </ns0:person>
+          <ns0:personGrp sex="UNKNOWN" xml:id="krestjane">
+            <ns0:persName>КРЕСТЬЯНЕ</ns0:persName>
+          </ns0:personGrp>
+          <ns0:person sex="MALE" xml:id="domovod">
+            <ns0:persName>ДОМОВОД</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="pryzrak_hlukhova">
+            <ns0:persName>ПРИЗРАК ГЛУХОВА</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="molodoj_khozjayn">
+            <ns0:persName>МОЛОДОЙ ХОЗЯИН</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЕРВОЕ</ns0:head>
+        <ns0:stage>(Картина первая. Комната в усадьбе помещика.)</ns0:stage> <ns0:stage>Входят ГЛУХОВ, СТАРЫЙ ДОМОВОД, ДЕВУШКА.</ns0:stage><ns0:sp who="#hlukhov">
+          <ns0:speaker>ГЛУХОВ </ns0:speaker>
+          <ns0:stage>(_к домоводу_)</ns0:stage>
+          <ns0:p>. Я хочу, чтобы ты завтра же отправился в город и купил мне новую шубу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#domovod">
+          <ns0:speaker>ДОМОВОД </ns0:speaker>
+          <ns0:stage>(_кланяясь_)</ns0:stage>
+          <ns0:p>. Слушаю, ваше превосходительство.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(_в сторону_)</ns0:stage>
+          <ns0:p>. Вот будет шуба! Старому барину и в старой шубу холодно.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlukhov">
+          <ns0:speaker>ГЛУХОВ </ns0:speaker>
+          <ns0:stage>(_к девушке_)</ns0:stage>
+          <ns0:p>. Что ты там шепчешься?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(_в испуге_)</ns0:stage>
+          <ns0:p>. Ничего, ваше превосходительство.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlukhov">
+          <ns0:speaker>ГЛУХОВ </ns0:speaker>
+          <ns0:stage>(_к домоводу_)</ns0:stage>
+          <ns0:p>. Давай, проваливай!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Домовод уходит.)</ns0:stage>
+        <ns0:sp who="#hlukhov">
+          <ns0:speaker>ГЛУХОВ </ns0:speaker>
+          <ns0:stage>(_садится в кресло и закрывает глаза_)</ns0:stage>
+          <ns0:p>. Эх, стар я уже стал. Ничего не слышу, ничего не вижу. Скоро помру.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Девушка подходит к Глухову и трогает его за плечо.)</ns0:stage>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА</ns0:speaker>
+          <ns0:p>. Ваше превосходительство, вам не пора ли лечь спать?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#hlukhov">
+          <ns0:speaker>ГЛУХОВ </ns0:speaker>
+          <ns0:stage>(_открывает глаза_)</ns0:stage>
+          <ns0:p>. Что? Да, да, пора.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Глухова уводят.)</ns0:stage>
+        <ns0:stage>(Картина вторая. Ночь. Усадьба погружена во мрак.)</ns0:stage>
+        <ns0:stage>(Появляется призрак ГЛУХОВА.)</ns0:stage>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_вздыхает_)</ns0:stage>
+          <ns0:p>. Вот и я стал призраком. Все забыли меня, даже мои слуги.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Призрак ГЛУХОВА исчезает.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ВТОРОЕ</ns0:head>
+        <ns0:stage>(Картина первая. Усадьба Глухова.)</ns0:stage>
+        <ns0:stage>(Входят ДЕВУШКА, НОВЫЙ ДОМОВОД, МОЛОДОЙ ХОЗЯИН.)</ns0:stage>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА </ns0:speaker>
+          <ns0:stage>(_к новому домоводу_)</ns0:stage>
+          <ns0:p>. Это новый хозяин усадьбы.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_domovod">
+          <ns0:speaker>НОВЫЙ ДОМОВОД </ns0:speaker>
+          <ns0:stage>(_кланяясь_)</ns0:stage>
+          <ns0:p>. Слушаю, ваше превосходительство.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к девушке_)</ns0:stage>
+          <ns0:p>. Что это за призрак бродит по ночам?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#devushka">
+          <ns0:speaker>ДЕВУШКА</ns0:speaker>
+          <ns0:p>. Это призрак старого барина. Он умер несколько месяцев назад.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к новому домоводу_)</ns0:stage>
+          <ns0:p>. Вы видели призрак?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_domovod">
+          <ns0:speaker>НОВЫЙ ДОМОВОД </ns0:speaker>
+          <ns0:stage>(_кивает_)</ns0:stage>
+          <ns0:p>. Да, ваше превосходительство.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_размышляя_)</ns0:stage>
+          <ns0:p>. Я хочу разгадать тайну призрака.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Девушка и новый домовод уходят.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_один_)</ns0:stage>
+          <ns0:p>. Я должен узнать, что случилось со старым барином.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Молодой хозяин уходит.)</ns0:stage>
+        <ns0:stage>(Картина вторая. Ночь. Усадьба погружена во мрак.)</ns0:stage>
+        <ns0:stage>(Появляется призрак ГЛУХОВА.)</ns0:stage>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_вздыхает_)</ns0:stage>
+          <ns0:p>. Вот и я стал призраком. Все забыли меня, даже мои слуги.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Входит МОЛОДОЙ ХОЗЯИН.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к призрак_)</ns0:stage>
+          <ns0:p>. Кто вы?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_к молодому хозяину_)</ns0:stage>
+          <ns0:p>. Я - призрак старого барина.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_удивлен_)</ns0:stage>
+          <ns0:p>. Вы можете говорить?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_кивает_)</ns0:stage>
+          <ns0:p>. Да, я могу говорить.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_спрашивает_)</ns0:stage>
+          <ns0:p>. Почему вы здесь?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_вздыхает_)</ns0:stage>
+          <ns0:p>. Я здесь, потому что я не могу найти покой.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_заинтересованно_)</ns0:stage>
+          <ns0:p>. Почему?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_рассказывает_)</ns0:stage>
+          <ns0:p>. Я был очень жестоким человеком. Я притеснял своих крестьян, и они ненавидели меня.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_задумчиво_)</ns0:stage>
+          <ns0:p>. Я понимаю.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_просит_)</ns0:stage>
+          <ns0:p>. Помогите мне, пожалуйста.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_решительно_)</ns0:stage>
+          <ns0:p>. Я помогу вам.I hope you like this act!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Молодой хозяин и призрак ГЛУХОВА исчезают.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ТРЕТЬЕ</ns0:head>
+        <ns0:stage>(Картина первая. Усадьба Глухова.)</ns0:stage>
+        <ns0:stage>(Входят МОЛОДОЙ ХОЗЯИН, ПРИЗРАК ГЛУХОВА, КРЕСТЬЯНЕ.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к призрак_)</ns0:stage>
+          <ns0:p>. Я помогу вам обрести покой.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_радостно_)</ns0:stage>
+          <ns0:p>. Спасибо вам, молодой хозяин.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Крестьяне входят в усадьбу.)</ns0:stage>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ </ns0:speaker>
+          <ns0:stage>(_к молодому хозяину_)</ns0:stage>
+          <ns0:p>. Мы пришли, чтобы поблагодарить вас.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_удивлен_)</ns0:stage>
+          <ns0:p>. За что?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ </ns0:speaker>
+          <ns0:stage>(_говорят хором_)</ns0:stage>
+          <ns0:p>. За то, что вы освободили нас от старого барина.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_с улыбкой_)</ns0:stage>
+          <ns0:p>. Я рад, что смог вам помочь.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ </ns0:speaker>
+          <ns0:stage>(_говорят хором_)</ns0:stage>
+          <ns0:p>. Да здравствует молодой хозяин!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Крестьяне уходят.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к призрак_)</ns0:stage>
+          <ns0:p>. Я выполнил свою часть сделки. Теперь вы должны выполнить свою.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_кивает_)</ns0:stage>
+          <ns0:p>. Я исполню свою часть сделки.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Призрак ГЛУхова исчезает.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_один_)</ns0:stage>
+          <ns0:p>. Я сделал то, что должен был сделать. Теперь я могу жить спокойно.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Молодой хозяин уходит.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ</ns0:head>
+        <ns0:stage>(Картина первая. Усадьба Глухова.)</ns0:stage>
+        <ns0:stage>(Входят МОЛОДОЙ ХОЗЯИН, ПРИЗРАК ГЛУХОВА, КРЕСТЬЯНЕ, МОЛОДЫЙ ДОМОВОД.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к призрак_)</ns0:stage>
+          <ns0:p>. Я выполнил свою часть сделки. Теперь вы должны выполнить свою.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_кивает_)</ns0:stage>
+          <ns0:p>. Я исполню свою часть сделки.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Призрак ГЛУхова исчезает.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к крестьянам_)</ns0:stage>
+          <ns0:p>. Я дарую вам свободу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ </ns0:speaker>
+          <ns0:stage>(_радостно_)</ns0:stage>
+          <ns0:p>. Спасибо вам, молодой хозяин!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Крестьяне уходят.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к молодому домоводу_)</ns0:stage>
+          <ns0:p>. Я хочу, чтобы ты усердно работал и заботился о крестьянах.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_domovod">
+          <ns0:speaker>МОЛОДЫЙ ДОМОВОД </ns0:speaker>
+          <ns0:stage>(_с поклоном_)</ns0:stage>
+          <ns0:p>. Слушаю, ваше превосходительство.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_улыбается_)</ns0:stage>
+          <ns0:p>. Я рад, что теперь у меня есть такие хорошие помощники.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Молодой хозяин уходит.)</ns0:stage>
+        <ns0:stage>(Картина вторая. Несколько лет спустя.)</ns0:stage>
+        <ns0:stage>(Усадьба Глухова процветает. Крестьяне живут в достатке и радуются своему новому хозяину.)</ns0:stage>
+        <ns0:stage>(Входит МОЛОДОЙ ХОЗЯИН.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_обращаясь к крестьянам_)</ns0:stage>
+          <ns0:p>. Я рад, что смог сделать жизнь вам лучше.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ </ns0:speaker>
+          <ns0:stage>(_говорят хором_)</ns0:stage>
+          <ns0:p>. Спасибо вам, молодой хозяин!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Молодой хозяин уходит.)</ns0:stage>
+        <ns0:stage>(Наступает ночь. Усадьба погружена во мрак.)</ns0:stage>
+        <ns0:stage>(Появляется ПРИЗРАК ГЛУХОВА.)</ns0:stage>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_вздыхает_)</ns0:stage>
+          <ns0:p>. Я вижу, что мои крестьяне теперь счастливы. Я рад, что молодой хозяин смог их освободить.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Призрак ГЛУхова исчезает.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>ДЕЙСТВИЕ ПЯТОЕ</ns0:head>
+        <ns0:stage>(Картина первая. Усадьба Глухова.)</ns0:stage>
+        <ns0:stage>(Входят МОЛОДОЙ ХОЗЯИН, ПРИЗРАК ГЛУХОВА, КРЕСТЬЯНЕ, МОЛОДЫЙ ДОМОВОД, СТАРИК.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к призрак_)</ns0:stage>
+          <ns0:p>. Я выполнил свою часть сделки. Теперь вы должны выполнить свою.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_кивает_)</ns0:stage>
+          <ns0:p>. Я исполню свою часть сделки.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Призрак ГЛУхова исчезает.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к крестьянам_)</ns0:stage>
+          <ns0:p>. Я дарую вам свободу.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#krestjane">
+          <ns0:speaker>КРЕСТЬЯНЕ </ns0:speaker>
+          <ns0:stage>(_радостно_)</ns0:stage>
+          <ns0:p>. Спасибо вам, молодой хозяин!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Крестьяне уходят.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_к молодому домоводу_)</ns0:stage>
+          <ns0:p>. Я хочу, чтобы ты усердно работал и заботился о крестьянах.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#novыj_domovod">
+          <ns0:speaker>МОЛОДЫЙ ДОМОВОД </ns0:speaker>
+          <ns0:stage>(_с поклоном_)</ns0:stage>
+          <ns0:p>. Слушаю, ваше превосходительство.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_улыбается_)</ns0:stage>
+          <ns0:p>. Я рад, что теперь у меня есть такие хорошие помощники.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Молодой хозяин уходит.)</ns0:stage>
+        <ns0:stage>(Картина вторая. Несколько лет спустя.)</ns0:stage>
+        <ns0:stage>(Усадьба Глухова процветает. Крестьяне живут в достатке и радуются своему новому хозяину.)</ns0:stage>
+        <ns0:stage>(Входит СТАРИК.)</ns0:stage>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК </ns0:speaker>
+          <ns0:stage>(_к молодому хозяину_)</ns0:stage>
+          <ns0:p>. Молодой барин, я хотел бы вам кое-что сказать.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_обращаясь к старику_)</ns0:stage>
+          <ns0:p>. Я вас слушаю, старик.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#staryk">
+          <ns0:speaker>СТАРИК </ns0:speaker>
+          <ns0:stage>(_говорит_)</ns0:stage>
+          <ns0:p>. Я был здесь еще при старом барине. Он был жестоким человеком, и мы все его боялись. Но вы, молодой барин, совсем другой. Вы добрый и справедливый человек. Мы все вам благодарны за то, что вы сделали для нас.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_улыбается_)</ns0:stage>
+          <ns0:p>. Я рад, что смог сделать жизнь вам лучше.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Старик уходит.)</ns0:stage>
+        <ns0:stage>(Молодой хозяин смотрит на усадьбу и улыбается.)</ns0:stage>
+        <ns0:sp who="#molodoj_khozjayn">
+          <ns0:speaker>МОЛОДОЙ ХОЗЯИН </ns0:speaker>
+          <ns0:stage>(_про себя_)</ns0:stage>
+          <ns0:p>. Я рад, что смог изменить жизнь этих людей к лучшему.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Наступает ночь. Усадьба погружена во мрак.)</ns0:stage>
+        <ns0:stage>(Появляется ПРИЗРАК ГЛУХОВА.)</ns0:stage>
+        <ns0:sp who="#pryzrak_hlukhova">
+          <ns0:speaker>ПРИЗРАК ГЛУХОВА </ns0:speaker>
+          <ns0:stage>(_вздыхает_)</ns0:stage>
+          <ns0:p>. Я вижу, что мои крестьяне теперь счастливы. Я рад, что молодой хозяин смог их освободить.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Призрак ГЛУхова исчезает.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

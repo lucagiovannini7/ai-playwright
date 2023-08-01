@@ -1,457 +1,458 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="charles">
-            <persName>CHARLES</persName>
-          </person>
-          <person sex="FEMALE" xml:id="marie">
-            <persName>MARIE</persName>
-          </person>
-          <person sex="FEMALE" xml:id="madame-de-sallust">
-            <persName>MADAME DE SALLUST</persName>
-          </person>
-          <person sex="FEMALE" xml:id="jeanne">
-            <persName>JEANNE</persName>
-          </person>
-          <person sex="MALE" xml:id="jean">
-            <persName>JEAN</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="act">
-        <head>ACTE I</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Un salon bourgeois. Une femme, MADAME DE SALLUST, est assise sur un canapé. Une jeune fille, JEANNE, est debout à côté d'elle.)</stage>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST :</speaker>
-          <p>Jeanne, ma chère, je suis très contente que tu sois venue me voir aujourd'hui. J'ai quelque chose de très important à te dire.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Oui, Madame ?</p>
-        </sp>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST :</speaker>
-          <p>Tu sais que je t'aime comme une fille. Tu es la fille que j'aurais voulu avoir.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Merci, Madame. Je vous aime aussi.</p>
-        </sp>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST :</speaker>
-          <p>Eh bien, Jeanne, je voudrais que tu saches que je t'ai choisie pour épouser mon fils, Charles.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE : </speaker>
-          <stage>(Surprise)</stage>
-          <p> Madame ?</p>
-        </sp>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST :</speaker>
-          <p>Oui, Jeanne. Je sais que tu es une jeune fille de bonne famille, et que tu as une belle éducation. Charles est un jeune homme bien, et je suis sûre que vous serez heureux ensemble.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Je... je ne sais pas quoi dire.</p>
-        </sp>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST :</speaker>
-          <p>Il n'y a pas de quoi dire. Je sais que tu es surprise, mais je te demande de réfléchir à ma proposition. Je suis sûre que tu en verras les avantages.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Je vais réfléchir, Madame.</p>
-        </sp>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST :</speaker>
-          <p>Bien. Je te laisse le temps de te faire une opinion.</p>
-        </sp>
-        <stage>(JEANNE sort.)</stage>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST : </speaker>
-          <stage>(Seule)</stage>
-          <p> Je suis sûre qu'elle acceptera. Elle est une jeune fille raisonnable, et elle sait que c'est une bonne occasion pour elle.</p>
-        </sp>
-      </div>
-      <div type="act">
-        <head>ACTE II</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Une chambre à coucher. JEANNE est assise sur son lit, en train de réfléchir.)</stage>
-        <sp who="#jeanne">
-          <speaker>JEANNE : </speaker>
-          <stage>(Seule)</stage>
-          <p> Je ne sais pas quoi faire. D'un côté, je suis flattée que Madame de Sallust me veuille pour épouse de son fils. D'un autre côté, je ne sais pas si je suis amoureuse de Charles. Je ne l'ai jamais vu que quelques fois, et je ne le connais pas très bien.</p>
-        </sp>
-        <stage>(La porte s'ouvre, et CHARLES entre.)</stage>
-        <sp who="#charles">
-          <speaker>CHARLES :</speaker>
-          <p>Jeanne, je suis content de te voir. J'ai entendu dire que Madame de Sallust t'a proposé de m'épouser.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Oui, c'est vrai.</p>
-        </sp>
-        <sp who="#charles">
-          <speaker>CHARLES :</speaker>
-          <p>Et qu'est-ce que tu en penses ?</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Je ne sais pas. Je suis flattée, mais je ne sais pas si je suis amoureuse de toi.</p>
-        </sp>
-        <sp who="#charles">
-          <speaker>CHARLES :</speaker>
-          <p>Je comprends. Tu as besoin de temps pour réfléchir.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Oui.</p>
-        </sp>
-        <sp who="#charles">
-          <speaker>CHARLES :</speaker>
-          <p>Je te laisse le temps de te faire une opinion.</p>
-        </sp>
-        <stage>(CHARLES sort.)</stage>
-        <sp who="#jeanne">
-          <speaker>JEANNE : </speaker>
-          <stage>(Seule)</stage>
-          <p> Je ne sais pas quoi faire. J'aime Charles, mais je ne suis pas sûre si je suis amoureuse de lui. J'ai besoin de temps pour réfléchir.</p>
-        </sp>
-        <stage>(La porte s'ouvre, et MADAME DE SALLUST entre.)</stage>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST :</speaker>
-          <p>Jeanne, j'ai vu Charles. Il m'a dit que tu étais encore indécise.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Oui, Madame. Je suis désolée.</p>
-        </sp>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST :</speaker>
-          <p>Ce n'est pas grave. Je sais que c'est une décision importante.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Madame, j'aimerais vous demander quelque chose.</p>
-        </sp>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST :</speaker>
-          <p>Oui, Jeanne ?</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Pourrais-je avoir un peu de temps pour réfléchir ?</p>
-        </sp>
-        <sp who="#madame-de-sallust">
-          <speaker>MADAME DE SALLUST :</speaker>
-          <p>Bien sûr, Jeanne. Tu as tout le temps qu'il te faut.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Merci, Madame.</p>
-        </sp>
-        <stage>(MADAME DE SALLUST sort.)</stage>
-        <sp who="#jeanne">
-          <speaker>JEANNE : </speaker>
-          <stage>(Seule)</stage>
-          <p> Je suis contente que Madame de Sallust me donne du temps. J'ai besoin de réfléchir à ce que je veux faire.</p>
-        </sp>
-      </div>
-      <div type="act">
-        <head>ACTE III</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Une rue. JEANNE est assise sur un banc, en train de lire un livre.)</stage>
-        <sp who="#jeanne">
-          <speaker>JEANNE : </speaker>
-          <stage>(Seule)</stage>
-          <p> Je suis contente d'avoir eu le temps de réfléchir. Je sais maintenant ce que je veux faire.</p>
-        </sp>
-        <stage>(Une jeune femme, MARIE, s'approche de JEANNE.)</stage>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Bonjour, Jeanne.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Bonjour, Marie.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Qu'est-ce que tu fais là ?</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Je lis un livre.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Oh, ça a l'air intéressant. De quoi ça parle ?</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>C'est une histoire d'amour.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Ah, l'amour...</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Oui, l'amour.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Tu as l'air d'être pensive.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Oui, je suis un peu pensive.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Tu as quelque chose à me dire ?</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Oui, Marie. Je voulais te dire que j'ai décidé de ne pas épouser Charles.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Oh !</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Je sais que tu vas être déçue, mais je ne suis pas amoureuse de lui.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Je comprends.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Je suis désolée de te décevoir.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Ce n'est pas grave. Je suis contente que tu aies fait ce que tu penses être le mieux.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Merci, Marie.</p>
-        </sp>
-        <stage>(MARIE s'éloigne.)</stage>
-        <sp who="#jeanne">
-          <speaker>JEANNE : </speaker>
-          <stage>(Seule)</stage>
-          <p> Je suis contente d'avoir été honnête avec Marie. Je sais que je vais lui manquer, mais je dois faire ce qui est le mieux pour moi.</p>
-        </sp>
-      </div>
-      <div type="act">
-        <head>ACTE IV</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Une salle de bal. JEANNE est assise sur une chaise, en train de regarder la foule.)</stage>
-        <sp who="#jeanne">
-          <speaker>JEANNE : </speaker>
-          <stage>(Seule)</stage>
-          <p> Je suis contente d'être ici. Je me sens libre.</p>
-        </sp>
-        <stage>(Une jeune femme, MARIE, s'approche de JEANNE.)</stage>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Bonjour, Jeanne.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Bonjour, Marie.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Tu as l'air heureuse.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Oui, je suis heureuse.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Je suis contente pour toi.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Merci, Marie.</p>
-        </sp>
-        <stage>(Une jeune homme, JEAN, s'approche de JEANNE.)</stage>
-        <sp who="#jean">
-          <speaker>JEAN :</speaker>
-          <p>Bonjour, Jeanne.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Bonjour, Jean.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN :</speaker>
-          <p>Je suis content de te voir.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Moi aussi, je suis content de te voir.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN :</speaker>
-          <p>Je voulais te dire que je t'aime.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Je t'aime aussi, Jean.</p>
-        </sp>
-        <stage>(JEANNE et JEAN s'embrassent.)</stage>
-        <sp who="#marie">
-          <speaker>MARIE : </speaker>
-          <stage>(à part)</stage>
-          <p> Je suis contente pour eux.</p>
-        </sp>
-        <stage>(La scène se termine sur JEANNE et JEAN s'embrassant.)</stage>
-      </div>
-      <div type="act">
-        <head>ACTE V</head>
-      </div>
-      <div type="scene">
-        <head>Scène 1</head>
-        <stage>(Une maison bourgeoise. JEANNE est assise sur un canapé, en train de lire un livre.)</stage>
-        <sp who="#jeanne">
-          <speaker>JEANNE : </speaker>
-          <stage>(Seule)</stage>
-          <p> Je suis contente d'être ici. Je me sens enfin chez moi.</p>
-        </sp>
-        <stage>(Une jeune femme, MARIE, s'approche de JEANNE.)</stage>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Bonjour, Jeanne.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Bonjour, Marie.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Tu as l'air heureuse.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Oui, je suis heureuse.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Je suis contente pour toi.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Merci, Marie.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>J'ai une surprise pour toi.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Une surprise ?</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Oui.</p>
-        </sp>
-        <stage>(MARIE va à la porte et ouvre.)</stage>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Entrez !</p>
-        </sp>
-        <stage>(Un jeune homme, JEAN, entre.)</stage>
-        <sp who="#jean">
-          <speaker>JEAN :</speaker>
-          <p>Bonjour, Jeanne.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Bonjour, Jean.</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN :</speaker>
-          <p>Je suis content de te voir.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Moi aussi, je suis content de te voir.</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>J'ai une surprise pour vous deux.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Une surprise ?</p>
-        </sp>
-        <sp who="#marie">
-          <speaker>MARIE :</speaker>
-          <p>Oui. Vous allez vous marier !</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Nous allons nous marier ?</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN :</speaker>
-          <p>Oui, nous allons nous marier.</p>
-        </sp>
-        <sp who="#jeanne">
-          <speaker>JEANNE :</speaker>
-          <p>Je suis si heureuse !</p>
-        </sp>
-        <sp who="#jean">
-          <speaker>JEAN :</speaker>
-          <p>Moi aussi, je suis si heureux !</p>
-        </sp>
-        <stage>(JEANNE et JEAN s'embrassent.)</stage>
-        <sp who="#marie">
-          <speaker>MARIE : </speaker>
-          <stage>(à part)</stage>
-          <p> Je suis contente pour eux.</p>
-        </sp>
-        <stage>(La scène se termine sur JEANNE et JEAN s'embrassant.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-french-9</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="charles">
+            <ns0:persName>CHARLES</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="marie">
+            <ns0:persName>MARIE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="madame-de-sallust">
+            <ns0:persName>MADAME DE SALLUST</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="FEMALE" xml:id="jeanne">
+            <ns0:persName>JEANNE</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="jean">
+            <ns0:persName>JEAN</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="act">
+        <ns0:head>ACTE I</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Un salon bourgeois. Une femme, MADAME DE SALLUST, est assise sur un canapé. Une jeune fille, JEANNE, est debout à côté d'elle.)</ns0:stage>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST :</ns0:speaker>
+          <ns0:p>Jeanne, ma chère, je suis très contente que tu sois venue me voir aujourd'hui. J'ai quelque chose de très important à te dire.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Oui, Madame ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST :</ns0:speaker>
+          <ns0:p>Tu sais que je t'aime comme une fille. Tu es la fille que j'aurais voulu avoir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Merci, Madame. Je vous aime aussi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST :</ns0:speaker>
+          <ns0:p>Eh bien, Jeanne, je voudrais que tu saches que je t'ai choisie pour épouser mon fils, Charles.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE : </ns0:speaker>
+          <ns0:stage>(Surprise)</ns0:stage>
+          <ns0:p> Madame ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST :</ns0:speaker>
+          <ns0:p>Oui, Jeanne. Je sais que tu es une jeune fille de bonne famille, et que tu as une belle éducation. Charles est un jeune homme bien, et je suis sûre que vous serez heureux ensemble.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Je... je ne sais pas quoi dire.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST :</ns0:speaker>
+          <ns0:p>Il n'y a pas de quoi dire. Je sais que tu es surprise, mais je te demande de réfléchir à ma proposition. Je suis sûre que tu en verras les avantages.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Je vais réfléchir, Madame.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST :</ns0:speaker>
+          <ns0:p>Bien. Je te laisse le temps de te faire une opinion.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(JEANNE sort.)</ns0:stage>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST : </ns0:speaker>
+          <ns0:stage>(Seule)</ns0:stage>
+          <ns0:p> Je suis sûre qu'elle acceptera. Elle est une jeune fille raisonnable, et elle sait que c'est une bonne occasion pour elle.</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>ACTE II</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Une chambre à coucher. JEANNE est assise sur son lit, en train de réfléchir.)</ns0:stage>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE : </ns0:speaker>
+          <ns0:stage>(Seule)</ns0:stage>
+          <ns0:p> Je ne sais pas quoi faire. D'un côté, je suis flattée que Madame de Sallust me veuille pour épouse de son fils. D'un autre côté, je ne sais pas si je suis amoureuse de Charles. Je ne l'ai jamais vu que quelques fois, et je ne le connais pas très bien.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(La porte s'ouvre, et CHARLES entre.)</ns0:stage>
+        <ns0:sp who="#charles">
+          <ns0:speaker>CHARLES :</ns0:speaker>
+          <ns0:p>Jeanne, je suis content de te voir. J'ai entendu dire que Madame de Sallust t'a proposé de m'épouser.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Oui, c'est vrai.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#charles">
+          <ns0:speaker>CHARLES :</ns0:speaker>
+          <ns0:p>Et qu'est-ce que tu en penses ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Je ne sais pas. Je suis flattée, mais je ne sais pas si je suis amoureuse de toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#charles">
+          <ns0:speaker>CHARLES :</ns0:speaker>
+          <ns0:p>Je comprends. Tu as besoin de temps pour réfléchir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Oui.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#charles">
+          <ns0:speaker>CHARLES :</ns0:speaker>
+          <ns0:p>Je te laisse le temps de te faire une opinion.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(CHARLES sort.)</ns0:stage>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE : </ns0:speaker>
+          <ns0:stage>(Seule)</ns0:stage>
+          <ns0:p> Je ne sais pas quoi faire. J'aime Charles, mais je ne suis pas sûre si je suis amoureuse de lui. J'ai besoin de temps pour réfléchir.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(La porte s'ouvre, et MADAME DE SALLUST entre.)</ns0:stage>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST :</ns0:speaker>
+          <ns0:p>Jeanne, j'ai vu Charles. Il m'a dit que tu étais encore indécise.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Oui, Madame. Je suis désolée.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST :</ns0:speaker>
+          <ns0:p>Ce n'est pas grave. Je sais que c'est une décision importante.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Madame, j'aimerais vous demander quelque chose.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST :</ns0:speaker>
+          <ns0:p>Oui, Jeanne ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Pourrais-je avoir un peu de temps pour réfléchir ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#madame-de-sallust">
+          <ns0:speaker>MADAME DE SALLUST :</ns0:speaker>
+          <ns0:p>Bien sûr, Jeanne. Tu as tout le temps qu'il te faut.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Merci, Madame.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(MADAME DE SALLUST sort.)</ns0:stage>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE : </ns0:speaker>
+          <ns0:stage>(Seule)</ns0:stage>
+          <ns0:p> Je suis contente que Madame de Sallust me donne du temps. J'ai besoin de réfléchir à ce que je veux faire.</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>ACTE III</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Une rue. JEANNE est assise sur un banc, en train de lire un livre.)</ns0:stage>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE : </ns0:speaker>
+          <ns0:stage>(Seule)</ns0:stage>
+          <ns0:p> Je suis contente d'avoir eu le temps de réfléchir. Je sais maintenant ce que je veux faire.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Une jeune femme, MARIE, s'approche de JEANNE.)</ns0:stage>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Bonjour, Jeanne.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Bonjour, Marie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Qu'est-ce que tu fais là ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Je lis un livre.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Oh, ça a l'air intéressant. De quoi ça parle ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>C'est une histoire d'amour.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Ah, l'amour...</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Oui, l'amour.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Tu as l'air d'être pensive.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Oui, je suis un peu pensive.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Tu as quelque chose à me dire ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Oui, Marie. Je voulais te dire que j'ai décidé de ne pas épouser Charles.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Oh !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Je sais que tu vas être déçue, mais je ne suis pas amoureuse de lui.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Je comprends.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Je suis désolée de te décevoir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Ce n'est pas grave. Je suis contente que tu aies fait ce que tu penses être le mieux.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Merci, Marie.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(MARIE s'éloigne.)</ns0:stage>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE : </ns0:speaker>
+          <ns0:stage>(Seule)</ns0:stage>
+          <ns0:p> Je suis contente d'avoir été honnête avec Marie. Je sais que je vais lui manquer, mais je dois faire ce qui est le mieux pour moi.</ns0:p>
+        </ns0:sp>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>ACTE IV</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Une salle de bal. JEANNE est assise sur une chaise, en train de regarder la foule.)</ns0:stage>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE : </ns0:speaker>
+          <ns0:stage>(Seule)</ns0:stage>
+          <ns0:p> Je suis contente d'être ici. Je me sens libre.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Une jeune femme, MARIE, s'approche de JEANNE.)</ns0:stage>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Bonjour, Jeanne.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Bonjour, Marie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Tu as l'air heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Oui, je suis heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Je suis contente pour toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Merci, Marie.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Une jeune homme, JEAN, s'approche de JEANNE.)</ns0:stage>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN :</ns0:speaker>
+          <ns0:p>Bonjour, Jeanne.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Bonjour, Jean.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN :</ns0:speaker>
+          <ns0:p>Je suis content de te voir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Moi aussi, je suis content de te voir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN :</ns0:speaker>
+          <ns0:p>Je voulais te dire que je t'aime.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Je t'aime aussi, Jean.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(JEANNE et JEAN s'embrassent.)</ns0:stage>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE : </ns0:speaker>
+          <ns0:stage>(à part)</ns0:stage>
+          <ns0:p> Je suis contente pour eux.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(La scène se termine sur JEANNE et JEAN s'embrassant.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="act">
+        <ns0:head>ACTE V</ns0:head>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Scène 1</ns0:head>
+        <ns0:stage>(Une maison bourgeoise. JEANNE est assise sur un canapé, en train de lire un livre.)</ns0:stage>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE : </ns0:speaker>
+          <ns0:stage>(Seule)</ns0:stage>
+          <ns0:p> Je suis contente d'être ici. Je me sens enfin chez moi.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Une jeune femme, MARIE, s'approche de JEANNE.)</ns0:stage>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Bonjour, Jeanne.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Bonjour, Marie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Tu as l'air heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Oui, je suis heureuse.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Je suis contente pour toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Merci, Marie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>J'ai une surprise pour toi.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Une surprise ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Oui.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(MARIE va à la porte et ouvre.)</ns0:stage>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Entrez !</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Un jeune homme, JEAN, entre.)</ns0:stage>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN :</ns0:speaker>
+          <ns0:p>Bonjour, Jeanne.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Bonjour, Jean.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN :</ns0:speaker>
+          <ns0:p>Je suis content de te voir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Moi aussi, je suis content de te voir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>J'ai une surprise pour vous deux.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Une surprise ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE :</ns0:speaker>
+          <ns0:p>Oui. Vous allez vous marier !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Nous allons nous marier ?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN :</ns0:speaker>
+          <ns0:p>Oui, nous allons nous marier.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jeanne">
+          <ns0:speaker>JEANNE :</ns0:speaker>
+          <ns0:p>Je suis si heureuse !</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#jean">
+          <ns0:speaker>JEAN :</ns0:speaker>
+          <ns0:p>Moi aussi, je suis si heureux !</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(JEANNE et JEAN s'embrassent.)</ns0:stage>
+        <ns0:sp who="#marie">
+          <ns0:speaker>MARIE : </ns0:speaker>
+          <ns0:stage>(à part)</ns0:stage>
+          <ns0:p> Je suis contente pour eux.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(La scène se termine sur JEANNE et JEAN s'embrassant.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>

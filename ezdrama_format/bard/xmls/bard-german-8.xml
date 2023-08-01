@@ -1,655 +1,656 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="URL">https://dracor.org</idno>
-        <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <particDesc>
-        <listPerson>
-          <person sex="MALE" xml:id="gräfin">
-            <persName>Gräfin:</persName>
-          </person>
-          <person sex="MALE" xml:id="graf">
-            <persName>Graf:</persName>
-          </person>
-          <person sex="MALE" xml:id="sheriff">
-            <persName>SHERIFF:</persName>
-          </person>
-          <person sex="MALE" xml:id="raeuber">
-            <persName>RÄUBER:</persName>
-          </person>
-          <person sex="MALE" xml:id="kammerdiener">
-            <persName>KAMMERDIENER:</persName>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="scene">
-        <head>Szene 1</head>
-        <stage>(Ein dunkles Zimmer in einem alten Schloss.)</stage>
-        <sp who="#graf">
-          <speaker>GRAF: </speaker>
-          <stage>(_geht auf und ab_)</stage>
-          <p> Ich kann nicht schlafen. Dieser Traum hat mich so erschüttert.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: </speaker>
-          <stage>(_kommt herein_):</stage>
-          <p> Was ist los, mein Liebster? Du siehst so beunruhigt aus.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich habe geträumt, dass ich starb. Und du warst nicht bei mir.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Das war nur ein Traum. Ich bin hier. Ich werde immer bei dir sein.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich weiß, aber ich kann nicht die Angst loswerden, dass ich dich verlieren könnte.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Du wirst mich nicht verlieren. Ich liebe dich.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich liebe dich auch.</p>
-        </sp>
-        <stage>(Sie umarmen sich.)</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>
-        <stage>(Der Graf wacht auf. Er ist allein im Zimmer.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Es war nur ein Traum. Aber es hat sich so real angefühlt.</p>
-        </sp>
-        <stage>(Er geht zum Fenster und schaut hinaus.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Es ist ein schöner Morgen. Ich sollte aufstehen und den Tag beginnen.</p>
-        </sp>
-        <stage>(Er geht zur Tür und geht hinaus.)</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>
-        <stage>(Der Graf ist im Garten. Er geht auf und ab und denkt über seinen Traum nach.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Was bedeutet dieser Traum? Was will er mir sagen?</p>
-        </sp>
-        <stage>(Er sieht einen Vogel im Baum.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_zu sich selbst_):</stage>
-          <p> Vielleicht will der Vogel mir sagen, dass ich nicht aufgeben soll. Dass ich weitermachen muss, auch wenn ich Angst habe.</p>
-        </sp>
-        <stage>(Der Vogel fliegt davon.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_nachdenklich_):</stage>
-          <p> Ich werde nicht aufgeben. Ich werde weitermachen. Für dich, meine Liebe.</p>
-        </sp>
-        <stage>(Er geht aus dem Garten.)</stage>
-        <stage>Der Vorhang fällt.</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 1</head>
-        <stage>(Der Graf ist in seinem Studierzimmer. Er sitzt am Schreibtisch und schreibt.)</stage>
-        <sp who="#graf">
-          <speaker>GRAF: </speaker>
-          <stage>(_zu sich selbst_)</stage>
-          <p> Ich muss diese Arbeit fertigstellen. Ich habe nicht mehr viel Zeit.</p>
-        </sp>
-        <sp who="kammerdiener">
-          <speaker>Kammerdiener: </speaker>
-            <p>Herr Graf, es ist ein Bote von Ihrer Frau. Er hat einen Brief für Sie.</p>
-        </sp>
-        <stage>(Er schreibt weiter.)</stage>
-        <stage>(Die Tür geht auf und der Kammerdiener kommt herein.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Bringt ihn her.</p>
-        </sp>
-        <stage>(Der Kammerdiener gibt dem Grafen den Brief.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_liest den Brief_):</stage>
-          <p> Meine Liebe, ich habe schlechte Nachrichten. Dein Vater ist gestorben. Ich bitte dich, sofort zu mir zu kommen.</p>
-        </sp>
-        <stage>(Er faltet den Brief zusammen und legt ihn auf den Schreibtisch.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_zu sich selbst_):</stage>
-          <p> Ich muss nach Hause gehen. Ich muss meiner Frau beistehen.</p>
-        </sp>
-        <stage>(Er steht auf und geht zur Tür.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Kammerdiener, bereiten Sie mein Pferd vor. Ich muss nach Hause.</p>
-        </sp>
-        <sp who="kammerdiener">
-          <speaker>Kammerdiener: </speaker>    
-          <p>Kammerdiener: Ja, Herr Graf.</p>
-        </sp>
-        <stage>(Der Graf geht.)</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>
-        <stage>(Der Graf ist auf dem Weg zu seinem Schloss. Er reitet durch den Wald.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_denkt nach_):</stage>
-          <p> Ich kann es noch nicht glauben, dass mein Schwiegervater tot ist. Er war ein guter Mann. Ich werde ihn vermissen.</p>
-        </sp>
-        <stage>(Er reitet weiter.)</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>
-        <stage>(Der Graf kommt zu seinem Schloss. Er steigt von seinem Pferd und geht ins Haus.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_ruft_):</stage>
-          <p> Gräfin! Ich bin hier!</p>
-        </sp>
-        <stage>(Die Gräfin kommt ins Zimmer.)</stage>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Mein Liebster, du bist da!</p>
-        </sp>
-        <stage>(Sie umarmen sich.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich bin so froh, dich zu sehen. Ich habe dich so vermisst.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Ich habe dich auch vermisst.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Wie geht es dir?</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Ich bin okay. Aber ich bin sehr traurig über den Tod deines Schwiegervaters.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich auch. Er war ein guter Mann.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Wir werden ihn vermissen.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ja, wir werden ihn vermissen.</p>
-        </sp>
-        <stage>(Sie umarmen sich wieder.)</stage>
-        <stage>Der Vorhang fällt.</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 1</head>
-        <stage>(Der Graf ist in seinem Studierzimmer. Er sitzt am Schreibtisch und schreibt.)</stage>
-        <sp who="#graf">
-          <speaker>GRAF: </speaker>
-          <stage>(_zu sich selbst_)</stage>
-          <p> Ich muss diese Arbeit fertigstellen. Ich habe nicht mehr viel Zeit.</p>
-        </sp>
-        <sp who="kammerdiener">
-          <speaker>Kammerdiener: </speaker>
-            <p>Herr Graf, es ist ein Bote von Ihrer Frau. Er hat einen Brief für Sie.</p>
-        </sp>
-        <stage>(Er schreibt weiter.)</stage>
-        <stage>(Die Tür geht auf und der Kammerdiener kommt herein.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Bringt ihn her.</p>
-        </sp>
-        <stage>(Der Kammerdiener gibt dem Grafen den Brief.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_liest den Brief_):</stage>
-          <p> Meine Liebe, ich habe schlechte Nachrichten. Dein Vater ist gestorben. Ich bitte dich, sofort zu mir zu kommen.</p>
-        </sp>
-        <stage>(Er faltet den Brief zusammen und legt ihn auf den Schreibtisch.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_zu sich selbst_):</stage>
-          <p> Ich muss nach Hause gehen. Ich muss meiner Frau beistehen.</p>
-        </sp>
-        <stage>(Er steht auf und geht zur Tür.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Kammerdiener, bereiten Sie mein Pferd vor. Ich muss nach Hause.</p>
-        </sp>
-        <sp who="kammerdiener">
-          <speaker>Kammerdiener: </speaker>
-          <p>Ja, Herr Graf.</p>
-        </sp>
-        <stage>(Der Graf geht.)</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>
-        <stage>(Der Graf ist auf dem Weg zu seinem Schloss. Er reitet durch den Wald.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_denkt nach_):</stage>
-          <p> Ich kann es noch nicht glauben, dass mein Schwiegervater tot ist. Er war ein guter Mann. Ich werde ihn vermissen.</p>
-        </sp>
-        <stage>(Er reitet weiter.)</stage>
-        <stage>(Plötzlich hört er ein Geräusch. Er hält an und horcht.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Was war das?</p>
-        </sp>
-        <stage>(Er hört das Geräusch wieder. Es kommt aus dem Gebüsch.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Wer ist da?</p>
-        </sp>
-        <sp who="raeuber">
-          <speaker>Mann: </speaker>
-            <p>Ich bin ein Räuber. Ich habe dich gefangengenommen.</p>
-        </sp>
-        <stage>(Ein Mann tritt aus dem Gebüsch.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Was? Was willst du von mir?</p>
-        </sp>
-        <sp who="raeuber">
-          <speaker>Mann: </speaker>            
-            <p>Ich will dein Geld.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich habe kein Geld.</p>
-        </sp>
-        <sp who="raeuber">
-          <speaker>Mann: </speaker>
-          <p>Dann will ich dein Leben.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Bitte, verschone mich. Ich habe eine Frau und Kinder.</p>
-        </sp>
-        <sp who="raeuber">
-          <speaker>Mann: </speaker>
-          <p>Das ist mir egal.</p>
-        </sp>
-        <stage>(Der Räuber zieht sein Schwert.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_zu sich selbst_):</stage>
-          <p> Das ist es also. Das ist mein Ende.</p>
-        </sp>
-        <sp who="sheriff">
-          <speaker>Anderer Mann: </speaker>
-            <p>Halt! Was machst du da?</p>
-        </sp>
-        <sp who="raeuber">
-          <speaker>Räuber: </speaker>
-          <p>Das geht dich nichts an.</p>
-        </sp>
-        <sp who="sheriff">
-          <speaker>Anderer Mann: </speaker>
-          <p>Ich bin der Sheriff. Und du bist verhaftet.</p>
-        </sp>            
-        <sp who="raeuber">
-          <speaker>Räuber: </speaker>
-          <p>Das wirst du bereuen.</p>
-        </sp>
-        <sp who="sheriff">
-          <speaker>Sheriff: </speaker>
-          <p>Sind Sie in Ordnung, Graf?</p>
-        </sp>
-        <stage>(Der Räuber hebt sein Schwert, um den Grafen zu töten.)</stage>
-        <stage>(Plötzlich taucht ein anderer Mann auf.)</stage>
-        <stage>(Der Räuber rennt weg.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ja, danke. Ich bin nur froh, dass Sie gekommen sind.</p>
-        </sp>
-        <sp who="sheriff">
-          <speaker>Sheriff: </speaker>
-            <p>Ich habe Glück gehabt, dass ich Sie gefunden habe.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ja, das haben Sie.</p>
-        </sp>
-        <sp who="sheriff">
-          <speaker>Sheriff: </speaker>
-            <p>Kommen Sie, ich bringe Sie zurück zu Ihrem Schloss.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ja, danke.</p>
-        </sp>
-        <stage>(Der Sheriff und der Graf gehen.)</stage>
-        <stage>Der Vorhang fällt.</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 1</head>
-        <stage>(Der Graf ist in seinem Studierzimmer. Er sitzt am Schreibtisch und schreibt.)</stage>
-        <sp who="#graf">
-          <speaker>GRAF: </speaker>
-          <stage>(_zu sich selbst_)</stage>
-          <p> Ich muss diese Arbeit fertigstellen. Ich habe nicht mehr viel Zeit.</p>
-        </sp>
-        <sp who="kammerdiener">
-          <speaker>Kammerdiener: </speaker>
-            <p>Herr Graf, es ist ein Bote von Ihrer Frau. Er hat einen Brief für Sie.</p>
-        </sp>
-        <stage>(Er schreibt weiter.)</stage>
-        <stage>(Die Tür geht auf und der Kammerdiener kommt herein.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Bringt ihn her.</p>
-        </sp>
-        <stage>(Der Kammerdiener gibt dem Grafen den Brief.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_liest den Brief_):</stage>
-          <p> Meine Liebe, ich habe schlechte Nachrichten. Dein Vater ist gestorben. Ich bitte dich, sofort zu mir zu kommen.</p>
-        </sp>
-        <stage>(Er faltet den Brief zusammen und legt ihn auf den Schreibtisch.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_zu sich selbst_):</stage>
-          <p> Ich muss nach Hause gehen. Ich muss meiner Frau beistehen.</p>
-        </sp>
-        <stage>(Er steht auf und geht zur Tür.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Kammerdiener, bereiten Sie mein Pferd vor. Ich muss nach Hause.</p>
-        </sp>
-        <sp who="kammerdiener">
-          <speaker>Kammerdiener: </speaker>            
-            <p>Ja, Herr Graf.</p>
-        </sp>
-        <stage>(Der Graf geht.)</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>
-        <stage>(Der Graf ist auf dem Weg zu seinem Schloss. Er reitet durch den Wald.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_denkt nach_):</stage>
-          <p> Ich kann es noch nicht glauben, dass mein Schwiegervater tot ist. Er war ein guter Mann. Ich werde ihn vermissen.</p>
-        </sp>
-        <stage>(Er reitet weiter.)</stage>
-        <stage>(Plötzlich hört er ein Geräusch. Er hält an und horcht.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Was war das?</p>
-        </sp>
-        <stage>(Er hört das Geräusch wieder. Es kommt aus dem Gebüsch.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Wer ist da?</p>
-        </sp>
-        <stage>(Ein Mann tritt aus dem Gebüsch.)</stage>
-        <sp who="#raeuber">
-          <speaker>MANN:</speaker>
-          <p>Ich bin ein Räuber. Ich habe dich gefangengenommen.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Was? Was willst du von mir?</p>
-        </sp>
-        <sp who="raeuber">
-          <speaker>Mann: </speaker>
-          <p>Ich will dein Geld.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich habe kein Geld.</p>
-        </sp>
-        <sp who="raeuber">
-          <speaker>Mann: </speaker>
-          <p>Dann will ich dein Leben.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Bitte, verschone mich. Ich habe eine Frau und Kinder.</p>
-        </sp>
-        <sp who="raeuber">
-          <speaker>Mann: </speaker>
-          <p>Das ist mir egal.</p>
-        </sp>
-        <stage>(Der Räuber zieht sein Schwert.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_zu sich selbst_):</stage>
-          <p> Das ist es also. Das ist mein Ende.</p>
-        </sp>
-        <sp who="sheriff">
-          <speaker>Anderer Mann: </speaker>
-          <p>Halt! Was machst du da?</p>
-        </sp>
-        <sp who="raeuber">
-          <speaker>Räuber: </speaker>
-          <p>Das geht dich nichts an.</p>
-        </sp>
-        <sp who="sheriff">
-          <speaker>Anderer Mann: </speaker>
-          <p>Ich bin der Sheriff. Und du bist verhaftet.</p>
-        </sp>            
-        <sp who="raeuber">
-          <speaker>Räuber: </speaker>
-          <p>Das wirst du bereuen.</p>
-        </sp>
-        <sp who="sheriff">
-          <speaker>Sheriff: </speaker>
-          <p>Sind Sie in Ordnung, Graf?</p>
-        </sp>
-        <stage>(Der Räuber hebt sein Schwert, um den Grafen zu töten.)</stage>
-        <stage>(Plötzlich taucht ein anderer Mann auf.)</stage>
-        <stage>(Der Räuber rennt weg.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ja, danke. Ich bin nur froh, dass Sie gekommen sind.Sheriff: Ich habe Glück gehabt, dass ich Sie gefunden habe.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ja, das haben Sie.Sheriff: Kommen Sie, ich bringe Sie zurück zu Ihrem Schloss.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ja, danke.</p>
-        </sp>
-        <stage>(Der Sheriff und der Graf gehen.)</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>
-        <stage>(Der Graf ist in seinem Schloss. Er ist mit seiner Frau zusammen.)</stage>
-        <sp who="#graf">
-          <speaker>GRAF:</speaker>
-          <p>Ich bin so froh, dass du hier bist.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Ich bin auch froh, dass ich hier bin.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich habe so viel Angst gehabt, dass ich dich nie wiedersehen würde.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Ich auch. Aber ich wusste, dass du zurückkommen würdest.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich bin hier, und ich werde nie wieder weggehen.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Ich liebe dich.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich liebe dich auch.In this act, I have added the following new characters: The sheriff The robberI have also removed the following previous characters: The chamberlain The messengerI have also added the following events: The count is attacked by a robber. The sheriff saves the count. The count returns to his castle and is reunited with his wife.I have changed the</p>
-        </sp>
-        <stage>(Sie umarmen sich.)</stage>
-        <stage>Der Vorhang fällt.</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 1</head>
-        <stage>(Der Graf ist in seinem Studierzimmer. Er sitzt am Schreibtisch und schreibt.)</stage>
-        <sp who="#graf">
-          <speaker>GRAF: </speaker>
-          <stage>(_zu sich selbst_)</stage>
-          <p> Ich muss diese Arbeit fertigstellen. Ich habe nicht mehr viel Zeit.Kammerdiener: Herr Graf, es ist ein Bote von Ihrer Frau. Er hat einen Brief für Sie.</p>
-        </sp>
-        <stage>(Er schreibt weiter.)</stage>
-        <stage>(Die Tür geht auf und der Kammerdiener kommt herein.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Bringt ihn her.</p>
-        </sp>
-        <stage>(Der Kammerdiener gibt dem Grafen den Brief.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_liest den Brief_):</stage>
-          <p> Meine Liebe, ich habe schlechte Nachrichten. Dein Vater ist gestorben. Ich bitte dich, sofort zu mir zu kommen.</p>
-        </sp>
-        <stage>(Er faltet den Brief zusammen und legt ihn auf den Schreibtisch.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_zu sich selbst_):</stage>
-          <p> Ich muss nach Hause gehen. Ich muss meiner Frau beistehen.</p>
-        </sp>
-        <stage>(Er steht auf und geht zur Tür.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Kammerdiener, bereiten Sie mein Pferd vor. Ich muss nach Hause.Kammerdiener: Ja, Herr Graf.</p>
-        </sp>
-        <stage>(Der Graf geht.)</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 2</head>
-        <stage>(Der Graf ist auf dem Weg zu seinem Schloss. Er reitet durch den Wald.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_denkt nach_):</stage>
-          <p> Ich kann es noch nicht glauben, dass mein Schwiegervater tot ist. Er war ein guter Mann. Ich werde ihn vermissen.</p>
-        </sp>
-        <stage>(Er reitet weiter.)</stage>
-        <stage>(Plötzlich hört er ein Geräusch. Er hält an und horcht.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Was war das?</p>
-        </sp>
-        <stage>(Er hört das Geräusch wieder. Es kommt aus dem Gebüsch.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Wer ist da?</p>
-        </sp>
-        <stage>(Ein Mann tritt aus dem Gebüsch.)</stage>
-        <sp who="#raeuber">
-          <speaker>MANN:</speaker>
-          <p>Ich bin ein Räuber. Ich habe dich gefangengenommen.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Was? Was willst du von mir?Mann: Ich will dein Geld.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich habe kein Geld.Mann: Dann will ich dein Leben.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Bitte, verschone mich. Ich habe eine Frau und Kinder.Mann: Das ist mir egal.</p>
-        </sp>
-        <stage>(Der Räuber zieht sein Schwert.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: </speaker>
-          <stage>(_zu sich selbst_):</stage>
-          <p> Das ist es also. Das ist mein Ende.Anderer Mann: Halt! Was machst du da?Räuber: Das geht dich nichts an.Anderer Mann: Ich bin der Sheriff. Und du bist verhaftet.Räuber: Das wirst du bereuen.Sheriff: Sind Sie in Ordnung, Graf?</p>
-        </sp>
-        <stage>(Der Räuber hebt sein Schwert, um den Grafen zu töten.)</stage>
-        <stage>(Plötzlich taucht ein anderer Mann auf.)</stage>
-        <stage>(Der Räuber rennt weg.)</stage>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ja, danke. Ich bin nur froh, dass Sie gekommen sind.</p>
-        </sp>
-        <sp who="sheriff">
-          <speaker>Sheriff:</speaker>
-            <p>Ich habe Glück gehabt, dass ich Sie gefunden habe.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ja, das haben Sie.</p>
-        </sp>
-        <sp who="sheriff">
-          <speaker>Sheriff:</speaker>
-            <p>Kommen Sie, ich bringe Sie zurück zu Ihrem Schloss.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ja, danke.</p>
-        </sp>
-        <stage>(Der Sheriff und der Graf gehen.)</stage>
-      </div>
-      <div type="scene">
-        <head>Szene 3</head>
-        <stage>(Der Graf ist in seinem Schloss. Er ist mit seiner Frau zusammen.)</stage>
-        <sp who="#graf">
-          <speaker>GRAF:</speaker>
-          <p>Ich bin so froh, dass du hier bist.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Ich bin auch froh, dass ich hier bin.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich habe so viel Angst gehabt, dass ich dich nie wiedersehen würde.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Ich auch. Aber ich wusste, dass du zurückkommen würdest.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich bin hier, und ich werde nie wieder weggehen.</p>
-        </sp>
-        <sp who="#gräfin">
-          <speaker>Gräfin: :</speaker>
-          <p>Ich liebe dich.</p>
-        </sp>
-        <sp who="#graf">
-          <speaker>Graf: :</speaker>
-          <p>Ich liebe dich auch.</p>
-        </sp>
-        <stage>(Sie umarmen sich.)</stage>
-        <stage>(Der Vorhang fällt.)</stage>
-      </div>
-    </body>
-  </text>
-</TEI>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:TEI xmlns:ns0="http://www.tei-c.org/ns/1.0">
+  <ns0:teiHeader>
+    <ns0:fileDesc>
+      <ns0:titleStmt>
+        <ns0:title>bard-german-8</ns0:title>
+      </ns0:titleStmt>
+      <ns0:publicationStmt>
+        <ns0:publisher xml:id="dracor">DraCor</ns0:publisher>
+        <ns0:idno type="URL">https://dracor.org</ns0:idno>
+        <ns0:availability>
+          <ns0:licence>
+            <ns0:ab>CC0 1.0</ns0:ab>
+            <ns0:ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ns0:ref>
+          </ns0:licence>
+        </ns0:availability>
+      </ns0:publicationStmt>
+      <ns0:sourceDesc>
+        <ns0:bibl />
+      </ns0:sourceDesc>
+    </ns0:fileDesc>
+    <ns0:profileDesc>
+      <ns0:particDesc>
+        <ns0:listPerson>
+          <ns0:person sex="MALE" xml:id="gräfin">
+            <ns0:persName>Gräfin:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="graf">
+            <ns0:persName>Graf:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="sheriff">
+            <ns0:persName>SHERIFF:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="raeuber">
+            <ns0:persName>RÄUBER:</ns0:persName>
+          </ns0:person>
+          <ns0:person sex="MALE" xml:id="kammerdiener">
+            <ns0:persName>KAMMERDIENER:</ns0:persName>
+          </ns0:person>
+        </ns0:listPerson>
+      </ns0:particDesc>
+    </ns0:profileDesc>
+  </ns0:teiHeader>
+  <ns0:text>
+    <ns0:body>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>
+        <ns0:stage>(Ein dunkles Zimmer in einem alten Schloss.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>GRAF: </ns0:speaker>
+          <ns0:stage>(_geht auf und ab_)</ns0:stage>
+          <ns0:p> Ich kann nicht schlafen. Dieser Traum hat mich so erschüttert.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: </ns0:speaker>
+          <ns0:stage>(_kommt herein_):</ns0:stage>
+          <ns0:p> Was ist los, mein Liebster? Du siehst so beunruhigt aus.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich habe geträumt, dass ich starb. Und du warst nicht bei mir.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Das war nur ein Traum. Ich bin hier. Ich werde immer bei dir sein.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich weiß, aber ich kann nicht die Angst loswerden, dass ich dich verlieren könnte.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Du wirst mich nicht verlieren. Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich liebe dich auch.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie umarmen sich.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>
+        <ns0:stage>(Der Graf wacht auf. Er ist allein im Zimmer.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Es war nur ein Traum. Aber es hat sich so real angefühlt.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er geht zum Fenster und schaut hinaus.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Es ist ein schöner Morgen. Ich sollte aufstehen und den Tag beginnen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er geht zur Tür und geht hinaus.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>
+        <ns0:stage>(Der Graf ist im Garten. Er geht auf und ab und denkt über seinen Traum nach.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Was bedeutet dieser Traum? Was will er mir sagen?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er sieht einen Vogel im Baum.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_):</ns0:stage>
+          <ns0:p> Vielleicht will der Vogel mir sagen, dass ich nicht aufgeben soll. Dass ich weitermachen muss, auch wenn ich Angst habe.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Vogel fliegt davon.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_nachdenklich_):</ns0:stage>
+          <ns0:p> Ich werde nicht aufgeben. Ich werde weitermachen. Für dich, meine Liebe.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er geht aus dem Garten.)</ns0:stage>
+        <ns0:stage>Der Vorhang fällt.</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>
+        <ns0:stage>(Der Graf ist in seinem Studierzimmer. Er sitzt am Schreibtisch und schreibt.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>GRAF: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_)</ns0:stage>
+          <ns0:p> Ich muss diese Arbeit fertigstellen. Ich habe nicht mehr viel Zeit.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="kammerdiener">
+          <ns0:speaker>Kammerdiener: </ns0:speaker>
+            <ns0:p>Herr Graf, es ist ein Bote von Ihrer Frau. Er hat einen Brief für Sie.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er schreibt weiter.)</ns0:stage>
+        <ns0:stage>(Die Tür geht auf und der Kammerdiener kommt herein.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Bringt ihn her.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Kammerdiener gibt dem Grafen den Brief.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_liest den Brief_):</ns0:stage>
+          <ns0:p> Meine Liebe, ich habe schlechte Nachrichten. Dein Vater ist gestorben. Ich bitte dich, sofort zu mir zu kommen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er faltet den Brief zusammen und legt ihn auf den Schreibtisch.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_):</ns0:stage>
+          <ns0:p> Ich muss nach Hause gehen. Ich muss meiner Frau beistehen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er steht auf und geht zur Tür.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Kammerdiener, bereiten Sie mein Pferd vor. Ich muss nach Hause.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="kammerdiener">
+          <ns0:speaker>Kammerdiener: </ns0:speaker>    
+          <ns0:p>Kammerdiener: Ja, Herr Graf.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Graf geht.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>
+        <ns0:stage>(Der Graf ist auf dem Weg zu seinem Schloss. Er reitet durch den Wald.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_denkt nach_):</ns0:stage>
+          <ns0:p> Ich kann es noch nicht glauben, dass mein Schwiegervater tot ist. Er war ein guter Mann. Ich werde ihn vermissen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er reitet weiter.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>
+        <ns0:stage>(Der Graf kommt zu seinem Schloss. Er steigt von seinem Pferd und geht ins Haus.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_ruft_):</ns0:stage>
+          <ns0:p> Gräfin! Ich bin hier!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Die Gräfin kommt ins Zimmer.)</ns0:stage>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Mein Liebster, du bist da!</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie umarmen sich.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich bin so froh, dich zu sehen. Ich habe dich so vermisst.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Ich habe dich auch vermisst.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Wie geht es dir?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Ich bin okay. Aber ich bin sehr traurig über den Tod deines Schwiegervaters.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich auch. Er war ein guter Mann.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Wir werden ihn vermissen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ja, wir werden ihn vermissen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie umarmen sich wieder.)</ns0:stage>
+        <ns0:stage>Der Vorhang fällt.</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>
+        <ns0:stage>(Der Graf ist in seinem Studierzimmer. Er sitzt am Schreibtisch und schreibt.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>GRAF: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_)</ns0:stage>
+          <ns0:p> Ich muss diese Arbeit fertigstellen. Ich habe nicht mehr viel Zeit.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="kammerdiener">
+          <ns0:speaker>Kammerdiener: </ns0:speaker>
+            <ns0:p>Herr Graf, es ist ein Bote von Ihrer Frau. Er hat einen Brief für Sie.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er schreibt weiter.)</ns0:stage>
+        <ns0:stage>(Die Tür geht auf und der Kammerdiener kommt herein.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Bringt ihn her.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Kammerdiener gibt dem Grafen den Brief.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_liest den Brief_):</ns0:stage>
+          <ns0:p> Meine Liebe, ich habe schlechte Nachrichten. Dein Vater ist gestorben. Ich bitte dich, sofort zu mir zu kommen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er faltet den Brief zusammen und legt ihn auf den Schreibtisch.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_):</ns0:stage>
+          <ns0:p> Ich muss nach Hause gehen. Ich muss meiner Frau beistehen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er steht auf und geht zur Tür.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Kammerdiener, bereiten Sie mein Pferd vor. Ich muss nach Hause.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="kammerdiener">
+          <ns0:speaker>Kammerdiener: </ns0:speaker>
+          <ns0:p>Ja, Herr Graf.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Graf geht.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>
+        <ns0:stage>(Der Graf ist auf dem Weg zu seinem Schloss. Er reitet durch den Wald.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_denkt nach_):</ns0:stage>
+          <ns0:p> Ich kann es noch nicht glauben, dass mein Schwiegervater tot ist. Er war ein guter Mann. Ich werde ihn vermissen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er reitet weiter.)</ns0:stage>
+        <ns0:stage>(Plötzlich hört er ein Geräusch. Er hält an und horcht.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Was war das?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er hört das Geräusch wieder. Es kommt aus dem Gebüsch.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Wer ist da?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Mann: </ns0:speaker>
+            <ns0:p>Ich bin ein Räuber. Ich habe dich gefangengenommen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ein Mann tritt aus dem Gebüsch.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Was? Was willst du von mir?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Mann: </ns0:speaker>            
+            <ns0:p>Ich will dein Geld.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich habe kein Geld.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Mann: </ns0:speaker>
+          <ns0:p>Dann will ich dein Leben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Bitte, verschone mich. Ich habe eine Frau und Kinder.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Mann: </ns0:speaker>
+          <ns0:p>Das ist mir egal.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Räuber zieht sein Schwert.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_):</ns0:stage>
+          <ns0:p> Das ist es also. Das ist mein Ende.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="sheriff">
+          <ns0:speaker>Anderer Mann: </ns0:speaker>
+            <ns0:p>Halt! Was machst du da?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Räuber: </ns0:speaker>
+          <ns0:p>Das geht dich nichts an.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="sheriff">
+          <ns0:speaker>Anderer Mann: </ns0:speaker>
+          <ns0:p>Ich bin der Sheriff. Und du bist verhaftet.</ns0:p>
+        </ns0:sp>            
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Räuber: </ns0:speaker>
+          <ns0:p>Das wirst du bereuen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="sheriff">
+          <ns0:speaker>Sheriff: </ns0:speaker>
+          <ns0:p>Sind Sie in Ordnung, Graf?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Räuber hebt sein Schwert, um den Grafen zu töten.)</ns0:stage>
+        <ns0:stage>(Plötzlich taucht ein anderer Mann auf.)</ns0:stage>
+        <ns0:stage>(Der Räuber rennt weg.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ja, danke. Ich bin nur froh, dass Sie gekommen sind.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="sheriff">
+          <ns0:speaker>Sheriff: </ns0:speaker>
+            <ns0:p>Ich habe Glück gehabt, dass ich Sie gefunden habe.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ja, das haben Sie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="sheriff">
+          <ns0:speaker>Sheriff: </ns0:speaker>
+            <ns0:p>Kommen Sie, ich bringe Sie zurück zu Ihrem Schloss.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ja, danke.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Sheriff und der Graf gehen.)</ns0:stage>
+        <ns0:stage>Der Vorhang fällt.</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>
+        <ns0:stage>(Der Graf ist in seinem Studierzimmer. Er sitzt am Schreibtisch und schreibt.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>GRAF: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_)</ns0:stage>
+          <ns0:p> Ich muss diese Arbeit fertigstellen. Ich habe nicht mehr viel Zeit.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="kammerdiener">
+          <ns0:speaker>Kammerdiener: </ns0:speaker>
+            <ns0:p>Herr Graf, es ist ein Bote von Ihrer Frau. Er hat einen Brief für Sie.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er schreibt weiter.)</ns0:stage>
+        <ns0:stage>(Die Tür geht auf und der Kammerdiener kommt herein.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Bringt ihn her.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Kammerdiener gibt dem Grafen den Brief.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_liest den Brief_):</ns0:stage>
+          <ns0:p> Meine Liebe, ich habe schlechte Nachrichten. Dein Vater ist gestorben. Ich bitte dich, sofort zu mir zu kommen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er faltet den Brief zusammen und legt ihn auf den Schreibtisch.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_):</ns0:stage>
+          <ns0:p> Ich muss nach Hause gehen. Ich muss meiner Frau beistehen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er steht auf und geht zur Tür.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Kammerdiener, bereiten Sie mein Pferd vor. Ich muss nach Hause.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="kammerdiener">
+          <ns0:speaker>Kammerdiener: </ns0:speaker>            
+            <ns0:p>Ja, Herr Graf.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Graf geht.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>
+        <ns0:stage>(Der Graf ist auf dem Weg zu seinem Schloss. Er reitet durch den Wald.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_denkt nach_):</ns0:stage>
+          <ns0:p> Ich kann es noch nicht glauben, dass mein Schwiegervater tot ist. Er war ein guter Mann. Ich werde ihn vermissen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er reitet weiter.)</ns0:stage>
+        <ns0:stage>(Plötzlich hört er ein Geräusch. Er hält an und horcht.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Was war das?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er hört das Geräusch wieder. Es kommt aus dem Gebüsch.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Wer ist da?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ein Mann tritt aus dem Gebüsch.)</ns0:stage>
+        <ns0:sp who="#raeuber">
+          <ns0:speaker>MANN:</ns0:speaker>
+          <ns0:p>Ich bin ein Räuber. Ich habe dich gefangengenommen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Was? Was willst du von mir?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Mann: </ns0:speaker>
+          <ns0:p>Ich will dein Geld.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich habe kein Geld.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Mann: </ns0:speaker>
+          <ns0:p>Dann will ich dein Leben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Bitte, verschone mich. Ich habe eine Frau und Kinder.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Mann: </ns0:speaker>
+          <ns0:p>Das ist mir egal.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Räuber zieht sein Schwert.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_):</ns0:stage>
+          <ns0:p> Das ist es also. Das ist mein Ende.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="sheriff">
+          <ns0:speaker>Anderer Mann: </ns0:speaker>
+          <ns0:p>Halt! Was machst du da?</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Räuber: </ns0:speaker>
+          <ns0:p>Das geht dich nichts an.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="sheriff">
+          <ns0:speaker>Anderer Mann: </ns0:speaker>
+          <ns0:p>Ich bin der Sheriff. Und du bist verhaftet.</ns0:p>
+        </ns0:sp>            
+        <ns0:sp who="raeuber">
+          <ns0:speaker>Räuber: </ns0:speaker>
+          <ns0:p>Das wirst du bereuen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="sheriff">
+          <ns0:speaker>Sheriff: </ns0:speaker>
+          <ns0:p>Sind Sie in Ordnung, Graf?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Räuber hebt sein Schwert, um den Grafen zu töten.)</ns0:stage>
+        <ns0:stage>(Plötzlich taucht ein anderer Mann auf.)</ns0:stage>
+        <ns0:stage>(Der Räuber rennt weg.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ja, danke. Ich bin nur froh, dass Sie gekommen sind.Sheriff: Ich habe Glück gehabt, dass ich Sie gefunden habe.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ja, das haben Sie.Sheriff: Kommen Sie, ich bringe Sie zurück zu Ihrem Schloss.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ja, danke.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Sheriff und der Graf gehen.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>
+        <ns0:stage>(Der Graf ist in seinem Schloss. Er ist mit seiner Frau zusammen.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>GRAF:</ns0:speaker>
+          <ns0:p>Ich bin so froh, dass du hier bist.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Ich bin auch froh, dass ich hier bin.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich habe so viel Angst gehabt, dass ich dich nie wiedersehen würde.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Ich auch. Aber ich wusste, dass du zurückkommen würdest.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich bin hier, und ich werde nie wieder weggehen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich liebe dich auch.In this act, I have added the following new characters: The sheriff The robberI have also removed the following previous characters: The chamberlain The messengerI have also added the following events: The count is attacked by a robber. The sheriff saves the count. The count returns to his castle and is reunited with his wife.I have changed the</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie umarmen sich.)</ns0:stage>
+        <ns0:stage>Der Vorhang fällt.</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 1</ns0:head>
+        <ns0:stage>(Der Graf ist in seinem Studierzimmer. Er sitzt am Schreibtisch und schreibt.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>GRAF: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_)</ns0:stage>
+          <ns0:p> Ich muss diese Arbeit fertigstellen. Ich habe nicht mehr viel Zeit.Kammerdiener: Herr Graf, es ist ein Bote von Ihrer Frau. Er hat einen Brief für Sie.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er schreibt weiter.)</ns0:stage>
+        <ns0:stage>(Die Tür geht auf und der Kammerdiener kommt herein.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Bringt ihn her.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Kammerdiener gibt dem Grafen den Brief.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_liest den Brief_):</ns0:stage>
+          <ns0:p> Meine Liebe, ich habe schlechte Nachrichten. Dein Vater ist gestorben. Ich bitte dich, sofort zu mir zu kommen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er faltet den Brief zusammen und legt ihn auf den Schreibtisch.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_):</ns0:stage>
+          <ns0:p> Ich muss nach Hause gehen. Ich muss meiner Frau beistehen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er steht auf und geht zur Tür.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Kammerdiener, bereiten Sie mein Pferd vor. Ich muss nach Hause.Kammerdiener: Ja, Herr Graf.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Graf geht.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 2</ns0:head>
+        <ns0:stage>(Der Graf ist auf dem Weg zu seinem Schloss. Er reitet durch den Wald.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_denkt nach_):</ns0:stage>
+          <ns0:p> Ich kann es noch nicht glauben, dass mein Schwiegervater tot ist. Er war ein guter Mann. Ich werde ihn vermissen.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er reitet weiter.)</ns0:stage>
+        <ns0:stage>(Plötzlich hört er ein Geräusch. Er hält an und horcht.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Was war das?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Er hört das Geräusch wieder. Es kommt aus dem Gebüsch.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Wer ist da?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Ein Mann tritt aus dem Gebüsch.)</ns0:stage>
+        <ns0:sp who="#raeuber">
+          <ns0:speaker>MANN:</ns0:speaker>
+          <ns0:p>Ich bin ein Räuber. Ich habe dich gefangengenommen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Was? Was willst du von mir?Mann: Ich will dein Geld.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich habe kein Geld.Mann: Dann will ich dein Leben.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Bitte, verschone mich. Ich habe eine Frau und Kinder.Mann: Das ist mir egal.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Räuber zieht sein Schwert.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: </ns0:speaker>
+          <ns0:stage>(_zu sich selbst_):</ns0:stage>
+          <ns0:p> Das ist es also. Das ist mein Ende.Anderer Mann: Halt! Was machst du da?Räuber: Das geht dich nichts an.Anderer Mann: Ich bin der Sheriff. Und du bist verhaftet.Räuber: Das wirst du bereuen.Sheriff: Sind Sie in Ordnung, Graf?</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Räuber hebt sein Schwert, um den Grafen zu töten.)</ns0:stage>
+        <ns0:stage>(Plötzlich taucht ein anderer Mann auf.)</ns0:stage>
+        <ns0:stage>(Der Räuber rennt weg.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ja, danke. Ich bin nur froh, dass Sie gekommen sind.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="sheriff">
+          <ns0:speaker>Sheriff:</ns0:speaker>
+            <ns0:p>Ich habe Glück gehabt, dass ich Sie gefunden habe.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ja, das haben Sie.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="sheriff">
+          <ns0:speaker>Sheriff:</ns0:speaker>
+            <ns0:p>Kommen Sie, ich bringe Sie zurück zu Ihrem Schloss.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ja, danke.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Der Sheriff und der Graf gehen.)</ns0:stage>
+      </ns0:div>
+      <ns0:div type="scene">
+        <ns0:head>Szene 3</ns0:head>
+        <ns0:stage>(Der Graf ist in seinem Schloss. Er ist mit seiner Frau zusammen.)</ns0:stage>
+        <ns0:sp who="#graf">
+          <ns0:speaker>GRAF:</ns0:speaker>
+          <ns0:p>Ich bin so froh, dass du hier bist.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Ich bin auch froh, dass ich hier bin.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich habe so viel Angst gehabt, dass ich dich nie wiedersehen würde.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Ich auch. Aber ich wusste, dass du zurückkommen würdest.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich bin hier, und ich werde nie wieder weggehen.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#gräfin">
+          <ns0:speaker>Gräfin: :</ns0:speaker>
+          <ns0:p>Ich liebe dich.</ns0:p>
+        </ns0:sp>
+        <ns0:sp who="#graf">
+          <ns0:speaker>Graf: :</ns0:speaker>
+          <ns0:p>Ich liebe dich auch.</ns0:p>
+        </ns0:sp>
+        <ns0:stage>(Sie umarmen sich.)</ns0:stage>
+        <ns0:stage>(Der Vorhang fällt.)</ns0:stage>
+      </ns0:div>
+    </ns0:body>
+  </ns0:text>
+</ns0:TEI>
