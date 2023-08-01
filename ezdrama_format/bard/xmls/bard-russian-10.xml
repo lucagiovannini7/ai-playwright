@@ -21,17 +21,8 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="konets_dejstvyja_vtoroho">
-            <persName>**КОНЕЦ ДЕЙСТВИЯ ВТОРОГО**</persName>
-          </person>
-          <person sex="MALE" xml:id="konets_dejstvyja_pjatoho">
-            <persName>**КОНЕЦ ДЕЙСТВИЯ ПЯТОГО**</persName>
-          </person>
           <person sex="FEMALE" xml:id="natasha">
             <persName>**НАТАША:**</persName>
-          </person>
-          <person sex="MALE" xml:id="konets_dejstvyja_chetvertoho">
-            <persName>**КОНЕЦ ДЕЙСТВИЯ ЧЕТВЕРТОГО**</persName>
           </person>
           <person sex="MALE" xml:id="levyn">
             <persName>**ЛЕВИН:**</persName>
@@ -45,15 +36,6 @@
           <person sex="MALE" xml:id="panyn">
             <persName>**ПАНИН:**</persName>
           </person>
-          <person sex="MALE" xml:id="konets_dejstvyja_treteho">
-            <persName>**КОНЕЦ ДЕЙСТВИЯ ТРЕТЬЕГО**</persName>
-          </person>
-          <person sex="FEMALE" xml:id="mesto_dejstvyja">
-            <persName>**МЕСТО ДЕЙСТВИЯ:**</persName>
-          </person>
-          <person sex="MALE" xml:id="konets_dejstvyja_pervoho">
-            <persName>**КОНЕЦ ДЕЙСТВИЯ ПЕРВОГО**</persName>
-          </person>
           <person sex="MALE" xml:id="horkyj">
             <persName>**ГОРЬКИЙ:**</persName>
           </person>
@@ -62,12 +44,11 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <body>**<div type="scene">
+    <body>
+      <div type="scene">
         <head>ДЕЙСТВИЕ ПЕРВОЕ**</head>
-        <sp who="#mesto_dejstvyja">
-          <speaker>**МЕСТО ДЕЙСТВИЯ:**</speaker>
-          <p>В гостиной поместья.</p>
-        </sp>
+        <stage>**МЕСТО ДЕЙСТВИЯ:**</stage>
+        <stage>В гостиной поместья.</stage>
         <sp who="#horkyj">
           <speaker>**ГОРЬКИЙ:** </speaker>
           <stage>(_входит в гостиную_)</stage>
@@ -116,10 +97,8 @@
         </sp>
         <stage>**(_Он начинает рассказывать о своей пьесе_)</stage>
         <stage>**(_Действие продолжается_)</stage>
-        <sp who="#konets_dejstvyja_pervoho">
-          <speaker>**КОНЕЦ ДЕЙСТВИЯ ПЕРВОГО**</speaker>
-          <p>**</p>
-        </sp>
+        <stage>**КОНЕЦ ДЕЙСТВИЯ ПЕРВОГО**</stage>
+        
         <stage>**(_Занавес_)</stage>
       </div>
       <div type="scene">
@@ -205,10 +184,9 @@
           <p>Да, было неплохо.</p>
         </sp>
         <stage>**(_Действие продолжается_)</stage>
-        <sp who="#konets_dejstvyja_vtoroho">
-          <speaker>**КОНЕЦ ДЕЙСТВИЯ ВТОРОГО**</speaker>
-          <p>In this act, I have added the character of Наталья, who is a new love interest for Николай. I have also removed the character of Левин, who was in the first act. I have also added a new scene in which Наталья and Николай meet in a чайная лавка <stage>(teahouse).</stage> I hope you enjoy this new act!**</p>
-        </sp>
+        <stage>**КОНЕЦ ДЕЙСТВИЯ ВТОРОГО**</stage>
+        <!-- <p>In this act, I have added the character of Наталья, who is a new love interest for Николай. I have also removed the character of Левин, who was in the first act. I have also added a new scene in which Наталья and Николай meet in a чайная лавка <stage>(teahouse).</stage> I hope you enjoy this new act!**</p>-->
+        
         <stage>**(_Занавес_)</stage>
       </div>
       <div type="scene">
@@ -302,10 +280,8 @@
         </sp>
         <stage>**(_Они обнимаются_)</stage>
         <stage>**(_Действие продолжается_)</stage>
-        <sp who="#konets_dejstvyja_treteho">
-          <speaker>**КОНЕЦ ДЕЙСТВИЯ ТРЕТЬЕГО**</speaker>
-          <p>In this act, I have added the character of Наталья, who is now in a relationship with Горький. I have also removed the character of Панин, who was in the second act. I have also added a new scene in which Наталья confesses her love to Горький. I hope you enjoy this new act!**</p>
-        </sp>
+        <stage>**КОНЕЦ ДЕЙСТВИЯ ТРЕТЬЕГО**</stage>
+        <!-- <p>In this act, I have added the character of Наталья, who is now in a relationship with Горький. I have also removed the character of Панин, who was in the second act. I have also added a new scene in which Наталья confesses her love to Горький. I hope you enjoy this new act!**</p> -->
         <stage>**(_Занавес_)</stage>
       </div>
       <div type="scene">
@@ -355,10 +331,10 @@
         </sp>
         <stage>**(_Они целуются_)</stage>
         <stage>**(_Действие продолжается_)</stage>
-        <sp who="#konets_dejstvyja_chetvertoho">
-          <speaker>**КОНЕЦ ДЕЙСТВИЯ ЧЕТВЕРТОГО**</speaker>
-          <p>In this act, I have added the character of Николай, who is now married to Наталья. I have also removed the character of Панин, who was in the second act. I have also added a new scene in which the play is performed in a theater and Горький receives a standing ovation. I hope you enjoy this new act!**</p>
-        </sp>
+ 
+        <stage>**КОНЕЦ ДЕЙСТВИЯ ЧЕТВЕРТОГО**</stage>
+        <!-- <p>In this act, I have added the character of Николай, who is now married to Наталья. I have also removed the character of Панин, who was in the second act. I have also added a new scene in which the play is performed in a theater and Горький receives a standing ovation. I hope you enjoy this new act!**</p>-->
+        
         <stage>**(_Занавес_)</stage>
       </div>
       <div type="scene">
@@ -455,10 +431,10 @@
         </sp>
         <stage>**(_Они обнимаются_)</stage>
         <stage>**(_Действие продолжается_)</stage>
-        <sp who="#konets_dejstvyja_pjatoho">
-          <speaker>**КОНЕЦ ДЕЙСТВИЯ ПЯТОГО**</speaker>
-          <p>In this act, I have added the character of a child, who is the son of Горький and Наталья. I have also removed the character of Николай, who was in the fourth act. I have also added a new scene in which Наталья reveals that she is pregnant. I hope you enjoy this new act!</p>
-        </sp>
+
+        <stage>**КОНЕЦ ДЕЙСТВИЯ ПЯТОГО**</stage>
+          <!-- <p>In this act, I have added the character of a child, who is the son of Горький and Наталья. I have also removed the character of Николай, who was in the fourth act. I have also added a new scene in which Наталья reveals that she is pregnant. I hope you enjoy this new act!</p>-->
+        
         <stage>**(_Занавес_)</stage>
       </div>
     </body>
