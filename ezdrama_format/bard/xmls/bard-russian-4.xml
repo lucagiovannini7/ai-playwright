@@ -21,8 +21,9 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="molodыj_domovod">
+          <person sex="MALE" xml:id="novыj_domovod">
             <persName>МОЛОДЫЙ ДОМОВОД</persName>
+            <persName>НОВЫЙ ДОМОВОД</persName>
           </person>
           <person sex="MALE" xml:id="hlukhov">
             <persName>ГЛУХОВ</persName>
@@ -35,9 +36,6 @@
           </person>
           <person sex="MALE" xml:id="krestjane">
             <persName>КРЕСТЬЯНЕ</persName>
-          </person>
-          <person sex="MALE" xml:id="novыj_domovod">
-            <persName>НОВЫЙ ДОМОВОД</persName>
           </person>
           <person sex="MALE" xml:id="domovod">
             <persName>ДОМОВОД</persName>
@@ -56,7 +54,7 @@
     <body>
       <div type="scene">
         <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
-        <stage>(Картина первая. Комната в усадьбе помещика.)</stage> Входят ГЛУХОВ, СТАРЫЙ ДОМОВОД, ДЕВУШКА.<sp who="#hlukhov">
+        <stage>(Картина первая. Комната в усадьбе помещика.)</stage> <stage>Входят ГЛУХОВ, СТАРЫЙ ДОМОВОД, ДЕВУШКА.</stage><sp who="#hlukhov">
           <speaker>ГЛУХОВ </speaker>
           <stage>(_к домоводу_)</stage>
           <p>. Я хочу, чтобы ты завтра же отправился в город и купил мне новую шубу.</p>
@@ -277,7 +275,7 @@
         <sp who="#molodoj_khozjayn">
           <speaker>МОЛОДОЙ ХОЗЯИН </speaker>
           <stage>(_один_)</stage>
-          <p>. Я сделал то, что должен был сделать. Теперь я могу жить спокойно.In this act, I have added the following new characters:* Крестьяне <stage>(peasants)</stage> I have also removed the following characters:* Девушка <stage>(girl)</stage> * Новый домовод <stage>(new steward)</stage> I have also changed the following events:* The young master has freed the peasants from the old master.* The young master has made a deal with the ghost of the old master.* The ghost of the old master has disappeared.I hope you like this act!</p>
+          <p>. Я сделал то, что должен был сделать. Теперь я могу жить спокойно.<!-- GPT metacomment: In this act, I have added the following new characters:* Крестьяне <stage>(peasants)</stage> I have also removed the following characters:* Девушка <stage>(girl)</stage> * Новый домовод <stage>(new steward)</stage> I have also changed the following events:* The young master has freed the peasants from the old master.* The young master has made a deal with the ghost of the old master.* The ghost of the old master has disappeared.I hope you like this act! --></p>
         </sp>
         <stage>(Молодой хозяин уходит.)</stage>
       </div>
@@ -312,7 +310,7 @@
           <stage>(_к молодому домоводу_)</stage>
           <p>. Я хочу, чтобы ты усердно работал и заботился о крестьянах.</p>
         </sp>
-        <sp who="#molodыj_domovod">
+        <sp who="#novыj_domovod">
           <speaker>МОЛОДЫЙ ДОМОВОД </speaker>
           <stage>(_с поклоном_)</stage>
           <p>. Слушаю, ваше превосходительство.</p>
@@ -342,7 +340,7 @@
         <sp who="#pryzrak_hlukhova">
           <speaker>ПРИЗРАК ГЛУХОВА </speaker>
           <stage>(_вздыхает_)</stage>
-          <p>. Я вижу, что мои крестьяне теперь счастливы. Я рад, что молодой хозяин смог их освободить.In this act, I have added the following new characters:* Молодой домовод <stage>(young steward)</stage> I have also removed the following characters:* Девушка <stage>(girl)</stage> I have also changed the following events:* The young master has freed the peasants and given them their freedom.* The young master has appointed a new steward to help him manage the estate.* The young master is now a wise and benevolent ruler.I hope you like this act!</p>
+          <p>. Я вижу, что мои крестьяне теперь счастливы. Я рад, что молодой хозяин смог их освободить.<!-- GPT metacomment: In this act, I have added the following new characters:* Молодой домовод <stage>(young steward)</stage> I have also removed the following characters:* Девушка <stage>(girl)</stage> I have also changed the following events:* The young master has freed the peasants and given them their freedom.* The young master has appointed a new steward to help him manage the estate.* The young master is now a wise and benevolent ruler.I hope you like this act! --></p>
         </sp>
         <stage>(Призрак ГЛУхова исчезает.)</stage>
       </div>
@@ -377,7 +375,7 @@
           <stage>(_к молодому домоводу_)</stage>
           <p>. Я хочу, чтобы ты усердно работал и заботился о крестьянах.</p>
         </sp>
-        <sp who="#molodыj_domovod">
+        <sp who="#novыj_domovod">
           <speaker>МОЛОДЫЙ ДОМОВОД </speaker>
           <stage>(_с поклоном_)</stage>
           <p>. Слушаю, ваше превосходительство.</p>
@@ -423,7 +421,7 @@
         <sp who="#pryzrak_hlukhova">
           <speaker>ПРИЗРАК ГЛУХОВА </speaker>
           <stage>(_вздыхает_)</stage>
-          <p>. Я вижу, что мои крестьяне теперь счастливы. Я рад, что молодой хозяин смог их освободить.In this act, I have added the following new characters:* Старик <stage>(old man)</stage> I have also removed the following characters:* Девушка <stage>(girl)</stage> I have also changed the following events:* The young master has freed the peasants and given them their freedom.* The young master has appointed a new steward to help him manage the estate.* The young master is now a wise and benevolent ruler.* The young master has made a positive impact on the lives of the peasants.I hope you like this act!</p>
+          <p>. Я вижу, что мои крестьяне теперь счастливы. Я рад, что молодой хозяин смог их освободить.<!-- GPT metacomment: In this act, I have added the following new characters:* Старик <stage>(old man)</stage> I have also removed the following characters:* Девушка <stage>(girl)</stage> I have also changed the following events:* The young master has freed the peasants and given them their freedom.* The young master has appointed a new steward to help him manage the estate.* The young master is now a wise and benevolent ruler.* The young master has made a positive impact on the lives of the peasants.I hope you like this act! --></p>
         </sp>
         <stage>(Призрак ГЛУхова исчезает.)</stage>
       </div>
