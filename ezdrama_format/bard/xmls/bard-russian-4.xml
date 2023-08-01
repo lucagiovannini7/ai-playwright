@@ -34,9 +34,9 @@
           <person sex="FEMALE" xml:id="devushka">
             <persName>ДЕВУШКА</persName>
           </person>
-          <person sex="MALE" xml:id="krestjane">
+          <personGrp sex="UNKNOWN" xml:id="krestjane">
             <persName>КРЕСТЬЯНЕ</persName>
-          </person>
+          </personGrp>
           <person sex="MALE" xml:id="domovod">
             <persName>ДОМОВОД</persName>
           </person>

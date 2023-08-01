@@ -30,13 +30,13 @@
           <person sex="FEMALE" xml:id="zhena">
             <persName>ЖЕНА</persName>
           </person>
-          <person sex="MALE" xml:id="doch">
+          <person sex="FEMALE" xml:id="doch">
             <persName>ДОЧЬ</persName>
           </person>
           <person sex="MALE" xml:id="strannыj_chelovek">
             <persName>СТРАННЫЙ ЧЕЛОВЕК</persName>
           </person>
-          <person sex="FEMALE" xml:id="hlava_khozjajstva">
+          <person sex="MALE" xml:id="hlava_khozjajstva">
             <persName>ГЛАВА ХОЗЯЙСТВА</persName>
           </person>
           <person sex="MALE" xml:id="krestjanyn">

@@ -24,9 +24,9 @@
           <person sex="MALE" xml:id="novыj_pokupatel">
             <persName>НОВЫЙ ПОКУПАТЕЛЬ</persName>
           </person>
-          <person sex="MALE" xml:id="krestjane">
+          <personGrp sex="UNKNOWN" xml:id="krestjane">
             <persName>КРЕСТЬЯНЕ</persName>
-          </person>
+          </personGrp>
           <person sex="MALE" xml:id="samsonov">
             <persName>САМСОНОВ</persName>
           </person>

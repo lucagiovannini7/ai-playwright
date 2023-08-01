@@ -21,7 +21,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="FEMALE" xml:id="djadja">
+          <person sex="MALE" xml:id="djadja">
             <persName>ДЯДЯ</persName>
           </person>
           <person sex="MALE" xml:id="hlava_semy">
@@ -30,10 +30,10 @@
           <person sex="MALE" xml:id="staryk">
             <persName>СТАРИК</persName>
           </person>
-          <person sex="MALE" xml:id="doch">
+          <person sex="FEMALE" xml:id="doch">
             <persName>ДОЧЬ</persName>
           </person>
-          <person sex="MALE" xml:id="mat">
+          <person sex="FEMALE" xml:id="mat">
             <persName>МАТЬ</persName>
           </person>
           <person sex="MALE" xml:id="sыn_y_doch">
