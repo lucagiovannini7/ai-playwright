@@ -21,7 +21,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="FEMALE" xml:id="djadja">
+          <person sex="MALE" xml:id="djadja">
             <persName>ДЯДЯ</persName>
           </person>
           <person sex="MALE" xml:id="hlava_semy">
@@ -30,10 +30,10 @@
           <person sex="MALE" xml:id="staryk">
             <persName>СТАРИК</persName>
           </person>
-          <person sex="MALE" xml:id="doch">
+          <person sex="FEMALE" xml:id="doch">
             <persName>ДОЧЬ</persName>
           </person>
-          <person sex="MALE" xml:id="mat">
+          <person sex="FEMALE" xml:id="mat">
             <persName>МАТЬ</persName>
           </person>
           <person sex="MALE" xml:id="sыn_y_doch">
@@ -340,7 +340,7 @@
         </sp>
         <sp who="#mat">
           <speaker>МАТЬ:</speaker>
-          <p>Я так счастлива!In this act, I have added the following new characters:* СЕКРЕТАРША <stage>(a female secretary)</stage> I have also removed the following characters:* ДЯДЯI have also added the following events:* The family receives a grant from a charitable foundation to help them repair their home.* The children are able to continue their education.I hope you like this new act!</p>
+          <p>Я так счастлива!<!-- GPT metacomment: In this act, I have added the following new characters:* СЕКРЕТАРША <stage>(a female secretary)</stage> I have also removed the following characters:* ДЯДЯI have also added the following events:* The family receives a grant from a charitable foundation to help them repair their home.* The children are able to continue their education.I hope you like this new act! --></p>
         </sp>
         <stage>(МАТЬ, СЫН и ДОЧЬ обнимаются.)</stage>
         <stage>(На этом моменте пьеса заканчивается.)</stage>
@@ -403,7 +403,7 @@
         <sp who="#doch">
           <speaker>ДОЧЬ </speaker>
           <stage>(с улыбкой)</stage>
-          <p>: Я так рада, что мы остались здесь.In this act, I have added the following new characters:* СТАРИК <stage>(a wise and kind old man)</stage> I have also removed the following characters:* СЕКРЕТАРШАI have also added the following events:* The family is able to restore the house to its former glory.* The house becomes a symbol of hope for the community.I hope you like this new act!Response Error: b')]}\'\n\n38\n[["wrb.fr",null,null,null,null,[8]]]\n56\n[["di",177],["af.httprm",176,"7543155308973122983",4]]\n25\n[["e",4,null,null,131]]\n'. Unable to get response.Please double-check the cookie values and verify your network environment or google account.</p>
+          <p>: Я так рада, что мы остались здесь.<!-- GPT metacomment: In this act, I have added the following new characters:* СТАРИК <stage>(a wise and kind old man)</stage> I have also removed the following characters:* СЕКРЕТАРШАI have also added the following events:* The family is able to restore the house to its former glory.* The house becomes a symbol of hope for the community.I hope you like this new act!Response Error: b')]}\'\n\n38\n[["wrb.fr",null,null,null,null,[8]]]\n56\n[["di",177],["af.httprm",176,"7543155308973122983",4]]\n25\n[["e",4,null,null,131]]\n'. Unable to get response.Please double-check the cookie values and verify your network environment or google account. --></p>
         </sp>
         <stage>(МАТЬ, СЫН и ДОЧЬ обнимаются.)</stage>
         <stage>(На этом моменте пьеса заканчивается.)</stage>

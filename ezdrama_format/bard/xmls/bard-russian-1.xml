@@ -33,16 +33,13 @@
           <person sex="MALE" xml:id="khozjayn">
             <persName>ХОЗЯИН</persName>
           </person>
-          <person sex="MALE" xml:id="mater">
+          <person sex="FEMALE" xml:id="mater">
             <persName>МАТЕРЬ</persName>
-          </person>
-          <person sex="MALE" xml:id="hostu">
-            <persName>ГОСТУ</persName>
           </person>
           <person sex="MALE" xml:id="balalajkash">
             <persName>БАЛАЛАЙКАШ</persName>
           </person>
-          <person sex="FEMALE" xml:id="sluha">
+          <person sex="MALE" xml:id="sluha">
             <persName>СЛУГА</persName>
           </person>
         </listPerson>
@@ -53,7 +50,9 @@
     <body>
       <div type="scene">
         <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
-        <stage>(Картина первая. Комната в доме помещика.)</stage> Входят ХОЗЯИН и ГОСТЬ.<sp who="#khozjayn">
+        <stage>(Картина первая. Комната в доме помещика.)</stage> 
+        <stage>Входят ХОЗЯИН и ГОСТЬ.</stage>
+        <sp who="#khozjayn">
           <speaker>ХОЗЯИН </speaker>
           <stage>(указывая на стул)</stage>
           <p>. Присаживайтесь, пожалуйста.</p>
@@ -172,7 +171,9 @@
       </div>
       <div type="scene">
         <head>ДЕЙСТВИЕ ВТОРОЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage> Входят ХОЗЯИН, ГОСТЬ, и СЛУГА.<sp who="#khozjayn">
+        <stage>(Картина первая. Та же комната.)</stage> 
+        <stage>Входят ХОЗЯИН, ГОСТЬ, и СЛУГА.</stage>
+        <sp who="#khozjayn">
           <speaker>ХОЗЯИН </speaker>
           <stage>(Гостю)</stage>
           <p>. Вот, как я и говорил, вы справились с работой на отлично.</p>
@@ -267,13 +268,16 @@
         <sp who="#sluha">
           <speaker>СЛУГА </speaker>
           <stage>(с пониманием)</stage>
-          <p>. Да, Хозяин.In this act, I added the characters of the Девушка (Girl) and the Слуга (Servant). I also removed the character of the Гость (Guest). I changed the ending of the act so that the Хозяин <stage>(Master)</stage> is now considering marrying the Девушка. </p>
+          <p>. Да, Хозяин.</p>
         </sp>
         <stage>(Хозяин и Слуга уходят.)</stage>
+        <!-- GPT metacomment: In this act, I added the characters of the Девушка (Girl) and the Слуга (Servant). I also removed the character of the Гость (Guest). I changed the ending of the act so that the Хозяин <stage>(Master)</stage> is now considering marrying the Девушка. -->
       </div>
       <div type="scene">
         <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
-        <stage>(Картина первая. Та же комната.)</stage> Входят ХОЗЯИН, СЛУГА, и МАТЬ.<sp who="#mater">
+        <stage>(Картина первая. Та же комната.)</stage> 
+        <stage>Входят ХОЗЯИН, СЛУГА, и МАТЬ.</stage>
+        <sp who="#mater">
           <speaker>МАТЕРЬ </speaker>
           <stage>(с волнением)</stage>
           <p>. Хозяин, я должна вам кое-что сказать.</p>
@@ -343,13 +347,16 @@
         </sp>
         <sp who="#khozjayn">
           <speaker>ХОЗЯИН</speaker>
-          <p>, ДЕВУШКА, и СЛУГА <stage>(радостно).</stage> Спасибо!In this act, I added the characters of the Мать (Mother) and the Слуга (Servant). I also removed the character of the Девушка (Girl). I changed the ending of the act so that the Хозяин <stage>(Master)</stage> is now married to the Девушка. **</p>
+          <p>, ДЕВУШКА, и СЛУГА <stage>(радостно).</stage> Спасибо!</p>
         </sp>
         <stage>(Хозяин, Девушка, и Слуга уходят.)</stage>
+        <!-- GPT metacomment: In this act, I added the characters of the Мать (Mother) and the Слуга (Servant). I also removed the character of the Девушка (Girl). I changed the ending of the act so that the Хозяин (Master) is now married to the Девушка. -->
       </div>
       <div type="scene">
         <head>ДЕЙСТВИЕ ЧЕТВЕРТОЕ**</head>
-        <stage>(Картина первая. Зал в поместье Хозяина.)</stage> Входят ХОЗЯИН, ДЕВУШКА, МАТЬ, и ГОСТЬ.<sp who="#khozjayn">
+        <stage>(Картина первая. Зал в поместье Хозяина.)</stage>
+        <stage>Входят ХОЗЯИН, ДЕВУШКА, МАТЬ, и ГОСТЬ.</stage>
+        <sp who="#khozjayn">
           <speaker>ХОЗЯИН </speaker>
           <stage>(с улыбкой)</stage>
           <p>. Дорогие гости, я рад вас видеть!</p>
@@ -364,8 +371,8 @@
           <stage>(с благодарностью)</stage>
           <p>. Мы тоже рады быть здесь.</p>
         </sp>
-        <sp who="#hostu">
-          <speaker>ГОСТУ </speaker>
+        <sp who="#host">
+          <speaker>ГОСТЬ</speaker>
           <stage>(с почтением)</stage>
           <p>. Благодарим вас за приглашение, Хозяин.</p>
         </sp>
@@ -397,14 +404,14 @@
           <stage>(слезя с радости)</stage>
           <p>. Я так рада за вас!</p>
         </sp>
-        <sp who="#hostu">
-          <speaker>ГОСТУ </speaker>
+        <sp who="#host">
+          <speaker>ГОСТЬ</speaker>
           <stage>(с улыбкой)</stage>
           <p>. Я тоже рад за вас.</p>
         </sp>
         <stage>(Гость наливает всем в бокалы.)</stage>
-        <sp who="#hostu">
-          <speaker>ГОСТУ </speaker>
+        <sp who="#host">
+          <speaker>ГОСТЬ</speaker>
           <stage>(с тостом)</stage>
           <p>. За молодоженов!</p>
         </sp>
@@ -426,8 +433,8 @@
           <stage>(с улыбкой)</stage>
           <p>. И мне тоже.</p>
         </sp>
-        <sp who="#hostu">
-          <speaker>ГОСТУ </speaker>
+        <sp who="#host">
+          <speaker>ГОСТЬ</speaker>
           <stage>(с улыбкой)</stage>
           <p>. Мне тоже.</p>
         </sp>
@@ -479,12 +486,13 @@
         <sp who="#devushka">
           <speaker>ДЕВУШКА </speaker>
           <stage>(с нежностью)</stage>
-          <p>. Я тоже счастлива, Хозяин.In this act, I added the characters of the Слуга (Servant) and the Балалаечник (Balalaika Player). I also removed the character of the Гость (Guest). I changed the ending of the act so that the Хозяин (Master) and Девушка <stage>(Girl)</stage> are now married and having a party with their family and friends. **</p>
+          <p>. Я тоже счастлива, Хозяин.</p>
         </sp>
         <stage>(Хозяин и Девушка целуются.)</stage>
         <stage>(Звучат аплодисменты.)</stage>
         <stage>(Хозяин, Девушка, Мать, и Гость пьют.)</stage>
         <stage>(Вечеринка продолжается.)</stage>
+        <!-- GPT metacomment: In this act, I added the characters of the Слуга (Servant) and the Балалаечник (Balalaika Player). I also removed the character of the Гость (Guest). I changed the ending of the act so that the Хозяин (Master) and Девушка <stage>(Girl)</stage> are now married and having a party with their family and friends. ** -->>
       </div>
       <div type="scene">
         <head>ДЕЙСТВИЕ ПЯТОЕ**</head>
@@ -623,9 +631,10 @@
         <sp who="#khozjayn">
           <speaker>ХОЗЯИН </speaker>
           <stage>(с решимостью)</stage>
-          <p>. Я не сдамся. Я найду ее и верну ее себе.In this act, I added the characters of the СТАРИК (Old Man) and the Гости (Guests). I also removed the character of the Балалаечник (Balalaika Player). I changed the ending of the act so that the Хозяин (Master) and Девушка <stage>(Girl)</stage> are separated by the Девушка's father. </p>
+          <p>. Я не сдамся. Я найду ее и верну ее себе.</p>
         </sp>
         <stage>(Хозяин и Слуга уходят.)</stage>
+        <!-- GPT metacomment In this act, I added the characters of the СТАРИК (Old Man) and the Гости (Guests). I also removed the character of the Балалаечник (Balalaika Player). I changed the ending of the act so that the Хозяин (Master) and Девушка <stage>(Girl)</stage> are separated by the Девушка's father.  -->
       </div>
     </body>
   </text>
